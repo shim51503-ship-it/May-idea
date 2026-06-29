@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>个人简讯 · Daily Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ============ 0. 设计变量 ============ */
+:root{
+  --paper:#F6F3EC;
+  --paper-deep:#EDE8DC;
+  --ink:#1B201D;
+  --ink-soft:#4A4C46;
+  --muted:#83806F;
+  --line:#DCD5C4;
+  --card:#FFFFFF;
+  --teal:#1F5C50;
+  --teal-deep:#123B33;
+  --teal-pale:#E4EEE9;
+  --amber:#BD7F33;
+  --amber-pale:#F6E8D3;
+  --rose:#9C4A3C;
+  --shadow:0 1px 2px rgba(27,32,29,.04), 0 8px 24px rgba(27,32,29,.05);
+  --radius:14px;
+}
+[data-theme="dark"]{
+  --paper:#151916;
+  --paper-deep:#0F1210;
+  --ink:#ECE7DA;
+  --ink-soft:#C7C2B3;
+  --muted:#8C8878;
+  --line:#2B302B;
+  --card:#1B201C;
+  --teal:#5FB39E;
+  --teal-deep:#0F1210;
+  --teal-pale:#1C2B26;
+  --amber:#D9A35E;
+  --amber-pale:#2B2417;
+  --shadow:0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Noto Sans SC",-apple-system,sans-serif;
+  -webkit-font-smoothing:antialiased;
+  transition:background .25s,color .25s;
+}
+h1,h2,h3{font-family:"Noto Serif SC",serif;margin:0;}
+a{color:inherit;text-decoration:none;}
+.mono{font-family:"JetBrains Mono",monospace;}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px;}
+:focus-visible{outline:2px solid var(--teal);outline-offset:2px;border-radius:4px;}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important;}}
+
+/* ============ 1. 顶部导航 ============ */
+.topnav{
+  position:sticky;top:0;z-index:40;
+  background:var(--paper);
+  border-bottom:1px solid var(--line);
+}
+.topnav-inner{
+  display:flex;align-items:center;gap:28px;
+  height:60px;
+}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700;font-size:15px;white-space:nowrap;}
+.brand-mark{
+  width:26px;height:26px;border-radius:7px;background:var(--teal);
+  color:#fff;display:flex;align-items:center;justify-content:center;
+  font-family:"Noto Serif SC",serif;font-weight:700;font-size:13px;flex-shrink:0;
+}
+.navlinks{display:flex;gap:4px;flex:1;overflow-x:auto;scrollbar-width:none;}
+.navlinks::-webkit-scrollbar{display:none;}
+.navlinks button{
+  border:none;background:transparent;color:var(--ink-soft);
+  font-family:inherit;font-size:13.5px;padding:8px 13px;border-radius:8px;
+  cursor:pointer;white-space:nowrap;transition:background .15s,color .15s;
+}
+.navlinks button:hover{background:var(--paper-deep);color:var(--ink);}
+.navlinks button.active{background:var(--teal-pale);color:var(--teal);font-weight:600;}
+.navtools{display:flex;gap:6px;align-items:center;flex-shrink:0;}
+.icon-btn{
+  width:34px;height:34px;border-radius:9px;border:1px solid var(--line);
+  background:var(--card);display:flex;align-items:center;justify-content:center;
+  cursor:pointer;color:var(--ink-soft);transition:border-color .15s,color .15s;
+}
+.icon-btn:hover{border-color:var(--teal);color:var(--teal);}
+
+/* ============ 2. HERO ============ */
+.hero{
+  position:relative;
+  background:
+    radial-gradient(circle at 14% 18%, rgba(95,179,158,.16), transparent 42%),
+    radial-gradient(circle at 82% 78%, rgba(189,127,51,.14), transparent 46%),
+    linear-gradient(150deg, var(--teal-deep) 0%, #0E1A17 62%, #0A1311 100%);
+  color:#F2EFE6;
+  overflow:hidden;
+  padding:64px 0 0;
+}
+.hero::before{
+  content:"";position:absolute;inset:0;opacity:.5;pointer-events:none;
+  background-image:
+    repeating-linear-gradient(90deg, rgba(255,255,255,.035) 0 1px, transparent 1px 64px),
+    repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0 1px, transparent 1px 64px);
+}
+.hero-grid{
+  position:relative;z-index:1;
+  display:grid;grid-template-columns:1.5fr 1fr;gap:40px;
+  padding-bottom:56px;align-items:start;
+}
+.eyebrow{
+  font-family:"JetBrains Mono",monospace;font-size:11.5px;letter-spacing:.18em;
+  color:#D9A35E;text-transform:uppercase;margin-bottom:18px;display:block;
+}
+.hero h1{
+  font-size:clamp(40px,6vw,70px);line-height:1.02;font-weight:700;
+  color:#FAF8F2;letter-spacing:-.01em;
+}
+.hero h1 .accent{color:#7FCBB3;font-style:italic;}
+.hero p.lede{
+  font-size:16.5px;color:#C9C5B6;margin:18px 0 30px;max-width:480px;line-height:1.6;
+}
+.hero-actions{display:flex;gap:12px;}
+.btn{
+  font-family:inherit;font-size:14px;font-weight:600;padding:12px 22px;
+  border-radius:10px;cursor:pointer;border:1px solid transparent;transition:all .15s;
+}
+.btn-primary{background:#7FCBB3;color:#0E1A17;}
+.btn-primary:hover{background:#9adcc6;}
+.btn-ghost{background:transparent;border-color:rgba(242,239,230,.28);color:#F2EFE6;}
+.btn-ghost:hover{border-color:#F2EFE6;}
+
+/* hero 右侧卡片 */
+.hero-cards{display:flex;flex-direction:column;gap:14px;}
+.glass-card{
+  background:rgba(246,243,236,.07);
+  border:1px solid rgba(242,239,230,.14);
+  border-radius:var(--radius);
+  padding:18px 20px;
+  backdrop-filter:blur(6px);
+}
+.weather-top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px;}
+.weather-temp{font-size:26px;font-weight:700;font-family:"Noto Serif SC",serif;}
+.weather-desc{font-size:12.5px;color:#C9C5B6;margin-bottom:12px;}
+.weather-row{display:flex;gap:8px;}
+.weather-input{
+  flex:1;background:rgba(0,0,0,.18);border:1px solid rgba(242,239,230,.18);
+  color:#F2EFE6;border-radius:8px;padding:9px 11px;font-size:13px;font-family:inherit;
+}
+.weather-input::placeholder{color:#8C8878;}
+.weather-btn{
+  background:#7FCBB3;border:none;color:#0E1A17;font-weight:600;font-size:13px;
+  padding:9px 14px;border-radius:8px;cursor:pointer;white-space:nowrap;
+}
+.weather-btn:hover{background:#9adcc6;}
+
+.issue-card .issue-label{
+  font-family:"JetBrains Mono",monospace;font-size:10.5px;letter-spacing:.14em;
+  color:#7FCBB3;text-transform:uppercase;
+}
+.issue-card h3{font-size:22px;color:#FAF8F2;margin:6px 0 10px;}
+.issue-card p{font-size:13px;line-height:1.7;color:#C9C5B6;margin:0 0 16px;}
+.stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+.stat-cell{
+  background:rgba(0,0,0,.16);border-radius:8px;padding:9px 12px;
+}
+.stat-cell .num{font-family:"Noto Serif SC",serif;font-size:19px;font-weight:700;color:#FAF8F2;}
+.stat-cell .lbl{font-size:11px;color:#9D9A8B;}
+
+@media (max-width: 880px){
+  .hero-grid{grid-template-columns:1fr;}
+}
+
+/* ============ 3. 控制条：期数 + 搜索 ============ */
+.controlbar{
+  background:var(--paper);border-bottom:1px solid var(--line);
+  padding:22px 0;
+}
+.controlbar-inner{display:flex;gap:16px;flex-wrap:wrap;}
+.field{display:flex;flex-direction:column;gap:6px;}
+.field label{font-size:12px;color:var(--muted);font-weight:600;}
+.field select, .field input{
+  font-family:inherit;font-size:14px;padding:10px 13px;border-radius:9px;
+  border:1px solid var(--line);background:var(--card);color:var(--ink);min-width:200px;
+}
+.field.grow{flex:1;}
+.field.grow input{width:100%;min-width:0;}
+
+/* ============ 4. 主体布局 ============ */
+.main{padding:34px 0 80px;}
+.layout{display:grid;grid-template-columns:300px 1fr;gap:26px;align-items:start;}
+@media (max-width:900px){.layout{grid-template-columns:1fr;}}
+
+.focus-card{
+  background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  padding:22px;box-shadow:var(--shadow);position:sticky;top:80px;
+}
+.tag{
+  display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:700;
+  letter-spacing:.1em;text-transform:uppercase;font-family:"JetBrains Mono",monospace;
+}
+.tag.focus-tag{color:var(--amber);}
+.focus-card h3{font-size:18px;line-height:1.4;margin:10px 0 12px;}
+.focus-card p{font-size:13.5px;line-height:1.75;color:var(--ink-soft);margin:0;}
+
+.section{margin-bottom:38px;}
+.section-head{
+  display:flex;align-items:baseline;justify-content:space-between;
+  margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid var(--line);
+}
+.section-head .tag{color:var(--teal);}
+.section-head h2{font-size:21px;margin-top:4px;}
+.count-pill{
+  background:var(--teal-pale);color:var(--teal);font-weight:700;font-size:13px;
+  padding:4px 11px;border-radius:99px;
+}
+
+.item{
+  display:flex;gap:14px;padding:18px 0;border-bottom:1px solid var(--line);
+}
+.item:last-child{border-bottom:none;}
+.item-body{flex:1;min-width:0;}
+.item-date{font-family:"JetBrains Mono",monospace;font-size:11.5px;color:var(--muted);}
+.item-title{font-size:16px;font-weight:700;margin:5px 0 8px;line-height:1.45;}
+.item-summary{font-size:13.5px;line-height:1.7;color:var(--ink-soft);margin:0 0 10px;}
+.item-importance{
+  display:flex;gap:8px;font-size:12.5px;line-height:1.6;color:var(--ink-soft);
+  background:var(--amber-pale);border-radius:8px;padding:9px 11px;margin-bottom:10px;
+}
+.item-importance b{color:var(--amber);flex-shrink:0;font-weight:700;}
+.item-source{font-size:12.5px;font-weight:600;color:var(--teal);}
+.star-btn{
+  flex-shrink:0;width:32px;height:32px;border-radius:9px;border:1px solid var(--line);
+  background:var(--card);color:var(--muted);cursor:pointer;font-size:15px;
+  display:flex;align-items:center;justify-content:center;transition:all .15s;
+}
+.star-btn:hover{border-color:var(--amber);color:var(--amber);}
+.star-btn.active{background:var(--amber-pale);border-color:var(--amber);color:var(--amber);}
+
+/* placeholder dashed style for github / youtube provenance note */
+.note-line{
+  font-size:12px;color:var(--muted);margin-top:-4px;margin-bottom:18px;
+}
+
+/* youtube 频道卡片 */
+.yt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;}
+.yt-card{
+  border:1px solid var(--line);border-radius:12px;padding:16px;background:var(--card);
+  box-shadow:var(--shadow);
+}
+.yt-card .yt-channel{font-weight:700;font-size:14.5px;margin-bottom:6px;color:var(--teal);}
+.yt-card .yt-desc{font-size:12.5px;color:var(--muted);line-height:1.6;margin-bottom:10px;}
+.yt-card .yt-video{font-size:13px;color:var(--ink-soft);line-height:1.6;}
+.yt-card .yt-video a{color:var(--teal);font-weight:600;text-decoration:underline;}
+
+.hidden{display:none!important;}
+.empty-state{padding:40px 20px;text-align:center;color:var(--muted);font-size:14px;}
+
+footer{
+  border-top:1px solid var(--line);padding:26px 0;text-align:center;
+  font-size:12px;color:var(--muted);
+}
+</style>
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="wrap topnav-inner">
+    <div class="brand"><span class="brand-mark">简</span>每日简讯</div>
+    <div class="navlinks" id="navlinks">
+      <button data-cat="all" class="active">全部</button>
+      <button data-cat="ai">AI 最新信息</button>
+      <button data-cat="github">GitHub/开源项目</button>
+      <button data-cat="finance">金融新闻</button>
+      <button data-cat="china">中国新闻</button>
+      <button data-cat="world">世界新闻</button>
+      <button data-cat="youtube">YouTube 更新</button>
+    </div>
+    <div class="navtools">
+      <button class="icon-btn" id="themeToggle" title="切换深浅色">◐</button>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="eyebrow">Daily Intelligence · 2026.06.29</span>
+      <h1>我的<span class="accent">个人简讯</span></h1>
+      <p class="lede">把今天的信息噪音，压缩成可行动的五分钟——AI、开源、金融、中国与世界，一页看完。</p>
+      <div class="hero-actions">
+        <button class="btn btn-primary" onclick="document.getElementById('main').scrollIntoView()">进入简讯</button>
+        <button class="btn btn-ghost" onclick="document.getElementById('searchInput').focus()">个性化</button>
+      </div>
+    </div>
+    <div class="hero-cards">
+      <div class="glass-card" id="weatherCard">
+        <div class="weather-top">
+          <span class="weather-temp" id="wTemp">--°</span>
+          <span class="mono" style="font-size:12px;color:#9D9A8B;" id="wRange">--°–--°</span>
+        </div>
+        <div class="weather-desc" id="wDesc">正在获取天气…</div>
+        <div class="weather-row">
+          <input class="weather-input" id="wLocationInput" value="东京・日本" placeholder="城市・国家">
+          <button class="weather-btn" id="wUpdateBtn">更新</button>
+        </div>
+      </div>
+      <div class="glass-card issue-card">
+        <span class="issue-label">Latest Issue</span>
+        <h3>2026年6月29日</h3>
+        <p id="issueSummary">加载中…</p>
+        <div class="stat-grid">
+          <div class="stat-cell"><div class="num" id="statCats">–</div><div class="lbl">类目</div></div>
+          <div class="stat-cell"><div class="num" id="statNews">–</div><div class="lbl">新闻</div></div>
+          <div class="stat-cell"><div class="num" id="statProjects">–</div><div class="lbl">项目</div></div>
+          <div class="stat-cell"><div class="num">6/29</div><div class="lbl">日期</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="controlbar">
+  <div class="wrap controlbar-inner">
+    <div class="field">
+      <label for="issueSelect">期数</label>
+      <select id="issueSelect">
+        <option value="2026-06-29">2026年6月29日</option>
+      </select>
+    </div>
+    <div class="field grow">
+      <label for="searchInput">搜索</label>
+      <input id="searchInput" type="text" placeholder="关键词、项目、来源">
+    </div>
+  </div>
+</div>
+
+<main class="main" id="main">
+  <div class="wrap layout">
+    <aside class="focus-card">
+      <span class="tag focus-tag">Focus</span>
+      <h3 id="focusTitle"></h3>
+      <p id="focusBody"></p>
+    </aside>
+
+    <div id="sectionsRoot"></div>
+  </div>
+</main>
+
+<footer>
+  本页内容由 AI 检索公开信息整理生成，可能存在延迟或疏漏，重要决策请核对原始来源 · 数据结构详见源码注释，便于后续接入每日自动更新
+</footer>
+
+<script>
+/* =====================================================================
+   数据层。
+   - 页面会先尝试 fetch('./data.json')，这份文件由每天定时跑的
+     自动化脚本（见 scripts/fetch-briefing.mjs + GitHub Actions）生成。
+   - 如果 data.json 还不存在、或抓取失败（比如还没配置自动化、或本地
+     用 file:// 直接打开网页），就会回退使用下面这份 FALLBACK_DATA，
+     保证页面始终能正常展示，不会空白。
+   - FALLBACK_DATA 的结构就是自动化脚本应该输出的 data.json 结构，
+     两者必须保持一致。
+===================================================================== */
+const FALLBACK_DATA = {
+  issueDate: "2026-06-29",
+  focus: {
+    title: "AI 造芯竞赛升温，资本市场对支出疑虑发酵；委内瑞拉震灾与英国政局变动同步搅动世界格局",
+    body: "今天三条线交织在一起：① OpenAI 与 Broadcom 联合推出首款自研推理芯片，Google 的 Gemini 3.5 Pro 却再度延后，前沿模型的“算力自给”竞赛进入新阶段；② 全球资本市场对 AI 巨额资本支出的疑虑持续发酵，纳指科技股领跌，国际清算银行罕见公开示警；③ 委内瑞拉双震死亡人数逼近 1500 人，英国首相斯塔默辞职，世界政局与人道局势同步承压。GitHub 热点集中在为 AI 编码工具“减负”的基础设施类项目——token 压缩、供应链安全扫描、代码知识图谱。"
+  },
+  categories: [
+    {
+      id: "ai", name: "AI 最新信息",
+      items: [
+        {
+          date: "2026-06-25",
+          title: "OpenAI 与 Broadcom 联合发布首款自研推理芯片 Jalapeño",
+          summary: "OpenAI 与 Broadcom 公布名为 Jalapeño 的智能推理处理器，专为 ChatGPT、Codex、API 及未来 agent 工作负载的推理环节设计，并非训练芯片。这是双方去年10月达成合作以来的首个实质成果，意味着 OpenAI 开始在推理算力上摆脱对英伟达 GPU 的单一依赖。",
+          importance: "前沿模型厂商正从依赖英伟达转向自研推理芯片，算力供应链格局可能被重塑。",
+          source: "Build Fast with AI"
+        },
+        {
+          date: "2026-06-23",
+          title: "Gemini 3.5 Pro 仍未正式开放，GA 窗口压至 6 月底",
+          summary: "Gemini 3.5 Pro 自 5 月 I/O 大会承诺“下月见”后多次延期，截至 6 月 23 日仍只在 Vertex AI 企业预览阶段开放，公开发布窗口被压缩到 6 月 23 至 30 日之间。该模型主打 200 万 token 超长上下文与 Deep Think 推理模式。",
+          importance: "若再次延期，将是 Google 今年第二次未能按 I/O 承诺时间表交付。",
+          source: "Build Fast with AI"
+        },
+        {
+          date: "2026-06-22",
+          title: "Gemini 2.5 Pro Deep Think 刷新科学推理基准，编程仍落后 Fable 5",
+          summary: "Google 上线 Gemini 2.5 Pro 的 Deep Think 推理模式，在研究生级科学推理基准 GPQA Diamond 上取得 82.4% 的成绩，超过 Fable 5 与 GPT-5.5；但在软件工程与长程 agent 编码任务上，Fable 5 仍保持领先。",
+          importance: "前沿模型竞争开始分化：科学推理与编程能力不再由同一家独占。",
+          source: "Build Fast with AI"
+        },
+        {
+          date: "2026-06-30",
+          title: "科罗拉多州 AI 法案修订版正式生效，成美国首部落地的州级综合 AI 立法",
+          summary: "该法案历经多次推迟和修订，最终以大幅缩水的版本于 6 月 30 日生效，监管聚焦于影响就业、教育、住房、医疗等领域的“高风险”AI 系统；对算法歧视责任的豁免被消费者权益组织批评为削弱了原始保护力度。",
+          importance: "这是美国第一部真正落地执行的州级 AI 法律，但其“缩水”过程也显示美国监管路线正转向披露与透明，而非欧盟式的强制风险评估。",
+          source: "unrot.co"
+        },
+        {
+          date: "2026-06-28",
+          title: "奥地利游说欧盟在境内托管 Anthropic 模型，应对美国出口管制",
+          summary: "据 Bloomberg 报道，奥地利正推动欧盟考虑在其境内托管 Anthropic 的 AI 系统，以应对美国限制境外用户使用其最先进模型的相关措施；此前 Claude Fable 5 曾因美国出口管制指令一度下线。",
+          importance: "前沿模型的出口管制开始具体影响欧洲国家的算力主权布局。",
+          source: "Reuters / Bloomberg"
+        }
+      ]
+    },
+    {
+      id: "github", name: "GitHub / 开源项目",
+      items: [
+        {
+          date: "GitHub Trending",
+          title: "Bumblebee：面向 AI 工具链的只读供应链安全扫描器",
+          summary: "Perplexity AI 开源的 Go 语言工具，可对 npm / PyPI / Go / RubyGems / Composer 等主流包管理器、已安装的 MCP 服务器、VS Code 与浏览器插件进行安全扫描，零运行依赖，且只读不修改环境。",
+          importance: "开发者大量安装来源不明的 MCP 服务器，这类供应链审计工具补上了明显的安全空白。",
+          source: "github.com/perplexityai/bumblebee"
+        },
+        {
+          date: "GitHub Trending",
+          title: "一份把 Karpathy 的吐槽变成行为准则的 Claude Code 技能",
+          summary: "开发者 Forrest Chang 把 Andrej Karpathy 今年初对 AI 编码 agent 常见问题的公开吐槽，浓缩成一份单文件行为规范，专门约束 agent 默默做错误假设、把 50 行代码过度工程成 500 行、修改不该动的代码这三类典型翻车场景，星标已突破 15 万。",
+          source: "GitHub Trending"
+        },
+        {
+          date: "Trendshift 月榜",
+          title: "上下文压缩工具：让 agent 的工具输出与日志瘦身 60–95%",
+          summary: "可作为库、代理或 MCP 服务器使用的压缩工具，在基本不影响回答质量的前提下，大幅削减喂给大模型的 token 数量，针对的是 agent 工作流中工具调用结果越堆越长的痛点。",
+          source: "Trendshift"
+        },
+        {
+          date: "GitHub Trending",
+          title: "面向 Apple Silicon 的轻量级 Linux 容器运行时",
+          summary: "用 Swift 编写、专为 Apple 芯片优化的工具，可以用轻量虚拟机的方式在 Mac 上创建并运行 Linux 容器，是 Docker 在 Apple Silicon 场景下的轻量替代方案之一。",
+          source: "GitHub Trending"
+        },
+        {
+          date: "Trendshift 月榜",
+          title: "预索引代码知识图谱：多个 AI 编码 agent 共享同一份代码理解",
+          summary: "为 Claude Code、Codex、Cursor、Gemini 等十余种 AI 编码工具提供一份预先建好索引、随代码变更自动同步的知识图谱，目标是减少重复的 token 消耗与工具调用次数，且完全本地运行。",
+          source: "Trendshift"
+        }
+      ]
+    },
+    {
+      id: "finance", name: "金融新闻",
+      items: [
+        {
+          date: "2026-06-29",
+          title: "1–5月规模以上工业企业利润同比增长18.8%，电子和原材料行业领涨",
+          summary: "国家统计局数据显示，1至5月规模以上工业企业营业收入同比增长5.5%，利润同比增长18.8%，增速较前4个月加快。受人工智能、新能源产业需求拉动，电子行业和原材料制造业利润增长尤为明显。",
+          source: "上海证券报"
+        },
+        {
+          date: "2026-06-29",
+          title: "国际金价较年初高点回撤近30%，下半年面临“压力测试”",
+          summary: "今年以来国际及国内金价较1月历史高点已累计回撤近三成，呈现罕见的高位剧烈调整。业内人士认为，金价走势取决于其与股市、利率、油价之间的多重博弈，短期预测难度明显加大。",
+          source: "中国证券报"
+        },
+        {
+          date: "2026-06-29",
+          title: "A股“AI生命线”光纤、CPO概念股集体大跌",
+          summary: "中际旭创、新易盛、天孚通信等光纤龙头早盘集体走弱。市场担心康宁新发布的玻璃基光互连技术会让产业利润向上游玻璃基板转移，叠加相关板块此前筹码过于拥挤、估值偏高，引发集体调整。",
+          source: "新浪财经"
+        },
+        {
+          date: "2026-06-27",
+          title: "苹果寻求获准向长鑫存储采购内存芯片以控制成本",
+          summary: "为应对存储芯片短缺带来的成本压力，苹果正向美国政府申请获准从中国长鑫存储采购芯片。此前存储芯片涨价已迫使苹果上调 iPad 等产品售价10%–15%，并导致其股价创下历史第二大单日跌幅。",
+          source: "新浪财经"
+        },
+        {
+          date: "2026-06-26",
+          title: "美股科技股领跌，纳指100市值蒸发逾1万亿美元，BIS就AI投资热潮发出警示",
+          summary: "本周美国科技与芯片股持续承压，纳斯达克综合指数单日收跌2.21%，纳指100市值蒸发超1万亿美元，跌势波及全球市场。国际清算银行（BIS）同期警示，AI投资热潮可能给整体经济和金融体系带来风险。",
+          source: "Morningstar / 新浪财经"
+        }
+      ]
+    },
+    {
+      id: "china", name: "中国新闻",
+      items: [
+        {
+          date: "2026-06-25",
+          title: "国家发改委、能源局发布新型能源体系建设“十五五”规划",
+          summary: "规划提出到2030年中国将初步建成清洁低碳安全高效的新型能源体系，风电和太阳能发电装机比重将超过50%成为电力装机主体，非化石能源发电量比重达到50%。",
+          source: "国家发改委"
+        },
+        {
+          date: "2026-06-24",
+          title: "2026夏季达沃斯论坛在大连举行，逾1700名嘉宾出席",
+          summary: "世界经济论坛第十七届新领军者年会以“规模化创新”为主题，吸引全球90多个国家和地区嘉宾参会，国务院总理李强出席开幕式并致辞。",
+          source: "新华社"
+        },
+        {
+          date: "2026-06-25",
+          title: "央行将于6月29日、30日新增隔夜逆回购操作",
+          summary: "中国人民银行公告将在月末公开市场操作中增加隔夜逆回购品种，采用固定利率、数量招标方式，旨在更好匹配银行体系短期流动性需求，是央行近期推动利率调控机制改革的具体落地。",
+          source: "中国人民银行"
+        },
+        {
+          date: "2026-06-28",
+          title: "云南天麻高速马鹿塘特大桥合龙，中越边境通道全线贯通",
+          summary: "位于云南文山州麻栗坡县的马鹿塘特大桥顺利合龙，标志着天麻高速实现全线贯通，为中越边境再添一条互联互通通道。",
+          source: "央视网"
+        },
+        {
+          date: "2026-06-09",
+          title: "中国海警在台湾以东海域执法巡查，外交部回应海域划界争议",
+          summary: "针对台湾以东海域执法巡查，外交部发言人重申中国在该海域拥有专属经济区和大陆架，并表示反对日本、菲律宾绕开中方单方面启动海域划界谈判。",
+          source: "中国外交部"
+        }
+      ]
+    },
+    {
+      id: "world", name: "世界新闻",
+      items: [
+        {
+          date: "2026-06-27",
+          title: "委内瑞拉双震死亡人数升至约1450人，国际救援持续展开",
+          summary: "6月24日发生的7.2级和7.5级双震已造成至少1450人死亡、逾3100人受伤，主要灾区拉瓜伊拉州损毁严重，美国、墨西哥、智利等多国派出救援队和医疗物资支援。",
+          source: "ABC News / NPR"
+        },
+        {
+          date: "2026-06-22",
+          title: "英国首相斯塔默宣布辞职，工党预计由伯纳姆接任",
+          summary: "斯塔默在唐宁街宣布辞去首相及工党党魁职务，距其2024年大选获胜组阁不足两年。前大曼彻斯特市长安迪·伯纳姆被普遍视为最可能的接任者，英国将迎来十年内第七位首相。",
+          source: "NPR / Al Jazeera"
+        },
+        {
+          date: "2026-06-28",
+          title: "美伊停火现裂痕，双方互指对方违反协议",
+          summary: "美国总统指责伊朗违反此前达成的停火框架协议，德黑兰则威胁可能彻底中止与美方的谈判；地区内以色列与真主党之间的对抗也仍在持续。",
+          source: "NPR"
+        },
+        {
+          date: "2026-06-28",
+          title: "法国持续高温致超额死亡逾千例",
+          summary: "法国公共卫生署初步数据显示，本轮高温期间法国境内死亡人数明显上升，仅6月24日至26日三天就记录到逾1000例超额死亡，高温红色预警地区和居家死亡情况尤为突出。",
+          source: "财联社"
+        },
+        {
+          date: "2026-06-28",
+          title: "BIS警示AI投资热潮或对全球经济与金融体系构成风险",
+          summary: "国际清算银行公开表示，当前AI相关投资热潮的规模与集中度可能给宏观经济稳定和金融体系带来潜在风险，呼吁市场对相关资本支出保持审慎评估。",
+          source: "Morningstar"
+        }
+      ]
+    }
+  ],
+  youtube: [
+    {
+      channel: "老周横眉",
+      desc: "中文时政与社会评论频道，主持人为前金融业CEO，现居新加坡，聚焦中国社会、经济与地缘政治议题。",
+      video: "近期一期：《为什么网上那么多人不讲逻辑？拆解评论区里的7大逻辑谬误》",
+      date: "约 2026-05"
+    },
+    {
+      channel: "文昭思绪飞扬",
+      desc: "历史、文化、宗教与时局解读频道，常将历史典故、预言叙事与当下时局结合，按期编号持续更新（已逾500期）。",
+      video: "近期一期（第539期）：围绕近期中国政商人事变动相关话题展开解读",
+      date: "约 2026-05"
+    },
+    {
+      channel: "夸克说",
+      desc: "时政与社会评论频道，主持人风格犀利、夹杂黑色幽默，话题涵盖政治、历史、影视与社会新闻。",
+      video: "近期一期关注中国新出台的跨境网络访问相关管制政策",
+      date: "约 2026-04"
+    },
+    {
+      channel: "May Fit",
+      desc: "台湾健身博主刘雨涵的频道，主打居家徒手训练、增肌减脂饮食分享，台大人类学系毕业。",
+      video: "检索到的公开资料显示近期更新较少，未能确认最新一期具体内容，建议直接前往频道查看",
+      date: "更新频率待确认"
+    },
+    {
+      channel: "盈夏AI轻创业",
+      desc: "新加坡国立大学全奖博士背景的博主，专注分享用AI做副业/轻创业的实战方法、商业思维与工具教程。",
+      video: "频道长期更新AI变现实战与工具使用类内容，具体最新一期建议直接前往频道确认",
+      date: "持续更新"
+    },
+    {
+      channel: "李厂长来了",
+      desc: "面向华人职场人群的AI工具频道，内容包括AI工具实测、教程与对比，帮助观众提升工作效率。",
+      video: "频道持续更新AI工具测评与教程类内容，具体最新一期建议直接前往频道确认",
+      date: "持续更新"
+    }
+  ]
+};
+
+/* ===================== 渲染逻辑 ===================== */
+const sectionsRoot = document.getElementById('sectionsRoot');
+const catLabel = {ai:'AI', github:'GitHub', finance:'金融', china:'中国', world:'世界'};
+
+function renderAll(data){
+  document.getElementById('focusTitle').textContent = data.focus.title;
+  document.getElementById('focusBody').textContent = data.focus.body;
+
+  const githubCount = data.categories.find(c=>c.id==='github')?.items.length || 0;
+  const totalNews = data.categories.reduce((sum,c)=>sum+c.items.length, 0);
+  document.getElementById('statCats').textContent = data.categories.length;
+  document.getElementById('statNews').textContent = totalNews;
+  document.getElementById('statProjects').textContent = githubCount;
+  document.getElementById('issueSummary').textContent = data.focus.body.slice(0,72) + '…';
+
+  sectionsRoot.innerHTML = '';
+  data.categories.forEach(cat=>{
+    const sec = document.createElement('section');
+    sec.className = 'section';
+    sec.dataset.cat = cat.id;
+    sec.innerHTML = `
+      <div class="section-head">
+        <div>
+          <span class="tag">${catLabel[cat.id]||cat.id}</span>
+          <h2>${cat.name}</h2>
+        </div>
+        <span class="count-pill">${cat.items.length}</span>
+      </div>
+      <div class="item-list"></div>
+    `;
+    const list = sec.querySelector('.item-list');
+    cat.items.forEach((it,idx)=>{
+      const row = document.createElement('div');
+      row.className = 'item';
+      row.dataset.search = (it.title+' '+it.summary+' '+(it.source||'')).toLowerCase();
+      row.innerHTML = `
+        <div class="item-body">
+          <div class="item-date">${it.date||''}</div>
+          <div class="item-title">${it.title}</div>
+          <p class="item-summary">${it.summary}</p>
+          ${it.importance ? `<div class="item-importance"><b>重要性</b><span>${it.importance}</span></div>`:''}
+          ${it.source ? `<div class="item-source">${it.source}</div>`:''}
+        </div>
+        <button class="star-btn" aria-label="收藏" data-key="${cat.id}-${idx}">★</button>
+      `;
+      list.appendChild(row);
+    });
+    sectionsRoot.appendChild(sec);
+  });
+
+  // YouTube 区块
+  const ytSec = document.createElement('section');
+  ytSec.className = 'section';
+  ytSec.dataset.cat = 'youtube';
+  ytSec.innerHTML = `
+    <div class="section-head">
+      <div><span class="tag">YouTube</span><h2>关注博主更新</h2></div>
+      <span class="count-pill">${data.youtube.length}</span>
+    </div>
+    <p class="note-line">具体更新内容以频道实际发布为准，建议点击频道名直接前往确认最新一期。</p>
+    <div class="yt-grid"></div>
+  `;
+  const ytGrid = ytSec.querySelector('.yt-grid');
+  data.youtube.forEach(yt=>{
+    const card = document.createElement('div');
+    card.className = 'yt-card';
+    card.dataset.search = (yt.channel+' '+yt.desc+' '+yt.video).toLowerCase();
+    card.innerHTML = `
+      <div class="yt-channel">${yt.channel}</div>
+      <div class="yt-desc">${yt.desc}</div>
+      <div class="yt-video">${yt.url ? `<a href="${yt.url}" target="_blank" rel="noopener">${yt.video}</a>` : yt.video}</div>
+      <div class="item-date" style="margin-top:8px;">${yt.date||''}</div>
+    `;
+    ytGrid.appendChild(card);
+  });
+  sectionsRoot.appendChild(ytSec);
+
+  // 收藏按钮（仅本次会话内记忆，刷新后重置）
+  document.querySelectorAll('.star-btn').forEach(btn=>{
+    btn.addEventListener('click', ()=> btn.classList.toggle('active'));
+  });
+}
+async function loadData(){
+  let data = FALLBACK_DATA;
+  try{
+    const res = await fetch('./data.json', {cache:'no-store'});
+    if(res.ok){
+      data = await res.json();
+    }
+  }catch(err){
+    console.warn('未找到 data.json 或加载失败，使用内置示例数据：', err);
+  }
+  renderAll(data);
+}
+loadData();
+
+/* ===================== 导航 / 分类筛选 ===================== */
+document.getElementById('navlinks').addEventListener('click', e=>{
+  const btn = e.target.closest('button');
+  if(!btn) return;
+  document.querySelectorAll('#navlinks button').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  const cat = btn.dataset.cat;
+  document.querySelectorAll('.section').forEach(sec=>{
+    sec.classList.toggle('hidden', cat!=='all' && sec.dataset.cat!==cat);
+  });
+  if(cat!=='all'){
+    document.querySelector(`.section[data-cat="${cat}"]`)?.scrollIntoView({behavior:'smooth', block:'start'});
+  }
+});
+
+/* ===================== 搜索 ===================== */
+document.getElementById('searchInput').addEventListener('input', e=>{
+  const q = e.target.value.trim().toLowerCase();
+  document.querySelectorAll('.item, .yt-card').forEach(row=>{
+    row.classList.toggle('hidden', q && !row.dataset.search.includes(q));
+  });
+});
+
+/* ===================== 主题切换 ===================== */
+document.getElementById('themeToggle').addEventListener('click', ()=>{
+  const cur = document.documentElement.getAttribute('data-theme');
+  document.documentElement.setAttribute('data-theme', cur==='dark' ? 'light' : 'dark');
+});
+
+/* ===================== 天气（Open-Meteo，免key，浏览器端直接调用） ===================== */
+async function loadWeather(query){
+  try{
+    const geo = await fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(query)}&count=1&language=zh`).then(r=>r.json());
+    if(!geo.results || !geo.results.length){
+      document.getElementById('wDesc').textContent = '找不到该地点，请换个写法';
+      return;
+    }
+    const {latitude, longitude, name, country} = geo.results[0];
+    const wx = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min&timezone=auto`).then(r=>r.json());
+    const c = wx.current, d = wx.daily;
+    document.getElementById('wTemp').textContent = Math.round(c.temperature_2m)+'°';
+    document.getElementById('wRange').textContent = `${Math.round(d.temperature_2m_min[0])}°–${Math.round(d.temperature_2m_max[0])}°`;
+    document.getElementById('wDesc').textContent = `${weatherCodeToText(c.weather_code)} · 体感 ${Math.round(c.apparent_temperature)}° · 风速 ${Math.round(c.wind_speed_10m)} km/h`;
+    document.getElementById('wLocationInput').value = `${name}・${country}`;
+  }catch(err){
+    document.getElementById('wDesc').textContent = '天气获取失败，请检查网络后点击更新';
+  }
+}
+function weatherCodeToText(code){
+  const map = {0:'晴',1:'大致晴朗',2:'多云',3:'阴',45:'雾',48:'冻雾',51:'小雨',53:'中雨',55:'大雨',
+    61:'小雨',63:'中雨',65:'大雨',71:'小雪',73:'中雪',75:'大雪',80:'阵雨',81:'阵雨',82:'强阵雨',
+    95:'雷暴',96:'雷暴伴冰雹',99:'强雷暴伴冰雹'};
+  return map[code] || '天气数据';
+}
+document.getElementById('wUpdateBtn').addEventListener('click', ()=>{
+  loadWeather(document.getElementById('wLocationInput').value);
+});
+loadWeather(document.getElementById('wLocationInput').value);
+</script>
+</body>
+</html>
