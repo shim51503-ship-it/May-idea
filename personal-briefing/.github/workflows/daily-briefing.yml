@@ -1,0 +1,43 @@
+name: 每日简讯自动更新
+
+# 触发方式：
+#   1. 定时任务 —— UTC 23:00 = 东京时间 (JST, UTC+9) 次日 08:00。
+#      如果你不在东京，或者想换一个推送时间，改下面这行 cron 表达式就行：
+#      cron 的 5 个字段是 "分 时 日 月 星期"，时间按 UTC 算。
+#      换算公式：UTC时间 = 你想要的当地时间 - 你的时区偏移
+#      例如想要北京时间(UTC+8)早8点，就是 UTC 0点 → cron: '0 0 * * *'
+#   2. workflow_dispatch —— 允许你在 GitHub 网页上手动点一下立即跑一次，
+#      方便测试，不用等到第二天。
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 运行抓取脚本，生成 data.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/fetch-briefing.mjs
+
+      - name: 提交并推送更新后的 data.json
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet && echo "data.json 没有变化，跳过提交" || git commit -m "chore: 更新每日简讯数据 $(date -u +%Y-%m-%d)"
+          git push
