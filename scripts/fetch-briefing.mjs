@@ -1,8 +1,3 @@
-bash
-
-cat /home/claude/briefing/scripts/fetch-briefing.mjs
-Output
-
 /**
  * 每日简讯自动抓取脚本（RSS 免费版）
  * ------------------------------------------------------------
@@ -365,4 +360,3 @@ main().catch((err) => {
   console.error("脚本执行失败：", err);
   process.exit(1);
 });
-
