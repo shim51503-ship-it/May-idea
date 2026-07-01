@@ -1,15 +1,22 @@
 {
   "issueDate": "2026-07-01",
-  "generatedAt": "2026-07-01T02:13:57.725Z",
+  "generatedAt": "2026-07-01T02:54:26.736Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Wayve launches $85M employee tender offer at $8.5B valuation\n【金融新闻】快手发布2026反诈治理报告 AI大模型助推诈骗治理纵深升级\n【中国新闻】蔡奇宣读《中共中央关于授予“七一勋章”的决定》\n【世界新闻】Trump made more than $1bn from crypto in first year back in office"
+    "body": "【AI 最新信息】Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models\n【金融新闻】黑龙江：铁路新版运行图上线 畅联内地通达北疆口岸\n【中国新闻】习近平说，105年不懈奋斗，开辟了实现中华民族伟大复兴的正确道路。在革命、建设、改革和新时代的伟大实践中，我们党领导人民历尽千辛万苦，成功开辟和坚持了中国特色社会主义道路，仅用几十年时间就走完发达国家几百年走过的工业化历程，创造了经济快速发展和社会长期稳定两大奇迹。今天，中华民族伟大复兴势不可挡，展现出前所未有的光明前景。\n【世界新闻】Trump made more than $1bn from crypto in first year back in office"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-07-01",
+          "title": "Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models",
+          "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
+        },
         {
           "date": "2026-07-01",
           "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
@@ -37,13 +44,6 @@
           "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
-        },
-        {
-          "date": "2026-06-30",
-          "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-          "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
         }
       ]
     },
@@ -53,38 +53,38 @@
       "items": [
         {
           "date": "2026-07-01",
+          "title": "黑龙江：铁路新版运行图上线 畅联内地通达北疆口岸",
+          "summary": "中新网哈尔滨7月1日电 (记者 史轶夫)7月1日零时起，中国铁路哈尔滨局集团有限公司正式启用2026年三季度新一轮列车运行图。全新运力布局精准优化客货运输供给，提档长途出行品质、畅通边境经贸通道、稳固跨境物流大动脉，全方位提升黑龙江铁路运输服务能级。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650450.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "戈壁滩的民勤蜜瓜从大漠直播间“云游”到全国果盘",
+          "summary": "中新网兰州7月1日电 (马爱彬)“日照足、沙土培，民勤蜜瓜甜如蜜。”连日来，在甘肃省武威市民勤县蜜瓜种植基地，“90后”新农人张煜文架起直播设备，为本地蜜瓜线上拓市引流，开播不足一小时，线上销量便突破200单。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650443.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "“十五五”民间投资大有可为",
+          "summary": "未来5年，有哪些投资机遇？这是民间资本最为关注的问题。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650435.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "聚焦智能体规模化落地 智能体产业主题论坛在京举行",
+          "summary": "中新网北京7月1日电 (记者 尹倩芸)“汇智聚力·智启新程——智能体应用驱动产业跃迁主题论坛”日前在北京举行，共同探讨智能体技术从概念走向规模化商业应用的路径与未来。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650417.shtml"
+        },
+        {
+          "date": "2026-07-01",
           "title": "快手发布2026反诈治理报告 AI大模型助推诈骗治理纵深升级",
           "summary": "6月30日，快手发布《2026反诈治理报告》。报告显示，过去一年，快手反诈团队严格按照《中华人民共和国反电信网络诈骗法》等法律法规要求，持续压实平台主体责任，围绕AI大模型赋能、风控模型策略迭代、易受骗人群识别与唤醒、涉诈数据共享、警企协同打击以及线上线下反诈宣传等方向全面提升电信网络诈骗治理能力，主动拦截阻断98.1",
           "source": "中国新闻网·财经",
           "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650361.shtml"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "抖音电商上线“肖像保护功能”，已主动拦截侵权账号9.2万个",
-          "summary": "6月30日，抖音电商在北京举办“侵权仿冒治理开放日”活动，正式宣布上线“肖像保护功能”，并已邀请部分带货达人试用。带货达人可提交姓名、肖像等保护信息，实时维护授权账号和店铺名单。平台将利用模型识别、核验授权信息、阻断相似内容传播等功能，主动识别并拦截AI仿冒、盗用素材等交易类侵权内容。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650360.shtml"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "欧盟广西总商会成立十周年庆典暨广西南宁推介会举行",
-          "summary": "中新网柏林7月1日电 (记者 马秀秀)欧盟广西总商会成立十周年庆典暨广西南宁推介会6月30日在德国柏林举行。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650387.shtml"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "全国铁路暑运今天启动 8月31日结束",
-          "summary": "为期62天的全国铁路暑期运输今天(1日)启动至8月31日结束，暑运期间，全国铁路预计发送旅客10.1亿人次，日均发送旅客1629万人次。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650385.shtml"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "A股开盘：超2300只个股飘绿，深指高开，沪指、创业板指低开",
-          "summary": "A股开盘：超2300只个股飘绿，深指高开，沪指、创业板指低开；航空、建材等板块上涨，贵金属、海运下跌",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650369.shtml"
         }
       ]
     },
@@ -94,38 +94,38 @@
       "items": [
         {
           "date": "2026-07-01",
-          "title": "蔡奇宣读《中共中央关于授予“七一勋章”的决定》",
-          "summary": "新华社快讯：蔡奇宣读《中共中央关于授予“七一勋章”的决定》。",
+          "title": "习近平说，105年不懈奋斗，开辟了实现中华民族伟大复兴的正确道路。在革命、建设、改革和新时代的伟大实践中，我们党领导人民历尽千辛万苦，成功开辟和坚持了中国特色社会主义道路，仅用几十年时间就走完发达国家几百年走过的工业化历程，创造了经济快速发展和社会长期稳定两大奇迹。今天，中华民族伟大复兴势不可挡，展现出前所未有的光明前景。",
+          "summary": "新华社快讯：习近平说，105年不懈奋斗，开辟了实现中华民族伟大复兴的正确道路。在革命、建设、改革和新时代的伟大实践中，我们党领导人民历尽千辛万苦，成功开辟和坚持了中国特色社会主义道路，仅用几十年时间就走完发达国家几百年走过的工业化历程，创造了经济快速发展和社会长期稳定两大奇迹。今天，中华民族伟大复兴势不可挡，展现出前所",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650403.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650460.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "庆祝回归29周年！香港举行升旗仪式和酒会，航天员黎家盈送祝愿",
-          "summary": "庆祝回归29周年！香港举行升旗仪式和酒会，首位来自香港的航天员黎家盈在太空展示特区区旗，用普通话和粤语送祝愿",
+          "title": "时政微纪录丨我宣誓！和“七一勋章”获得者重温入党誓词",
+          "summary": "中国共产党成立105周年之际，我们与“七一勋章”获得者展开了一场关于初心的对话。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650401.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650459.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "庆祝中国共产党成立105周年大会开始",
-          "summary": "新华社快讯：庆祝中国共产党成立105周年大会开始。解放军军乐团奏响《义勇军进行曲》，全场起立高唱国歌。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650399.shtml"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "知情人士透露法国2027年总统大选投票日期",
-          "summary": "中新网7月1日电 据法新社报道，当地时间6月30日，法国行政部门一名消息人士透露，法国将于2027年4月18日(首轮)和5月2日(第二轮)举行投票，选出下一任总统。",
+          "title": "孟加拉国青年访华团：“做中孟友好的讲述者，以青年视角增进相知相亲”",
+          "summary": "中新网北京7月1日电(记者 魏晨曦)“恰逢其时，赓续中孟友谊。”2026孟加拉国青年领袖访华团团长、达卡大学青年教师于浩文在接受中国新闻网采访时说道。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-01/10650395.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-01/10650446.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "习言道｜老百姓看党，最集中的是看县委一班人特别是县委书记",
-          "summary": "7月1日出版的《求是》杂志重新发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做焦裕禄式的县委书记》。这是习近平总书记2015年1月12日在中央党校县委书记研修班学员座谈会上的讲话。",
+          "title": "习近平说，105年来，我们党始终坚守为中国人民谋幸福、为中华民族谋复兴的初心使命，深刻洞察世界发展大势，准确把握各个历史时期社会主要矛盾变化，团结带领全国各族人民不懈奋斗，创造了新民主主义革命、社会主义革命和建设、改革开放和社会主义现代化建设、新时代中国特色社会主义的伟大成就，书写了中华民族几千年历史上最恢宏的史诗。",
+          "summary": "新华社快讯：习近平说，105年来，我们党始终坚守为中国人民谋幸福、为中华民族谋复兴的初心使命，深刻洞察世界发展大势，准确把握各个历史时期社会主要矛盾变化，团结带领全国各族人民不懈奋斗，创造了新民主主义革命、社会主义革命和建设、改革开放和社会主义现代化建设、新时代中国特色社会主义的伟大成就，书写了中华民族几千年历史上最恢",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650374.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650455.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "习近平说，今天，我们隆重集会，庆祝中国共产党成立105周年，回顾我们党走过的光辉历程，展望党和人民事业发展的光明前景，动员全党全国各族人民满怀信心朝着全面建成社会主义现代化强国、实现中华民族伟大复兴的宏伟目标奋勇前进。",
+          "summary": "新华社快讯：习近平说，今天，我们隆重集会，庆祝中国共产党成立105周年，回顾我们党走过的光辉历程，展望党和人民事业发展的光明前景，动员全党全国各族人民满怀信心朝着全面建成社会主义现代化强国、实现中华民族伟大复兴的宏伟目标奋勇前进。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650453.shtml"
         }
       ]
     },
@@ -176,28 +176,28 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/DeepSpec（⭐ 5317）",
+          "title": "deepseek-ai/DeepSpec（⭐ 5345）",
           "summary": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/DeepSpec"
         },
         {
           "date": "GitHub Trending",
-          "title": "baairon/torlink（⭐ 1707）",
+          "title": "baairon/torlink（⭐ 1725）",
           "summary": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
           "source": "GitHub",
           "url": "https://github.com/baairon/torlink"
         },
         {
           "date": "GitHub Trending",
-          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1219）",
+          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1226）",
           "summary": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
           "source": "GitHub",
           "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
         },
         {
           "date": "GitHub Trending",
-          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 822）",
+          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 836）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
