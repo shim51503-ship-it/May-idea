@@ -1,0 +1,253 @@
+{
+  "issueDate": "2026-07-01",
+  "generatedAt": "2026-07-01T02:13:57.725Z",
+  "focus": {
+    "title": "今日要览：4 个类目共 20 条更新",
+    "body": "【AI 最新信息】Wayve launches $85M employee tender offer at $8.5B valuation\n【金融新闻】快手发布2026反诈治理报告 AI大模型助推诈骗治理纵深升级\n【中国新闻】蔡奇宣读《中共中央关于授予“七一勋章”的决定》\n【世界新闻】Trump made more than $1bn from crypto in first year back in office"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "AI 最新信息",
+      "items": [
+        {
+          "date": "2026-07-01",
+          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+          "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "OpenClaw is finally available on Android and iOS",
+          "summary": "The free open source agentic program is finally invading your phone.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+          "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+          "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+          "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融新闻",
+      "items": [
+        {
+          "date": "2026-07-01",
+          "title": "快手发布2026反诈治理报告 AI大模型助推诈骗治理纵深升级",
+          "summary": "6月30日，快手发布《2026反诈治理报告》。报告显示，过去一年，快手反诈团队严格按照《中华人民共和国反电信网络诈骗法》等法律法规要求，持续压实平台主体责任，围绕AI大模型赋能、风控模型策略迭代、易受骗人群识别与唤醒、涉诈数据共享、警企协同打击以及线上线下反诈宣传等方向全面提升电信网络诈骗治理能力，主动拦截阻断98.1",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650361.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "抖音电商上线“肖像保护功能”，已主动拦截侵权账号9.2万个",
+          "summary": "6月30日，抖音电商在北京举办“侵权仿冒治理开放日”活动，正式宣布上线“肖像保护功能”，并已邀请部分带货达人试用。带货达人可提交姓名、肖像等保护信息，实时维护授权账号和店铺名单。平台将利用模型识别、核验授权信息、阻断相似内容传播等功能，主动识别并拦截AI仿冒、盗用素材等交易类侵权内容。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650360.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "欧盟广西总商会成立十周年庆典暨广西南宁推介会举行",
+          "summary": "中新网柏林7月1日电 (记者 马秀秀)欧盟广西总商会成立十周年庆典暨广西南宁推介会6月30日在德国柏林举行。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650387.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "全国铁路暑运今天启动 8月31日结束",
+          "summary": "为期62天的全国铁路暑期运输今天(1日)启动至8月31日结束，暑运期间，全国铁路预计发送旅客10.1亿人次，日均发送旅客1629万人次。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650385.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "A股开盘：超2300只个股飘绿，深指高开，沪指、创业板指低开",
+          "summary": "A股开盘：超2300只个股飘绿，深指高开，沪指、创业板指低开；航空、建材等板块上涨，贵金属、海运下跌",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650369.shtml"
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "name": "中国新闻",
+      "items": [
+        {
+          "date": "2026-07-01",
+          "title": "蔡奇宣读《中共中央关于授予“七一勋章”的决定》",
+          "summary": "新华社快讯：蔡奇宣读《中共中央关于授予“七一勋章”的决定》。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650403.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "庆祝回归29周年！香港举行升旗仪式和酒会，航天员黎家盈送祝愿",
+          "summary": "庆祝回归29周年！香港举行升旗仪式和酒会，首位来自香港的航天员黎家盈在太空展示特区区旗，用普通话和粤语送祝愿",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650401.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "庆祝中国共产党成立105周年大会开始",
+          "summary": "新华社快讯：庆祝中国共产党成立105周年大会开始。解放军军乐团奏响《义勇军进行曲》，全场起立高唱国歌。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650399.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "知情人士透露法国2027年总统大选投票日期",
+          "summary": "中新网7月1日电 据法新社报道，当地时间6月30日，法国行政部门一名消息人士透露，法国将于2027年4月18日(首轮)和5月2日(第二轮)举行投票，选出下一任总统。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-01/10650395.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "习言道｜老百姓看党，最集中的是看县委一班人特别是县委书记",
+          "summary": "7月1日出版的《求是》杂志重新发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《做焦裕禄式的县委书记》。这是习近平总书记2015年1月12日在中央党校县委书记研修班学员座谈会上的讲话。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650374.shtml"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "世界新闻",
+      "items": [
+        {
+          "date": "2026-07-01",
+          "title": "Trump made more than $1bn from crypto in first year back in office",
+          "summary": "The president earned millions more from real estate, Trump-themed Bibles, watches and other items.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Anthropic says US lifts export ban on its advanced AI tools",
+          "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+          "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+          "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+          "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "github",
+      "name": "GitHub / 开源项目",
+      "items": [
+        {
+          "date": "GitHub Trending",
+          "title": "deepseek-ai/DeepSpec（⭐ 5317）",
+          "summary": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+          "source": "GitHub",
+          "url": "https://github.com/deepseek-ai/DeepSpec"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "baairon/torlink（⭐ 1707）",
+          "summary": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+          "source": "GitHub",
+          "url": "https://github.com/baairon/torlink"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1219）",
+          "summary": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+          "source": "GitHub",
+          "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 822）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "winsznx/theeleven（⭐ 691）",
+          "summary": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+          "source": "GitHub",
+          "url": "https://github.com/winsznx/theeleven"
+        }
+      ]
+    }
+  ],
+  "youtube": [
+    {
+      "channel": "老周横眉",
+      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
+      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
+      "date": ""
+    },
+    {
+      "channel": "文昭思绪飞扬",
+      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
+      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
+      "date": ""
+    },
+    {
+      "channel": "夸克说",
+      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
+      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
+      "date": ""
+    },
+    {
+      "channel": "May Fit",
+      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
+      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
+      "date": ""
+    },
+    {
+      "channel": "盈夏AI轻创业",
+      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
+      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
+      "date": ""
+    },
+    {
+      "channel": "李厂长来了",
+      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
+      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
+      "date": ""
+    }
+  ]
+}
