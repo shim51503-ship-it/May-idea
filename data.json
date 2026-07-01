@@ -1,9 +1,9 @@
 {
   "issueDate": "2026-07-01",
-  "generatedAt": "2026-07-01T03:56:19.105Z",
+  "generatedAt": "2026-07-01T06:03:56.885Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】The &#8220;Father of the Internet&#8221; is finally retiring\n【金融新闻】A股午评：超4500只个股飘红，沪指、深指收涨，创业板指收跌\n【中国新闻】习言道丨人民是历史的创造者，是真正的英雄\n【世界新闻】Anthropic says US lifts export ban on its advanced AI tools"
+    "body": "【AI 最新信息】The &#8216;Father of the Internet&#8217; is finally retiring\n【金融新闻】我国对外投资领域首部行政法规今起施行\n【中国新闻】新疆棉花，抹不黑 | 新漫评\n【世界新闻】Three-year-old rescued and taken to hospital six days after Venezuela quake"
   },
   "categories": [
     {
@@ -12,7 +12,7 @@
       "items": [
         {
           "date": "2026-07-01",
-          "title": "The &#8220;Father of the Internet&#8221; is finally retiring",
+          "title": "The &#8216;Father of the Internet&#8217; is finally retiring",
           "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/"
@@ -20,7 +20,7 @@
         {
           "date": "2026-07-01",
           "title": "Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models",
-          "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+          "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model re",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
         },
@@ -53,6 +53,20 @@
       "items": [
         {
           "date": "2026-07-01",
+          "title": "我国对外投资领域首部行政法规今起施行",
+          "summary": "今天，《国务院关于对外投资的规定》正式施行。作为我国在对外投资领域的第一部行政法规，《规定》施行后，如何影响对外投资？",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650549.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "今起施行！食用油等重点液态食品道路散装运输须持准运证",
+          "summary": "今天起，5大类重点液态食品道路散装运输须持准运证方可开展。市场监管等部门将实施全链条、专业化、可追溯管理，切实保障人民群众饮食安全。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650543.shtml"
+        },
+        {
+          "date": "2026-07-01",
           "title": "A股午评：超4500只个股飘红，沪指、深指收涨，创业板指收跌",
           "summary": "A股午评：超4500只个股飘红，沪指、深指收涨，创业板指收跌；券商、保险板块爆发，通信设备、电工电网下跌",
           "source": "中国新闻网·财经",
@@ -71,20 +85,6 @@
           "summary": "“线上点餐很方便，不用跑餐厅，饭菜送到家，还能享受补贴！”家住在厦门湖里区的陈阿婆，对农业银行“农银养老·金岁餐厅”养老助餐服务平台赞赏有加。",
           "source": "中国新闻网·财经",
           "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650498.shtml"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "黑龙江：铁路新版运行图上线 畅联内地通达北疆口岸",
-          "summary": "中新网哈尔滨7月1日电 (记者 史轶夫)7月1日零时起，中国铁路哈尔滨局集团有限公司正式启用2026年三季度新一轮列车运行图。全新运力布局精准优化客货运输供给，提档长途出行品质、畅通边境经贸通道、稳固跨境物流大动脉，全方位提升黑龙江铁路运输服务能级。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650450.shtml"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "戈壁滩的民勤蜜瓜从大漠直播间“云游”到全国果盘",
-          "summary": "中新网兰州7月1日电 (马爱彬)“日照足、沙土培，民勤蜜瓜甜如蜜。”连日来，在甘肃省武威市民勤县蜜瓜种植基地，“90后”新农人张煜文架起直播设备，为本地蜜瓜线上拓市引流，开播不足一小时，线上销量便突破200单。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650443.shtml"
         }
       ]
     },
@@ -94,38 +94,38 @@
       "items": [
         {
           "date": "2026-07-01",
-          "title": "习言道丨人民是历史的创造者，是真正的英雄",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650515.shtml"
+          "title": "新疆棉花，抹不黑 | 新漫评",
+          "summary": "棉花产业是新疆的经济支柱产业之一。2025年，新疆棉花耕种收综合机械化率达97%，机采率稳定在90%以上，全年投入采棉机7500余台，跨区作业机械超3100台。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-01/10650525.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "习言道丨今天，中国人民已经把命运牢牢掌握在自己手中",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "title": "海船开航新规今起实施 办事时限大幅压缩",
+          "summary": "今天起(7月1日)，交通运输部联合国家金融监督管理总局，将海船开航需要的12个政务服务事项集中办理，办事时限和申请材料均压缩一半以上。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650514.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650582.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "（现场实录）习近平：在庆祝中国共产党成立105周年大会上的讲话",
-          "summary": "在庆祝中国共产党成立105周年大会上的讲话",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650522.shtml"
+          "title": "印度一辆客车与卡车相撞后起火 致至少7人死15人伤",
+          "summary": "中新网7月1日电 据印度媒体7月1日报道，当日清晨，印度拉贾斯坦邦道萨地区发生一起交通事故。一辆客运大巴在德里—孟买高速公路上与一辆卡车相撞后起火，造成至少7人死亡、超15人受伤。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-01/10650581.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "党规之旨",
-          "summary": "视频：党规之旨来源：“学习强国”学习平台",
+          "title": "《中华人民共和国民族团结进步促进法》今起施行",
+          "summary": "今年3月举行的第十四届全国人民代表大会第四次会议通过《中华人民共和国民族团结进步促进法》，这部法律今天(7月1日)起正式施行。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650516.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650578.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "庆祝中国共产党成立105周年大会结束",
-          "summary": "新华社快讯：庆祝中国共产党成立105周年大会在雄壮的《国际歌》声中结束。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650513.shtml"
+          "title": "伊朗称逾30国官员拟出席哈梅内伊悼念活动",
+          "summary": "中新社北京7月1日电 德黑兰消息：伊朗官方6月30日通报称，30多个国家的官员拟出席伊朗已故最高领袖阿里·哈梅内伊的系列悼念和告别活动。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-01/10650570.shtml"
         }
       ]
     },
@@ -133,6 +133,20 @@
       "id": "world",
       "name": "世界新闻",
       "items": [
+        {
+          "date": "2026-07-01",
+          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+          "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+          "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "date": "2026-07-01",
           "title": "Anthropic says US lifts export ban on its advanced AI tools",
@@ -153,20 +167,6 @@
           "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-06-30",
-          "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
-          "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-06-30",
-          "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-          "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/DeepSpec（⭐ 5383）",
+          "title": "deepseek-ai/DeepSpec（⭐ 5451）",
           "summary": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/DeepSpec"
         },
         {
           "date": "GitHub Trending",
-          "title": "baairon/torlink（⭐ 1769）",
+          "title": "baairon/torlink（⭐ 1841）",
           "summary": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
           "source": "GitHub",
           "url": "https://github.com/baairon/torlink"
         },
         {
           "date": "GitHub Trending",
-          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1232）",
+          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1247）",
           "summary": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
           "source": "GitHub",
           "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
         },
         {
           "date": "GitHub Trending",
-          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 860）",
+          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 882）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
         },
         {
           "date": "GitHub Trending",
-          "title": "winsznx/theeleven（⭐ 692）",
+          "title": "winsznx/theeleven（⭐ 693）",
           "summary": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
           "source": "GitHub",
           "url": "https://github.com/winsznx/theeleven"
@@ -215,39 +215,45 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
-      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
-      "date": ""
+      "desc": "川普一直想降息，也终于等来了自己挑选的美联储主席，但第一场议息会议却让他失望了。这期节目，我们来聊聊沃什时代的第一枪，为什么可能意味着美联储正在发生二十年来最重",
+      "video": "美联储变天：川普千挑万选的新主席，为何还是不肯降息？ | 沃什 | 议息会议 | 降息 | 加息 | 格林斯潘 | 美国经济 | 中国经济 | 老周横眉",
+      "date": "2026-06-25",
+      "url": "https://www.youtube.com/watch?v=WGh-xuKDN-c"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
-      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
-      "date": ""
+      "desc": "鄧小平生命最後24小時究竟發生了什麼？301醫院、高幹醫療、離休制度、退休不退權、981工程、特權醫療與長壽背後，揭開中國最高權力體系最神秘的一面。",
+      "video": "鄧小平的離世之夜：揭開一個比死亡更重要的問題！【文昭思緒飛揚552】",
+      "date": "2026-06-28",
+      "url": "https://www.youtube.com/watch?v=kexUQ3a8GVc"
     },
     {
       "channel": "夸克说",
-      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
-      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
-      "date": ""
+      "desc": "#辟谣 #闢謠 #造谣 #造謠 #网络造谣 #網路造謠 #网络诽谤 #網路誹謗 #恶意指控 #惡意指控 #公开证据 #公開證據 #澄清事实 #澄清事實 #名誉侵",
+      "video": "夸克说被造谣抄袭/洗稿！证据都放这，顺便公开我的工作流程，大家自行判断！造谣者是否应该出来道歉？！誇克説被造謠抄襲/洗稿！証據都放這，順便公開我的工作流程，大家自行判斷！造謠者是否應該出來道歉？",
+      "date": "2026-06-26",
+      "url": "https://www.youtube.com/watch?v=9s1TSrc1v0E"
     },
     {
       "channel": "May Fit",
-      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
-      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
-      "date": ""
+      "desc": "Follow Annabel instagram 👉🏼https://www.instagram.com/annabel.fit  場地提供： Iron o",
+      "video": "【女性健身肌力課 Ep2 】巴西裔IFBB Pro健身教練親授蜜桃臀訓練法！如何面對體重增加12公斤的心路歷程？",
+      "date": "2026-06-25",
+      "url": "https://www.youtube.com/watch?v=R7thnrBARP4"
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
-      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
-      "date": ""
+      "desc": "哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  你是不是也想过用 AI 视频赚钱？  看着别人用 AI 做短视频、带货、短剧，轻松拿到流量和收",
+      "video": "AI视频Agent最新3种副业玩法！Anijam零门槛启动赚钱项目 AI副业 AI赚钱 Agent 自动化工作流 AI搞钱 AI创业 AI教程 AI工具 创业 自由职业 AI杠杆 普通人 小白",
+      "date": "2026-06-30",
+      "url": "https://www.youtube.com/watch?v=G72dyiKHbfo"
     },
     {
       "channel": "李厂长来了",
-      "desc": "（未配置 YOUTUBE_API_KEY，无法获取最新视频）",
-      "video": "请在仓库 Secrets 里添加 YOUTUBE_API_KEY 后重新运行",
-      "date": ""
+      "desc": "🔗 免費下載NotebookLM Skill: https://lichangzhangai.kit.com/522d2f49ec 如果沒有收到邮件，記得去垃",
+      "video": "Claude Cowork + NotebookLM 自動化工作流: 效率提升10倍",
+      "date": "2026-06-27",
+      "url": "https://www.youtube.com/watch?v=w0i9wklw_ng"
     }
   ]
 }
