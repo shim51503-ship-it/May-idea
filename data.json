@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-01",
-  "generatedAt": "2026-07-01T06:03:56.885Z",
+  "issueDate": "2026-07-02",
+  "generatedAt": "2026-07-02T00:01:29.806Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】The &#8216;Father of the Internet&#8217; is finally retiring\n【金融新闻】我国对外投资领域首部行政法规今起施行\n【中国新闻】新疆棉花，抹不黑 | 新漫评\n【世界新闻】Three-year-old rescued and taken to hospital six days after Venezuela quake"
+    "body": "【AI 最新信息】SpaceX has an AI device prototype, and it sure sounds phone-ish\n【金融新闻】中国“降温神器”缘何走俏欧洲\n【中国新闻】法国官方确定2027年总统选举投票日期\n【世界新闻】As Taylor Swift and Travis Kelce prepare to tie the knot, we look back at their relationship"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-07-01",
-          "title": "The &#8216;Father of the Internet&#8217; is finally retiring",
-          "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+          "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+          "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/"
+          "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
         },
         {
           "date": "2026-07-01",
-          "title": "Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models",
-          "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model re",
+          "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+          "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneat",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
+          "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
         },
         {
           "date": "2026-07-01",
-          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-          "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+          "title": "Cloudflare&#8217;s new policy pushes AI companies to pay for publishers&#8217; content",
+          "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
+          "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
         },
         {
-          "date": "2026-06-30",
-          "title": "OpenClaw is finally available on Android and iOS",
-          "summary": "The free open source agentic program is finally invading your phone.",
+          "date": "2026-07-01",
+          "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+          "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/"
+          "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
         },
         {
-          "date": "2026-06-30",
-          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-          "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+          "date": "2026-07-01",
+          "title": "Gemini Spark, Google&#8217;s agentic assistant, is now available on Mac",
+          "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
+          "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
         }
       ]
     },
@@ -53,38 +53,38 @@
       "items": [
         {
           "date": "2026-07-01",
-          "title": "我国对外投资领域首部行政法规今起施行",
-          "summary": "今天，《国务院关于对外投资的规定》正式施行。作为我国在对外投资领域的第一部行政法规，《规定》施行后，如何影响对外投资？",
+          "title": "中国“降温神器”缘何走俏欧洲",
+          "summary": "6月下旬，欧洲遭遇高温侵袭，多个国家的气温连创历史新高。虽然近日高温有所缓解，但气象预报显示，从7月5日或6日起欧洲或将迎来新一轮热浪。频繁袭来的极端高温，不仅对民众生命健康构成威胁，也对欧洲国家的经济活动造成不容忽视的影响。在这轮创纪录热浪当中，“空调”成为当下欧洲的热门话题，而来自中国的“降温神器”，也成为欧洲民众",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650549.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651054.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "今起施行！食用油等重点液态食品道路散装运输须持准运证",
-          "summary": "今天起，5大类重点液态食品道路散装运输须持准运证方可开展。市场监管等部门将实施全链条、专业化、可追溯管理，切实保障人民群众饮食安全。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650543.shtml"
+          "title": "Market Update: OSK, REGN",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47491_MarketUpdate_1782926498000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
           "date": "2026-07-01",
-          "title": "A股午评：超4500只个股飘红，沪指、深指收涨，创业板指收跌",
-          "summary": "A股午评：超4500只个股飘红，沪指、深指收涨，创业板指收跌；券商、保险板块爆发，通信设备、电工电网下跌",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650524.shtml"
+          "title": "Former retail giant closed over 1,000 locations",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html"
         },
         {
           "date": "2026-07-01",
-          "title": "第四届中小学乡村教师合唱教育及振兴研讨会在沪成功举行",
-          "summary": "6月27—29日，由中国教育学会音乐教育分会、上海市高等教育学会、上海音乐学院附属中等音乐专科学校共同主办的“第四届中小学乡村教师合唱教育及振兴研讨会”在上海音乐学院附属中等音乐专科学校成功举行。",
+          "title": "上半年深圳海关办理离境退税验核业务量同比增长6.1倍",
+          "summary": "中新社深圳7月1日电 (记者 索有为)记者1日从深圳海关获悉，今年上半年，深圳海关办理离境退税验核业务7.02万票、验核申请单金额10.1亿元(人民币，下同)，同比分别增长6.1倍、1.2倍。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650495.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10651002.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "阿婆的“头等难题”，解决了",
-          "summary": "“线上点餐很方便，不用跑餐厅，饭菜送到家，还能享受补贴！”家住在厦门湖里区的陈阿婆，对农业银行“农银养老·金岁餐厅”养老助餐服务平台赞赏有加。",
+          "title": "陕西首部民营经济基础性法规落地施行 “靶向”纾困激活市场主体动能",
+          "summary": "中新网西安7月1日电 (杨英琦)记者1日从陕西省人大常委会新闻发布会获悉，《陕西省实施〈中华人民共和国民营经济促进法〉办法》(以下简称：《实施办法》)自当日起正式施行。作为该省第一部专门关于民营经济发展的基础性法规，标志着陕西民营经济发展步入了法治化轨道。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650498.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650969.shtml"
         }
       ]
     },
@@ -94,38 +94,38 @@
       "items": [
         {
           "date": "2026-07-01",
-          "title": "新疆棉花，抹不黑 | 新漫评",
-          "summary": "棉花产业是新疆的经济支柱产业之一。2025年，新疆棉花耕种收综合机械化率达97%，机采率稳定在90%以上，全年投入采棉机7500余台，跨区作业机械超3100台。",
+          "title": "法国官方确定2027年总统选举投票日期",
+          "summary": "中新社巴黎7月1日电 (记者 李洋)法国官方当地时间1日确定2027年总统选举投票日期，选举首轮投票将于2027年4月18日举行，第二轮投票将于2027年5月2日举行。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-01/10650525.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651053.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "海船开航新规今起实施 办事时限大幅压缩",
-          "summary": "今天起(7月1日)，交通运输部联合国家金融监督管理总局，将海船开航需要的12个政务服务事项集中办理，办事时限和申请材料均压缩一半以上。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650582.shtml"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "印度一辆客车与卡车相撞后起火 致至少7人死15人伤",
-          "summary": "中新网7月1日电 据印度媒体7月1日报道，当日清晨，印度拉贾斯坦邦道萨地区发生一起交通事故。一辆客运大巴在德里—孟买高速公路上与一辆卡车相撞后起火，造成至少7人死亡、超15人受伤。",
+          "title": "美贸易代表：美国不续签美墨加协定",
+          "summary": "中新社华盛顿7月1日电 (记者 沙晗汀)美国贸易代表贾米森·格里尔当地时间7月1日表示，美国决定不续签“美国-墨西哥-加拿大协定”(美墨加协定)，而将继续与墨西哥和加拿大就贸易协定举行会谈。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-01/10650581.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651050.shtml"
         },
         {
           "date": "2026-07-01",
-          "title": "《中华人民共和国民族团结进步促进法》今起施行",
-          "summary": "今年3月举行的第十四届全国人民代表大会第四次会议通过《中华人民共和国民族团结进步促进法》，这部法律今天(7月1日)起正式施行。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-01/10650578.shtml"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "伊朗称逾30国官员拟出席哈梅内伊悼念活动",
-          "summary": "中新社北京7月1日电 德黑兰消息：伊朗官方6月30日通报称，30多个国家的官员拟出席伊朗已故最高领袖阿里·哈梅内伊的系列悼念和告别活动。",
+          "title": "德国就“北溪”天然气管道爆炸事件起诉一名嫌疑人",
+          "summary": "中新社柏林7月1日电 综合德国媒体1日报道，德国联邦检察院已在汉堡对一名涉嫌策划2022年“北溪”天然气管道爆炸事件的乌克兰籍男子提起公诉。这是德国调查机关就该事件首次正式起诉涉案嫌疑人。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-01/10650570.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651049.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "上海纽约双城对话共探合作新机遇",
+          "summary": "中新社纽约7月1日电 (记者 王帆)当地时间6月30日，“上海-纽约双城对话”系列活动之纽约论坛在美国纽约举行。来自中美两国的嘉宾围绕金融、消费、文化等议题展开交流研讨，共探两地合作新机遇。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651048.shtml"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "俄外交部：日本部署美国导弹严重破坏亚太地区稳定与安全",
+          "summary": "中新网7月2日电 据俄罗斯卫星网报道，俄罗斯外交部发言人扎哈罗娃1日表示，俄罗斯认为日本允许在境内部署美国导弹系统是威胁俄罗斯边境之举，严重损害亚太地区的稳定与安全。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651052.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-07-01",
-          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-          "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+          "title": "As Taylor Swift and Travis Kelce prepare to tie the knot, we look back at their relationship",
+          "summary": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-07-01",
-          "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-          "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+          "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+          "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-07-01",
-          "title": "Anthropic says US lifts export ban on its advanced AI tools",
-          "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+          "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+          "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-07-01",
-          "title": "Trump made more than $1bn from crypto in first year back in office",
-          "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+          "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
+          "summary": "Chizi, one of China’s biggest stand-up comedians, has found a new stage after falling afoul of China's censors.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-07-01",
-          "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-          "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+          "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+          "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/DeepSpec（⭐ 5451）",
+          "title": "deepseek-ai/DeepSpec（⭐ 5745）",
           "summary": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/DeepSpec"
         },
         {
           "date": "GitHub Trending",
-          "title": "baairon/torlink（⭐ 1841）",
-          "summary": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
-          "source": "GitHub",
-          "url": "https://github.com/baairon/torlink"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1247）",
+          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1330）",
           "summary": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
           "source": "GitHub",
           "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
         },
         {
           "date": "GitHub Trending",
-          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 882）",
+          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 1005）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
         },
         {
           "date": "GitHub Trending",
-          "title": "winsznx/theeleven（⭐ 693）",
-          "summary": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+          "title": "Kulaxyz/self-learning-skills（⭐ 742）",
+          "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
           "source": "GitHub",
-          "url": "https://github.com/winsznx/theeleven"
+          "url": "https://github.com/Kulaxyz/self-learning-skills"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "TianhangZhuzth/Fundamental-Ava（⭐ 717）",
+          "summary": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+          "source": "GitHub",
+          "url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#辟谣 #闢謠 #造谣 #造謠 #网络造谣 #網路造謠 #网络诽谤 #網路誹謗 #恶意指控 #惡意指控 #公开证据 #公開證據 #澄清事实 #澄清事實 #名誉侵",
-      "video": "夸克说被造谣抄袭/洗稿！证据都放这，顺便公开我的工作流程，大家自行判断！造谣者是否应该出来道歉？！誇克説被造謠抄襲/洗稿！証據都放這，順便公開我的工作流程，大家自行判斷！造謠者是否應該出來道歉？",
-      "date": "2026-06-26",
-      "url": "https://www.youtube.com/watch?v=9s1TSrc1v0E"
+      "desc": "#中国尊 #中國尊 #飞机撞中国尊 #飛機撞中國尊 #北京飞机撞楼 #北京飛機撞樓 #北京飞机撞大楼 #北京飛機撞大樓 #小飞机撞楼 #小飛機撞樓 #北京东三环",
+      "video": "中国尊被撞：全世界监控最严密的北京，其实漏洞百出？党为何防不住一架小飞机？中國尊被撞：全世界監控最嚴密的北京，其實漏洞百出？黨爲何防不住一架小飛機？夸克说|誇克説",
+      "date": "2026-07-01",
+      "url": "https://www.youtube.com/watch?v=YhpWYquNuiQ"
     },
     {
       "channel": "May Fit",
