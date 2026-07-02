@@ -1,9 +1,9 @@
 {
   "issueDate": "2026-07-02",
-  "generatedAt": "2026-07-02T00:01:29.806Z",
+  "generatedAt": "2026-07-02T23:56:33.928Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】SpaceX has an AI device prototype, and it sure sounds phone-ish\n【金融新闻】中国“降温神器”缘何走俏欧洲\n【中国新闻】法国官方确定2027年总统选举投票日期\n【世界新闻】As Taylor Swift and Travis Kelce prepare to tie the knot, we look back at their relationship"
+    "body": "【AI 最新信息】Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped\n【金融新闻】生活服务数字化催生新岗位 数字素养成入行标配\n【中国新闻】我国提出加快人工智能健康发展立法 补足关键制度空白\n【世界新闻】Ebola treatments trial begins in the Democratic Republic of Congo"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-01",
-          "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-          "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+          "date": "2026-07-02",
+          "title": "Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped",
+          "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
         },
         {
-          "date": "2026-07-01",
-          "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-          "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneat",
+          "date": "2026-07-02",
+          "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
+          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
+          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
         },
         {
-          "date": "2026-07-01",
-          "title": "Cloudflare&#8217;s new policy pushes AI companies to pay for publishers&#8217; content",
-          "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked ",
+          "date": "2026-07-02",
+          "title": "Meta quietly launches vibe-coded gaming app Pocket",
+          "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
+          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
         },
         {
-          "date": "2026-07-01",
-          "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-          "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+          "date": "2026-07-02",
+          "title": "Anthropic is discussing a new custom chip with Samsung",
+          "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
+          "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
         },
         {
-          "date": "2026-07-01",
-          "title": "Gemini Spark, Google&#8217;s agentic assistant, is now available on Mac",
-          "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+          "date": "2026-07-02",
+          "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+          "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public s",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
+          "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-01",
-          "title": "中国“降温神器”缘何走俏欧洲",
-          "summary": "6月下旬，欧洲遭遇高温侵袭，多个国家的气温连创历史新高。虽然近日高温有所缓解，但气象预报显示，从7月5日或6日起欧洲或将迎来新一轮热浪。频繁袭来的极端高温，不仅对民众生命健康构成威胁，也对欧洲国家的经济活动造成不容忽视的影响。在这轮创纪录热浪当中，“空调”成为当下欧洲的热门话题，而来自中国的“降温神器”，也成为欧洲民众",
+          "date": "2026-07-02",
+          "title": "生活服务数字化催生新岗位 数字素养成入行标配",
+          "summary": "“线上买菜买水果”“看探店视频团购套餐”成为越来越多人的习惯",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651054.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10651803.shtml"
         },
         {
-          "date": "2026-07-01",
-          "title": "Market Update: OSK, REGN",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_47491_MarketUpdate_1782926498000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "Former retail giant closed over 1,000 locations",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html"
-        },
-        {
-          "date": "2026-07-01",
-          "title": "上半年深圳海关办理离境退税验核业务量同比增长6.1倍",
-          "summary": "中新社深圳7月1日电 (记者 索有为)记者1日从深圳海关获悉，今年上半年，深圳海关办理离境退税验核业务7.02万票、验核申请单金额10.1亿元(人民币，下同)，同比分别增长6.1倍、1.2倍。",
+          "date": "2026-07-02",
+          "title": "南非友人杜安睿：中国诸多发展经验值得非洲借鉴",
+          "summary": "今年是中国共产党成立105周年。百余载风雨兼程，百余载接续奋斗。中国共产党人团结带领中国人民砥砺奋进，取得了举世瞩目的伟大成就。中国坚持走和平发展道路，推动构建人类命运共同体，以中国式现代化为世界提供新机遇。环球资讯广播特别策划《外国友人眼中的中国共产党》，邀请外国友人分享自己的在华经历，讲述他们眼中的中国共产党。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10651002.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651778.shtml"
         },
         {
-          "date": "2026-07-01",
-          "title": "陕西首部民营经济基础性法规落地施行 “靶向”纾困激活市场主体动能",
-          "summary": "中新网西安7月1日电 (杨英琦)记者1日从陕西省人大常委会新闻发布会获悉，《陕西省实施〈中华人民共和国民营经济促进法〉办法》(以下简称：《实施办法》)自当日起正式施行。作为该省第一部专门关于民营经济发展的基础性法规，标志着陕西民营经济发展步入了法治化轨道。",
+          "date": "2026-07-02",
+          "title": "赛诺菲中国创新与运营中心成都新址启用",
+          "summary": "中新网成都7月2日电 (单鹏)“中国创新与运营中心是赛诺菲业务运营转型中的关键一步。我们将依托中心的建设，为中国患者创造更具深远影响的价值。”2日，跨国生物制药企业赛诺菲全球执行副总裁兼业务运营负责人马德琳·罗奇(Madeleine Roach)在成都表示。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-01/10650969.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651772.shtml"
+        },
+        {
+          "date": "2026-07-02",
+          "title": "AI浪潮下如何乘风出海？专家助浙企找准“风向标”",
+          "summary": "中新网杭州7月2日电(蓝伊旎)7月2日，一场别开生面的会议在浙江杭州举行。2026年第二期“浙里出海”宏观形势报告会现场，经济学家、政府参事为400余名参会者分析全球宏观经济形势、展望产业与贸易发展趋势，到场嘉宾多数为外向型浙企代表。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651764.shtml"
+        },
+        {
+          "date": "2026-07-02",
+          "title": "报告：北京数字经济处于“规模扩张”向“质效跃升”转型阶段",
+          "summary": "中新网北京7月2日电 (记者 陈杭)7月2日，全球数字经济大会“数智经济与人才培养”专题论坛在首都经济贸易大学举行。首都经济贸易大学北京数字经济发展研究院常务副院长李平代表团队在论坛上发布的《北京数字经济发展研究报告(2026)》显示，北京数字经济正处于由“规模扩张”向“质效跃升”转型的关键阶段。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651762.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-01",
-          "title": "法国官方确定2027年总统选举投票日期",
-          "summary": "中新社巴黎7月1日电 (记者 李洋)法国官方当地时间1日确定2027年总统选举投票日期，选举首轮投票将于2027年4月18日举行，第二轮投票将于2027年5月2日举行。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651053.shtml"
+          "date": "2026-07-02",
+          "title": "我国提出加快人工智能健康发展立法 补足关键制度空白",
+          "summary": "我国提出加快人工智能健康发展立法 专家建议",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-03/10651809.shtml"
         },
         {
-          "date": "2026-07-01",
-          "title": "美贸易代表：美国不续签美墨加协定",
-          "summary": "中新社华盛顿7月1日电 (记者 沙晗汀)美国贸易代表贾米森·格里尔当地时间7月1日表示，美国决定不续签“美国-墨西哥-加拿大协定”(美墨加协定)，而将继续与墨西哥和加拿大就贸易协定举行会谈。",
+          "date": "2026-07-02",
+          "title": "在委内瑞拉中资企业已向委方捐赠物资超120吨",
+          "summary": "中新网加拉加斯7月2日电(记者 林春茵)记者从中国驻委内瑞拉使馆了解到，委内瑞拉强震发生后，在中国驻委内瑞拉大使馆指导协调下，在委中资企业第一时间调配吊机、挖掘机等工程机械设备及应急发电机、集装箱投入抗震救灾工作，同时向灾区捐赠食品、饮用水、生活用品、劳保用具等各类物资。目前，在委中资企业已捐赠物资超120吨，另有约5",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651050.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-03/10651808.shtml"
         },
         {
-          "date": "2026-07-01",
-          "title": "德国就“北溪”天然气管道爆炸事件起诉一名嫌疑人",
-          "summary": "中新社柏林7月1日电 综合德国媒体1日报道，德国联邦检察院已在汉堡对一名涉嫌策划2022年“北溪”天然气管道爆炸事件的乌克兰籍男子提起公诉。这是德国调查机关就该事件首次正式起诉涉案嫌疑人。",
+          "date": "2026-07-02",
+          "title": "特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求",
+          "summary": "中新网7月3日电 据美国消费者新闻与商业频道(CNBC)网站报道，当地时间2日，美国总统特朗普表示，美国与伊朗的谈判正取得进展，他认为伊朗已基本同意美方提出的几乎所有关键要求。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651049.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-03/10651807.shtml"
         },
         {
-          "date": "2026-07-01",
-          "title": "上海纽约双城对话共探合作新机遇",
-          "summary": "中新社纽约7月1日电 (记者 王帆)当地时间6月30日，“上海-纽约双城对话”系列活动之纽约论坛在美国纽约举行。来自中美两国的嘉宾围绕金融、消费、文化等议题展开交流研讨，共探两地合作新机遇。",
+          "date": "2026-07-02",
+          "title": "美国科罗拉多州山火烧毁逾5万英亩土地 数百户家庭撤离",
+          "summary": "中新网7月3日电 据《纽约时报》报道，截至当地时间7月2日，美国科罗拉多州普韦布洛附近一处正在燃烧的山火共烧毁超过5万英亩土地，迫使该州南部数百户家庭撤离。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651048.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-03/10651804.shtml"
         },
         {
-          "date": "2026-07-01",
-          "title": "俄外交部：日本部署美国导弹严重破坏亚太地区稳定与安全",
-          "summary": "中新网7月2日电 据俄罗斯卫星网报道，俄罗斯外交部发言人扎哈罗娃1日表示，俄罗斯认为日本允许在境内部署美国导弹系统是威胁俄罗斯边境之举，严重损害亚太地区的稳定与安全。",
+          "date": "2026-07-02",
+          "title": "美伊下轮会谈拟于哈梅内伊葬礼后举行 三大分歧显温差",
+          "summary": "截至7月2日，美伊双方以及调解方卡塔尔与巴基斯坦，已悉数就此前于1日在卡塔尔多哈推进的美伊会谈结果发声。除伊朗，其余各方均称“进展积极”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-02/10651052.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-03/10651802.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-01",
-          "title": "As Taylor Swift and Travis Kelce prepare to tie the knot, we look back at their relationship",
-          "summary": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
+          "date": "2026-07-02",
+          "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
+          "summary": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-01",
-          "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-          "summary": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
+          "date": "2026-07-02",
+          "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+          "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-01",
-          "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
-          "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
+          "date": "2026-07-02",
+          "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+          "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-01",
-          "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
-          "summary": "Chizi, one of China’s biggest stand-up comedians, has found a new stage after falling afoul of China's censors.",
+          "date": "2026-07-02",
+          "title": "Killers of British couple in South Africa sentenced to life",
+          "summary": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-01",
-          "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-          "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+          "date": "2026-07-02",
+          "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+          "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/DeepSpec（⭐ 5745）",
+          "title": "deepseek-ai/DeepSpec（⭐ 5872）",
           "summary": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/DeepSpec"
         },
         {
           "date": "GitHub Trending",
-          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1330）",
+          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1433）",
           "summary": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
           "source": "GitHub",
           "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
         },
         {
           "date": "GitHub Trending",
-          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 1005）",
+          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 1106）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
         },
         {
           "date": "GitHub Trending",
-          "title": "Kulaxyz/self-learning-skills（⭐ 742）",
-          "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+          "title": "mekos2772/ios-location-spoofer（⭐ 1095）",
+          "summary": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
           "source": "GitHub",
-          "url": "https://github.com/Kulaxyz/self-learning-skills"
+          "url": "https://github.com/mekos2772/ios-location-spoofer"
         },
         {
           "date": "GitHub Trending",
-          "title": "TianhangZhuzth/Fundamental-Ava（⭐ 717）",
-          "summary": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+          "title": "Kulaxyz/self-learning-skills（⭐ 895）",
+          "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
           "source": "GitHub",
-          "url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
+          "url": "https://github.com/Kulaxyz/self-learning-skills"
         }
       ]
     }
@@ -215,10 +215,10 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "川普一直想降息，也终于等来了自己挑选的美联储主席，但第一场议息会议却让他失望了。这期节目，我们来聊聊沃什时代的第一枪，为什么可能意味着美联储正在发生二十年来最重",
-      "video": "美联储变天：川普千挑万选的新主席，为何还是不肯降息？ | 沃什 | 议息会议 | 降息 | 加息 | 格林斯潘 | 美国经济 | 中国经济 | 老周横眉",
-      "date": "2026-06-25",
-      "url": "https://www.youtube.com/watch?v=WGh-xuKDN-c"
+      "desc": "马斯克筹备多年的 X Money，终于正式上线。但它真正挑战的，并不是PayPal，而是整个美国金融体系。把钱放在X Money里安全吗？X Money 对整个",
+      "video": "X Money正式上线！马斯克的超级应用梦，离微信还差三座大山。打造美国版微信为何这么难？ | 老周横眉",
+      "date": "2026-07-02",
+      "url": "https://www.youtube.com/watch?v=hQ0R2jk6fTI"
     },
     {
       "channel": "文昭思绪飞扬",
