@@ -1,15 +1,29 @@
 {
-  "issueDate": "2026-07-02",
-  "generatedAt": "2026-07-02T23:56:33.928Z",
+  "issueDate": "2026-07-03",
+  "generatedAt": "2026-07-03T23:57:51.308Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped\n【金融新闻】生活服务数字化催生新岗位 数字素养成入行标配\n【中国新闻】我国提出加快人工智能健康发展立法 补足关键制度空白\n【世界新闻】Ebola treatments trial begins in the Democratic Republic of Congo"
+    "body": "【AI 最新信息】The only AI glossary you&#8217;ll need this year\n【金融新闻】2026雄安国际智慧城市创新技术大赛决赛举办\n【中国新闻】法国6月下旬热浪期间超额死亡人数突破2000例\n【世界新闻】Anguished families left to identify Venezuela quake victims at makeshift morgue"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-07-03",
+          "title": "The only AI glossary you&#8217;ll need this year",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might en",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
+          "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+        },
         {
           "date": "2026-07-02",
           "title": "Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped",
@@ -30,20 +44,6 @@
           "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "Anthropic is discussing a new custom chip with Samsung",
-          "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-          "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public s",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-02",
-          "title": "生活服务数字化催生新岗位 数字素养成入行标配",
-          "summary": "“线上买菜买水果”“看探店视频团购套餐”成为越来越多人的习惯",
+          "date": "2026-07-03",
+          "title": "2026雄安国际智慧城市创新技术大赛决赛举办",
+          "summary": "中新网雄安7月3日电 (李玉素 韩冰)3日，第三届雄安未来之城场景汇系列大赛之一的2026雄安国际智慧城市创新技术大赛决赛在雄安未来之城场景汇科创园举办。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10651803.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652507.shtml"
         },
         {
-          "date": "2026-07-02",
-          "title": "南非友人杜安睿：中国诸多发展经验值得非洲借鉴",
-          "summary": "今年是中国共产党成立105周年。百余载风雨兼程，百余载接续奋斗。中国共产党人团结带领中国人民砥砺奋进，取得了举世瞩目的伟大成就。中国坚持走和平发展道路，推动构建人类命运共同体，以中国式现代化为世界提供新机遇。环球资讯广播特别策划《外国友人眼中的中国共产党》，邀请外国友人分享自己的在华经历，讲述他们眼中的中国共产党。",
+          "date": "2026-07-03",
+          "title": "行业人士共话重庆产融发展：从产业底座到生态闭环",
+          "summary": "中新网重庆7月3日电 (张旭)7月3日，金融支持重庆高质量发展大会在渝举行，多位全国知名金融投资机构负责人、产业领军人物齐聚现场。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651778.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652499.shtml"
         },
         {
-          "date": "2026-07-02",
-          "title": "赛诺菲中国创新与运营中心成都新址启用",
-          "summary": "中新网成都7月2日电 (单鹏)“中国创新与运营中心是赛诺菲业务运营转型中的关键一步。我们将依托中心的建设，为中国患者创造更具深远影响的价值。”2日，跨国生物制药企业赛诺菲全球执行副总裁兼业务运营负责人马德琳·罗奇(Madeleine Roach)在成都表示。",
+          "date": "2026-07-03",
+          "title": "梧州六堡茶溯源体系正式启用",
+          "summary": "中新网广西梧州7月3日电 (张广权 肖景凤)7月3日，梧州六堡茶溯源体系启用新闻发布会在广西梧州市举办，正式宣布梧州六堡茶溯源平台建成上线并投入运行，标志着梧州六堡茶质量监管迈入数字化、法治化、智能化新阶段。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651772.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652491.shtml"
         },
         {
-          "date": "2026-07-02",
-          "title": "AI浪潮下如何乘风出海？专家助浙企找准“风向标”",
-          "summary": "中新网杭州7月2日电(蓝伊旎)7月2日，一场别开生面的会议在浙江杭州举行。2026年第二期“浙里出海”宏观形势报告会现场，经济学家、政府参事为400余名参会者分析全球宏观经济形势、展望产业与贸易发展趋势，到场嘉宾多数为外向型浙企代表。",
+          "date": "2026-07-03",
+          "title": "云南巧家夏季草莓“锁鲜”出海",
+          "summary": "中新网昭通7月3日电 (罗婕)近日，地处云南省金沙江干热河谷地带的巧家县草莓开始进入丰产期。通过冷链加工中心，一颗颗新鲜草莓经零下40摄氏度急冻、24小时真空冻干后，变身冻干草莓，发往中国各地，并出口美国、德国、英国等海外市场。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651764.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652490.shtml"
         },
         {
-          "date": "2026-07-02",
-          "title": "报告：北京数字经济处于“规模扩张”向“质效跃升”转型阶段",
-          "summary": "中新网北京7月2日电 (记者 陈杭)7月2日，全球数字经济大会“数智经济与人才培养”专题论坛在首都经济贸易大学举行。首都经济贸易大学北京数字经济发展研究院常务副院长李平代表团队在论坛上发布的《北京数字经济发展研究报告(2026)》显示，北京数字经济正处于由“规模扩张”向“质效跃升”转型的关键阶段。",
+          "date": "2026-07-03",
+          "title": "市场规模预计超3000亿元，工业旅游如何长效发展？",
+          "summary": "近年来，工业旅游在全国各地蓬勃兴起，众多工业遗存与工业厂区变身为创意园区、博物馆等文化新空间，一批大国重器成为热门旅游目的地。前不久，七部门联合印发《关于弘扬工业文化 保护工业遗产 发展工业旅游的通知》(以下简称《通知》)，为行业擘画了清晰路径。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651762.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652506.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-02",
-          "title": "我国提出加快人工智能健康发展立法 补足关键制度空白",
-          "summary": "我国提出加快人工智能健康发展立法 专家建议",
+          "date": "2026-07-03",
+          "title": "法国6月下旬热浪期间超额死亡人数突破2000例",
+          "summary": "中新社巴黎7月3日电 (李洋 孙羽婷)法国公共卫生署当地时间3日通报称，在6月下旬的热浪影响下，6月22日至28日法国官方记录的死亡病例数较前一周增加近三成，超额死亡人数突破2000例。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-04/10652530.shtml"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "英意日共同出资46亿英镑推进新一代战机研发项目",
+          "summary": "中新社伦敦7月3日电 (记者 欧阳开宇)英国国防部3日发布消息称，英国、意大利、日本三国达成重要合作协议，共同出资46亿英镑推进新一代战机研发项目，相关合同已正式签署，标志这款六代机研发工作迈入关键设计阶段。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-04/10652529.shtml"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "委内瑞拉地震死亡人数升至2645人",
+          "summary": "当地时间3日，委内瑞拉通讯部通报称，地震造成的死亡人数上升至2645人，受伤人数上升至12666人，另有6462人获救。地震还导致1074座建筑不同程度受损，15050人流离失所。(总台记者 马天静 宫祥诚)",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-04/10652527.shtml"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "普京称俄军完成对卢甘斯克地区的全部控制",
+          "summary": "克里姆林宫3日发布消息称，俄罗斯总统普京当天视察俄军联合部队某指挥所并召集会议听取了俄武装力量总参谋长和特别军事行动各部队指挥官的汇报。普京在会议上表示，俄军近期完成了对卢甘斯克地区的全部控制。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-04/10652526.shtml"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "《习近平谈治国理政》第五卷中斯读者会在斯里兰卡首都科伦坡举行",
+          "summary": "新华社科伦坡7月3日电(记者吴子钰 车宏亮)《习近平谈治国理政》第五卷中斯读者会3日在斯里兰卡首都科伦坡举行。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-03/10651809.shtml"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "在委内瑞拉中资企业已向委方捐赠物资超120吨",
-          "summary": "中新网加拉加斯7月2日电(记者 林春茵)记者从中国驻委内瑞拉使馆了解到，委内瑞拉强震发生后，在中国驻委内瑞拉大使馆指导协调下，在委中资企业第一时间调配吊机、挖掘机等工程机械设备及应急发电机、集装箱投入抗震救灾工作，同时向灾区捐赠食品、饮用水、生活用品、劳保用具等各类物资。目前，在委中资企业已捐赠物资超120吨，另有约5",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-03/10651808.shtml"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求",
-          "summary": "中新网7月3日电 据美国消费者新闻与商业频道(CNBC)网站报道，当地时间2日，美国总统特朗普表示，美国与伊朗的谈判正取得进展，他认为伊朗已基本同意美方提出的几乎所有关键要求。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-03/10651807.shtml"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "美国科罗拉多州山火烧毁逾5万英亩土地 数百户家庭撤离",
-          "summary": "中新网7月3日电 据《纽约时报》报道，截至当地时间7月2日，美国科罗拉多州普韦布洛附近一处正在燃烧的山火共烧毁超过5万英亩土地，迫使该州南部数百户家庭撤离。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-03/10651804.shtml"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "美伊下轮会谈拟于哈梅内伊葬礼后举行 三大分歧显温差",
-          "summary": "截至7月2日，美伊双方以及调解方卡塔尔与巴基斯坦，已悉数就此前于1日在卡塔尔多哈推进的美伊会谈结果发声。除伊朗，其余各方均称“进展积极”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-03/10651802.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-04/10652525.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-02",
-          "title": "Ebola treatments trial begins in the Democratic Republic of Congo",
-          "summary": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
+          "date": "2026-07-03",
+          "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+          "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-02",
-          "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-          "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+          "date": "2026-07-03",
+          "title": "Iran begins public mourning for Ayatollah killed in February",
+          "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-02",
-          "title": "'Most massive' Russian attack on Kyiv kills at least 27",
-          "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+          "date": "2026-07-03",
+          "title": "Polish PM warns critical months ahead in face of Russian threat",
+          "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-02",
-          "title": "Killers of British couple in South Africa sentenced to life",
-          "summary": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
+          "date": "2026-07-03",
+          "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
+          "summary": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-02",
-          "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-          "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+          "date": "2026-07-03",
+          "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
+          "summary": "Lam Wing-kee, who defied China by selling material critical of Beijing, passed away after suffering from lung cancer.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/DeepSpec（⭐ 5872）",
-          "summary": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-          "source": "GitHub",
-          "url": "https://github.com/deepseek-ai/DeepSpec"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1433）",
+          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1509）",
           "summary": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
           "source": "GitHub",
           "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
         },
         {
           "date": "GitHub Trending",
-          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 1106）",
+          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 1286）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
         },
         {
           "date": "GitHub Trending",
-          "title": "mekos2772/ios-location-spoofer（⭐ 1095）",
+          "title": "mekos2772/ios-location-spoofer（⭐ 1248）",
           "summary": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
           "source": "GitHub",
           "url": "https://github.com/mekos2772/ios-location-spoofer"
         },
         {
           "date": "GitHub Trending",
-          "title": "Kulaxyz/self-learning-skills（⭐ 895）",
+          "title": "Kulaxyz/self-learning-skills（⭐ 792）",
           "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
           "source": "GitHub",
           "url": "https://github.com/Kulaxyz/self-learning-skills"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "diinki/linux-antiquity（⭐ 565）",
+          "summary": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
+          "source": "GitHub",
+          "url": "https://github.com/diinki/linux-antiquity"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "鄧小平生命最後24小時究竟發生了什麼？301醫院、高幹醫療、離休制度、退休不退權、981工程、特權醫療與長壽背後，揭開中國最高權力體系最神秘的一面。",
-      "video": "鄧小平的離世之夜：揭開一個比死亡更重要的問題！【文昭思緒飛揚552】",
-      "date": "2026-06-28",
-      "url": "https://www.youtube.com/watch?v=kexUQ3a8GVc"
+      "desc": "美國總統身邊，始終跟著一只神秘的黑色公文包，有人叫它核按鈕。2017年北京一場激烈衝突，讓它首次成為全球焦點。今天帶你揭開它真正的秘密。",
+      "video": "川普訪華，人民大會堂外一場鮮為人知的衝突：一個誰也不能碰的秘密【文昭思緒飛揚553】",
+      "date": "2026-07-03",
+      "url": "https://www.youtube.com/watch?v=NyRojJBBLZs"
     },
     {
       "channel": "夸克说",
