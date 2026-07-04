@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-03",
-  "generatedAt": "2026-07-03T23:57:51.308Z",
+  "issueDate": "2026-07-04",
+  "generatedAt": "2026-07-04T23:54:14.846Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】The only AI glossary you&#8217;ll need this year\n【金融新闻】2026雄安国际智慧城市创新技术大赛决赛举办\n【中国新闻】法国6月下旬热浪期间超额死亡人数突破2000例\n【世界新闻】Anguished families left to identify Venezuela quake victims at makeshift morgue"
+    "body": "【AI 最新信息】New Google commercial imagines a Declaration of Independence written with help from AI\n【金融新闻】Berkshire Hathaway Is Really a Financial Powerhouse in Disguise. Here's What That Means for Investors.\n【中国新闻】3部门发文规范国际科技组织成立登记\n【世界新闻】Funeral of Iran's former supreme leader 'intensely political moment'"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-07-04",
+          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Works",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+        },
+        {
+          "date": "2026-07-04",
+          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+        },
+        {
+          "date": "2026-07-04",
+          "title": "Alibaba reportedly bans employees from using Claude Code",
+          "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+        },
+        {
+          "date": "2026-07-04",
+          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+          "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the han",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+        },
+        {
           "date": "2026-07-03",
           "title": "The only AI glossary you&#8217;ll need this year",
           "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might en",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-        },
-        {
-          "date": "2026-07-03",
-          "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
-          "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped",
-          "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
-          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
-        },
-        {
-          "date": "2026-07-02",
-          "title": "Meta quietly launches vibe-coded gaming app Pocket",
-          "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-03",
-          "title": "2026雄安国际智慧城市创新技术大赛决赛举办",
-          "summary": "中新网雄安7月3日电 (李玉素 韩冰)3日，第三届雄安未来之城场景汇系列大赛之一的2026雄安国际智慧城市创新技术大赛决赛在雄安未来之城场景汇科创园举办。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652507.shtml"
+          "date": "2026-07-04",
+          "title": "Berkshire Hathaway Is Really a Financial Powerhouse in Disguise. Here's What That Means for Investors.",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-really-financial-powerhouse-233500135.html"
         },
         {
-          "date": "2026-07-03",
-          "title": "行业人士共话重庆产融发展：从产业底座到生态闭环",
-          "summary": "中新网重庆7月3日电 (张旭)7月3日，金融支持重庆高质量发展大会在渝举行，多位全国知名金融投资机构负责人、产业领军人物齐聚现场。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652499.shtml"
+          "date": "2026-07-04",
+          "title": "My parents didn’t plan for retirement, but I’ve got millions: what’s the best way to help them?",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/options/articles/parents-didn-t-plan-retirement-141713265.html"
         },
         {
-          "date": "2026-07-03",
-          "title": "梧州六堡茶溯源体系正式启用",
-          "summary": "中新网广西梧州7月3日电 (张广权 肖景凤)7月3日，梧州六堡茶溯源体系启用新闻发布会在广西梧州市举办，正式宣布梧州六堡茶溯源平台建成上线并投入运行，标志着梧州六堡茶质量监管迈入数字化、法治化、智能化新阶段。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652491.shtml"
+          "date": "2026-07-04",
+          "title": "Chevron vs. Exxon Mobil: Which Energy Stock Is a Better Buy in 2026?",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-vs-exxon-mobil-energy-232101335.html"
         },
         {
-          "date": "2026-07-03",
-          "title": "云南巧家夏季草莓“锁鲜”出海",
-          "summary": "中新网昭通7月3日电 (罗婕)近日，地处云南省金沙江干热河谷地带的巧家县草莓开始进入丰产期。通过冷链加工中心，一颗颗新鲜草莓经零下40摄氏度急冻、24小时真空冻干后，变身冻干草莓，发往中国各地，并出口美国、德国、英国等海外市场。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652490.shtml"
+          "date": "2026-07-04",
+          "title": "Rivian Just Raised Its 2026 Outlook While Tesla Stock Stumbled. Is the Electric Vehicle Underdog Finally a Buy?",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-just-raised-2026-outlook-231000012.html"
         },
         {
-          "date": "2026-07-03",
-          "title": "市场规模预计超3000亿元，工业旅游如何长效发展？",
-          "summary": "近年来，工业旅游在全国各地蓬勃兴起，众多工业遗存与工业厂区变身为创意园区、博物馆等文化新空间，一批大国重器成为热门旅游目的地。前不久，七部门联合印发《关于弘扬工业文化 保护工业遗产 发展工业旅游的通知》(以下简称《通知》)，为行业擘画了清晰路径。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652506.shtml"
+          "date": "2026-07-04",
+          "title": "Jim Cramer says it's time to buy one surging space stock",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-time-buy-230000385.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-03",
-          "title": "法国6月下旬热浪期间超额死亡人数突破2000例",
-          "summary": "中新社巴黎7月3日电 (李洋 孙羽婷)法国公共卫生署当地时间3日通报称，在6月下旬的热浪影响下，6月22日至28日法国官方记录的死亡病例数较前一周增加近三成，超额死亡人数突破2000例。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-04/10652530.shtml"
-        },
-        {
-          "date": "2026-07-03",
-          "title": "英意日共同出资46亿英镑推进新一代战机研发项目",
-          "summary": "中新社伦敦7月3日电 (记者 欧阳开宇)英国国防部3日发布消息称，英国、意大利、日本三国达成重要合作协议，共同出资46亿英镑推进新一代战机研发项目，相关合同已正式签署，标志这款六代机研发工作迈入关键设计阶段。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-04/10652529.shtml"
-        },
-        {
-          "date": "2026-07-03",
-          "title": "委内瑞拉地震死亡人数升至2645人",
-          "summary": "当地时间3日，委内瑞拉通讯部通报称，地震造成的死亡人数上升至2645人，受伤人数上升至12666人，另有6462人获救。地震还导致1074座建筑不同程度受损，15050人流离失所。(总台记者 马天静 宫祥诚)",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-04/10652527.shtml"
-        },
-        {
-          "date": "2026-07-03",
-          "title": "普京称俄军完成对卢甘斯克地区的全部控制",
-          "summary": "克里姆林宫3日发布消息称，俄罗斯总统普京当天视察俄军联合部队某指挥所并召集会议听取了俄武装力量总参谋长和特别军事行动各部队指挥官的汇报。普京在会议上表示，俄军近期完成了对卢甘斯克地区的全部控制。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-04/10652526.shtml"
-        },
-        {
-          "date": "2026-07-03",
-          "title": "《习近平谈治国理政》第五卷中斯读者会在斯里兰卡首都科伦坡举行",
-          "summary": "新华社科伦坡7月3日电(记者吴子钰 车宏亮)《习近平谈治国理政》第五卷中斯读者会3日在斯里兰卡首都科伦坡举行。",
+          "date": "2026-07-04",
+          "title": "3部门发文规范国际科技组织成立登记",
+          "summary": "本报北京7月4日电 (记者吴储岐)记者从民政部获悉：为支持国际科技组织在华设立和发挥积极作用，进一步规范其成立登记，民政部、科技部、中国科协制定《国际科技组织成立登记指引》，明确其成立条件、申请程序等。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-04/10652525.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-05/10652912.shtml"
+        },
+        {
+          "date": "2026-07-04",
+          "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+          "summary": "当地时间4日，乌克兰总统泽连斯基在社交媒体发文表示，他于美国独立日当天同美国总统特朗普通话。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-05/10652911.shtml"
+        },
+        {
+          "date": "2026-07-04",
+          "title": "内塔尼亚胡近期将访美与特朗普会晤",
+          "summary": "当地时间7月4日，美国总统特朗普在接受电话采访时表示，以色列总理内塔尼亚胡已请求在白宫与他会面，双方会晤最早可能在下周特朗普结束北约峰会行程后举行。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-05/10652909.shtml"
+        },
+        {
+          "date": "2026-07-04",
+          "title": "委内瑞拉地震死亡人数升至2954人",
+          "summary": "当地时间4日，委内瑞拉通讯部通报称，该国日前发生的两次强震造成的死亡人数上升至2954人，受伤人数上升至16592人，另有6462人获救。此外，地震还导致16309人流离失所。(总台记者 马天静)",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-05/10652908.shtml"
+        },
+        {
+          "date": "2026-07-04",
+          "title": "王毅会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡",
+          "summary": "新华社斯德哥尔摩7月4日电(记者朱昊晨)当地时间7月4日，中共中央政治局委员、外交部长王毅在斯德哥尔摩会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-05/10652907.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-03",
-          "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-          "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+          "date": "2026-07-04",
+          "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
+          "summary": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-03",
-          "title": "Iran begins public mourning for Ayatollah killed in February",
-          "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+          "date": "2026-07-04",
+          "title": "Eala wins 'for all the girls with ruffled socks and chubby cheeks'",
+          "summary": "Alexandra Eala dedicates her stunning win over defending Wimbledon champion Iga Swiatek to \"all the girls with ruffled socks and chubby cheeks\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cjwgpz3wj69o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-03",
-          "title": "Polish PM warns critical months ahead in face of Russian threat",
-          "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+          "date": "2026-07-04",
+          "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+          "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-03",
-          "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
-          "summary": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
+          "date": "2026-07-04",
+          "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+          "summary": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-03",
-          "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
-          "summary": "Lam Wing-kee, who defied China by selling material critical of Beijing, passed away after suffering from lung cancer.",
+          "date": "2026-07-04",
+          "title": "Injury ends Williams' Wimbledon comeback",
+          "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1509）",
+          "title": "Krishnagangwal/CS-Fundamentals（⭐ 1575）",
           "summary": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
           "source": "GitHub",
           "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
         },
         {
           "date": "GitHub Trending",
-          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 1286）",
+          "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5（⭐ 1373）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5"
         },
         {
           "date": "GitHub Trending",
-          "title": "mekos2772/ios-location-spoofer（⭐ 1248）",
+          "title": "mekos2772/ios-location-spoofer（⭐ 1284）",
           "summary": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
           "source": "GitHub",
           "url": "https://github.com/mekos2772/ios-location-spoofer"
         },
         {
           "date": "GitHub Trending",
-          "title": "Kulaxyz/self-learning-skills（⭐ 792）",
+          "title": "Kulaxyz/self-learning-skills（⭐ 825）",
           "summary": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
           "source": "GitHub",
           "url": "https://github.com/Kulaxyz/self-learning-skills"
         },
         {
           "date": "GitHub Trending",
-          "title": "diinki/linux-antiquity（⭐ 565）",
-          "summary": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.",
+          "title": "jamesob/local-llm（⭐ 744）",
+          "summary": "Everything I know about running LLMs locally",
           "source": "GitHub",
-          "url": "https://github.com/diinki/linux-antiquity"
+          "url": "https://github.com/jamesob/local-llm"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#中国尊 #中國尊 #飞机撞中国尊 #飛機撞中國尊 #北京飞机撞楼 #北京飛機撞樓 #北京飞机撞大楼 #北京飛機撞大樓 #小飞机撞楼 #小飛機撞樓 #北京东三环",
-      "video": "中国尊被撞：全世界监控最严密的北京，其实漏洞百出？党为何防不住一架小飞机？中國尊被撞：全世界監控最嚴密的北京，其實漏洞百出？黨爲何防不住一架小飛機？夸克说|誇克説",
-      "date": "2026-07-01",
-      "url": "https://www.youtube.com/watch?v=YhpWYquNuiQ"
+      "desc": "#俄乌战争 #俄烏戰爭 #台海战争 #台海戰爭 #低空经济 #低空經濟 #无人机战争 #無人機戰爭 #中国无人机 #中國無人機 #无人机蜂群 #無人機蜂群 #北",
+      "video": "这个90后男人能击败习近平？为什么说未来的台海战争/三战，中共军队大概率会战败？這個90後男人能擊敗習近平？爲什麼説未來的颱海戰爭/三戰，中共軍隊大概率會戰敗？",
+      "date": "2026-07-04",
+      "url": "https://www.youtube.com/watch?v=zhSIk_VLINg"
     },
     {
       "channel": "May Fit",
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔗 免費下載NotebookLM Skill: https://lichangzhangai.kit.com/522d2f49ec 如果沒有收到邮件，記得去垃",
-      "video": "Claude Cowork + NotebookLM 自動化工作流: 效率提升10倍",
-      "date": "2026-06-27",
-      "url": "https://www.youtube.com/watch?v=w0i9wklw_ng"
+      "desc": "🔗 免費下載Cowork OS操作系統: https://lichangzhangai.kit.com/b3bd5ffc1b 如果沒有收到邮件，記得去垃圾邮箱",
+      "video": "我搭了一套 Claude Cowork 自動化系統，模板免費送！",
+      "date": "2026-07-04",
+      "url": "https://www.youtube.com/watch?v=VIjCRqSX4ag"
     }
   ]
 }
