@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-05",
-  "generatedAt": "2026-07-05T23:58:16.568Z",
+  "issueDate": "2026-07-06",
+  "generatedAt": "2026-07-06T23:59:28.618Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Amazon will stop accepting new customers for Mechanical Turk\n【金融新闻】McDonald's and Burger King rival shuttering 100s of restaurants\n【中国新闻】不愧为大国重器！“鲲鹏”硬核实力全盘点\n【世界新闻】Marine Le Pen appeal verdict: Why this moment matters for France"
+    "body": "【AI 最新信息】The &#8216;first&#8217; AI-run ransomware attack still needed a human\n【金融新闻】欧洲人疯抢的“卡bug空调”藏着中国智造硬功夫\n【中国新闻】“七七事变”89周年，中国人永不能忘！\n【世界新闻】Why a Diljit Dosanjh film vanished from streaming after two days"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-05",
-          "title": "Amazon will stop accepting new customers for Mechanical Turk",
-          "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+          "date": "2026-07-06",
+          "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
+          "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim,",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
+          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
         },
         {
-          "date": "2026-07-04",
-          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-          "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Works",
+          "date": "2026-07-06",
+          "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+          "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+          "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
         },
         {
-          "date": "2026-07-04",
-          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-          "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+          "date": "2026-07-06",
+          "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+          "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+          "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
         },
         {
-          "date": "2026-07-04",
-          "title": "Alibaba reportedly bans employees from using Claude Code",
-          "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+          "date": "2026-07-06",
+          "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
+          "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+          "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
         },
         {
-          "date": "2026-07-04",
-          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-          "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the han",
+          "date": "2026-07-06",
+          "title": "Every major tech layoff in 2026 that has name-checked AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-05",
-          "title": "McDonald's and Burger King rival shuttering 100s of restaurants",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/fast-food-chain-closes-70-150700372.html"
-        },
-        {
-          "date": "2026-07-05",
-          "title": "Revolution Medicines Is Up Nearly 140% in 2026. Is the Hot Biotech Stock Still a Buy?",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-nearly-140-2026-233500896.html"
-        },
-        {
-          "date": "2026-07-05",
-          "title": "Why Robinhood Stock Jumped This Week",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-robinhood-stock-jumped-week-233209394.html"
-        },
-        {
-          "date": "2026-07-05",
-          "title": "从“秀功能”到“能干活”，人形机器人产业咋突破？",
-          "summary": "从“秀功能”到“能干活”，人形机器人产业咋突破？",
+          "date": "2026-07-06",
+          "title": "欧洲人疯抢的“卡bug空调”藏着中国智造硬功夫",
+          "summary": "今年夏天，一场热浪席卷欧洲大陆，多地气温突破历史极值。空调这个曾被许多欧洲家庭视为“非必需品”的家电，突然成了“硬通货”。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-06/10653281.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654019.shtml"
         },
         {
-          "date": "2026-07-05",
-          "title": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
+          "date": "2026-07-06",
+          "title": "中国空调海外爆单是不是热浪红利？",
+          "summary": "刘小燕",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654014.shtml"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "在车内能吃火锅、晾衣服、养鱼——汽车的这些配置，你喜欢吗？",
+          "summary": "本报记者 徐佩玉",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654012.shtml"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Best Buy and Apple flag a price shock for shoppers",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo"
+          "url": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Term vs. whole life insurance: Which should you choose?",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/term-vs-whole-life-insurance-182345773.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-05",
-          "title": "不愧为大国重器！“鲲鹏”硬核实力全盘点",
-          "summary": "10年前的今天",
+          "date": "2026-07-06",
+          "title": "“七七事变”89周年，中国人永不能忘！",
+          "summary": "宛平城，北京丰台一座古城",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-06/10653286.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654029.shtml"
         },
         {
-          "date": "2026-07-05",
-          "title": "委内瑞拉震中见闻：让生者“有力量走下去”",
-          "summary": "中新社委内瑞拉拉瓜伊拉7月5日电 题：委内瑞拉震中见闻：让生者“有力量走下去”",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-06/10653280.shtml"
-        },
-        {
-          "date": "2026-07-05",
-          "title": "新一轮热浪再袭法国多地 山火肆虐上万人疏散",
-          "summary": "中新社巴黎7月5日电 (记者 李洋)新一轮热浪5日再袭法国，多地气温将再次回升至40摄氏度。与此同时，山火继续在法国西南部肆虐，上万人被要求疏散。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-06/10653279.shtml"
-        },
-        {
-          "date": "2026-07-05",
-          "title": "外媒：乌克兰首都基辅响起多次爆炸声",
-          "summary": "中新网7月6日电 据法新社报道，当地时间7月6日，乌克兰首都基辅响起多次爆炸声。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-06/10653283.shtml"
-        },
-        {
-          "date": "2026-07-05",
-          "title": "首飞、首航、首趟！我国海陆空重大项目进度条刷新",
-          "summary": "我国第一架综合航测飞机",
+          "date": "2026-07-06",
+          "title": "山西长治市长陈向阳辞职，龚孟建代理市长，此前当地煤矿爆炸致82人死亡",
+          "summary": "据山西长治电视台7月6日晚公开报道，当日，长治市十五届人大常委会举行第三十五次会议。会议决定任命龚孟建为长治市人民政府副市长，决定龚孟建代理长治市人民政府市长。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-06/10653278.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654024.shtml"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "挪威首相斯特勒会见王毅",
+          "summary": "新华社奥斯陆7月6日电(记者张玉亮)挪威首相斯特勒6日在奥斯陆会见中共中央政治局委员、外交部长王毅。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654021.shtml"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "王毅同挪威外交大臣艾德会谈",
+          "summary": "新华社奥斯陆7月6日电(记者张玉亮)当地时间7月6日，中共中央政治局委员、外交部长王毅在奥斯陆同挪威外交大臣艾德举行会谈。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654020.shtml"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "龚孟建代理山西长治市市长 原市长陈向阳辞职",
+          "summary": "中新网太原7月7日电 (陆祁国)据山西长治电视台7月6日晚公开报道，当日，长治市十五届人大常委会举行第三十五次会议。会议决定任命龚孟建为长治市人民政府副市长，决定龚孟建代理长治市人民政府市长。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654005.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-05",
-          "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-          "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+          "date": "2026-07-06",
+          "title": "Why a Diljit Dosanjh film vanished from streaming after two days",
+          "summary": "The film's troubled journey spans years of censorship disputes, court battles and an unexpected release on a streaming platform.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cly99z1w4gdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-05",
-          "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
-          "summary": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+          "date": "2026-07-06",
+          "title": "Can China repeat its EV success with robotaxis?",
+          "summary": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-05",
-          "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-          "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+          "date": "2026-07-06",
+          "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+          "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-05",
-          "title": "Trump thanks Fifa for spending USA striker's ban",
-          "summary": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa.",
+          "date": "2026-07-06",
+          "title": "Trump confirms he asked Fifa to review Balogun ban",
+          "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-05",
-          "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
-          "summary": "Eight people were removed from the Kodiak 100 seaplane by fire department units and two had minor injures.",
+          "date": "2026-07-06",
+          "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+          "summary": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "elder-plinius/T3MP3ST（⭐ 1617）",
+          "title": "elder-plinius/T3MP3ST（⭐ 2626）",
           "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
           "source": "GitHub",
           "url": "https://github.com/elder-plinius/T3MP3ST"
         },
         {
           "date": "GitHub Trending",
-          "title": "mekos2772/ios-location-spoofer（⭐ 1323）",
+          "title": "mekos2772/ios-location-spoofer（⭐ 1432）",
           "summary": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
           "source": "GitHub",
           "url": "https://github.com/mekos2772/ios-location-spoofer"
         },
         {
           "date": "GitHub Trending",
-          "title": "HUANGCHIHHUNGLeo/claude-real-video（⭐ 945）",
+          "title": "HUANGCHIHHUNGLeo/claude-real-video（⭐ 1240）",
           "summary": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
           "source": "GitHub",
           "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
         },
         {
           "date": "GitHub Trending",
-          "title": "jamesob/local-llm（⭐ 916）",
-          "summary": "Everything I know about running LLMs locally",
-          "source": "GitHub",
-          "url": "https://github.com/jamesob/local-llm"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "ammaarreshi/Generals-Mac-iOS-iPad（⭐ 787）",
+          "title": "ammaarreshi/Generals-Mac-iOS-iPad（⭐ 1142）",
           "summary": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
           "source": "GitHub",
           "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "jamesob/local-llm（⭐ 1069）",
+          "summary": "Everything I know about running LLMs locally",
+          "source": "GitHub",
+          "url": "https://github.com/jamesob/local-llm"
         }
       ]
     }
@@ -243,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  你是不是也想过用 AI 视频赚钱？  看着别人用 AI 做短视频、带货、短剧，轻松拿到流量和收",
-      "video": "AI视频Agent最新3种副业玩法！Anijam零门槛启动赚钱项目 AI副业 AI赚钱 Agent 自动化工作流 AI搞钱 AI创业 AI教程 AI工具 创业 自由职业 AI杠杆 普通人 小白",
-      "date": "2026-06-30",
-      "url": "https://www.youtube.com/watch?v=G72dyiKHbfo"
+      "desc": "Flova AI官网：https://www.flova.ai/?refCode=F3BXRAVF   Sign up with my link to get ",
+      "video": "最适合普通人的不露脸带货副业 Flova Agent玩转短视频！ AI赚钱 AI副业 AI创业 AI工具 Agent 自动化 短视频带货 亚马逊带货 youtube shorts 副业 普通人 赚钱",
+      "date": "2026-07-06",
+      "url": "https://www.youtube.com/watch?v=89ijWvOz0w0"
     },
     {
       "channel": "李厂长来了",
