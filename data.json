@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-06",
-  "generatedAt": "2026-07-06T23:59:28.618Z",
+  "issueDate": "2026-07-07",
+  "generatedAt": "2026-07-07T23:49:18.871Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】The &#8216;first&#8217; AI-run ransomware attack still needed a human\n【金融新闻】欧洲人疯抢的“卡bug空调”藏着中国智造硬功夫\n【中国新闻】“七七事变”89周年，中国人永不能忘！\n【世界新闻】Why a Diljit Dosanjh film vanished from streaming after two days"
+    "body": "【AI 最新信息】Meta rolls out Muse, a new AI image generator\n【金融新闻】亲子研学、亲子康养……暑期到来，亲子消费迅速升温\n【中国新闻】文化和旅游部印发《旅游强国建设“十五五”规划》\n【世界新闻】US launches strikes on Iran after tankers hit in Strait of Hormuz"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-06",
-          "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
-          "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim,",
+          "date": "2026-07-07",
+          "title": "Meta rolls out Muse, a new AI image generator",
+          "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
+          "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
         },
         {
-          "date": "2026-07-06",
-          "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-          "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+          "date": "2026-07-07",
+          "title": "Why the rise of open source AI isn&#8217;t hurting Anthropic &#8230; yet",
+          "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
+          "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
         },
         {
-          "date": "2026-07-06",
-          "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-          "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+          "date": "2026-07-07",
+          "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+          "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
+          "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
         },
         {
-          "date": "2026-07-06",
-          "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
-          "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+          "date": "2026-07-07",
+          "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+          "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
+          "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"
         },
         {
-          "date": "2026-07-06",
-          "title": "Every major tech layoff in 2026 that has name-checked AI",
-          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "date": "2026-07-07",
+          "title": "Claude Cowork expands to mobile and web",
+          "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is clo",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+          "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-06",
-          "title": "欧洲人疯抢的“卡bug空调”藏着中国智造硬功夫",
-          "summary": "今年夏天，一场热浪席卷欧洲大陆，多地气温突破历史极值。空调这个曾被许多欧洲家庭视为“非必需品”的家电，突然成了“硬通货”。",
+          "date": "2026-07-07",
+          "title": "亲子研学、亲子康养……暑期到来，亲子消费迅速升温",
+          "summary": "暑期消费升温 共赴亲情时光(新视窗·聚焦暑期消费)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654019.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-08/10654739.shtml"
         },
         {
-          "date": "2026-07-06",
-          "title": "中国空调海外爆单是不是热浪红利？",
-          "summary": "刘小燕",
+          "date": "2026-07-07",
+          "title": "世界杯带热哪些消费？",
+          "summary": "当前，2026年国际足联世界杯正如火如荼地进行。观察身边，世界杯的元素无处不在：电梯广告滚动播报当日的最新战况，商场大屏的直播赛事吸引着往来顾客，街头行人的装扮里球衣、吉祥物包挂等成为常见穿搭……",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654014.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-08/10654724.shtml"
         },
         {
-          "date": "2026-07-06",
-          "title": "在车内能吃火锅、晾衣服、养鱼——汽车的这些配置，你喜欢吗？",
-          "summary": "本报记者 徐佩玉",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654012.shtml"
-        },
-        {
-          "date": "2026-07-06",
-          "title": "Best Buy and Apple flag a price shock for shoppers",
+          "date": "2026-07-07",
+          "title": "Bank of America warns America now has 2 economies",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html"
+          "url": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html"
         },
         {
-          "date": "2026-07-06",
-          "title": "Term vs. whole life insurance: Which should you choose?",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/article/term-vs-whole-life-insurance-182345773.html"
+          "date": "2026-07-07",
+          "title": "港交所上半年IPO集资额同比增长92%",
+          "summary": "中新社香港7月7日电 香港交易及结算所有限公司(简称“港交所”)7日发布公告，今年上半年首次公开招股(IPO)集资金额为2102亿港元，较去年同期的1094亿港元上升92%。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-08/10654709.shtml"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "“定西宽粉”书写黄土高原现代农业的“宽”与“广”",
+          "summary": "中新网甘肃渭源7月7日电 (杨娜)“甘味出陇”系列新闻发布活动“定西宽粉”专场7日在渭水源头甘肃省定西市渭源县举行。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654694.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-06",
-          "title": "“七七事变”89周年，中国人永不能忘！",
-          "summary": "宛平城，北京丰台一座古城",
+          "date": "2026-07-07",
+          "title": "文化和旅游部印发《旅游强国建设“十五五”规划》",
+          "summary": "为深入贯彻习近平总书记对旅游工作的重要指示精神，落实全国旅游发展大会和《中华人民共和国国民经济和社会发展第十五个五年规划纲要》部署，经国务院批复同意，文化和旅游部近日印发《旅游强国建设“十五五”规划》(以下简称《规划》)。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654029.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-08/10654732.shtml"
         },
         {
-          "date": "2026-07-06",
-          "title": "山西长治市长陈向阳辞职，龚孟建代理市长，此前当地煤矿爆炸致82人死亡",
-          "summary": "据山西长治电视台7月6日晚公开报道，当日，长治市十五届人大常委会举行第三十五次会议。会议决定任命龚孟建为长治市人民政府副市长，决定龚孟建代理长治市人民政府市长。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654024.shtml"
+          "date": "2026-07-07",
+          "title": "袭击发生之际，伊朗谴责美国重施石油制裁",
+          "summary": "中新网7月8日电 据美国有线电视新闻网(CNN)报道，伊朗谴责美国重新对德黑兰实施石油制裁，称其“明显违反”了两国2026年6月达成的谅解备忘录。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-08/10654731.shtml"
         },
         {
-          "date": "2026-07-06",
-          "title": "挪威首相斯特勒会见王毅",
-          "summary": "新华社奥斯陆7月6日电(记者张玉亮)挪威首相斯特勒6日在奥斯陆会见中共中央政治局委员、外交部长王毅。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654021.shtml"
+          "date": "2026-07-07",
+          "title": "外媒：伊朗南部港口城市发生爆炸",
+          "summary": "中新网7月8日电 据美国有线电视新闻网(CNN)报道，伊朗媒体消息称，伊朗港口城市阿巴斯港和锡里克以及格什姆岛都听到了数次爆炸声。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-08/10654730.shtml"
         },
         {
-          "date": "2026-07-06",
-          "title": "王毅同挪威外交大臣艾德会谈",
-          "summary": "新华社奥斯陆7月6日电(记者张玉亮)当地时间7月6日，中共中央政治局委员、外交部长王毅在奥斯陆同挪威外交大臣艾德举行会谈。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654020.shtml"
+          "date": "2026-07-07",
+          "title": "美军称为报复伊朗袭击商船，对伊朗发动系列打击",
+          "summary": "中新网7月8日电 据美国消费者新闻与商业频道(CNBC)报道，美国中央司令部表示，为报复伊朗袭击三艘途经霍尔木兹海峡的商船，美国于7日对伊朗发动了一系列“有力打击” 。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-08/10654726.shtml"
         },
         {
-          "date": "2026-07-06",
-          "title": "龚孟建代理山西长治市市长 原市长陈向阳辞职",
-          "summary": "中新网太原7月7日电 (陆祁国)据山西长治电视台7月6日晚公开报道，当日，长治市十五届人大常委会举行第三十五次会议。会议决定任命龚孟建为长治市人民政府副市长，决定龚孟建代理长治市人民政府市长。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-07/10654005.shtml"
+          "date": "2026-07-07",
+          "title": "美官员称对伊朗打击是“惩罚” 不是对等回应",
+          "summary": "当地时间7月7日，总台记者获悉，一名美国官员表示，美国正在对伊朗境内目标实施的军事打击“不是对等回应”，而是对伊朗近期在霍尔木兹海峡附近袭击货船作出的回应。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-08/10654725.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-06",
-          "title": "Why a Diljit Dosanjh film vanished from streaming after two days",
-          "summary": "The film's troubled journey spans years of censorship disputes, court battles and an unexpected release on a streaming platform.",
+          "date": "2026-07-07",
+          "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+          "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cly99z1w4gdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-06",
-          "title": "Can China repeat its EV success with robotaxis?",
-          "summary": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
+          "date": "2026-07-07",
+          "title": "Watch: Marine Le Pen confirms run for French presidency",
+          "summary": "The National Rally leader also said she will attempt to appeal an embezzlement conviction.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/clyexverp0lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-06",
-          "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-          "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+          "date": "2026-07-07",
+          "title": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
+          "summary": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cn59ne3vqeno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-06",
-          "title": "Trump confirms he asked Fifa to review Balogun ban",
-          "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+          "date": "2026-07-07",
+          "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+          "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-06",
-          "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-          "summary": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
+          "date": "2026-07-07",
+          "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+          "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "elder-plinius/T3MP3ST（⭐ 2626）",
+          "title": "elder-plinius/T3MP3ST（⭐ 3289）",
           "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
           "source": "GitHub",
           "url": "https://github.com/elder-plinius/T3MP3ST"
         },
         {
           "date": "GitHub Trending",
-          "title": "mekos2772/ios-location-spoofer（⭐ 1432）",
-          "summary": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+          "title": "synthetic-sciences/openscience（⭐ 1331）",
+          "summary": "The open-source AI workbench for scientific research",
           "source": "GitHub",
-          "url": "https://github.com/mekos2772/ios-location-spoofer"
+          "url": "https://github.com/synthetic-sciences/openscience"
         },
         {
           "date": "GitHub Trending",
-          "title": "HUANGCHIHHUNGLeo/claude-real-video（⭐ 1240）",
-          "summary": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-          "source": "GitHub",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "ammaarreshi/Generals-Mac-iOS-iPad（⭐ 1142）",
+          "title": "ammaarreshi/Generals-Mac-iOS-iPad（⭐ 1284）",
           "summary": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
           "source": "GitHub",
           "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
         },
         {
           "date": "GitHub Trending",
-          "title": "jamesob/local-llm（⭐ 1069）",
+          "title": "jamesob/local-llm（⭐ 1172）",
           "summary": "Everything I know about running LLMs locally",
           "source": "GitHub",
           "url": "https://github.com/jamesob/local-llm"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "MaximeRivest/riddle（⭐ 1037）",
+          "summary": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+          "source": "GitHub",
+          "url": "https://github.com/MaximeRivest/riddle"
         }
       ]
     }
