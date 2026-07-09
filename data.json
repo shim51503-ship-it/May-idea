@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-07",
-  "generatedAt": "2026-07-07T23:49:18.871Z",
+  "issueDate": "2026-07-09",
+  "generatedAt": "2026-07-09T00:01:00.917Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Meta rolls out Muse, a new AI image generator\n【金融新闻】亲子研学、亲子康养……暑期到来，亲子消费迅速升温\n【中国新闻】文化和旅游部印发《旅游强国建设“十五五”规划》\n【世界新闻】US launches strikes on Iran after tankers hit in Strait of Hormuz"
+    "body": "【AI 最新信息】Lovable reportedly in talks to double its valuation to $13.2B\n【金融新闻】四部门发文，就业创业别错过这片蓝海\n【中国新闻】联合国秘书长批评美伊重启战端，吁双方立即降级局势\n【世界新闻】US launches more strikes on Iran with blasts reported in south of country"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-07",
-          "title": "Meta rolls out Muse, a new AI image generator",
-          "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+          "date": "2026-07-08",
+          "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+          "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
+          "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/"
         },
         {
-          "date": "2026-07-07",
-          "title": "Why the rise of open source AI isn&#8217;t hurting Anthropic &#8230; yet",
-          "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+          "date": "2026-07-08",
+          "title": "Google&#8217;s deepfake detector system used to debunk McConnell hoax pic",
+          "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
+          "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/"
         },
         {
-          "date": "2026-07-07",
-          "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-          "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+          "date": "2026-07-08",
+          "title": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#8217;",
+          "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
+          "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
         },
         {
-          "date": "2026-07-07",
-          "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-          "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and ",
+          "date": "2026-07-08",
+          "title": "This startup thinks robotics is about to have its ChatGPT moment",
+          "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/"
+          "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/"
         },
         {
-          "date": "2026-07-07",
-          "title": "Claude Cowork expands to mobile and web",
-          "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is clo",
+          "date": "2026-07-08",
+          "title": "Google Photos adds a new AI &#8216;Video Remix&#8217; tool",
+          "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to v",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/"
+          "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-07",
-          "title": "亲子研学、亲子康养……暑期到来，亲子消费迅速升温",
-          "summary": "暑期消费升温 共赴亲情时光(新视窗·聚焦暑期消费)",
+          "date": "2026-07-08",
+          "title": "四部门发文，就业创业别错过这片蓝海",
+          "summary": "四部门发文推动海洋经济高质量发展——",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-08/10654739.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-09/10655575.shtml"
         },
         {
-          "date": "2026-07-07",
-          "title": "世界杯带热哪些消费？",
-          "summary": "当前，2026年国际足联世界杯正如火如荼地进行。观察身边，世界杯的元素无处不在：电梯广告滚动播报当日的最新战况，商场大屏的直播赛事吸引着往来顾客，街头行人的装扮里球衣、吉祥物包挂等成为常见穿搭……",
+          "date": "2026-07-08",
+          "title": "“黄金回国”潮加速，为什么？",
+          "summary": "本报记者 张 红",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-08/10654724.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-09/10655574.shtml"
         },
         {
-          "date": "2026-07-07",
-          "title": "Bank of America warns America now has 2 economies",
+          "date": "2026-07-08",
+          "title": "Market Update: CMCSA, GAP",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47549_MarketUpdate_1783532732000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-07-07",
-          "title": "港交所上半年IPO集资额同比增长92%",
-          "summary": "中新社香港7月7日电 香港交易及结算所有限公司(简称“港交所”)7日发布公告，今年上半年首次公开招股(IPO)集资金额为2102亿港元，较去年同期的1094亿港元上升92%。",
+          "date": "2026-07-08",
+          "title": "“圈”出家门口的幸福——重庆市社区服务升级调查",
+          "summary": "服务业贯通生产生活，关乎千行百业、千家万户。“十五五”开局起步，一系列部署密集展开，推进服务业扩能提质的路线图愈加清晰。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-08/10654709.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-08/10655531.shtml"
         },
         {
-          "date": "2026-07-07",
-          "title": "“定西宽粉”书写黄土高原现代农业的“宽”与“广”",
-          "summary": "中新网甘肃渭源7月7日电 (杨娜)“甘味出陇”系列新闻发布活动“定西宽粉”专场7日在渭水源头甘肃省定西市渭源县举行。",
+          "date": "2026-07-08",
+          "title": "量质齐升 多式联运步入发展快车道",
+          "summary": "今年，中共中央政治局会议、国务院常务会议相继提出，加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等“六张网”规划建设。2026年6月，交通运输部联合国家发展改革委等八部门印发《实施多式联运攻坚 打通堵点卡点行动方案(2026—2030年)》，为物流网提质增效明确了攻坚方向。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-07/10654694.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-08/10655530.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-07",
-          "title": "文化和旅游部印发《旅游强国建设“十五五”规划》",
-          "summary": "为深入贯彻习近平总书记对旅游工作的重要指示精神，落实全国旅游发展大会和《中华人民共和国国民经济和社会发展第十五个五年规划纲要》部署，经国务院批复同意，文化和旅游部近日印发《旅游强国建设“十五五”规划》(以下简称《规划》)。",
+          "date": "2026-07-08",
+          "title": "联合国秘书长批评美伊重启战端，吁双方立即降级局势",
+          "summary": "中新网7月9日电 据土耳其阿纳多卢通讯社报道，当地时间8日，联合国秘书长古特雷斯对美国与伊朗之间“再度紧张的关系”提出批评。报道称，早些时候，美伊相互实施军事打击，这促使美国总统特朗普宣布双方的停火“已告结束”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-09/10655578.shtml"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "2025年度国家科技奖呈现新特点",
+          "summary": "本报记者 赵永新",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-08/10654732.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-09/10655570.shtml"
         },
         {
-          "date": "2026-07-07",
-          "title": "袭击发生之际，伊朗谴责美国重施石油制裁",
-          "summary": "中新网7月8日电 据美国有线电视新闻网(CNN)报道，伊朗谴责美国重新对德黑兰实施石油制裁，称其“明显违反”了两国2026年6月达成的谅解备忘录。",
+          "date": "2026-07-08",
+          "title": "美发动新一轮打击 伊称将加倍奉还 中东局势再升级",
+          "summary": "当地时间8日，美国总统特朗普在北约峰会上称美伊谅解备忘录“已终结”，并威胁称将再次打击伊朗。伊朗方面当天则回应称，如遭打击将加倍奉还。稍晚时，伊朗多地传出爆炸声，美中央司令部称美军已对伊朗发动新一轮打击。此前，双方就曾发生军事冲突。美伊局势出现近期“最严重的升级”，停火脆弱本质凸显，谅解备忘录存续的基础已出现动摇，双方",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-08/10654731.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-09/10655569.shtml"
         },
         {
-          "date": "2026-07-07",
-          "title": "外媒：伊朗南部港口城市发生爆炸",
-          "summary": "中新网7月8日电 据美国有线电视新闻网(CNN)报道，伊朗媒体消息称，伊朗港口城市阿巴斯港和锡里克以及格什姆岛都听到了数次爆炸声。",
+          "date": "2026-07-08",
+          "title": "特朗普警告：若伊朗继续袭击船只，美军轰炸将“大幅升级”",
+          "summary": "中新网7月9日电 据法新社报道，美国总统特朗普当地时间8日警告称，如果伊朗方面继续在霍尔木兹海峡袭击过往船只，美军对伊朗的轰炸行动将大幅升级。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-08/10654730.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-09/10655567.shtml"
         },
         {
-          "date": "2026-07-07",
-          "title": "美军称为报复伊朗袭击商船，对伊朗发动系列打击",
-          "summary": "中新网7月8日电 据美国消费者新闻与商业频道(CNBC)报道，美国中央司令部表示，为报复伊朗袭击三艘途经霍尔木兹海峡的商船，美国于7日对伊朗发动了一系列“有力打击” 。",
+          "date": "2026-07-08",
+          "title": "伊朗阿巴斯港发生8起爆炸，已启动防空系统拦截",
+          "summary": "中新网7月9日电 据英国广播公司(BBC)当地时间8日援引伊朗国家电视台报道，伊朗阿巴斯港发生了8起爆炸，并称两枚导弹击中了位于伊朗南部的锡里克港和贾斯克港。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-08/10654726.shtml"
-        },
-        {
-          "date": "2026-07-07",
-          "title": "美官员称对伊朗打击是“惩罚” 不是对等回应",
-          "summary": "当地时间7月7日，总台记者获悉，一名美国官员表示，美国正在对伊朗境内目标实施的军事打击“不是对等回应”，而是对伊朗近期在霍尔木兹海峡附近袭击货船作出的回应。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-08/10654725.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-09/10655564.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-07",
-          "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-          "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+          "date": "2026-07-08",
+          "title": "US launches more strikes on Iran with blasts reported in south of country",
+          "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-07",
-          "title": "Watch: Marine Le Pen confirms run for French presidency",
-          "summary": "The National Rally leader also said she will attempt to appeal an embezzlement conviction.",
+          "date": "2026-07-08",
+          "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+          "summary": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/clyexverp0lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-07",
-          "title": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
-          "summary": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
+          "date": "2026-07-08",
+          "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
+          "summary": "Nato's secretary general insists there is \"unity\" among Nato members, but the BBC's security correspondent asks if that is really the case.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cn59ne3vqeno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-07",
-          "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-          "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
+          "date": "2026-07-08",
+          "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
+          "summary": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-07",
-          "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-          "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
+          "date": "2026-07-08",
+          "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+          "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "elder-plinius/T3MP3ST（⭐ 3289）",
-          "summary": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+          "title": "x4gKing/X4G（⭐ 2446）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/elder-plinius/T3MP3ST"
+          "url": "https://github.com/x4gKing/X4G"
         },
         {
           "date": "GitHub Trending",
-          "title": "synthetic-sciences/openscience（⭐ 1331）",
+          "title": "synthetic-sciences/openscience（⭐ 1740）",
           "summary": "The open-source AI workbench for scientific research",
           "source": "GitHub",
           "url": "https://github.com/synthetic-sciences/openscience"
         },
         {
           "date": "GitHub Trending",
-          "title": "ammaarreshi/Generals-Mac-iOS-iPad（⭐ 1284）",
+          "title": "Shpigford/knockoff（⭐ 1394）",
+          "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+          "source": "GitHub",
+          "url": "https://github.com/Shpigford/knockoff"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "ammaarreshi/Generals-Mac-iOS-iPad（⭐ 1361）",
           "summary": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
           "source": "GitHub",
           "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
         },
         {
           "date": "GitHub Trending",
-          "title": "jamesob/local-llm（⭐ 1172）",
+          "title": "jamesob/local-llm（⭐ 1272）",
           "summary": "Everything I know about running LLMs locally",
           "source": "GitHub",
           "url": "https://github.com/jamesob/local-llm"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "MaximeRivest/riddle（⭐ 1037）",
-          "summary": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-          "source": "GitHub",
-          "url": "https://github.com/MaximeRivest/riddle"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#俄乌战争 #俄烏戰爭 #台海战争 #台海戰爭 #低空经济 #低空經濟 #无人机战争 #無人機戰爭 #中国无人机 #中國無人機 #无人机蜂群 #無人機蜂群 #北",
-      "video": "这个90后男人能击败习近平？为什么说未来的台海战争/三战，中共军队大概率会战败？這個90後男人能擊敗習近平？爲什麼説未來的颱海戰爭/三戰，中共軍隊大概率會戰敗？",
-      "date": "2026-07-04",
-      "url": "https://www.youtube.com/watch?v=zhSIk_VLINg"
+      "desc": "#电影洗钱 #電影洗錢 #洗钱 #洗錢 #烂片洗钱 #爛片洗錢 #娱乐圈洗钱 #娛樂圈洗錢 #中国电影洗钱 #中國電影洗錢 #票房造假 #票房造假 #买票房 #",
+      "video": "烂片都是用来洗钱的？中国电影背后的真相大揭秘！大佬们都是怎么洗钱的？",
+      "date": "2026-07-08",
+      "url": "https://www.youtube.com/watch?v=2oS9kbNGgRY"
     },
     {
       "channel": "May Fit",
