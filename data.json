@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-09",
-  "generatedAt": "2026-07-09T23:58:27.796Z",
+  "issueDate": "2026-07-10",
+  "generatedAt": "2026-07-10T23:50:59.602Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Fidji Simo steps down from OpenAI&#8217;s no. 2 role\n【金融新闻】遭遇航班超售，这份权益保障指南请查收\n【中国新闻】伊朗圣城马什哈德发生枪击事件 致2人死亡\n【世界新闻】All the best looks from Paris Haute Couture Week 2026"
+    "body": "【AI 最新信息】Apple sues OpenAI over alleged trade secret theft\n【金融新闻】Analyst Report: Deere & Co\n【中国新闻】以色列被曝在美要求下限制在黎军事行动\n【世界新闻】Meet the crypto billionaires building a world where money buys you a vote"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-09",
-          "title": "Fidji Simo steps down from OpenAI&#8217;s no. 2 role",
-          "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that co",
+          "date": "2026-07-10",
+          "title": "Apple sues OpenAI over alleged trade secret theft",
+          "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
         },
         {
-          "date": "2026-07-09",
-          "title": "OpenAI launches its new family of models with GPT-5.6",
-          "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+          "date": "2026-07-10",
+          "title": "Open source AI matters more than ever, according to Hugging Face&#8217;s Clem Delangue",
+          "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+          "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
         },
         {
-          "date": "2026-07-09",
-          "title": "An AI agent startup just let its agent run its $100M fundraise",
-          "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+          "date": "2026-07-10",
+          "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+          "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
+          "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
         },
         {
-          "date": "2026-07-09",
-          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-          "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+          "date": "2026-07-10",
+          "title": "Hugging Face&#8217;s CEO on why companies are done renting their AI",
+          "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
+          "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/"
         },
         {
-          "date": "2026-07-09",
-          "title": "Elon Musk praises Mythos/Fable, promises not to &#8216;cut off&#8217; Anthropic",
-          "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+          "date": "2026-07-10",
+          "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
+          "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/"
+          "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-09",
-          "title": "遭遇航班超售，这份权益保障指南请查收",
-          "summary": "可免费退改签，有权要求现金补偿，若滞留航司需承担食宿交通费用",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-10/10656417.shtml"
+          "date": "2026-07-10",
+          "title": "Analyst Report: Deere & Co",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2888_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-07-09",
-          "title": "骑行经济车轮加速转动，共享单车驶向更多场景",
-          "summary": "从“最后一公里”的代步工具，到休闲运动“潮流单品”",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-10/10656416.shtml"
+          "date": "2026-07-10",
+          "title": "Analyst Report: Monster Beverage Corp",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-07-09",
-          "title": "未来5年碳达峰工作如何推进，有了清晰的“路线图”",
-          "summary": "日前，国务院印发《“十五五”碳达峰行动方案》(以下简称《行动方案》)，未来5年碳达峰工作如何推进，有了清晰的“路线图”。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-10/10656409.shtml"
+          "date": "2026-07-10",
+          "title": "Market Update: UAA, DE, MNST, MRNA",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47580_MarketUpdate_1783707526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-07-09",
-          "title": "洪涝导致财产损失，保险怎么理赔？",
-          "summary": "受台风“美莎克”影响，广西多地遭遇持续性极端强降水。南宁、贵港等地内涝严重，房屋泡水、车辆浸泡、农田倒伏，这种情况下，保险怎么理赔？",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-10/10656407.shtml"
+          "date": "2026-07-10",
+          "title": "Elon Musk SEC settlement raises 'red flags,' judge says",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html"
         },
         {
-          "date": "2026-07-09",
-          "title": "微短剧如何奔向长赛道",
-          "summary": "微短剧如何奔向长赛道(人民眼·新大众文艺)",
+          "date": "2026-07-10",
+          "title": "香港证监会与中国证监会举行高层执法合作会议",
+          "summary": "中新社香港7月10日电 据香港证券及期货事务监察委员会(简称“香港证监会”)10日消息，香港证监会近日与中国证券监督管理委员会(简称“中国证监会”)在香港召开了第十七次高层执法合作会议，以进一步加强执法协作。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-10/10656399.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-10/10657267.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-09",
-          "title": "伊朗圣城马什哈德发生枪击事件 致2人死亡",
-          "summary": "中新网7月10日电 据土耳其阿纳多卢通讯社(AA)援引伊朗伊斯兰共和国通讯社当地时间10日凌晨消息，伊朗东北部圣城马什哈德发生一起枪击事件，已造成2人死亡。",
+          "date": "2026-07-10",
+          "title": "以色列被曝在美要求下限制在黎军事行动",
+          "summary": "据以色列方面当地时间10日消息，应美国要求，以色列政府已下令军方暂缓在黎巴嫩南部开展“被视为敏感”的军事行动。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-10/10656414.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-11/10657282.shtml"
         },
         {
-          "date": "2026-07-09",
-          "title": "伯纳姆获数百名工党议员支持，有望成为英国下一任首相",
-          "summary": "中新网7月10日电 综合法新社、英国广播公司(BBC)报道，当地时间9日，英国工党启动党首提名程序。英国议会下院议员、前大曼彻斯特市长安迪·伯纳姆表示，他已自荐成为工党党首，目前是唯一候选人。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-10/10656412.shtml"
+          "date": "2026-07-10",
+          "title": "“矢志追求真理，始终把准前进方向”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之六",
+          "summary": "新华社北京7月10日电 题：“矢志追求真理，始终把准前进方向”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之六",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-11/10657281.shtml"
         },
         {
-          "date": "2026-07-09",
-          "title": "赞比亚副总统所乘直升机起飞时发生事故 机上人员安全",
-          "summary": "当地时间9日，赞比亚政府发布公告称，赞比亚一空军直升机于当天早些时候在该国穆钦加省纳孔德起飞时发生事故，所幸搭乘这架直升机的赞比亚副总统穆塔莱·纳卢曼戈以及机上其他人员均安全无恙。",
+          "date": "2026-07-10",
+          "title": "特朗普：美方已同意继续和伊朗谈判",
+          "summary": "当地时间7月10日，美国总统特朗普在其社交媒体“真实社交”发文称，伊朗希望与美方继续“谈判”，美国已同意继续谈判。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-10/10656408.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-11/10657276.shtml"
         },
         {
-          "date": "2026-07-09",
-          "title": "特朗普与内塔尼亚胡通话 通报美在海湾地区行动",
-          "summary": "中新网7月10日电 据法新社报道，当地时间9日，以色列总理办公室表示，美国总统特朗普就美方在海湾地区的行动与以色列总理内塔尼亚胡通话。早些时候，伊朗方面报道称美国发动了新一轮空袭。",
+          "date": "2026-07-10",
+          "title": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
+          "summary": "伊朗外交部发言人巴加埃10日表示，伊朗从未提出过与美国谈判的诉求，但同意调解方访问伊朗。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-10/10656403.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-11/10657275.shtml"
         },
         {
-          "date": "2026-07-09",
-          "title": "委内瑞拉地震死亡人数升至3889人",
-          "summary": "中新网7月10日电 综合外媒报道，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯9日表示，该国近日发生的两次强震已造成3889人死亡、16740人受伤。",
+          "date": "2026-07-10",
+          "title": "巴黎再度拉响高温红色警报 全法131人溺水丧生",
+          "summary": "中新社巴黎7月10日电 (记者 李洋)法国新一轮热浪当地时间10日持续，包括巴黎大区所有省份在内的24个省份再度拉响高温红色警报。法国官方称，自6月19日以来，全法已有131人因溺水身亡。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-10/10656402.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-11/10657273.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-09",
-          "title": "All the best looks from Paris Haute Couture Week 2026",
-          "summary": "Scorching temperatures in the French capital accompanied the hottest week in haute couture.",
+          "date": "2026-07-10",
+          "title": "Meet the crypto billionaires building a world where money buys you a vote",
+          "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-09",
-          "title": "US and Iran trade attacks as Khamenei is buried",
-          "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+          "date": "2026-07-10",
+          "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+          "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-09",
-          "title": "Pressure builds on Europe's biggest port to be greener",
-          "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
+          "date": "2026-07-10",
+          "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+          "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-09",
-          "title": "We saved £6,000 on holidays by swapping homes with strangers",
-          "summary": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+          "date": "2026-07-10",
+          "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+          "summary": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-09",
-          "title": "Motherhood not all warm and fuzzy: Bollywood actor's play spotlights messier side",
-          "summary": "As a society, we take mothers for granted and raising children is a thankless job, says actor Kalki Koechlin.",
+          "date": "2026-07-10",
+          "title": "Watch: Inside the 30-hour dating retreat run by monks",
+          "summary": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c04yxnlkdxzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "x4gKing/X4G（⭐ 3378）",
+          "title": "x4gKing/X4G（⭐ 4018）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/x4gKing/X4G"
         },
         {
           "date": "GitHub Trending",
-          "title": "synthetic-sciences/openscience（⭐ 1939）",
-          "summary": "The open-source AI workbench for scientific research",
+          "title": "withmarbleapp/os-taxonomy（⭐ 2102）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/synthetic-sciences/openscience"
+          "url": "https://github.com/withmarbleapp/os-taxonomy"
         },
         {
           "date": "GitHub Trending",
-          "title": "xuchonglang/investing-for-beginners（⭐ 1627）",
-          "summary": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-          "source": "GitHub",
-          "url": "https://github.com/xuchonglang/investing-for-beginners"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Shpigford/knockoff（⭐ 1566）",
+          "title": "Shpigford/knockoff（⭐ 1700）",
           "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
           "source": "GitHub",
           "url": "https://github.com/Shpigford/knockoff"
         },
         {
           "date": "GitHub Trending",
-          "title": "ammaarreshi/Generals-Mac-iOS-iPad（⭐ 1393）",
+          "title": "ammaarreshi/Generals-Mac-iOS-iPad（⭐ 1404）",
           "summary": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
           "source": "GitHub",
           "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "MaximeRivest/riddle（⭐ 1338）",
+          "summary": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+          "source": "GitHub",
+          "url": "https://github.com/MaximeRivest/riddle"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "北京禁飛區，竟然發生飛機撞上中國尊事件。一架小型飛機，如何突破北京最嚴密防空？本片帶你，完整梳理事件始末與疑點。",
-      "video": "小飛機撞上中國尊，北京最嚴禁飛區竟被突破：官方通報後，真正的疑問才剛開始【文昭思緒飛揚554】",
-      "date": "2026-07-05",
-      "url": "https://www.youtube.com/watch?v=RGAvf3jEVNs"
+      "desc": "曾經站在權力巔峰的人，為何落馬後仍享有特殊待遇？從江青、陳伯達、薄熙來到周永康，再對比美韓高官服刑制度，帶你揭開秦城監獄背後真正的特權邏輯。",
+      "video": "正國級囚犯在秦城監獄過什麼生活？重要的不是待遇，是一套不變的規則【文昭思緒飛揚555】",
+      "date": "2026-07-10",
+      "url": "https://www.youtube.com/watch?v=oQVe-QAvWVg"
     },
     {
       "channel": "夸克说",
@@ -243,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "Flova AI官网：https://www.flova.ai/?refCode=F3BXRAVF   Sign up with my link to get ",
-      "video": "最适合普通人的不露脸带货副业 Flova Agent玩转短视频！ AI赚钱 AI副业 AI创业 AI工具 Agent 自动化 短视频带货 亚马逊带货 youtube shorts 副业 普通人 赚钱",
-      "date": "2026-07-06",
-      "url": "https://www.youtube.com/watch?v=89ijWvOz0w0"
+      "desc": "哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  最近我发现，YouTube 上有很多不露脸怀旧动画频道正在疯狂变现。  它们没有旁白，没有真人",
+      "video": "不露脸Youtube频道从0到1手把手教学 AI动画一键批量生成（附提示词）免费启动赚钱的AI频道  AI副业 AI赚钱 AI搞钱 AI创业 AI工具 AI视频 AI动画 赚钱 副业 不露脸频道",
+      "date": "2026-07-10",
+      "url": "https://www.youtube.com/watch?v=_C5zIyBgLOc"
     },
     {
       "channel": "李厂长来了",
