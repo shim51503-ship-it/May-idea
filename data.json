@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-10",
-  "generatedAt": "2026-07-10T23:50:59.602Z",
+  "issueDate": "2026-07-11",
+  "generatedAt": "2026-07-11T23:44:32.009Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Apple sues OpenAI over alleged trade secret theft\n【金融新闻】Analyst Report: Deere & Co\n【中国新闻】以色列被曝在美要求下限制在黎军事行动\n【世界新闻】Meet the crypto billionaires building a world where money buys you a vote"
+    "body": "【AI 最新信息】OpenAI bets on families as ChatGPT goes deeper into households\n【金融新闻】Cathie Wood buys $22.8 million of surging tech stock\n【中国新闻】伊朗革命卫队称警告射击一违规船只 霍尔木兹海峡暂时关闭\n【世界新闻】Iran says Strait of Hormuz closed 'until further notice'"
   },
   "categories": [
     {
@@ -11,9 +11,23 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-07-11",
+          "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+          "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Meta removes controversial AI feature on Instagram after backlash",
+          "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company sai",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+        },
+        {
           "date": "2026-07-10",
           "title": "Apple sues OpenAI over alleged trade secret theft",
-          "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+          "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
         },
@@ -30,20 +44,6 @@
           "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
-        },
-        {
-          "date": "2026-07-10",
-          "title": "Hugging Face&#8217;s CEO on why companies are done renting their AI",
-          "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/"
-        },
-        {
-          "date": "2026-07-10",
-          "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
-          "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-10",
-          "title": "Analyst Report: Deere & Co",
+          "date": "2026-07-11",
+          "title": "Cathie Wood buys $22.8 million of surging tech stock",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2888_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-22-8-233000571.html"
         },
         {
-          "date": "2026-07-10",
-          "title": "Analyst Report: Monster Beverage Corp",
+          "date": "2026-07-11",
+          "title": "Warren Buffett Swears By This 1 Low-Cost Investment. History Proves He's Been Right Every Time.",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-swears-1-low-232000382.html"
         },
         {
-          "date": "2026-07-10",
-          "title": "Market Update: UAA, DE, MNST, MRNA",
+          "date": "2026-07-11",
+          "title": "Your RV Qualifies for the Same Mortgage Interest Deduction as a House, but Most Owners Never Claim It",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_47580_MarketUpdate_1783707526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+          "url": "https://finance.yahoo.com/real-estate/articles/rv-qualifies-same-mortgage-interest-230542108.html"
         },
         {
-          "date": "2026-07-10",
-          "title": "Elon Musk SEC settlement raises 'red flags,' judge says",
+          "date": "2026-07-11",
+          "title": "The Vanguard ETF Warren Buffett Endorsed in 2014 Would Have Turned $5,000 Into $20,465 Today",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-sec-settlement-raises-164700167.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-etf-warren-buffett-endorsed-225800895.html"
         },
         {
-          "date": "2026-07-10",
-          "title": "香港证监会与中国证监会举行高层执法合作会议",
-          "summary": "中新社香港7月10日电 据香港证券及期货事务监察委员会(简称“香港证监会”)10日消息，香港证监会近日与中国证券监督管理委员会(简称“中国证监会”)在香港召开了第十七次高层执法合作会议，以进一步加强执法协作。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-10/10657267.shtml"
+          "date": "2026-07-11",
+          "title": "OpenAI loses another C-suite executive ahead of IPO",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/openai-loses-another-c-suite-223300424.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-10",
-          "title": "以色列被曝在美要求下限制在黎军事行动",
-          "summary": "据以色列方面当地时间10日消息，应美国要求，以色列政府已下令军方暂缓在黎巴嫩南部开展“被视为敏感”的军事行动。",
+          "date": "2026-07-11",
+          "title": "伊朗革命卫队称警告射击一违规船只 霍尔木兹海峡暂时关闭",
+          "summary": "当地时间12日凌晨，伊朗伊斯兰革命卫队海军发布声明称，对霍尔木兹海峡内一艘船只进行警告射击。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-11/10657282.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657757.shtml"
         },
         {
-          "date": "2026-07-10",
-          "title": "“矢志追求真理，始终把准前进方向”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之六",
-          "summary": "新华社北京7月10日电 题：“矢志追求真理，始终把准前进方向”——深入学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上重要讲话系列述评之六",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-11/10657281.shtml"
+          "date": "2026-07-11",
+          "title": "委内瑞拉强震遇难人数上升至4333人",
+          "summary": "当地时间11日，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯召开新闻发布会，通报该国日前发生的强震遇难人数已上升至4333人。此外，地震造成16740人受伤，发生余震超过1200次。(总台记者 宫祥诚 廖开迪)",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657753.shtml"
         },
         {
-          "date": "2026-07-10",
-          "title": "特朗普：美方已同意继续和伊朗谈判",
-          "summary": "当地时间7月10日，美国总统特朗普在其社交媒体“真实社交”发文称，伊朗希望与美方继续“谈判”，美国已同意继续谈判。",
+          "date": "2026-07-11",
+          "title": "消息人士：阿曼提议“双航道”管理霍尔木兹海峡船只通行",
+          "summary": "总台记者7月11日获悉，据阿曼外交部消息，阿曼、伊朗双方已同意继续在技术和政治层面开展磋商。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-11/10657276.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657752.shtml"
         },
         {
-          "date": "2026-07-10",
-          "title": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
-          "summary": "伊朗外交部发言人巴加埃10日表示，伊朗从未提出过与美国谈判的诉求，但同意调解方访问伊朗。",
+          "date": "2026-07-11",
+          "title": "美伊停火面临考验 以方认为新行动窗口正出现",
+          "summary": "总台记者观察丨美伊停火面临考验 以方认为新行动窗口正出现",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-11/10657275.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657751.shtml"
         },
         {
-          "date": "2026-07-10",
-          "title": "巴黎再度拉响高温红色警报 全法131人溺水丧生",
-          "summary": "中新社巴黎7月10日电 (记者 李洋)法国新一轮热浪当地时间10日持续，包括巴黎大区所有省份在内的24个省份再度拉响高温红色警报。法国官方称，自6月19日以来，全法已有131人因溺水身亡。",
+          "date": "2026-07-11",
+          "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
+          "summary": "当地时间11日，伊朗常驻联合国代表伊拉瓦尼警告称，如果美国继续违反其义务，伊朗将不再遵守与美国签署的谅解备忘录。(总台记者 江浩宇)",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-11/10657273.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657746.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-10",
-          "title": "Meet the crypto billionaires building a world where money buys you a vote",
-          "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
+          "date": "2026-07-11",
+          "title": "Iran says Strait of Hormuz closed 'until further notice'",
+          "summary": "The IRGC says it fired a warning shot at a vessel in the strait and is warning the US not to respond with \"aggression\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-10",
-          "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
-          "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+          "date": "2026-07-11",
+          "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+          "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-10",
-          "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-          "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+          "date": "2026-07-11",
+          "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+          "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-10",
-          "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-          "summary": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
+          "date": "2026-07-11",
+          "title": "China's second typhoon in a week makes landfall",
+          "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-10",
-          "title": "Watch: Inside the 30-hour dating retreat run by monks",
-          "summary": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
+          "date": "2026-07-11",
+          "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+          "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "x4gKing/X4G（⭐ 4018）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/x4gKing/X4G"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "withmarbleapp/os-taxonomy（⭐ 2102）",
+          "title": "withmarbleapp/os-taxonomy（⭐ 2380）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/withmarbleapp/os-taxonomy"
         },
         {
           "date": "GitHub Trending",
-          "title": "Shpigford/knockoff（⭐ 1700）",
+          "title": "Shpigford/knockoff（⭐ 1767）",
           "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
           "source": "GitHub",
           "url": "https://github.com/Shpigford/knockoff"
         },
         {
           "date": "GitHub Trending",
-          "title": "ammaarreshi/Generals-Mac-iOS-iPad（⭐ 1404）",
-          "summary": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
-          "source": "GitHub",
-          "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "MaximeRivest/riddle（⭐ 1338）",
+          "title": "MaximeRivest/riddle（⭐ 1402）",
           "summary": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
           "source": "GitHub",
           "url": "https://github.com/MaximeRivest/riddle"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "oso95/scroll-world（⭐ 876）",
+          "summary": "A skill that turn any brand into a scrollable 3D world",
+          "source": "GitHub",
+          "url": "https://github.com/oso95/scroll-world"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "514-labs/dnsglobe（⭐ 815）",
+          "summary": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+          "source": "GitHub",
+          "url": "https://github.com/514-labs/dnsglobe"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#电影洗钱 #電影洗錢 #洗钱 #洗錢 #烂片洗钱 #爛片洗錢 #娱乐圈洗钱 #娛樂圈洗錢 #中国电影洗钱 #中國電影洗錢 #票房造假 #票房造假 #买票房 #",
-      "video": "烂片都是用来洗钱的？中国电影背后的真相大揭秘！大佬们都是怎么洗钱的？",
-      "date": "2026-07-08",
-      "url": "https://www.youtube.com/watch?v=2oS9kbNGgRY"
+      "desc": "#演员高片酬 #演員高片酬 #明星高片酬 #明星高片酬 #天价片酬 #天價片酬 #中国电影 #中國電影 #中国烂片 #中國爛片 #烂片为什么多 #爛片為什麼多 ",
+      "video": "为什么中国演员拿着天价片酬，还总拍烂片？爲什麼中國演員拿着天價片酬，還總拍爛片？夸克说|誇克说",
+      "date": "2026-07-11",
+      "url": "https://www.youtube.com/watch?v=H5k8-dxaAzs"
     },
     {
       "channel": "May Fit",
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔗 免費下載Cowork OS操作系統: https://lichangzhangai.kit.com/b3bd5ffc1b 如果沒有收到邮件，記得去垃圾邮箱",
-      "video": "我搭了一套 Claude Cowork 自動化系統，模板免費送！",
-      "date": "2026-07-04",
-      "url": "https://www.youtube.com/watch?v=VIjCRqSX4ag"
+      "desc": "🔥 NotebookLM 2.0 彻底变了！它已经不只是帮你读资料的 AI 笔记工具，而是能主动找资料、发现信息缺口，并直接生成简报、影片、信息图、报告和数据",
+      "video": "NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！",
+      "date": "2026-07-11",
+      "url": "https://www.youtube.com/watch?v=mBoxAlg7V3M"
     }
   ]
 }
