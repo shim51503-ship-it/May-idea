@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-11",
-  "generatedAt": "2026-07-11T23:44:32.009Z",
+  "issueDate": "2026-07-12",
+  "generatedAt": "2026-07-12T23:43:44.834Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】OpenAI bets on families as ChatGPT goes deeper into households\n【金融新闻】Cathie Wood buys $22.8 million of surging tech stock\n【中国新闻】伊朗革命卫队称警告射击一违规船只 霍尔木兹海峡暂时关闭\n【世界新闻】Iran says Strait of Hormuz closed 'until further notice'"
+    "body": "【AI 最新信息】OpenAI bets on families as ChatGPT goes deeper into households\n【金融新闻】Palantir CEO has a blunt verdict on OpenAI and Anthropic\n【中国新闻】外媒：科威特边境哨所与海上石油平台遭袭，地区局势紧张\n【世界新闻】At least 27 killed in Bangkok bar fire"
   },
   "categories": [
     {
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-11",
-          "title": "Cathie Wood buys $22.8 million of surging tech stock",
+          "date": "2026-07-12",
+          "title": "Palantir CEO has a blunt verdict on OpenAI and Anthropic",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-22-8-233000571.html"
+          "url": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-blunt-verdict-openai-233700235.html"
         },
         {
-          "date": "2026-07-11",
-          "title": "Warren Buffett Swears By This 1 Low-Cost Investment. History Proves He's Been Right Every Time.",
+          "date": "2026-07-12",
+          "title": "50-year-old boat builder files Chapter 7 and won't deliver",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-swears-1-low-232000382.html"
+          "url": "https://finance.yahoo.com/economy/articles/50-old-boat-builder-files-232831357.html"
         },
         {
-          "date": "2026-07-11",
-          "title": "Your RV Qualifies for the Same Mortgage Interest Deduction as a House, but Most Owners Never Claim It",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/real-estate/articles/rv-qualifies-same-mortgage-interest-230542108.html"
+          "date": "2026-07-12",
+          "title": "发行规模、存量双双创新高 熊猫债成“香饽饽”",
+          "summary": "熊猫债火了",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-13/10658081.shtml"
         },
         {
-          "date": "2026-07-11",
-          "title": "The Vanguard ETF Warren Buffett Endorsed in 2014 Would Have Turned $5,000 Into $20,465 Today",
+          "date": "2026-07-12",
+          "title": "Better Financial Sector ETF: European-Focused iShares EUFN vs. State Street KBE Targeting U.S. Banks",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-etf-warren-buffett-endorsed-225800895.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-financial-sector-etf-european-231601456.html"
         },
         {
-          "date": "2026-07-11",
-          "title": "OpenAI loses another C-suite executive ahead of IPO",
+          "date": "2026-07-12",
+          "title": "Here’s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/openai-loses-another-c-suite-223300424.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-beat-stock-market-070110170.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-11",
-          "title": "伊朗革命卫队称警告射击一违规船只 霍尔木兹海峡暂时关闭",
-          "summary": "当地时间12日凌晨，伊朗伊斯兰革命卫队海军发布声明称，对霍尔木兹海峡内一艘船只进行警告射击。",
+          "date": "2026-07-12",
+          "title": "外媒：科威特边境哨所与海上石油平台遭袭，地区局势紧张",
+          "summary": "中新网7月13日电 据土耳其阿纳多卢通讯社报道，当地时间12日，科威特武装部队总参谋部表示，该国北部陆地多个边境哨所和一座海上石油平台当日遭袭，已致部分财产损失和一名工人受伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657757.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-13/10658084.shtml"
         },
         {
-          "date": "2026-07-11",
-          "title": "委内瑞拉强震遇难人数上升至4333人",
-          "summary": "当地时间11日，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯召开新闻发布会，通报该国日前发生的强震遇难人数已上升至4333人。此外，地震造成16740人受伤，发生余震超过1200次。(总台记者 宫祥诚 廖开迪)",
+          "date": "2026-07-12",
+          "title": "泰国曼谷酒吧火灾致27死63伤 总理亲赴现场下令彻查",
+          "summary": "中新网7月13日电 据英国《卫报》报道，泰国官方13日表示，12日深夜，泰国首都曼谷一家酒吧发生火灾，造成至少27人死亡、数十人受伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657753.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-13/10658080.shtml"
         },
         {
-          "date": "2026-07-11",
-          "title": "消息人士：阿曼提议“双航道”管理霍尔木兹海峡船只通行",
-          "summary": "总台记者7月11日获悉，据阿曼外交部消息，阿曼、伊朗双方已同意继续在技术和政治层面开展磋商。",
+          "date": "2026-07-12",
+          "title": "伊朗：美国最新袭击令数月外交努力“付诸东流”",
+          "summary": "中新网7月13日电 据法新社13日报道，伊朗谴责美国对其领土发动的最新一轮袭击，称此举令过去数月的一切外交努力“付诸东流”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657752.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-13/10658079.shtml"
         },
         {
-          "date": "2026-07-11",
-          "title": "美伊停火面临考验 以方认为新行动窗口正出现",
-          "summary": "总台记者观察丨美伊停火面临考验 以方认为新行动窗口正出现",
+          "date": "2026-07-12",
+          "title": "美军中央司令部：对伊朗发起新一轮打击 伊朗多地传出爆炸声",
+          "summary": "中新网7月13日电 综合报道，当地时间12日，美军中央司令部在社交媒体平台表示，美东时间12日17时，美军开始对伊朗发起新一轮打击，旨在“继续削弱其攻击霍尔木兹海峡商船的能力”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657751.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-13/10658077.shtml"
         },
         {
-          "date": "2026-07-11",
-          "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
-          "summary": "当地时间11日，伊朗常驻联合国代表伊拉瓦尼警告称，如果美国继续违反其义务，伊朗将不再遵守与美国签署的谅解备忘录。(总台记者 江浩宇)",
+          "date": "2026-07-12",
+          "title": "美国国会参议员格雷厄姆突发急病去世 终年71岁",
+          "summary": "中新社华盛顿7月12日电 (记者 沙晗汀)美国国会共和党籍参议员林赛·格雷厄姆11日晚突发急病在华盛顿去世，终年71岁。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-12/10657746.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-13/10658068.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-11",
-          "title": "Iran says Strait of Hormuz closed 'until further notice'",
-          "summary": "The IRGC says it fired a warning shot at a vessel in the strait and is warning the US not to respond with \"aggression\".",
+          "date": "2026-07-12",
+          "title": "At least 27 killed in Bangkok bar fire",
+          "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-07-12",
+          "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+          "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-11",
-          "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-          "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+          "date": "2026-07-12",
+          "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+          "summary": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-11",
-          "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-          "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+          "date": "2026-07-12",
+          "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+          "summary": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-11",
-          "title": "China's second typhoon in a week makes landfall",
-          "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+          "date": "2026-07-12",
+          "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+          "summary": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-07-11",
-          "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-          "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "withmarbleapp/os-taxonomy（⭐ 2380）",
+          "title": "withmarbleapp/os-taxonomy（⭐ 2684）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/withmarbleapp/os-taxonomy"
         },
         {
           "date": "GitHub Trending",
-          "title": "Shpigford/knockoff（⭐ 1767）",
+          "title": "Shpigford/knockoff（⭐ 1822）",
           "summary": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
           "source": "GitHub",
           "url": "https://github.com/Shpigford/knockoff"
         },
         {
           "date": "GitHub Trending",
-          "title": "MaximeRivest/riddle（⭐ 1402）",
-          "summary": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-          "source": "GitHub",
-          "url": "https://github.com/MaximeRivest/riddle"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "oso95/scroll-world（⭐ 876）",
+          "title": "oso95/scroll-world（⭐ 1235）",
           "summary": "A skill that turn any brand into a scrollable 3D world",
           "source": "GitHub",
           "url": "https://github.com/oso95/scroll-world"
         },
         {
           "date": "GitHub Trending",
-          "title": "514-labs/dnsglobe（⭐ 815）",
-          "summary": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+          "title": "Robbyant/lingbot-world-v2（⭐ 918）",
+          "summary": "Infinite Worlds with Versatile Interactions",
           "source": "GitHub",
-          "url": "https://github.com/514-labs/dnsglobe"
+          "url": "https://github.com/Robbyant/lingbot-world-v2"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "x4gKing/3x-ui-Upgrade（⭐ 886）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/x4gKing/3x-ui-Upgrade"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "曾經站在權力巔峰的人，為何落馬後仍享有特殊待遇？從江青、陳伯達、薄熙來到周永康，再對比美韓高官服刑制度，帶你揭開秦城監獄背後真正的特權邏輯。",
-      "video": "正國級囚犯在秦城監獄過什麼生活？重要的不是待遇，是一套不變的規則【文昭思緒飛揚555】",
-      "date": "2026-07-10",
-      "url": "https://www.youtube.com/watch?v=oQVe-QAvWVg"
+      "desc": "一次領英私信，如何演變成震驚美國的12億美元敲詐案？從華爾街金融巨頭與環保名媛的約會，到FBI調查，發現AI換臉欺詐，再到外國代理人滲透疑雲，本案遠比桃色新聞複",
+      "video": "中國美女見了NBA富豪三次，竟敢勒索$12億！為何越查越不尋常？【文昭思緒飛揚556】",
+      "date": "2026-07-12",
+      "url": "https://www.youtube.com/watch?v=2oYiamBEhWY"
     },
     {
       "channel": "夸克说",
