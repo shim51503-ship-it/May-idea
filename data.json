@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-13",
-  "generatedAt": "2026-07-13T23:44:03.800Z",
+  "issueDate": "2026-07-14",
+  "generatedAt": "2026-07-14T23:43:00.770Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Hermes agent maker Nous Research in talks for new funding at $1.5B valuation\n【金融新闻】银行业保险业加强网络安全监管\n【中国新闻】国家防办向吉林紧急调拨中央防汛物资 支持做好防汛抢险工作\n【世界新闻】UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes"
+    "body": "【AI 最新信息】Lorde says AI glasses are &#8220;not sexy&#8221;\n【金融新闻】创业板制度革新落地见效\n【中国新闻】中国公共卫生专家组赴“突发事件管理支持小组”支援埃博拉疫情防控\n【世界新闻】How a former 'street kid' is key to South Africa's police corruption inquiry"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-13",
-          "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-          "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+          "date": "2026-07-14",
+          "title": "Lorde says AI glasses are &#8220;not sexy&#8221;",
+          "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said on stage.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
+          "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/"
         },
         {
-          "date": "2026-07-13",
-          "title": "Satya Nadella has issued a shocking warning to companies using AI",
-          "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that t",
+          "date": "2026-07-14",
+          "title": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move",
+          "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is de",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"
+          "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/"
         },
         {
-          "date": "2026-07-13",
-          "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-          "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that j",
+          "date": "2026-07-14",
+          "title": "OpenAI pushes back on Apple trade secret lawsuit",
+          "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
+          "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/"
         },
         {
-          "date": "2026-07-13",
-          "title": "Sam Altman&#8217;s space data center trash talk is what most experts already believe",
-          "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.",
+          "date": "2026-07-14",
+          "title": "OpenAI&#8217;s new flagship model deletes files on its own, people keep warning",
+          "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/"
+          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
         },
         {
-          "date": "2026-07-13",
-          "title": "Should AI help you get away with killing your spouse?",
-          "summary": "What does a world of total user-aligned AI actually look like?",
+          "date": "2026-07-14",
+          "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+          "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, gi",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/"
+          "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-13",
-          "title": "银行业保险业加强网络安全监管",
-          "summary": "银行业保险业加强网络安全监管",
+          "date": "2026-07-14",
+          "title": "创业板制度革新落地见效",
+          "summary": "今年4月10日，中国证监会发布《关于深化创业板改革 更好服务新质生产力发展的意见》(以下简称《意见》)，深化创业板改革正式启动。如今，本轮改革已满3个月，随着各项政策举措落地见效，已有越来越多优质创新企业与投资者从中获益。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-14/10658727.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659413.shtml"
         },
         {
-          "date": "2026-07-13",
-          "title": "中国汽车深入欧洲日常",
-          "summary": "今年5月，中国车企在欧洲的月度新车注册量首次超越日本车企——",
+          "date": "2026-07-14",
+          "title": "遇到航班超售，如何保障权益",
+          "summary": "暑期出行高峰将至，航班超售现象再次进入公众视野。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-14/10658726.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659409.shtml"
         },
         {
-          "date": "2026-07-13",
-          "title": "宠物保险该不该买？怎么买？一文讲清",
-          "summary": "饲养宠物是人们缓解压力的途径之一，相关领域的消费已成为拉动国内消费增长的新引擎。行业数据显示，2020年宠物保险保费规模仅约5000万元，2025年则达30亿至35亿元，连续五年实现规模翻倍，成为财险领域增速最快的细分赛道之一。",
+          "date": "2026-07-14",
+          "title": "中国船，何以持续领航全球",
+          "summary": "眼下，千行百业中，哪个行业称得上“火”？有人选择新能源汽车、人形机器人，还有很多人会把目光投向一个重要的传统产业——造船业。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-14/10658721.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659408.shtml"
         },
         {
-          "date": "2026-07-13",
-          "title": "宁夏全面启动成本预算绩效管理改革",
-          "summary": "中新网银川7月13日电 (记者 于晶)7月13日，记者从宁夏回族自治区财政厅获悉，宁夏财政部门已全面启动成本预算绩效管理改革，旨在深入贯彻落实财政部关于加强财政科学管理、深化零基预算改革的要求，推动财政资金从“重投入”向“重效益”转变，切实提高资金使用效益。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-13/10658681.shtml"
+          "date": "2026-07-14",
+          "title": "Analyst Report: Fedex Corp",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2965_AnalystReport_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-07-13",
-          "title": "宁夏出台电信行业人工智能业务安全保护方案",
-          "summary": "中新网银川7月13日电 (记者 于晶)7月13日，记者从宁夏通信管理局获悉，该单位正式出台《宁夏电信行业人工智能业务安全保护方案(试行)》(以下简称《方案》)，紧扣人工智能技术运行特性与电信行业业务场景，从基础设施、网络防护、数据治理、算法应用等维度，进一步明确企业主体责任，健全行业安全监管体系，全面提升宁夏电信行业人",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-13/10658668.shtml"
+          "date": "2026-07-14",
+          "title": "Market Update: FDX, JPM, VFC",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47607_MarketUpdate_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-13",
-          "title": "国家防办向吉林紧急调拨中央防汛物资 支持做好防汛抢险工作",
-          "summary": "7月13日，应吉林省防汛抗旱指挥部请求，国家防办会同国家粮食和储备局紧急调拨编织袋、复膜编织布、长丝土工布、网箱网兜、照明设备等4300余件中央防汛物资，支持吉林做好防汛抢险工作。",
+          "date": "2026-07-14",
+          "title": "中国公共卫生专家组赴“突发事件管理支持小组”支援埃博拉疫情防控",
+          "summary": "记者从国家疾病预防控制局获悉，应非洲疾控中心和世界卫生组织的联合邀请，今日(7月15日)凌晨，我国赴“突发事件管理支持小组”(IMST)公共卫生专家组从北京启程，前往乌干达，协同开展埃博拉疫情的防控国际合作。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-15/10659423.shtml"
+        },
+        {
+          "date": "2026-07-14",
+          "title": "一场80年前的讲演，为何至今仍被铭记",
+          "summary": "1946年7月15日",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-14/10658737.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-15/10659422.shtml"
         },
         {
-          "date": "2026-07-13",
-          "title": "委内瑞拉地震已致4561人死亡、16740人受伤",
-          "summary": "中新网7月14日电 当地时间13日，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯在社交媒体发文称，该国6月24日发生的两次强震已造成4561人死亡、16740人受伤。",
+          "date": "2026-07-14",
+          "title": "美国连续四晚对伊朗实施打击",
+          "summary": "中新网7月15日电 据美国哥伦比亚广播公司(CBS)报道，一名美国官员证实，美国军方在当地时间14日对伊朗境内军事目标实施了多次打击。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-14/10658734.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-15/10659420.shtml"
         },
         {
-          "date": "2026-07-13",
-          "title": "美已故参议员格雷厄姆之妹将暂时接替其参议员席位",
-          "summary": "中新社华盛顿7月13日电 (记者 沙晗汀)美国南卡罗来纳州长亨利·麦克马斯特当地时间13日宣布，已故联邦参议员林赛·格雷厄姆的妹妹达琳·格雷厄姆·诺多内(Darline Graham Nordone)将接替格雷厄姆完成其剩余参议员任期。",
+          "date": "2026-07-14",
+          "title": "伊朗军方：无人机击中美军驻约旦基地",
+          "summary": "中新网7月15日电 据俄罗斯卫星通讯社15日报道，伊朗军方称，无人机击中了美军驻约旦阿兹拉克基地。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-14/10658730.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-15/10659419.shtml"
         },
         {
-          "date": "2026-07-13",
-          "title": "南非冬季传统成年礼已致35人死亡",
-          "summary": "中新社约翰内斯堡7月13日电 (记者 孙翔)南非冬季传统成年礼再度蒙上阴影。南非联合执政与传统事务部13日发布公告称，截至7月12日，今年冬季成年礼期间已有35名青年在仪式中死亡，另有75人因伤病住院，180人从非法成年礼学校被解救出来。",
+          "date": "2026-07-14",
+          "title": "美国重启对伊朗港口的封锁",
+          "summary": "中新网7月15日电 据美国哥伦比亚广播公司(CBS)报道，美国中央司令部表示，应美国总统特朗普的命令，美国军方于美国东部时间14日16时恢复了对伊朗港口的封锁。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-14/10658733.shtml"
-        },
-        {
-          "date": "2026-07-13",
-          "title": "外媒：乌克兰总理向议会递交辞呈",
-          "summary": "中新网7月14日电 据外媒当地时间13日报道，乌克兰议长斯特凡丘克在社交媒体发布声明称，乌最高拉达(议会)收到乌总理斯维里坚科递交的辞呈，将于近日按既定程序对斯维里坚科辞职进行审议。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-14/10658732.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-15/10659418.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-13",
-          "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-          "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
+          "date": "2026-07-14",
+          "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
+          "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-13",
-          "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-          "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+          "date": "2026-07-14",
+          "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+          "summary": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-13",
-          "title": "Lindsey Graham's sister chosen as replacement after senator's death",
-          "summary": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
+          "date": "2026-07-14",
+          "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
+          "summary": "The BBC's Barbara Plett Usher examines the latest tensions over the key international shipping channel.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-13",
-          "title": "Hungary parliament votes to remove president from office",
-          "summary": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+          "date": "2026-07-14",
+          "title": "Wife describes moment husband nearly sucked out of Ryanair plane",
+          "summary": "A man was nearly sucked head-first out of a cabin window mid-air on a Ryanair plane.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cd959ygx8g7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-13",
-          "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-          "summary": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
+          "date": "2026-07-14",
+          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+          "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "withmarbleapp/os-taxonomy（⭐ 2902）",
+          "title": "withmarbleapp/os-taxonomy（⭐ 3047）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/withmarbleapp/os-taxonomy"
         },
         {
           "date": "GitHub Trending",
-          "title": "Robbyant/lingbot-world-v2（⭐ 1026）",
+          "title": "Robbyant/lingbot-world-v2（⭐ 1109）",
           "summary": "Infinite Worlds with Versatile Interactions",
           "source": "GitHub",
           "url": "https://github.com/Robbyant/lingbot-world-v2"
         },
         {
           "date": "GitHub Trending",
-          "title": "x4gKing/3x-ui-Upgrade（⭐ 954）",
+          "title": "x4gKing/3x-ui-Upgrade（⭐ 1028）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/x4gKing/3x-ui-Upgrade"
         },
         {
           "date": "GitHub Trending",
-          "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin（⭐ 851）",
-          "summary": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+          "title": "MDX-Tom/gpt-5.6-instruct（⭐ 995）",
+          "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
           "source": "GitHub",
-          "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin"
+          "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
         },
         {
           "date": "GitHub Trending",
-          "title": "Robbyant/lingbot-video（⭐ 754）",
-          "summary": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+          "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin（⭐ 964）",
+          "summary": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
           "source": "GitHub",
-          "url": "https://github.com/Robbyant/lingbot-video"
+          "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin"
         }
       ]
     }
