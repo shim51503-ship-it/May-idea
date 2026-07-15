@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-14",
-  "generatedAt": "2026-07-14T23:43:00.770Z",
+  "issueDate": "2026-07-15",
+  "generatedAt": "2026-07-15T23:51:32.182Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Lorde says AI glasses are &#8220;not sexy&#8221;\n【金融新闻】创业板制度革新落地见效\n【中国新闻】中国公共卫生专家组赴“突发事件管理支持小组”支援埃博拉疫情防控\n【世界新闻】How a former 'street kid' is key to South Africa's police corruption inquiry"
+    "body": "【AI 最新信息】Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex\n【金融新闻】盲勺概率不透明等玩法暗藏风险 警惕“惊喜经济”侵害消费者权益\n【中国新闻】“天府乐土——四川汉代画像艺术展”在柏林开幕\n【世界新闻】A Cold War bunker gets a luxury makeover as 'doomsday' condos"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-14",
-          "title": "Lorde says AI glasses are &#8220;not sexy&#8221;",
-          "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said on stage.",
+          "date": "2026-07-15",
+          "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+          "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/"
+          "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
         },
         {
-          "date": "2026-07-14",
-          "title": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move",
-          "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is de",
+          "date": "2026-07-15",
+          "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+          "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after Space",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/"
+          "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/"
         },
         {
-          "date": "2026-07-14",
-          "title": "OpenAI pushes back on Apple trade secret lawsuit",
-          "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+          "date": "2026-07-15",
+          "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+          "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/"
+          "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
         },
         {
-          "date": "2026-07-14",
-          "title": "OpenAI&#8217;s new flagship model deletes files on its own, people keep warning",
-          "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+          "date": "2026-07-15",
+          "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+          "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
+          "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/"
         },
         {
-          "date": "2026-07-14",
-          "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-          "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, gi",
+          "date": "2026-07-15",
+          "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+          "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will b",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/"
+          "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-14",
-          "title": "创业板制度革新落地见效",
-          "summary": "今年4月10日，中国证监会发布《关于深化创业板改革 更好服务新质生产力发展的意见》(以下简称《意见》)，深化创业板改革正式启动。如今，本轮改革已满3个月，随着各项政策举措落地见效，已有越来越多优质创新企业与投资者从中获益。",
+          "date": "2026-07-15",
+          "title": "盲勺概率不透明等玩法暗藏风险 警惕“惊喜经济”侵害消费者权益",
+          "summary": "盲勺概率不透明等玩法暗藏风险 专家提醒",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659413.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-16/10660167.shtml"
         },
         {
-          "date": "2026-07-14",
-          "title": "遇到航班超售，如何保障权益",
-          "summary": "暑期出行高峰将至，航班超售现象再次进入公众视野。",
+          "date": "2026-07-15",
+          "title": "从备用水源加快走向民生和工业等领域 海水淡化不再只是“应急之选”",
+          "summary": "“十五五”规划纲要提出，“壮大海洋生物医药、海水淡化等海洋新兴产业”。自然资源部海洋战略规划与经济司前不久发布《2025年全国海水利用报告》，报告显示，截至2025年底，全国现有海水淡化工程167个，工程规模307.7万吨/日，比2024年增加了22.1万吨/日。向海要水，正在从“应急之选”走向“战略之选”。我国海水淡",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659409.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-16/10660155.shtml"
         },
         {
-          "date": "2026-07-14",
-          "title": "中国船，何以持续领航全球",
-          "summary": "眼下，千行百业中，哪个行业称得上“火”？有人选择新能源汽车、人形机器人，还有很多人会把目光投向一个重要的传统产业——造船业。",
+          "date": "2026-07-15",
+          "title": "夏日消费市场活力持续释放",
+          "summary": "【经济界面】",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-15/10659408.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-16/10660154.shtml"
         },
         {
-          "date": "2026-07-14",
-          "title": "Analyst Report: Fedex Corp",
+          "date": "2026-07-15",
+          "title": "全年最热时段来了！保电、制冰、避暑旅游全安排",
+          "summary": "7月15日正式入伏，一年中最闷热难耐的40天正式拉开大幕。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-16/10660153.shtml"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Analyst Report: Morgan Stanley",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2965_AnalystReport_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-07-14",
-          "title": "Market Update: FDX, JPM, VFC",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_47607_MarketUpdate_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3211_AnalystReport_1784138527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-14",
-          "title": "中国公共卫生专家组赴“突发事件管理支持小组”支援埃博拉疫情防控",
-          "summary": "记者从国家疾病预防控制局获悉，应非洲疾控中心和世界卫生组织的联合邀请，今日(7月15日)凌晨，我国赴“突发事件管理支持小组”(IMST)公共卫生专家组从北京启程，前往乌干达，协同开展埃博拉疫情的防控国际合作。",
+          "date": "2026-07-15",
+          "title": "“天府乐土——四川汉代画像艺术展”在柏林开幕",
+          "summary": "中新社柏林7月15日电(记者 马秀秀)“天府乐土——四川汉代画像艺术展”15日在柏林开幕，吸引德国各界嘉宾共150余人出席。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-15/10659423.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-16/10660172.shtml"
         },
         {
-          "date": "2026-07-14",
-          "title": "一场80年前的讲演，为何至今仍被铭记",
-          "summary": "1946年7月15日",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-15/10659422.shtml"
+          "date": "2026-07-15",
+          "title": "巴西上调通胀预期至5.1%",
+          "summary": "中新社圣保罗7月15日电 巴西财政部15日发布《宏观财政公报》显示，受中东局势及厄尔尼诺现象潜在影响，政府将2026年全国广义消费者物价指数(IPCA)涨幅预测由5月的4.5%上调至5.1%；维持2026年国内生产总值(GDP)增长2.3%的预测不变。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-16/10660162.shtml"
         },
         {
-          "date": "2026-07-14",
-          "title": "美国连续四晚对伊朗实施打击",
-          "summary": "中新网7月15日电 据美国哥伦比亚广播公司(CBS)报道，一名美国官员证实，美国军方在当地时间14日对伊朗境内军事目标实施了多次打击。",
+          "date": "2026-07-15",
+          "title": "委内瑞拉强震已致4829人死亡16740人受伤",
+          "summary": "中新网7月16日电 委内瑞拉全国代表大会主席豪尔赫·罗德里格斯15日在社交媒体发文表示，该国6月24日发生的强震已造成4829人死亡、16740人受伤。委官方最新统计数据显示，自强震发生以来，已记录到1284次余震。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-15/10659420.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-16/10660171.shtml"
         },
         {
-          "date": "2026-07-14",
-          "title": "伊朗军方：无人机击中美军驻约旦基地",
-          "summary": "中新网7月15日电 据俄罗斯卫星通讯社15日报道，伊朗军方称，无人机击中了美军驻约旦阿兹拉克基地。",
+          "date": "2026-07-15",
+          "title": "美中央司令部：针对伊朗发起当日第二波打击行动",
+          "summary": "中新网7月16日电 美军中央司令部15日在社交媒体发文说，美军于美国东部时间15日15时(北京时间16日3时)对伊朗发起当天的第二波打击行动。此次打击旨在削弱伊朗威胁霍尔木兹海峡船只航行的军事能力。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-15/10659419.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-16/10660163.shtml"
         },
         {
-          "date": "2026-07-14",
-          "title": "美国重启对伊朗港口的封锁",
-          "summary": "中新网7月15日电 据美国哥伦比亚广播公司(CBS)报道，美国中央司令部表示，应美国总统特朗普的命令，美国军方于美国东部时间14日16时恢复了对伊朗港口的封锁。",
+          "date": "2026-07-15",
+          "title": "美军通报：击中一艘试图驶向伊朗港口的油轮",
+          "summary": "中新网7月16日电 美军中央司令部15日在社交媒体发布消息说，美军针对伊朗实施了海上封锁措施，向一艘试图驶向伊朗港口的空载油轮发射导弹，使其失去航行能力。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-15/10659418.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-16/10660161.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-14",
-          "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
-          "summary": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
+          "date": "2026-07-15",
+          "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+          "summary": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-14",
-          "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-          "summary": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
+          "date": "2026-07-15",
+          "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+          "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-14",
-          "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
-          "summary": "The BBC's Barbara Plett Usher examines the latest tensions over the key international shipping channel.",
+          "date": "2026-07-15",
+          "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+          "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-14",
-          "title": "Wife describes moment husband nearly sucked out of Ryanair plane",
-          "summary": "A man was nearly sucked head-first out of a cabin window mid-air on a Ryanair plane.",
+          "date": "2026-07-15",
+          "title": "Argentina face fine for Falklands banner in semi-final win",
+          "summary": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of their country'",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cd959ygx8g7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-14",
-          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-          "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+          "date": "2026-07-15",
+          "title": "US military to start testosterone testing, Hegseth says",
+          "summary": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "withmarbleapp/os-taxonomy（⭐ 3047）",
-          "summary": "（该仓库未填写描述）",
+          "title": "xai-org/grok-build（⭐ 2070）",
+          "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
           "source": "GitHub",
-          "url": "https://github.com/withmarbleapp/os-taxonomy"
+          "url": "https://github.com/xai-org/grok-build"
         },
         {
           "date": "GitHub Trending",
-          "title": "Robbyant/lingbot-world-v2（⭐ 1109）",
-          "summary": "Infinite Worlds with Versatile Interactions",
-          "source": "GitHub",
-          "url": "https://github.com/Robbyant/lingbot-world-v2"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "x4gKing/3x-ui-Upgrade（⭐ 1028）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/x4gKing/3x-ui-Upgrade"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "MDX-Tom/gpt-5.6-instruct（⭐ 995）",
+          "title": "MDX-Tom/gpt-5.6-instruct（⭐ 1321）",
           "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
           "source": "GitHub",
           "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
         },
         {
           "date": "GitHub Trending",
-          "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin（⭐ 964）",
+          "title": "littledivy/mimic（⭐ 1013）",
+          "summary": "Intercept any app, then call it from Python like a library",
+          "source": "GitHub",
+          "url": "https://github.com/littledivy/mimic"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin（⭐ 1010）",
           "summary": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
           "source": "GitHub",
           "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "mereyabdenbekuly-ctrl/clodex-ide（⭐ 810）",
+          "summary": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+          "source": "GitHub",
+          "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#演员高片酬 #演員高片酬 #明星高片酬 #明星高片酬 #天价片酬 #天價片酬 #中国电影 #中國電影 #中国烂片 #中國爛片 #烂片为什么多 #爛片為什麼多 ",
-      "video": "为什么中国演员拿着天价片酬，还总拍烂片？爲什麼中國演員拿着天價片酬，還總拍爛片？夸克说|誇克说",
-      "date": "2026-07-11",
-      "url": "https://www.youtube.com/watch?v=H5k8-dxaAzs"
+      "desc": "#张内咸 #張內鹹 #张内咸被抓 #張內鹹被抓 #张内咸被捕 #張內鹹被捕 #张内咸脱口秀 #張內鹹脫口秀 #YouTube博主被抓 #刑事拘留 #寻衅滋事 #",
+      "video": "张内咸被抓：他会被判多久？他还有机会离开中国吗？張內鹹被抓：他會被判多久？他還有機會離開中國嗎？夸克说|誇克说",
+      "date": "2026-07-15",
+      "url": "https://www.youtube.com/watch?v=CiPyN3WU_3Y"
     },
     {
       "channel": "May Fit",
