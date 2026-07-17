@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-16",
-  "generatedAt": "2026-07-16T23:51:31.720Z",
+  "issueDate": "2026-07-17",
+  "generatedAt": "2026-07-17T23:43:19.368Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Google Vids now lets you star in your own AI videos\n【金融新闻】拓展特色品类 各地补贴分层惠民撬动万亿消费\n【中国新闻】外媒：尼加拉瓜宣布与意大利断交\n【世界新闻】One man's hunger strike changed India's map. Can it still change politics?"
+    "body": "【AI 最新信息】Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs\n【金融新闻】在这场大会 感受人工智能的“智”与“志”\n【中国新闻】美军发动新一轮空袭 伊朗多地传出爆炸声\n【世界新闻】Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-16",
-          "title": "Google Vids now lets you star in your own AI videos",
-          "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for ",
+          "date": "2026-07-17",
+          "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
+          "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
+          "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
         },
         {
-          "date": "2026-07-16",
-          "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-          "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+          "date": "2026-07-17",
+          "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
+          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/"
+          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
         },
         {
-          "date": "2026-07-16",
-          "title": "Google&#8217;s AI Mode now lets you link and interact with select apps",
-          "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+          "date": "2026-07-17",
+          "title": "The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;",
+          "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
+          "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/"
         },
         {
-          "date": "2026-07-16",
-          "title": "Yes, you can now order DoorDash from the command line",
-          "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the termi",
+          "date": "2026-07-17",
+          "title": "Agility Robotics plants its flag in Tesla&#8217;s backyard",
+          "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/"
+          "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
         },
         {
-          "date": "2026-07-16",
-          "title": "Why is OpenAI selling a ChatGPT basketball?",
-          "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+          "date": "2026-07-17",
+          "title": "AI-driven memory crunch jolts India&#8217;s smartphone market",
+          "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
+          "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-16",
-          "title": "拓展特色品类 各地补贴分层惠民撬动万亿消费",
-          "summary": "国家统计局数据显示，2026年上半年社会商品和服务零售总额同比增长2.7%，居民消费支出同步改善，上半年全国居民人均消费支出14836元，名义同比增长3.7%。在商品零售的几个大类中，比如家电、手机、汽车、装修，国家都给予了专项消费补贴。购物前，先问一句“有国补吗？”，已经成为中国消费者的口头禅。",
+          "date": "2026-07-17",
+          "title": "在这场大会 感受人工智能的“智”与“志”",
+          "summary": "新闻1+1丨在这场大会 感受人工智能的“智”与“志”",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-17/10660995.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-18/10661812.shtml"
         },
         {
-          "date": "2026-07-16",
-          "title": "赴华机票销量暴涨 老外为何扎堆来中国“避暑”",
-          "summary": "眼下国内已正式“入伏”",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-17/10660989.shtml"
+          "date": "2026-07-17",
+          "title": "Analyst Report: Prologis Inc",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2705_AnalystReport_1784310510000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-07-16",
-          "title": "大数据观察：全国统一电力市场建设按下“加速键”",
-          "summary": "市场化交易电量占全社会用电量比重连续4年超60%",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-17/10660978.shtml"
+          "date": "2026-07-17",
+          "title": "Analyst Report: US Bancorp",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3482_AnalystReport_1784310510000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-07-16",
-          "title": "“AI陪伴”新规下监管如何真正落地",
-          "summary": "记者实测多款应用：AI标识弱化、部分智能体人设引发担忧",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-17/10660977.shtml"
+          "date": "2026-07-17",
+          "title": "Market Update: PLD, NFLX, USB",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47657_MarketUpdate_1784309610000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-07-16",
-          "title": "网友热议暑假开启 暑期消费乘热而上",
-          "summary": "网友热议暑假开启——",
+          "date": "2026-07-17",
+          "title": "中关村国际技术交易中心熟化工坊在京发布",
+          "summary": "中新网北京7月17日电 (记者 陈杭)记者17日从北京市科委、中关村管委会获悉，中关村国际技术交易中心重点实验室成果转化系列活动在北京拉开帷幕，立足北京科技成果转化工作全局，锚定重点实验室创新源头，以专业化、体系化服务精准发力，推动重点实验室“原创之火”加速转化为北京产业升级的“发展之势”。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-17/10660976.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-17/10661631.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-16",
-          "title": "外媒：尼加拉瓜宣布与意大利断交",
-          "summary": "中新网7月17日电 据路透社报道，尼加拉瓜当地时间16日宣布与意大利断绝外交关系。",
+          "date": "2026-07-17",
+          "title": "美军发动新一轮空袭 伊朗多地传出爆炸声",
+          "summary": "总台记者当地时间18日凌晨获悉，伊朗多地传出爆炸声。伊朗南部法尔斯省拉尔市南部郊区传出爆炸声；伊朗中部城市亚兹德周边地区传出5次爆炸声，当地居民称听见战机飞行的声音。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-17/10660998.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-18/10661819.shtml"
         },
         {
-          "date": "2026-07-16",
-          "title": "极端暴雨天气会否常态化 专家解析今夏风雨为何格外大",
-          "summary": "近期台风肆虐、暴雨连连。无论南北，公众直观感觉今夏风雨来得不仅早，且强度令人惊骇。今年的风雨为何格外大？为何台风从南方登陆，北方也要遭殃？我国主汛期还有哪里易发极端天气？未来早发、多发、高强度的极端暴雨天气等是否会成为常态？中青报·中青网记者请国家气候中心、中央气象台、中国科学院大气物理研究所的多位专家一一解答。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-17/10660997.shtml"
+          "date": "2026-07-17",
+          "title": "委内瑞拉强震遇难人数上升至5069人",
+          "summary": "当地时间17日，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯通过社交媒体通报，该国6月24日发生的强震造成的遇难人数上升至5069人，受伤人数为16740人，强震过后发生余震1331次。(总台记者 宫祥诚)",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-18/10661817.shtml"
         },
         {
-          "date": "2026-07-16",
-          "title": "美国6月零售销售额环比增长0.2% 低于市场预期",
-          "summary": "中新社华盛顿7月16日电 (记者 沙晗汀)美国商务部当地时间16日公布数据显示，美国6月零售销售额环比增长0.2%，低于市场普遍预期。",
+          "date": "2026-07-17",
+          "title": "尼泊尔首个野生动物风险保险政策正式生效",
+          "summary": "中新社加德满都7月17日电 (记者 崔楠)尼泊尔野生动物风险保险政策17日正式生效，这是该国首次建立针对野生动物造成人员伤亡及财产损失的保险框架。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-17/10660987.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-18/10661807.shtml"
         },
         {
-          "date": "2026-07-16",
-          "title": "美军称在阿曼湾登上一艘油轮进行检查",
-          "summary": "中新网7月17日电 据外媒报道，美军中央司令部16日在社交媒体发布消息称，美海军陆战队员当天在阿曼湾登上一艘油轮进行检查。",
+          "date": "2026-07-17",
+          "title": "尼泊尔过去三个月各类灾害致163人身亡",
+          "summary": "中新社加德满都7月17日电 (记者 崔楠)尼泊尔国家减灾应急管理局17日发布公告称，过去三个月，该国共发生3347起各类灾害事件，造成163人身亡、1人失踪、972人受伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-17/10660986.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-18/10661808.shtml"
         },
         {
-          "date": "2026-07-16",
-          "title": "委内瑞拉强震遇难人数升至4930人",
-          "summary": "中新网7月17日电 据外媒报道，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯16日在社交媒体发文称，该国6月24日发生的两次强震已造成4930人死亡、16740人受伤。",
+          "date": "2026-07-17",
+          "title": "伯纳姆执掌英国工党：“我已经准备好了”",
+          "summary": "中新社伦敦7月17日电 题：伯纳姆执掌英国工党：“我已经准备好了”",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-17/10660985.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-18/10661806.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-16",
-          "title": "One man's hunger strike changed India's map. Can it still change politics?",
-          "summary": "Why hunger strikes still shape Indian politics, from Gandhi to Sonam Wangchuk.",
+          "date": "2026-07-17",
+          "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+          "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire condition",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn4d4eq9n8do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-16",
-          "title": "At least one dead in Texas floods ravaging same area where campers died",
-          "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
+          "date": "2026-07-17",
+          "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+          "summary": "Defectors tell the BBC that despite restrictions, K-pop has cut through in the stifling dictatorship.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-16",
-          "title": "I thought we'd grow old together, says band leader whose girlfriend died in Thai bar inferno",
-          "summary": "Athipat Wichan tells BBC Thai he regrets bringing his girlfriend Nahathai into his indie band Thotsakan.",
+          "date": "2026-07-17",
+          "title": "White House defends Argentina team over Falklands banner",
+          "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1k13zj914mo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-16",
-          "title": "As heatwaves strike, Europeans turn to prized Chinese air-conditioner",
-          "summary": "Previously little-known in Europe, the Midea PortaSplit has become a household name this summer.",
+          "date": "2026-07-17",
+          "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
+          "summary": "About 1,645 people in five states were infected by the parasite after having Taco Bell, according to US health officials.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-16",
-          "title": "Blasts reported in Iran as US launches new wave of strikes",
-          "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+          "date": "2026-07-17",
+          "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
+          "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "xai-org/grok-build（⭐ 11977）",
+          "title": "xai-org/grok-build（⭐ 16378）",
           "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
           "source": "GitHub",
           "url": "https://github.com/xai-org/grok-build"
         },
         {
           "date": "GitHub Trending",
-          "title": "Fei-Away/Codex-Dream-Skin（⭐ 5284）",
+          "title": "Fei-Away/Codex-Dream-Skin（⭐ 8654）",
           "summary": "Codex Dream Skin",
           "source": "GitHub",
           "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
         },
         {
           "date": "GitHub Trending",
-          "title": "MDX-Tom/gpt-5.6-instruct（⭐ 1666）",
+          "title": "MDX-Tom/gpt-5.6-instruct（⭐ 1876）",
           "summary": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
           "source": "GitHub",
           "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
         },
         {
           "date": "GitHub Trending",
-          "title": "littledivy/mimic（⭐ 1102）",
-          "summary": "Intercept any app, then call it from Python like a library",
-          "source": "GitHub",
-          "url": "https://github.com/littledivy/mimic"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "pixel-point/aval（⭐ 1039）",
+          "title": "pixel-point/aval（⭐ 1162）",
           "summary": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
           "source": "GitHub",
           "url": "https://github.com/pixel-point/aval"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "littledivy/mimic（⭐ 1149）",
+          "summary": "Intercept any app, then call it from Python like a library",
+          "source": "GitHub",
+          "url": "https://github.com/littledivy/mimic"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "一次領英私信，如何演變成震驚美國的12億美元敲詐案？從華爾街金融巨頭與環保名媛的約會，到FBI調查，發現AI換臉欺詐，再到外國代理人滲透疑雲，本案遠比桃色新聞複",
-      "video": "中國美女見了NBA富豪三次，竟敢勒索$12億！為何越查越不尋常？【文昭思緒飛揚556】",
-      "date": "2026-07-12",
-      "url": "https://www.youtube.com/watch?v=2oYiamBEhWY"
+      "desc": "聲明：本片包含有AI製作的畫面片段，僅供再現場景、輔助說明的需要",
+      "video": "北大高材生的秘密：跨國追蹤15年，才揭開他怎麼讓100億消失的【文昭思緒飛揚557】",
+      "date": "2026-07-17",
+      "url": "https://www.youtube.com/watch?v=ViLEvVX4-oY"
     },
     {
       "channel": "夸克说",
