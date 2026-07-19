@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-18",
-  "generatedAt": "2026-07-18T23:43:31.767Z",
+  "issueDate": "2026-07-19",
+  "generatedAt": "2026-07-19T23:49:01.900Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Kimi: Threat or menace?\n【金融新闻】Massive TSMC deal is huge stride for US in high-tech race\n【中国新闻】匈牙利总统签署《基本法》修正案 其任期将终止\n【世界新闻】Two US troops killed and one missing after Iranian attack in Jordan"
+    "body": "【AI 最新信息】What to watch for after Jensen Huang&#8217;s Japan visit\n【金融新闻】手搓也能“很工业”\n【中国新闻】最新：美军连续第九晚袭击伊朗\n【世界新闻】Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-07-19",
+          "title": "What to watch for after Jensen Huang&#8217;s Japan visit",
+          "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
+        },
+        {
+          "date": "2026-07-19",
+          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+        },
+        {
+          "date": "2026-07-19",
+          "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+          "summary": "\"Everybody knows the Greeks are inside.\"",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
+        },
+        {
+          "date": "2026-07-19",
+          "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+          "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
+        },
+        {
           "date": "2026-07-18",
           "title": "Kimi: Threat or menace?",
           "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
-        },
-        {
-          "date": "2026-07-18",
-          "title": "Neil Rimer thinks the AI money is coming back out",
-          "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed,",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
-        },
-        {
-          "date": "2026-07-17",
-          "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
-          "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
-        },
-        {
-          "date": "2026-07-17",
-          "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
-          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
-        },
-        {
-          "date": "2026-07-17",
-          "title": "The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;",
-          "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-18",
-          "title": "Massive TSMC deal is huge stride for US in high-tech race",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/articles/massive-tsmc-deal-huge-stride-230300784.html"
+          "date": "2026-07-19",
+          "title": "手搓也能“很工业”",
+          "summary": "手搓也能“很工业”(“融”观中国)",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662662.shtml"
         },
         {
-          "date": "2026-07-18",
-          "title": "American sneaker brand closes more stores",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/giant-athletic-shoe-company-retail-194700040.html"
+          "date": "2026-07-19",
+          "title": "推动异地互认、统一放宽离境期限 离境退税2.0版政策带来哪些变化？",
+          "summary": "“我在广州购物享受了‘即买即退’，从福州离境还符合条件吗？”“境外旅客办理‘即买即退’后需要在多长时间内离境？”……随着中国入境消费从过去的旅游观光进入“深度体验”新阶段，境外旅客需求也更加细化。近日，商务部、财政部、国家税务总局等部门印发《关于加力优化离境退税措施扩大入境消费的通知》，许多人称之为“离境退税2.0版”",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662661.shtml"
         },
         {
-          "date": "2026-07-18",
-          "title": "How Buying SpaceX Today Could More Than 10X Your Net Worth",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buying-spacex-today-could-more-225000293.html"
+          "date": "2026-07-19",
+          "title": "这些新岗位，火了",
+          "summary": "244%！AI智能体人才需求爆发式上涨",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662660.shtml"
         },
         {
-          "date": "2026-07-18",
-          "title": "The $26.75 Million Bet Against Your Gains: Inside RYLD’s Hidden Cost Structure",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/options/articles/26-75-million-bet-against-224944546.html"
+          "date": "2026-07-19",
+          "title": "24小时不间断生产！“清凉生意”，太火爆",
+          "summary": "夏季天气炎热，降温解暑的需求大幅攀升。冷饮、制冰行业进入销售旺季。浙江宁波、福建厦门等地相关企业正加紧生产，全力保障市场供应。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662659.shtml"
         },
         {
-          "date": "2026-07-18",
-          "title": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.",
+          "date": "2026-07-19",
+          "title": "The Tax Return You Filed in April Just Set Your 2027 Medicare Premium, and It’s Locked Unless Your Life Changes",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/billionaire-investor-jeremy-grantham-calls-222000004.html"
+          "url": "https://finance.yahoo.com/healthcare/articles/tax-return-filed-april-just-232329019.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-18",
-          "title": "匈牙利总统签署《基本法》修正案 其任期将终止",
-          "summary": "当地时间18日，匈牙利总统舒尤克在社交媒体发布视频表示，他已签署《基本法》第十七次修正案。这意味着，其任期即将终止，国会将于30天内选举产生新总统。",
+          "date": "2026-07-19",
+          "title": "最新：美军连续第九晚袭击伊朗",
+          "summary": "中新网7月20日电 美军中央司令部当地时间19日在社交媒体发布声明称，已于当天美国东部时间晚7时开始对伊朗实施新一轮打击，这是连续第九晚对伊发动袭击。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-19/10662255.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-20/10662664.shtml"
         },
         {
-          "date": "2026-07-18",
-          "title": "全球首个、自研首颗！本周中国硬核成果密集“上新”",
-          "summary": "全球首个千亿参数级气象大模型开源",
+          "date": "2026-07-19",
+          "title": "伊朗革命卫队宣布袭击位于叙利亚的“敌方”指挥中心",
+          "summary": "中新网7月20日电 据法新社20日援引伊朗国家通讯社报道，伊朗伊斯兰革命卫队宣布，已对位于叙利亚境内的一个“敌方”指挥中心发动袭击。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-20/10662655.shtml"
+        },
+        {
+          "date": "2026-07-19",
+          "title": "乌克兰称俄罗斯袭击一土耳其货船致6人死亡",
+          "summary": "中新网7月20日电 据法新社20日报道，乌克兰当地时间19日表示，俄罗斯导弹袭击了一艘运载粮食的土耳其籍货船，造成6人死亡。数小时前，俄罗斯还对乌克兰首都基辅发动了新一轮导弹袭击。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-20/10662654.shtml"
+        },
+        {
+          "date": "2026-07-19",
+          "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
+          "summary": "中新网7月20日电 美军中央司令部19日在社交媒体上发布声明说，一名美军人员18日在伊拉克北部执行涉伊朗任务时死亡。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-20/10662652.shtml"
+        },
+        {
+          "date": "2026-07-19",
+          "title": "今日上线！京沪高铁、京沪铁路可提前60天预约购票",
+          "summary": "今天(7月20日)，京沪高铁、京沪铁路试点新增火车票预约购票服务，旅客可预约开车前第60天至第17天的车票。旅客可通过铁路12306手机客户端“预约购票”专区，预约开车前第60天至第17天的车票。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-19/10662254.shtml"
-        },
-        {
-          "date": "2026-07-18",
-          "title": "比利时拟禁止进口以色列非法定居点产品",
-          "summary": "中新社布鲁塞尔7月18日电 (记者 德永健)比利时政府18日宣布将制定贸易禁令，禁止进口以色列非法定居点产品。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-19/10662251.shtml"
-        },
-        {
-          "date": "2026-07-18",
-          "title": "伊朗袭击驻约旦美军致两人阵亡一人失踪",
-          "summary": "中新社华盛顿7月18日电 (记者 陈孟统)美军中央司令部18日发布声明称，美军17日在约旦抵御伊朗弹道导弹和无人机袭击期间，有两名美军人员阵亡，另有一人失踪。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-19/10662250.shtml"
-        },
-        {
-          "date": "2026-07-18",
-          "title": "王毅分别会见印尼、莱索托、多米尼克客人",
-          "summary": "新华社上海7月18日电(记者冯歆然、周蕊)中共中央政治局委员、外交部长王毅18日在上海分别会见来华出席世界人工智能大会的印度尼西亚经济统筹部长艾尔朗加、莱索托外交大臣陶、多米尼克外长亨德森。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-18/10662214.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-20/10662651.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-18",
-          "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-          "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+          "date": "2026-07-19",
+          "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+          "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-18",
-          "title": "Hungary's president agrees to stand down after parliament backs removal",
-          "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
+          "date": "2026-07-19",
+          "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+          "summary": "Water cascaded into subway stations and flooded streets, with people seen wading through water.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-18",
-          "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-          "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire condition",
+          "date": "2026-07-19",
+          "title": "US soldier killed and one injured after Iranian attack in Iraq",
+          "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-18",
-          "title": "German politician resigns over surrogacy child controversy",
-          "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
+          "date": "2026-07-19",
+          "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+          "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-18",
-          "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-          "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+          "date": "2026-07-19",
+          "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+          "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "xai-org/grok-build（⭐ 18726）",
+          "title": "xai-org/grok-build（⭐ 20003）",
           "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
           "source": "GitHub",
           "url": "https://github.com/xai-org/grok-build"
         },
         {
           "date": "GitHub Trending",
-          "title": "Fei-Away/Codex-Dream-Skin（⭐ 9728）",
+          "title": "Fei-Away/Codex-Dream-Skin（⭐ 10275）",
           "summary": "Codex Dream Skin",
           "source": "GitHub",
           "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
         },
         {
           "date": "GitHub Trending",
-          "title": "CluvexStudio/Aether（⭐ 1253）",
+          "title": "CluvexStudio/Aether（⭐ 1315）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/CluvexStudio/Aether"
         },
         {
           "date": "GitHub Trending",
-          "title": "pixel-point/aval（⭐ 1209）",
+          "title": "pixel-point/aval（⭐ 1238）",
           "summary": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
           "source": "GitHub",
           "url": "https://github.com/pixel-point/aval"
         },
         {
           "date": "GitHub Trending",
-          "title": "littledivy/mimic（⭐ 1170）",
+          "title": "littledivy/mimic（⭐ 1210）",
           "summary": "Intercept any app, then call it from Python like a library",
           "source": "GitHub",
           "url": "https://github.com/littledivy/mimic"
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "聲明：本片包含有AI製作的畫面片段，僅供再現場景、輔助說明的需要",
-      "video": "北大高材生的秘密：跨國追蹤15年，才揭開他怎麼讓100億消失的【文昭思緒飛揚557】",
-      "date": "2026-07-17",
-      "url": "https://www.youtube.com/watch?v=ViLEvVX4-oY"
+      "desc": "重慶為何被稱為「官場魔咒」？從薄熙來、孫政才到陳敏爾，結合三峽工程、朝天門、來福士廣場與民間風水觀點，解析這座山城背後的神秘傳說。",
+      "video": "重慶專克接班人？重慶朝天門動了不該動的，鎖死三位政治明星的上升路【文昭思緒飛揚558】【文昭思緒飛揚558】",
+      "date": "2026-07-19",
+      "url": "https://www.youtube.com/watch?v=WFLnm084D80"
     },
     {
       "channel": "夸克说",
