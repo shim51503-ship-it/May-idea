@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-19",
-  "generatedAt": "2026-07-19T23:49:01.900Z",
+  "issueDate": "2026-07-20",
+  "generatedAt": "2026-07-20T23:49:02.293Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】What to watch for after Jensen Huang&#8217;s Japan visit\n【金融新闻】手搓也能“很工业”\n【中国新闻】最新：美军连续第九晚袭击伊朗\n【世界新闻】Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show"
+    "body": "【AI 最新信息】Trump&#8217;s latest AI czar has already resigned\n【金融新闻】2026世界人工智能大会暨人工智能全球治理高级别会议在沪闭幕\n【中国新闻】一男子向纽约市一联邦大楼投掷燃烧装置被拘留\n【世界新闻】Trump imposes 50% tariff on Canadian imports"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-19",
-          "title": "What to watch for after Jensen Huang&#8217;s Japan visit",
-          "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+          "date": "2026-07-20",
+          "title": "Trump&#8217;s latest AI czar has already resigned",
+          "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
+          "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
         },
         {
-          "date": "2026-07-19",
-          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-          "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+          "date": "2026-07-20",
+          "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+          "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+          "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
         },
         {
-          "date": "2026-07-19",
-          "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-          "summary": "\"Everybody knows the Greeks are inside.\"",
+          "date": "2026-07-20",
+          "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
+          "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already wor",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
+          "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
         },
         {
-          "date": "2026-07-19",
-          "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-          "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+          "date": "2026-07-20",
+          "title": "X relaunches a rebuilt Android app after year-long effort",
+          "summary": "X says the rebuilt version of its Android app is now available globally.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
+          "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/"
         },
         {
-          "date": "2026-07-18",
-          "title": "Kimi: Threat or menace?",
-          "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+          "date": "2026-07-20",
+          "title": "OpenAI is scared of open-weight models. Should the US be?",
+          "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
+          "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-19",
-          "title": "手搓也能“很工业”",
-          "summary": "手搓也能“很工业”(“融”观中国)",
+          "date": "2026-07-20",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议在沪闭幕",
+          "summary": "中新社上海7月21日电 (记者 郑莹莹)为期4天的2026世界人工智能大会暨人工智能全球治理高级别会议20日在上海落下帷幕。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662662.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663271.shtml"
         },
         {
-          "date": "2026-07-19",
-          "title": "推动异地互认、统一放宽离境期限 离境退税2.0版政策带来哪些变化？",
-          "summary": "“我在广州购物享受了‘即买即退’，从福州离境还符合条件吗？”“境外旅客办理‘即买即退’后需要在多长时间内离境？”……随着中国入境消费从过去的旅游观光进入“深度体验”新阶段，境外旅客需求也更加细化。近日，商务部、财政部、国家税务总局等部门印发《关于加力优化离境退税措施扩大入境消费的通知》，许多人称之为“离境退税2.0版”",
+          "date": "2026-07-20",
+          "title": "出口持续增长、外贸占比提升、各路买家点赞——中国机电靠啥畅销海外？",
+          "summary": "从冰箱、空调、电风扇，到电极、光伏、挖掘机，中国机电产品日益成为全球消费者的重要选择。刚刚公布的外贸数据显示，今年上半年，我国出口机电产品9.36万亿元，增长20.1%，占出口总值的63.5%，较去年同期提升了3.5个百分点。自2025年3月起，机电出口已连续十多个月刷新同期月度最高纪录。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662661.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663274.shtml"
         },
         {
-          "date": "2026-07-19",
-          "title": "这些新岗位，火了",
-          "summary": "244%！AI智能体人才需求爆发式上涨",
+          "date": "2026-07-20",
+          "title": "从“照单生产”到定义潮流，义乌世界杯生意如何推陈出新？",
+          "summary": "原创周边批量上新，多个爆款走俏海外，商户揽单忙不停",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662660.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663268.shtml"
         },
         {
-          "date": "2026-07-19",
-          "title": "24小时不间断生产！“清凉生意”，太火爆",
-          "summary": "夏季天气炎热，降温解暑的需求大幅攀升。冷饮、制冰行业进入销售旺季。浙江宁波、福建厦门等地相关企业正加紧生产，全力保障市场供应。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-20/10662659.shtml"
-        },
-        {
-          "date": "2026-07-19",
-          "title": "The Tax Return You Filed in April Just Set Your 2027 Medicare Premium, and It’s Locked Unless Your Life Changes",
+          "date": "2026-07-20",
+          "title": "Average retirement savings by state: Where are Americans saving the most — and least?",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/tax-return-filed-april-just-232329019.html"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/average-retirement-savings-by-state-214302912.html"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Jensen Huang's staggering $4 trillion bet shifts Nvidia",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huangs-staggering-4-trillion-210300335.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-19",
-          "title": "最新：美军连续第九晚袭击伊朗",
-          "summary": "中新网7月20日电 美军中央司令部当地时间19日在社交媒体发布声明称，已于当天美国东部时间晚7时开始对伊朗实施新一轮打击，这是连续第九晚对伊发动袭击。",
+          "date": "2026-07-20",
+          "title": "一男子向纽约市一联邦大楼投掷燃烧装置被拘留",
+          "summary": "中新网7月21日电 据美国有线电视新闻网报道，一名嫌疑人因涉嫌于20日上午向纽约市一联邦大楼投掷燃烧装置已被拘留。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-20/10662664.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663276.shtml"
         },
         {
-          "date": "2026-07-19",
-          "title": "伊朗革命卫队宣布袭击位于叙利亚的“敌方”指挥中心",
-          "summary": "中新网7月20日电 据法新社20日援引伊朗国家通讯社报道，伊朗伊斯兰革命卫队宣布，已对位于叙利亚境内的一个“敌方”指挥中心发动袭击。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-20/10662655.shtml"
-        },
-        {
-          "date": "2026-07-19",
-          "title": "乌克兰称俄罗斯袭击一土耳其货船致6人死亡",
-          "summary": "中新网7月20日电 据法新社20日报道，乌克兰当地时间19日表示，俄罗斯导弹袭击了一艘运载粮食的土耳其籍货船，造成6人死亡。数小时前，俄罗斯还对乌克兰首都基辅发动了新一轮导弹袭击。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-20/10662654.shtml"
-        },
-        {
-          "date": "2026-07-19",
-          "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
-          "summary": "中新网7月20日电 美军中央司令部19日在社交媒体上发布声明说，一名美军人员18日在伊拉克北部执行涉伊朗任务时死亡。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-20/10662652.shtml"
-        },
-        {
-          "date": "2026-07-19",
-          "title": "今日上线！京沪高铁、京沪铁路可提前60天预约购票",
-          "summary": "今天(7月20日)，京沪高铁、京沪铁路试点新增火车票预约购票服务，旅客可预约开车前第60天至第17天的车票。旅客可通过铁路12306手机客户端“预约购票”专区，预约开车前第60天至第17天的车票。",
+          "date": "2026-07-20",
+          "title": "中国驻俄使馆发言人就中国公民在无人机袭击中受伤事答问",
+          "summary": "中新社莫斯科7月20日电 中国驻俄罗斯大使馆发言人20日就3名中国公民在莫斯科州无人机袭击中受伤事答问。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-20/10662651.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-21/10663270.shtml"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "俄外交部宣布对等驱逐意大利驻俄武官",
+          "summary": "中新社莫斯科7月20日电 俄罗斯外交部20日召见意大利驻俄临时代办，就意方此前“无理”驱逐俄罗斯驻意大使馆一名武官和一名助理武官提出抗议，并宣布对等驱逐意大利驻俄大使馆一名武官和一名助理武官。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663265.shtml"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "美国将对加拿大特定商品加征50%关税",
+          "summary": "中新网7月21日电 综合美联社、英国《金融时报》报道，美国总统特朗普20日宣布，对加拿大特定商品加征50%关税，这一措施将于30天后生效。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663264.shtml"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "一油化船在霍尔木兹海峡附近遭袭",
+          "summary": "一名海员20日晚提供的霍尔木兹海峡附近船舶无线电公共频道录音显示，一艘油化船在该海峡附近遭袭，燃油舱起火，船体冒出大量浓烟，船员已准备弃船。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-21/10663263.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-19",
-          "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
-          "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+          "date": "2026-07-20",
+          "title": "Trump imposes 50% tariff on Canadian imports",
+          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-19",
-          "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-          "summary": "Water cascaded into subway stations and flooded streets, with people seen wading through water.",
+          "date": "2026-07-20",
+          "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+          "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-19",
-          "title": "US soldier killed and one injured after Iranian attack in Iraq",
-          "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+          "date": "2026-07-20",
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-19",
-          "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-          "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+          "date": "2026-07-20",
+          "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+          "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-19",
-          "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-          "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+          "date": "2026-07-20",
+          "title": "Merger deal between Paramount and Warner Bros paused by judge",
+          "summary": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "xai-org/grok-build（⭐ 20003）",
+          "title": "xai-org/grok-build（⭐ 20771）",
           "summary": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
           "source": "GitHub",
           "url": "https://github.com/xai-org/grok-build"
         },
         {
           "date": "GitHub Trending",
-          "title": "Fei-Away/Codex-Dream-Skin（⭐ 10275）",
+          "title": "Fei-Away/Codex-Dream-Skin（⭐ 11056）",
           "summary": "Codex Dream Skin",
           "source": "GitHub",
           "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
         },
         {
           "date": "GitHub Trending",
-          "title": "CluvexStudio/Aether（⭐ 1315）",
+          "title": "CluvexStudio/Aether（⭐ 1394）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/CluvexStudio/Aether"
         },
         {
           "date": "GitHub Trending",
-          "title": "pixel-point/aval（⭐ 1238）",
-          "summary": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+          "title": "tandpfun/wardrobe（⭐ 1216）",
+          "summary": "Your clothes, extracted and organized with gpt-image.",
           "source": "GitHub",
-          "url": "https://github.com/pixel-point/aval"
+          "url": "https://github.com/tandpfun/wardrobe"
         },
         {
           "date": "GitHub Trending",
-          "title": "littledivy/mimic（⭐ 1210）",
-          "summary": "Intercept any app, then call it from Python like a library",
+          "title": "hoainho/img2threejs（⭐ 978）",
+          "summary": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
           "source": "GitHub",
-          "url": "https://github.com/littledivy/mimic"
+          "url": "https://github.com/hoainho/img2threejs"
         }
       ]
     }
