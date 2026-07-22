@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-21",
-  "generatedAt": "2026-07-21T23:49:09.458Z",
+  "issueDate": "2026-07-22",
+  "generatedAt": "2026-07-22T23:55:19.525Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】OpenAI says Hugging Face was breached by its own pre-release models\n【金融新闻】又一万亿级蓝海！就在你家门口→\n【中国新闻】今年一季度欧元区和欧盟政府债务水平双双走高\n【世界新闻】Zelensky sacks Ukraine's top army commander after days of protests"
+    "body": "【AI 最新信息】After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe\n【金融新闻】多家基金机构同日公告 传递长期看好A股市场信心\n【中国新闻】南非6月通胀升至5.0% 创近两年新高\n【世界新闻】Even camels can't cope: Africa's ships of the desert hit by rising temperatures"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-21",
-          "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-          "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+          "date": "2026-07-22",
+          "title": "After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe",
+          "summary": "After IBM's stock crashed last week on warnings of a poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/"
+          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/"
         },
         {
-          "date": "2026-07-21",
-          "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-          "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+          "date": "2026-07-22",
+          "title": "Google justifies its massive AI spending with a booming cloud business",
+          "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
         },
         {
-          "date": "2026-07-21",
-          "title": "AI and the rise of the universal entertainment app",
-          "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to cr",
+          "date": "2026-07-22",
+          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
+          "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/"
+          "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
         },
         {
-          "date": "2026-07-21",
-          "title": "Data centers expected to use 4x more electricity by 2035",
-          "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+          "date": "2026-07-22",
+          "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is w",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/"
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/"
         },
         {
-          "date": "2026-07-21",
-          "title": "Google releases three new Gemini models — but no 3.5 Pro",
-          "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+          "date": "2026-07-22",
+          "title": "Travis Kalanick&#8217;s robotics company raises $1.7B, led by a16z",
+          "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+          "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-21",
-          "title": "又一万亿级蓝海！就在你家门口→",
-          "summary": "2元至3元的特价菜",
+          "date": "2026-07-22",
+          "title": "多家基金机构同日公告 传递长期看好A股市场信心",
+          "summary": "真金白银！多家基金机构同日公告",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-22/10663954.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664685.shtml"
         },
         {
-          "date": "2026-07-21",
-          "title": "Analyst Report: General Electric Co",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2999_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-07-21",
-          "title": "Analyst Report: Regions Financial Corp",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_4213_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-07-21",
-          "title": "Market Update: DPZ, GE, ISRG, RF",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_47684_MarketUpdate_1784653658000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-07-21",
-          "title": "2026年《财富》中国500强排行榜：国家电网、中石油和中石化位列前三",
-          "summary": "中新社北京7月21日电 (记者 阮煜琳)21日揭晓的2026年《财富》中国500强排行榜显示，国家电网有限公司以5553.7亿美元的营收位居榜首，中国石油和中国石化分列榜单第二位和第三位。",
+          "date": "2026-07-22",
+          "title": "稳定、制度、信心 证监会系列座谈会释放三大信号",
+          "summary": "证监会系列座谈会，三大信号！",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-21/10663938.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664684.shtml"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "AI算力需求爆发：高端PCB供不应求，价格涨超300%",
+          "summary": "价格涨超300%！高端PCB需求爆发，订单排到2027年",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664683.shtml"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "站上产业链风口，国产高端电子布加快扩产",
+          "summary": "AI算力需求带动电子布年内5轮提价，部分产品排产周期超4个月",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664680.shtml"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "三大指标再创新高！中国造船业持续领跑全球",
+          "summary": "7月23日，工业和信息化部发布2026年上半年我国船舶工业统计数据。数据显示：我国造船完工量、新接订单量和手持订单量三大核心指标再创历史新高，持续领跑全球市场。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664675.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-21",
-          "title": "今年一季度欧元区和欧盟政府债务水平双双走高",
-          "summary": "中新社布鲁塞尔7月21日电 (记者 德永健)欧盟统计局21日公布的数据显示，今年一季度欧元区政府债务占国内生产总值(GDP)的比例为88.9%，欧盟政府债务占国内生产总值的比例为82.9%，较2025年四季度双双走高。",
+          "date": "2026-07-22",
+          "title": "南非6月通胀升至5.0% 创近两年新高",
+          "summary": "中新社约翰内斯堡7月22日电 (记者 孙翔)南非统计局22日公布的数据显示，南非6月消费者价格指数(CPI)同比上涨5.0%，高于5月的4.5%，创2024年6月(5.1%)以来最高水平。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-22/10663967.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664682.shtml"
         },
         {
-          "date": "2026-07-21",
-          "title": "美防长称伊朗战争已耗费约375亿美元",
-          "summary": "中新社华盛顿7月21日电 (记者 沙晗汀)美国国防部长赫格塞思当地时间21日出席国会听证会时表示，美国对伊朗军事行动迄今估计已耗费约375亿美元。",
+          "date": "2026-07-22",
+          "title": "英国投入7.08亿英镑加速下一代空战技术研发",
+          "summary": "中新社伦敦7月22日电 (记者 欧阳开宇)英国政府22日公布，将投入7.08亿英镑专项资金，提速本国新一代空中作战技术研发，推进六代战机相关项目建设，带动本土军工产业就业发展。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-22/10663968.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664671.shtml"
         },
         {
-          "date": "2026-07-21",
-          "title": "荷兰宣布今年9月下旬正式禁止进口以色列非法定居点产品",
-          "summary": "中新社海牙7月21日电 荷兰政府21日宣布，今年9月22日起，将正式禁止进口以色列非法定居点产品。",
+          "date": "2026-07-22",
+          "title": "法国6月下旬热浪期间超额死亡人数达5700余例",
+          "summary": "中新社巴黎7月22日电 (记者 李洋)法国公共卫生署当地时间22日发布6月下旬法国热浪期间死亡情况的进一步评估报告，透露6月17日至7月2日热浪期间的超额死亡人数达5700余例。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-22/10663969.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664670.shtml"
         },
         {
-          "date": "2026-07-21",
-          "title": "法国议会通过法案禁止15岁以下未成年人使用社交媒体",
-          "summary": "中新社巴黎7月21日电 (记者 李洋)法国议会当地时间21日正式通过法案，禁止15岁以下未成年人使用社交媒体。",
+          "date": "2026-07-22",
+          "title": "欧盟航空安全局预警航空公司避开约旦空域",
+          "summary": "中新社布鲁塞尔7月22日电 (记者 德永健)随着伊朗持续打击约旦境内美军目标，欧盟航空安全局22日发出预警，建议即日起航空公司避开约旦空域。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-22/10663964.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664669.shtml"
         },
         {
-          "date": "2026-07-21",
-          "title": "英国首相伯纳姆召开内阁首次会议：纾解民众生活成本",
-          "summary": "中新社伦敦7月21日电 (记者 欧阳开宇)英国新任首相安迪·伯纳姆21日主持召开履职后首次内阁会议，会上明确将本届政府定位为“专注缓解生活成本压力的政府”，要求各部门全面出台举措减轻家庭经济负担，纾解民众生活成本。",
+          "date": "2026-07-22",
+          "title": "泰国总理：以更大的诚意欢迎中国投资者",
+          "summary": "中新社曼谷7月22日电 (记者 李映民)泰国总理阿努廷22日在2026泰中合作博览会开幕式上致辞称，泰国政府将以更大的诚意欢迎中国投资者，为中国企业的落户创设更好的投资环境。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-22/10663962.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664667.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-21",
-          "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-          "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+          "date": "2026-07-22",
+          "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
+          "summary": "Herders and experts tell the BBC how Africa's camels are suffering because of extreme heat.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-21",
-          "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-          "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+          "date": "2026-07-22",
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-21",
-          "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "date": "2026-07-22",
+          "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+          "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-21",
-          "title": "Two French firefighters die tackling blaze near Bordeaux airport",
-          "summary": "The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire.",
+          "date": "2026-07-22",
+          "title": "Watch: What we know about the US-Saudi nuclear deal",
+          "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-21",
-          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-          "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+          "date": "2026-07-22",
+          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+          "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Fei-Away/Codex-Dream-Skin（⭐ 11496）",
-          "summary": "Codex Dream Skin",
-          "source": "GitHub",
-          "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "lopopolo/harness-engineering（⭐ 1533）",
+          "title": "lopopolo/harness-engineering（⭐ 2187）",
           "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
           "source": "GitHub",
           "url": "https://github.com/lopopolo/harness-engineering"
         },
         {
           "date": "GitHub Trending",
-          "title": "hoainho/img2threejs（⭐ 1444）",
-          "summary": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-          "source": "GitHub",
-          "url": "https://github.com/hoainho/img2threejs"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "tandpfun/wardrobe（⭐ 1283）",
+          "title": "tandpfun/wardrobe（⭐ 1354）",
           "summary": "Your clothes, extracted and organized with gpt-image.",
           "source": "GitHub",
           "url": "https://github.com/tandpfun/wardrobe"
         },
         {
           "date": "GitHub Trending",
-          "title": "pablostanley/yoinks（⭐ 957）",
+          "title": "pablostanley/yoinks（⭐ 1046）",
           "summary": "yoink any video from your terminal. no shady ads.",
           "source": "GitHub",
           "url": "https://github.com/pablostanley/yoinks"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "nethical6/conversation-steganography（⭐ 979）",
+          "summary": "Use LLMs to hide messages inside normal looking conversations",
+          "source": "GitHub",
+          "url": "https://github.com/nethical6/conversation-steganography"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "v-modal/vmodal_sdk_flutter（⭐ 878）",
+          "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
+          "source": "GitHub",
+          "url": "https://github.com/v-modal/vmodal_sdk_flutter"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#中国流浪汉 #中國流浪漢 #中国为什么没有流浪汉 #中國為什麼沒有流浪漢 #中国流浪汉都去哪了 #中國流浪漢都去哪了 #中国无家可归者 #中國無家可歸者 #无",
-      "video": "中国街头为什么看不到流浪汉？流浪汉都去哪儿了？中國街頭爲什麼看不到流浪漢？流浪漢都去哪兒了？夸克说|誇克说",
-      "date": "2026-07-18",
-      "url": "https://www.youtube.com/watch?v=R5rEcf0DBSk"
+      "desc": "#黑社会 #黑社會  #矢板明夫 #矢板明夫 #矢板明夫遇袭 #矢板明夫遇襲 #跨境镇压 #跨境鎮壓 #受雇跨境施暴 #受僱跨境施暴 #香港黑帮 #香港黑幫 #",
+      "video": "从洪门到14K：黑社会为什么大都很“爱国”？從洪門到14K：黑社會爲什麼大都很“愛國”？夸克说|誇克说",
+      "date": "2026-07-22",
+      "url": "https://www.youtube.com/watch?v=FhaQ-4J9_j0"
     },
     {
       "channel": "May Fit",
