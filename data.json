@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-22",
-  "generatedAt": "2026-07-22T23:55:19.525Z",
+  "issueDate": "2026-07-23",
+  "generatedAt": "2026-07-23T23:53:21.409Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe\n【金融新闻】多家基金机构同日公告 传递长期看好A股市场信心\n【中国新闻】南非6月通胀升至5.0% 创近两年新高\n【世界新闻】Even camels can't cope: Africa's ships of the desert hit by rising temperatures"
+    "body": "【AI 最新信息】AMD takes on Nvidia with its Helios AI rack-scale system\n【金融新闻】从“会说”到“会想会做” 具身机器人正加速“进化”\n【中国新闻】哈萨克斯坦暂时下调原油产量\n【世界新闻】India activist ends hunger strike after 26 days"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-22",
-          "title": "After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe",
-          "summary": "After IBM's stock crashed last week on warnings of a poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+          "date": "2026-07-23",
+          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+          "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/"
+          "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
         },
         {
-          "date": "2026-07-22",
-          "title": "Google justifies its massive AI spending with a booming cloud business",
-          "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+          "date": "2026-07-23",
+          "title": "Anthropic updates Claude voice mode with more capable models",
+          "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
         },
         {
-          "date": "2026-07-22",
-          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
-          "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+          "date": "2026-07-23",
+          "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+          "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate che",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
+          "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
         },
         {
-          "date": "2026-07-22",
-          "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-          "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is w",
+          "date": "2026-07-23",
+          "title": "Runway launches AI model router as generative media gets crowded",
+          "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes qu",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/"
+          "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
         },
         {
-          "date": "2026-07-22",
-          "title": "Travis Kalanick&#8217;s robotics company raises $1.7B, led by a16z",
-          "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+          "date": "2026-07-23",
+          "title": "OpenAI makes ChatGPT Health available to all US users",
+          "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-22",
-          "title": "多家基金机构同日公告 传递长期看好A股市场信心",
-          "summary": "真金白银！多家基金机构同日公告",
+          "date": "2026-07-23",
+          "title": "从“会说”到“会想会做” 具身机器人正加速“进化”",
+          "summary": "陪聊天只是第一步",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664685.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-24/10665381.shtml"
         },
         {
-          "date": "2026-07-22",
-          "title": "稳定、制度、信心 证监会系列座谈会释放三大信号",
-          "summary": "证监会系列座谈会，三大信号！",
+          "date": "2026-07-23",
+          "title": "今年上半年我国汽车出口超6000亿元 同比增长48.3%",
+          "summary": "今年上半年，我国汽车出口6358.2亿元，同比增长48.3%，销往全球210多个国家和地区。其中，新能源汽车出口3606.8亿元，同比增长68.7%。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664684.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-24/10665372.shtml"
         },
         {
-          "date": "2026-07-22",
-          "title": "AI算力需求爆发：高端PCB供不应求，价格涨超300%",
-          "summary": "价格涨超300%！高端PCB需求爆发，订单排到2027年",
+          "date": "2026-07-23",
+          "title": "搭平台建生态促协同 浙江系统推进制造业“智改数转”",
+          "summary": "中新网杭州7月23日电(蓝伊旎)7月23日，制造业数字化转型促进中心“深度行”(浙江站)暨浙江省“十链百场万企”系列对接活动之“智改数转”专场在杭州举行，旨在推动供需两端精准对接，助力企业破解转型痛点。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664683.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10665274.shtml"
         },
         {
-          "date": "2026-07-22",
-          "title": "站上产业链风口，国产高端电子布加快扩产",
-          "summary": "AI算力需求带动电子布年内5轮提价，部分产品排产周期超4个月",
+          "date": "2026-07-23",
+          "title": "福州举办台青创业“扶摇计划”分享会",
+          "summary": "中新网福州7月23日电 (郑江洛)23日，国家税务总局福州市晋安区税务局联合共青团福州市委员会，携手台江区委台办、晋安区医保局等多家单位，在福州市台胞台企交流服务中心举办2026年度福州市台湾青年创业“扶摇计划”配套活动企业提质升级分享会。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664680.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10665250.shtml"
         },
         {
-          "date": "2026-07-22",
-          "title": "三大指标再创新高！中国造船业持续领跑全球",
-          "summary": "7月23日，工业和信息化部发布2026年上半年我国船舶工业统计数据。数据显示：我国造船完工量、新接订单量和手持订单量三大核心指标再创历史新高，持续领跑全球市场。",
+          "date": "2026-07-23",
+          "title": "上半年贺州外贸进出口同比增长85% 外向型经济活力迸发",
+          "summary": "中新网贺州7月23日电(黄筱珂 赵锦晟 叶剑青)贺州海关23日介绍，2026年上半年，该市外贸进出口总额达15.8亿元(人民币，下同)，同比(下同)增长85%，增速位居广西前列。其中，货物出口额13.6亿元，增长170.4%，展现出强劲的外向型经济活力。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10664675.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-23/10665248.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-22",
-          "title": "南非6月通胀升至5.0% 创近两年新高",
-          "summary": "中新社约翰内斯堡7月22日电 (记者 孙翔)南非统计局22日公布的数据显示，南非6月消费者价格指数(CPI)同比上涨5.0%，高于5月的4.5%，创2024年6月(5.1%)以来最高水平。",
+          "date": "2026-07-23",
+          "title": "哈萨克斯坦暂时下调原油产量",
+          "summary": "中新社阿斯塔纳7月23日电 (记者 单璐)哈萨克斯坦能源部23日表示，受里海管道联盟海上码头暂停原油装船作业影响，哈国内石油企业已暂时下调原油产量。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664682.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-24/10665368.shtml"
         },
         {
-          "date": "2026-07-22",
-          "title": "英国投入7.08亿英镑加速下一代空战技术研发",
-          "summary": "中新社伦敦7月22日电 (记者 欧阳开宇)英国政府22日公布，将投入7.08亿英镑专项资金，提速本国新一代空中作战技术研发，推进六代战机相关项目建设，带动本土军工产业就业发展。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664671.shtml"
+          "date": "2026-07-23",
+          "title": "王毅会见乌兹别克斯坦外长赛义多夫",
+          "summary": "图源：外交部网站 当地时间2026年7月23日晚，中共中央政治局委员、外交部长王毅在吉尔吉斯斯坦出席上海合作组织外长会前会见乌兹别克斯坦外长赛义多夫。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-24/10665378.shtml"
         },
         {
-          "date": "2026-07-22",
-          "title": "法国6月下旬热浪期间超额死亡人数达5700余例",
-          "summary": "中新社巴黎7月22日电 (记者 李洋)法国公共卫生署当地时间22日发布6月下旬法国热浪期间死亡情况的进一步评估报告，透露6月17日至7月2日热浪期间的超额死亡人数达5700余例。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664670.shtml"
+          "date": "2026-07-23",
+          "title": "王毅会见白俄罗斯外长雷任科夫",
+          "summary": "图源：外交部网站 当地时间2026年7月23日晚，中共中央政治局委员、外交部长王毅在吉尔吉斯斯坦出席上海合作组织外长会前会见白俄罗斯外长雷任科夫。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-24/10665377.shtml"
         },
         {
-          "date": "2026-07-22",
-          "title": "欧盟航空安全局预警航空公司避开约旦空域",
-          "summary": "中新社布鲁塞尔7月22日电 (记者 德永健)随着伊朗持续打击约旦境内美军目标，欧盟航空安全局22日发出预警，建议即日起航空公司避开约旦空域。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664669.shtml"
+          "date": "2026-07-23",
+          "title": "在两公里长的“跑道”上追赶光速 大国重器HIAF背后的十六年攻坚",
+          "summary": "在两公里长的“跑道”上追赶光速",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-24/10665374.shtml"
         },
         {
-          "date": "2026-07-22",
-          "title": "泰国总理：以更大的诚意欢迎中国投资者",
-          "summary": "中新社曼谷7月22日电 (记者 李映民)泰国总理阿努廷22日在2026泰中合作博览会开幕式上致辞称，泰国政府将以更大的诚意欢迎中国投资者，为中国企业的落户创设更好的投资环境。",
+          "date": "2026-07-23",
+          "title": "特朗普：美国将用伊朗资金“赔偿”受损船只和货物",
+          "summary": "中新网7月24日电 据彭博社报道，当地时间23日，美国总统特朗普在社交媒体发文称，美国将用其控制的伊朗资金“赔偿”因伊方袭击受损的船只和货物。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-23/10664667.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-24/10665367.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-22",
-          "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
-          "summary": "Herders and experts tell the BBC how Africa's camels are suffering because of extreme heat.",
+          "date": "2026-07-23",
+          "title": "India activist ends hunger strike after 26 days",
+          "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-22",
-          "title": "US signs landmark nuclear deal with Saudi Arabia",
-          "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+          "date": "2026-07-23",
+          "title": "Google and Tesla shares plunge as AI spending rattles markets",
+          "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-22",
-          "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-          "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+          "date": "2026-07-23",
+          "title": "France evacuates 20,000 as wildfires spread in south-west",
+          "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-22",
-          "title": "Watch: What we know about the US-Saudi nuclear deal",
-          "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
+          "date": "2026-07-23",
+          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-22",
-          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-          "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+          "date": "2026-07-23",
+          "title": "Ukraine's ousted defence minister insists on being reinstated",
+          "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "lopopolo/harness-engineering（⭐ 2187）",
+          "title": "lopopolo/harness-engineering（⭐ 2273）",
           "summary": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
           "source": "GitHub",
           "url": "https://github.com/lopopolo/harness-engineering"
         },
         {
           "date": "GitHub Trending",
-          "title": "tandpfun/wardrobe（⭐ 1354）",
-          "summary": "Your clothes, extracted and organized with gpt-image.",
+          "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot（⭐ 1195）",
+          "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
           "source": "GitHub",
-          "url": "https://github.com/tandpfun/wardrobe"
+          "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot"
         },
         {
           "date": "GitHub Trending",
-          "title": "pablostanley/yoinks（⭐ 1046）",
-          "summary": "yoink any video from your terminal. no shady ads.",
+          "title": "nyblnet/bento（⭐ 1076）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/pablostanley/yoinks"
+          "url": "https://github.com/nyblnet/bento"
         },
         {
           "date": "GitHub Trending",
-          "title": "nethical6/conversation-steganography（⭐ 979）",
+          "title": "nethical6/conversation-steganography（⭐ 1072）",
           "summary": "Use LLMs to hide messages inside normal looking conversations",
           "source": "GitHub",
           "url": "https://github.com/nethical6/conversation-steganography"
         },
         {
           "date": "GitHub Trending",
-          "title": "v-modal/vmodal_sdk_flutter（⭐ 878）",
-          "summary": "V- Modal AI: Search anything anywhere SDK Flutter",
+          "title": "andrewyng/openworker（⭐ 1034）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/v-modal/vmodal_sdk_flutter"
+          "url": "https://github.com/andrewyng/openworker"
         }
       ]
     }
@@ -215,10 +215,10 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "反共人士，应该如何面对一个中国越来越具影响力的世界？本期节目从火箭回收、宇树机器人、Seedance和中国供应链谈起：承认中国人民取得的成就，不等于认可中共的制",
-      "video": "中国实现火箭回收：承认中国的成就，不等于认可这个制度。 | 长征十号乙 | 中共体制 | 制度优势 | 反共 | 老周横眉",
-      "date": "2026-07-16",
-      "url": "https://www.youtube.com/watch?v=CnXKqC6zx5Q"
+      "desc": "昔日的金童玉女，是如何败光2亿家财的？很多人把这件事当成一场豪门八卦，但在我看来，这更是一堂价值2亿元的商业课。因为比别人的成功更加值得学习的，是失败的案例。如",
+      "video": "拳王7年败光2亿：邹市明夫妇的财富悲剧，给普通人留下了什么教训？ | 冉莹颖 | 守富 | 商业思维 | 财富管理 | 老周横眉",
+      "date": "2026-07-23",
+      "url": "https://www.youtube.com/watch?v=lI3MJQCUdw4"
     },
     {
       "channel": "文昭思绪飞扬",
