@@ -1,15 +1,36 @@
 {
-  "issueDate": "2026-07-25",
-  "generatedAt": "2026-07-25T23:52:35.946Z",
+  "issueDate": "2026-07-26",
+  "generatedAt": "2026-07-26T23:53:17.415Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who are fed up with Big Tech\n【金融新闻】Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?\n【中国新闻】柏林发生汽车撞人事件致1死14伤\n【世界新闻】Pizza, pasta, potatoes, protein - how Italian children became so overweight"
+    "body": "【AI 最新信息】Making sense of the panic over Chinese AI\n【金融新闻】Mark Cuban's group buys stake in relocating MLB franchise\n【中国新闻】丰收筑底 科技蓄力 一组数据读懂中国硬核经济满满亮点\n【世界新闻】The Indian Army's first woman boxer is now chasing Commonwealth gold"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-07-26",
+          "title": "Making sense of the panic over Chinese AI",
+          "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/"
+        },
+        {
+          "date": "2026-07-26",
+          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+        },
+        {
+          "date": "2026-07-26",
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+        },
         {
           "date": "2026-07-25",
           "title": "Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who are fed up with Big Tech",
@@ -23,27 +44,6 @@
           "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
-        },
-        {
-          "date": "2026-07-25",
-          "title": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-          "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
-        },
-        {
-          "date": "2026-07-24",
-          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
-        },
-        {
-          "date": "2026-07-24",
-          "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-          "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants i",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-25",
-          "title": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
+          "date": "2026-07-26",
+          "title": "Mark Cuban's group buys stake in relocating MLB franchise",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-vs-intel-232000073.html"
+          "url": "https://finance.yahoo.com/media-advertising/articles/mark-cubans-group-buys-stake-233700086.html"
         },
         {
-          "date": "2026-07-25",
-          "title": "140-year-old mall retail giant only has 5 locations left",
+          "date": "2026-07-26",
+          "title": "GE Aerospace has a Backlog Worth $210 Billion. Here's Why I'm Still Not Buying",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/140-old-retail-giant-closed-185831700.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-backlog-worth-210-233500548.html"
         },
         {
-          "date": "2026-07-25",
-          "title": "How Do the Vanguard S&P 500 Growth ETF and the State Street Small Cap Growth ETF Compare?",
+          "date": "2026-07-26",
+          "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-p-500-growth-etf-231001473.html"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo"
         },
         {
-          "date": "2026-07-25",
-          "title": "Down 99%, popular EV stock is ripe bankruptcy candidate",
+          "date": "2026-07-26",
+          "title": "Why SLB Stock Surged This Past Week",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/down-99-popular-ev-stock-230400886.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-slb-stock-surged-past-232840600.html"
         },
         {
-          "date": "2026-07-25",
-          "title": "How to Create Warren Buffett’s 90/10 Portfolio, But With an 11% Yield",
+          "date": "2026-07-26",
+          "title": "HSBC Just Started Covering SpaceX With a $115 Price Target. The Stock Closed Friday at $115.07.",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/options/articles/create-warren-buffett-90-10-225719848.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-just-started-covering-spacex-232800998.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-25",
-          "title": "柏林发生汽车撞人事件致1死14伤",
-          "summary": "德国柏林警方当地时间25日说，柏林市中心当晚发生一起汽车冲撞行人事件，造成至少1人死亡、14人受伤，其中多人伤势严重。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666599.shtml"
-        },
-        {
-          "date": "2026-07-25",
-          "title": "中央部门“晒账本”，花钱更加求“绩”问“效”",
-          "summary": "中央部门“晒账本”，花钱更加求“绩”问“效”",
+          "date": "2026-07-26",
+          "title": "丰收筑底 科技蓄力 一组数据读懂中国硬核经济满满亮点",
+          "summary": "全国夏粮首次突破3000亿斤",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666598.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-27/10666985.shtml"
         },
         {
-          "date": "2026-07-25",
-          "title": "美军称对伊海上封锁已使两艘船只失去航行能力",
-          "summary": "当地时间7月25日，美国中央司令部表示，美国针对伊朗的海上封锁仍全面生效。截至当天，美军已拦截并改道12艘试图突破封锁的商船，使2艘拒不配合的船只失去航行能力，并登船检查2艘船舶。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666596.shtml"
-        },
-        {
-          "date": "2026-07-25",
-          "title": "特朗普下令暂停空袭伊朗",
-          "summary": "央视记者获悉，当地时间7月25日，美国总统特朗普下令美军当天不要对伊朗发动新的空袭，结束了此前连续近两周、持续13天的每日打击行动。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-26/10666595.shtml"
-        },
-        {
-          "date": "2026-07-25",
-          "title": "攻破世界级难题、申遗成功！本周我国多领域实现历史性突破",
-          "summary": "“景德镇手工瓷业遗存”申遗成功",
+          "date": "2026-07-26",
+          "title": "金正恩参谒中国人民志愿军烈士陵园",
+          "summary": "总台记者7月27日获悉，在朝鲜祖国解放战争胜利73周年之际，朝鲜劳动党总书记、国务委员长金正恩于7月26日前往并参谒位于平安南道桧仓郡的中国人民志愿军烈士陵园，向志愿军烈士们表示崇高敬意。(总台记者 董海涛)",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666594.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/07-27/10666983.shtml"
+        },
+        {
+          "date": "2026-07-26",
+          "title": "南海搜救持续进行 中国海警夜间再救起2名越南遇险船员",
+          "summary": "中新网7月27日电 据“中国海警”微信公众号消息，7月25日19时37分，中国海警接海南省海上搜救中心通报，1艘越南籍船舶在永暑礁以北38海里附近海域遇险沉没。接到通报后，中国海警立即派遣两艘海警舰赶赴事发海域展开搜救。7月26日晚，中国海警宣德舰、南沙舰在持续开展搜救过程中，宣德舰先后发现两名落水越南籍遇险船员，海警",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-27/10666982.shtml"
+        },
+        {
+          "date": "2026-07-26",
+          "title": "伊朗外长称乌克兰违反联合国宪章",
+          "summary": "中新网7月27日电 据土耳其阿纳多卢通讯社报道，伊朗外交部长阿拉格奇当地时间26日表示，乌克兰袭击伊朗商船并造成一名船员死亡的事件“不能置之不理”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-27/10666979.shtml"
+        },
+        {
+          "date": "2026-07-26",
+          "title": "伊朗高官：只要美国暂停轰炸，伊朗就会停止袭击",
+          "summary": "中新网7月27日电 据路透社报道，一位伊朗高级官员当地时间26日表示，只要美国停止袭击，伊朗也将停止袭击。此前，美国总统特朗普的顾问称，美国已无目标可供攻击，并对耗尽美国武器库表示担忧，随后美国暂停了其空袭行动。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-27/10666977.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-25",
-          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-          "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+          "date": "2026-07-26",
+          "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+          "summary": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-25",
-          "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
-          "summary": "Formerly the preserve of the rich, tennis is booming in the basketball- and boxing-obsessed country.",
+          "date": "2026-07-26",
+          "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+          "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-25",
-          "title": "India's 'cockroach' protest called off after education minister quits",
-          "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+          "date": "2026-07-26",
+          "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+          "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-25",
-          "title": "More than 250,000 flee wildfires in France and Spain",
-          "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+          "date": "2026-07-26",
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-25",
-          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-          "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+          "date": "2026-07-26",
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "andrewyng/openworker（⭐ 4926）",
+          "title": "andrewyng/openworker（⭐ 6659）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/andrewyng/openworker"
         },
         {
           "date": "GitHub Trending",
-          "title": "Vincentwei1021/video-shotcraft（⭐ 1740）",
-          "summary": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+          "title": "slvDev/esp32-ai（⭐ 1323）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/Vincentwei1021/video-shotcraft"
+          "url": "https://github.com/slvDev/esp32-ai"
         },
         {
           "date": "GitHub Trending",
-          "title": "Jakubantalik/thinking-orbs（⭐ 1000）",
+          "title": "Jakubantalik/thinking-orbs（⭐ 1094）",
           "summary": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
           "source": "GitHub",
           "url": "https://github.com/Jakubantalik/thinking-orbs"
         },
         {
           "date": "GitHub Trending",
-          "title": "Blaizzy/nativ（⭐ 884）",
-          "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-          "source": "GitHub",
-          "url": "https://github.com/Blaizzy/nativ"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "powerycy/goutoujunshi（⭐ 873）",
+          "title": "powerycy/goutoujunshi（⭐ 939）",
           "summary": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
           "source": "GitHub",
           "url": "https://github.com/powerycy/goutoujunshi"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Blaizzy/nativ（⭐ 918）",
+          "summary": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+          "source": "GitHub",
+          "url": "https://github.com/Blaizzy/nativ"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "李嘉誠為何從華人首富，走到中美博弈的風暴中心？從巴拿馬運河港口運營，到香港政商關係，再到北京與華府角力，習近平與香港首富30年的恩怨，在全球權力與資本的角力中，",
-      "video": "李嘉誠怎麼得罪了習近平？從福州到巴拿馬的30年恩怨【文昭思緒飛揚559】",
-      "date": "2026-07-24",
-      "url": "https://www.youtube.com/watch?v=v7S76x_R4cg"
+      "desc": "請點擊購買surfsharkVPN服務，請使用優惠碼：wenzhao，優惠連結：https://surfshark.com/wenzhao  一張被緊急刪除的照",
+      "video": "鐵凝與習近平的往事：一張照片遭全網刪除，她曾離第一夫人只有一步？【文昭思緒飛揚560】",
+      "date": "2026-07-26",
+      "url": "https://www.youtube.com/watch?v=lwEB6Ivrg7w"
     },
     {
       "channel": "夸克说",
