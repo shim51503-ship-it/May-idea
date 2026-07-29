@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-28",
-  "generatedAt": "2026-07-28T23:52:09.992Z",
+  "issueDate": "2026-07-29",
+  "generatedAt": "2026-07-29T23:54:06.445Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Bot-detection startup Spur nabs $200M from Insight\n【金融新闻】以赛促研，中国车跑出加速度\n【中国新闻】日本熊本县一商场爆炸已致2死多伤 或因燃气泄漏引发\n【世界新闻】'A lover of life' - Seattle pays tribute to food festival shooting victims"
+    "body": "【AI 最新信息】Mark Zuckerberg predicts that billions of people will have personal AI agents in five years\n【金融新闻】从“能对话”到“能干活”：人工智能，让千行百业大变样\n【中国新闻】日本熊本县地震已致14人死亡6人心肺停止 多人下落不明\n【世界新闻】India's CJP protests: Why tech alone won't stop exam paper leaks"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-28",
-          "title": "Bot-detection startup Spur nabs $200M from Insight",
-          "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+          "date": "2026-07-29",
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
         },
         {
-          "date": "2026-07-28",
-          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-          "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+          "date": "2026-07-29",
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its i",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/"
+          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
         },
         {
-          "date": "2026-07-28",
-          "title": "Sam Altman is ready to decelerate",
-          "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+          "date": "2026-07-29",
+          "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
+          "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/"
+          "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
         },
         {
-          "date": "2026-07-28",
-          "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-          "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+          "date": "2026-07-29",
+          "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/"
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
         },
         {
-          "date": "2026-07-28",
-          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-          "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recu",
+          "date": "2026-07-29",
+          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+          "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+          "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-28",
-          "title": "以赛促研，中国车跑出加速度",
-          "summary": "中国品牌汽车在世界赛场屡创佳绩——",
+          "date": "2026-07-29",
+          "title": "从“能对话”到“能干活”：人工智能，让千行百业大变样",
+          "summary": "从“能对话”到“能干活”——",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668233.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-30/10668951.shtml"
         },
         {
-          "date": "2026-07-28",
-          "title": "“进货式网购”遇纠纷，能要求三倍赔偿吗",
-          "summary": "大批量网购玩具，用于线下摆摊二次售卖，遇纠纷要退货，主张适用消费者权益保护法规定的“退一赔三”惩罚性赔偿，合理吗？河南省焦作市马村区人民法院审结了一起网购玩具合同纠纷案。",
+          "date": "2026-07-29",
+          "title": "650余家上市公司密集增持回购 持续提振A股信心",
+          "summary": "650余家上市公司密集增持回购",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-29/10668230.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-30/10668948.shtml"
         },
         {
-          "date": "2026-07-28",
-          "title": "Secretary Bessent cracks down on non-profit tax loopholes",
+          "date": "2026-07-29",
+          "title": "田里遭了灾，农业保险怎么赔",
+          "summary": "田里遭了灾，农业保险怎么赔(服务窗·关注汛期安全)",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-30/10668935.shtml"
+        },
+        {
+          "date": "2026-07-29",
+          "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html"
         },
         {
-          "date": "2026-07-28",
-          "title": "商务部：中方敦促土耳其尊重世贸组织专家组裁决",
-          "summary": "中新社北京7月28日电 (记者 尹倩芸)中国商务部条约法律司负责人28日表示，中方敦促土耳其尊重世贸组织专家组裁决，采取切实行动，尽快纠正违规措施。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-28/10668210.shtml"
-        },
-        {
-          "date": "2026-07-28",
-          "title": "西藏上半年融资成本稳居全国低位",
-          "summary": "中新社拉萨7月28日电 (记者 贡桑拉姆)记者28日从西藏自治区官方召开的新闻发布会获悉，2026年上半年西藏自治区金融运行态势向好，信贷总量稳步扩容、融资成本低位下行，金融紧扣高原发展实际深耕科技、绿色、普惠等五大领域，叠加跨境支付、企业融资透明化改革落地。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-28/10668199.shtml"
+          "date": "2026-07-29",
+          "title": "56-year-old fast-food giant has closed over half its restaurants",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/articles/56-old-fast-food-giant-162827239.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-28",
-          "title": "日本熊本县一商场爆炸已致2死多伤 或因燃气泄漏引发",
-          "summary": "中新网7月29日电 据日本广播协会(NHK)报道，日本熊本县嘉岛町一大型商场强震后发生爆炸，经搜救已找到8名被困人员，其中两人死亡、5人受伤，另有1人处于心肺停止状态。",
+          "date": "2026-07-29",
+          "title": "日本熊本县地震已致14人死亡6人心肺停止 多人下落不明",
+          "summary": "中新网7月30日电 据日本共同社报道，日本熊本县表示，截至当地时间29日，此次7.1级地震已造成14人死亡，6人处于心肺停止状态。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668239.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668959.shtml"
         },
         {
-          "date": "2026-07-28",
-          "title": "多国设槛，未成年人社交媒体准入年龄该定几岁",
-          "summary": "7月24日，欧盟委员会向TikTok通报初步调查结果：该平台未能按照欧盟《数字服务法》的要求，为未成年人提供足够安全的账户环境。欧盟委员会特别指出，未成年人可以把账户设为公开，16岁至17岁用户发布的内容甚至可能经“为你推荐”信息流推送给任何人。欧盟要求，保护未成年人不能依赖用户主动选择，安全设置应当成为默认选项。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668235.shtml"
+          "date": "2026-07-29",
+          "title": "监管政策组合拳直击行业协会商会乱象",
+          "summary": "斩断违规敛财渠道 叫停批发“会长”“大师”",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-30/10668953.shtml"
         },
         {
-          "date": "2026-07-28",
-          "title": "美军中央司令部：伊朗发射多枚导弹袭击驻中东美军",
-          "summary": "中新网7月29日电 据美国有线电视新闻网(CNN)报道，当地时间28日，美军中央司令部表示，美国东部时间当日下午5时45分，伊朗伊斯兰革命卫队从伊朗境内发射多枚弹道导弹，“试图对驻中东地区的美军发动突然袭击”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668229.shtml"
+          "date": "2026-07-29",
+          "title": "水利部向17省份发出“一省一单”靶向预警",
+          "summary": "水利部向17省份发出“一省一单”靶向预警",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-30/10668949.shtml"
         },
         {
-          "date": "2026-07-28",
-          "title": "法国西南部野火重灾区面临高温警报 逾两千消防员救灾",
-          "summary": "中新社巴黎7月28日电 (记者 李洋)法国西南部野火重灾区当地时间28日面临高温橙色警报，目前在重灾区有超过两千名消防员奋力救灾。",
+          "date": "2026-07-29",
+          "title": "乌克兰首都基辅连续传出强烈爆炸声 防空警报已拉响",
+          "summary": "中新网7月30日电 据乌通社报道，当地时间30日凌晨，乌克兰首都基辅连续传出强烈爆炸声，防空警报已拉响。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668228.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668946.shtml"
         },
         {
-          "date": "2026-07-28",
-          "title": "内塔尼亚胡结束与特朗普会晤：两人“最好的对话之一”",
-          "summary": "中新网7月29日电 据美国有线电视新闻网(CNN)报道，当地时间28日，以色列总理内塔尼亚胡在社交媒体上表示，他与美国总统特朗普的会谈是两人“最好的对话之一”。",
+          "date": "2026-07-29",
+          "title": "伊朗官员：美沙空袭伊拉克致4名伊朗革命卫队成员身亡",
+          "summary": "中新网7月30日电 据美国有线电视新闻网(CNN)报道，当地时间29日，伊朗中央省副省长表示，美国和沙特对伊拉克迪亚拉省发动联合空袭，造成4名伊朗伊斯兰革命卫队成员死亡。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-29/10668227.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668945.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-28",
-          "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-          "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+          "date": "2026-07-29",
+          "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
+          "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-28",
-          "title": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
-          "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
+          "date": "2026-07-29",
+          "title": "Salman Rushdie attacker convicted of terror offenses",
+          "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-28",
-          "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
-          "summary": "The 16-year-old lifeguard rescued a 10-year-old who had been swept offshore at a California beach.",
+          "date": "2026-07-29",
+          "title": "The Chinese robot army transforming the UK's retail industry",
+          "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-28",
-          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-          "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
+          "date": "2026-07-29",
+          "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+          "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-28",
-          "title": "Japan earthquake: What we know so far",
-          "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
+          "date": "2026-07-29",
+          "title": "Four women accuse Jared Leto of criminal sexual conduct",
+          "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "MoonshotAI/Kimi-K3（⭐ 3366）",
+          "title": "MoonshotAI/Kimi-K3（⭐ 5652）",
           "summary": "Open Frontier Intelligence",
           "source": "GitHub",
           "url": "https://github.com/MoonshotAI/Kimi-K3"
         },
         {
           "date": "GitHub Trending",
-          "title": "vercel-labs/scriptc（⭐ 2111）",
-          "summary": "TypeScript-to-Native Compiler",
-          "source": "GitHub",
-          "url": "https://github.com/vercel-labs/scriptc"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "slvDev/esp32-ai（⭐ 2049）",
+          "title": "slvDev/esp32-ai（⭐ 2319）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/slvDev/esp32-ai"
         },
         {
           "date": "GitHub Trending",
-          "title": "mshumer/Claude-of-Duty（⭐ 1695）",
+          "title": "mshumer/Claude-of-Duty（⭐ 2244）",
           "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
           "source": "GitHub",
           "url": "https://github.com/mshumer/Claude-of-Duty"
         },
         {
           "date": "GitHub Trending",
-          "title": "kvcache-ai/AgentENV（⭐ 1425）",
+          "title": "kvcache-ai/AgentENV（⭐ 2093）",
           "summary": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
           "source": "GitHub",
           "url": "https://github.com/kvcache-ai/AgentENV"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "digimata/quill（⭐ 1465）",
+          "summary": "Ultra-minimalist macOS recording + transcription.",
+          "source": "GitHub",
+          "url": "https://github.com/digimata/quill"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#海外民运 #海外民運 #海外反共 #反共人士 #中国民主运动 #中國民主運動 #民运组织 #民運組織 #民运内斗 #民運內鬥 #中国民主化 #中國民主化 #民",
-      "video": "海外民运注定失败？几百人的小团体都管不好，凭什么接管14亿人的中国？海外民運注定失敗？幾百人的小團體都管不好，憑什麼接管14億人的中國？夸克说|誇克说",
-      "date": "2026-07-25",
-      "url": "https://www.youtube.com/watch?v=3PajZr5lCrA"
+      "desc": "#王虹 #邓煜 #鄧煜 #菲尔兹奖 #菲爾茲獎 #2026菲尔兹奖 #2026菲爾茲獎 #王虹菲尔兹奖 #王虹菲爾茲獎 #邓煜菲尔兹奖 #鄧煜菲爾茲獎 #中国教",
+      "video": "王虹邓煜获菲尔兹奖：他俩真的是中国教育培养出来的？不，他们只是命硬而已！王虹鄧煜獲菲爾茲獎：他倆真的是中國教育培養出來的？不，他們隻是命硬而已！夸克说|誇克说",
+      "date": "2026-07-29",
+      "url": "https://www.youtube.com/watch?v=hKaviM5Kew8"
     },
     {
       "channel": "May Fit",
