@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-29",
-  "generatedAt": "2026-07-29T23:54:06.445Z",
+  "issueDate": "2026-07-30",
+  "generatedAt": "2026-07-30T23:54:37.284Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Mark Zuckerberg predicts that billions of people will have personal AI agents in five years\n【金融新闻】从“能对话”到“能干活”：人工智能，让千行百业大变样\n【中国新闻】日本熊本县地震已致14人死亡6人心肺停止 多人下落不明\n【世界新闻】India's CJP protests: Why tech alone won't stop exam paper leaks"
+    "body": "【AI 最新信息】AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares\n【金融新闻】第12批国家组织药品集采将在上海开标\n【中国新闻】特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议\n【世界新闻】Trump says Board of Peace has reached agreement for disarmament of Hamas"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-29",
-          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-          "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+          "date": "2026-07-30",
+          "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+          "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
+          "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
         },
         {
-          "date": "2026-07-29",
-          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-          "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its i",
+          "date": "2026-07-30",
+          "title": "Investors love AI, as long as you’re a cloud host",
+          "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+          "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
         },
         {
-          "date": "2026-07-29",
-          "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
-          "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, ",
+          "date": "2026-07-30",
+          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the governme",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
         },
         {
-          "date": "2026-07-29",
-          "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "date": "2026-07-30",
+          "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+          "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
+          "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"
         },
         {
-          "date": "2026-07-29",
-          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-          "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+          "date": "2026-07-30",
+          "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+          "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/"
+          "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-29",
-          "title": "从“能对话”到“能干活”：人工智能，让千行百业大变样",
-          "summary": "从“能对话”到“能干活”——",
+          "date": "2026-07-30",
+          "title": "第12批国家组织药品集采将在上海开标",
+          "summary": "新华社上海7月31日电(记者彭韵佳、龚雯)7月31日，第12批国家组织药品集采将在上海开标，投标企业7时30分开始陆续入场递交报价材料。本次集采共纳入65种药品，覆盖抗感染、抗肿瘤、抗血栓、降血糖、降血压、降血脂、风湿免疫、消炎镇痛等领域常用药品。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-30/10668951.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669596.shtml"
         },
         {
-          "date": "2026-07-29",
-          "title": "650余家上市公司密集增持回购 持续提振A股信心",
-          "summary": "650余家上市公司密集增持回购",
+          "date": "2026-07-30",
+          "title": "养老机器人叩响百姓门 百亿市场预期下的“理想”与“现实”",
+          "summary": "清晨，家住北京市的周青老人照常被“保姆”叫醒。这个“保姆”有点特殊，它不用吃饭、睡觉，却能准时叫人起床，提醒人按时睡觉和吃药。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-30/10668948.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669595.shtml"
         },
         {
-          "date": "2026-07-29",
-          "title": "田里遭了灾，农业保险怎么赔",
-          "summary": "田里遭了灾，农业保险怎么赔(服务窗·关注汛期安全)",
+          "date": "2026-07-30",
+          "title": "那达慕，好一场热烈的草原之约",
+          "summary": "那达慕，好一场热烈的草原之约(聚焦传统体育)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-30/10668935.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669588.shtml"
         },
         {
-          "date": "2026-07-29",
-          "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+          "date": "2026-07-30",
+          "title": "AI带动有色金属盈利大增 铜锡等价格大幅上涨",
+          "summary": "AI算力基建的“狂飙”，正在改变全球有色金属市场的供需版图。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669576.shtml"
+        },
+        {
+          "date": "2026-07-30",
+          "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html"
-        },
-        {
-          "date": "2026-07-29",
-          "title": "56-year-old fast-food giant has closed over half its restaurants",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/articles/56-old-fast-food-giant-162827239.html"
+          "url": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-29",
-          "title": "日本熊本县地震已致14人死亡6人心肺停止 多人下落不明",
-          "summary": "中新网7月30日电 据日本共同社报道，日本熊本县表示，截至当地时间29日，此次7.1级地震已造成14人死亡，6人处于心肺停止状态。",
+          "date": "2026-07-30",
+          "title": "特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议",
+          "summary": "中新网7月31日电 据土耳其阿纳多卢通讯社报道，美国总统特朗普当地时间30日表示，已就哈马斯“全面解除武装”达成协议，随着这一进程的推进，以色列军队将撤出加沙地带。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668959.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669594.shtml"
         },
         {
-          "date": "2026-07-29",
-          "title": "监管政策组合拳直击行业协会商会乱象",
-          "summary": "斩断违规敛财渠道 叫停批发“会长”“大师”",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-30/10668953.shtml"
-        },
-        {
-          "date": "2026-07-29",
-          "title": "水利部向17省份发出“一省一单”靶向预警",
-          "summary": "水利部向17省份发出“一省一单”靶向预警",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/07-30/10668949.shtml"
-        },
-        {
-          "date": "2026-07-29",
-          "title": "乌克兰首都基辅连续传出强烈爆炸声 防空警报已拉响",
-          "summary": "中新网7月30日电 据乌通社报道，当地时间30日凌晨，乌克兰首都基辅连续传出强烈爆炸声，防空警报已拉响。",
+          "date": "2026-07-30",
+          "title": "美国否认伊朗摧毁三架F-35战斗机的说法",
+          "summary": "中新网7月31日电 据土耳其阿纳多卢通讯社报道，美国军方当地时间7月30日否认了伊朗媒体关于导弹袭击摧毁数架美国F-35隐形战斗机的报道。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668946.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669593.shtml"
         },
         {
-          "date": "2026-07-29",
-          "title": "伊朗官员：美沙空袭伊拉克致4名伊朗革命卫队成员身亡",
-          "summary": "中新网7月30日电 据美国有线电视新闻网(CNN)报道，当地时间29日，伊朗中央省副省长表示，美国和沙特对伊拉克迪亚拉省发动联合空袭，造成4名伊朗伊斯兰革命卫队成员死亡。",
+          "date": "2026-07-30",
+          "title": "外媒：欧足联或将抵制世界杯",
+          "summary": "中新网7月31日电 据英国广播公司(BBC)报道，当地时间7月30日，欧足联的55个成员协会投票决定，如果国际足联继续推进将世界杯股份出售给私人投资者的计划，他们将抵制世界杯。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668945.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669591.shtml"
+        },
+        {
+          "date": "2026-07-30",
+          "title": "欧足联宣布抵制所有国际足联赛事",
+          "summary": "当地时间7月30日，欧洲足球管理机构欧足联及其55个成员国投票决定“抵制所有国际足联赛事”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669590.shtml"
+        },
+        {
+          "date": "2026-07-30",
+          "title": "特朗普称已就哈马斯“全面解除武装”达成协议",
+          "summary": "新华社华盛顿7月30日电 美国总统特朗普30日在社交媒体发文称，美国发起的所谓“和平委员会”就哈马斯和加沙地带其他武装组织“全面解除武装”达成了一项历史性协议。(完)",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669589.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-29",
-          "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
-          "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
+          "date": "2026-07-30",
+          "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+          "summary": "Israel and Hamas have yet to comment on the announcement.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-29",
-          "title": "Salman Rushdie attacker convicted of terror offenses",
-          "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+          "date": "2026-07-30",
+          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+          "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-29",
-          "title": "The Chinese robot army transforming the UK's retail industry",
-          "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+          "date": "2026-07-30",
+          "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
+          "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-29",
-          "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-          "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+          "date": "2026-07-30",
+          "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+          "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-29",
-          "title": "Four women accuse Jared Leto of criminal sexual conduct",
-          "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+          "date": "2026-07-30",
+          "title": "Father of teen school shooter sentenced to 15 years in prison",
+          "summary": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "MoonshotAI/Kimi-K3（⭐ 5652）",
+          "title": "MoonshotAI/Kimi-K3（⭐ 7527）",
           "summary": "Open Frontier Intelligence",
           "source": "GitHub",
           "url": "https://github.com/MoonshotAI/Kimi-K3"
         },
         {
           "date": "GitHub Trending",
-          "title": "slvDev/esp32-ai（⭐ 2319）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/slvDev/esp32-ai"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "mshumer/Claude-of-Duty（⭐ 2244）",
+          "title": "mshumer/Claude-of-Duty（⭐ 2397）",
           "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
           "source": "GitHub",
           "url": "https://github.com/mshumer/Claude-of-Duty"
         },
         {
           "date": "GitHub Trending",
-          "title": "kvcache-ai/AgentENV（⭐ 2093）",
-          "summary": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-          "source": "GitHub",
-          "url": "https://github.com/kvcache-ai/AgentENV"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "digimata/quill（⭐ 1465）",
+          "title": "digimata/quill（⭐ 2386）",
           "summary": "Ultra-minimalist macOS recording + transcription.",
           "source": "GitHub",
           "url": "https://github.com/digimata/quill"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "mikiarlo3/ai-copywriter（⭐ 987）",
+          "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+          "source": "GitHub",
+          "url": "https://github.com/mikiarlo3/ai-copywriter"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "VictorTaelin/OptMem（⭐ 930）",
+          "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+          "source": "GitHub",
+          "url": "https://github.com/VictorTaelin/OptMem"
         }
       ]
     }
@@ -215,10 +215,10 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "昔日的金童玉女，是如何败光2亿家财的？很多人把这件事当成一场豪门八卦，但在我看来，这更是一堂价值2亿元的商业课。因为比别人的成功更加值得学习的，是失败的案例。如",
-      "video": "拳王7年败光2亿：邹市明夫妇的财富悲剧，给普通人留下了什么教训？ | 冉莹颖 | 守富 | 商业思维 | 财富管理 | 老周横眉",
-      "date": "2026-07-23",
-      "url": "https://www.youtube.com/watch?v=lI3MJQCUdw4"
+      "desc": "90年来，中国籍数学家首次获得菲尔兹奖，举国欢腾。这是否说明中国制度开始收获成果，属于中国的时代即将来临？还是说，真正造就王虹和邓煜的，依然是欧美自由开放的科研",
+      "video": "中国籍数学家首获菲尔兹奖：这是中共体制的胜利吗？科学家又是否有义务回国做贡献？ | 王虹 | 邓煜 | 中国教育 | 老周横眉",
+      "date": "2026-07-30",
+      "url": "https://www.youtube.com/watch?v=O1VfhtdixUc"
     },
     {
       "channel": "文昭思绪飞扬",
@@ -243,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "AIReel官方入口 Web: https://bit.ly/kol-YingXia App: https://aireel.go.link/jMtd0  哈喽",
-      "video": "最适合小白的AI视频工具AIReel！3种玩法一站式跑通工作流 AI副业 AI赚钱 AI工具 AI创业 AI数字人 AI教学 零基础 普通人 AI教程 AI教学 自动化工作流",
-      "date": "2026-07-16",
-      "url": "https://www.youtube.com/watch?v=W4qlmCcsVns"
+      "desc": "去年9月，我发出了人生第一条视频。  那时候我以为，做自媒体就是坐在阳光下喝咖啡、拍拍视频、轻松赚钱。 但真实的一年，是凌晨两点回学员消息，是一条开场白录十几遍",
+      "video": "“卖课”快一年了，复盘+总结 AI创业 AI赚钱 AI副业 自媒体 个人IP 普通人搞钱 AI搞钱 知识付费 youtube 小红书 怎么做账号 做流量 创业 赚钱 小白 陪跑 社群 AI",
+      "date": "2026-07-30",
+      "url": "https://www.youtube.com/watch?v=47carMhD4p4"
     },
     {
       "channel": "李厂长来了",
