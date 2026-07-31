@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-30",
-  "generatedAt": "2026-07-30T23:54:37.284Z",
+  "issueDate": "2026-07-31",
+  "generatedAt": "2026-07-31T23:54:18.984Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares\n【金融新闻】第12批国家组织药品集采将在上海开标\n【中国新闻】特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议\n【世界新闻】Trump says Board of Peace has reached agreement for disarmament of Hamas"
+    "body": "【AI 最新信息】OpenAI reportedly finds evidence that more of its agents ran amok\n【金融新闻】贷款“明白纸”，让借款人不再“雾里看花”\n【中国新闻】先撤军还是先解除武装？加沙停火卡在关键前提\n【世界新闻】Body of US climber the latest recovered after Pakistan avalanche"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-07-30",
-          "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-          "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+          "date": "2026-07-31",
+          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
+          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
         },
         {
-          "date": "2026-07-30",
-          "title": "Investors love AI, as long as you’re a cloud host",
-          "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+          "date": "2026-07-31",
+          "title": "India is starting to pay for apps, not just download them",
+          "summary": "India's app market generated a record $345 million in Q2.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
+          "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
         },
         {
-          "date": "2026-07-30",
-          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-          "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the governme",
+          "date": "2026-07-31",
+          "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+          "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
         },
         {
-          "date": "2026-07-30",
-          "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-          "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+          "date": "2026-07-31",
+          "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
+          "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"
+          "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/"
         },
         {
-          "date": "2026-07-30",
-          "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-          "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their ",
+          "date": "2026-07-31",
+          "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+          "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance a",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
+          "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-30",
-          "title": "第12批国家组织药品集采将在上海开标",
-          "summary": "新华社上海7月31日电(记者彭韵佳、龚雯)7月31日，第12批国家组织药品集采将在上海开标，投标企业7时30分开始陆续入场递交报价材料。本次集采共纳入65种药品，覆盖抗感染、抗肿瘤、抗血栓、降血糖、降血压、降血脂、风湿免疫、消炎镇痛等领域常用药品。",
+          "date": "2026-07-31",
+          "title": "贷款“明白纸”，让借款人不再“雾里看花”",
+          "summary": "《个人贷款业务明示综合融资成本规定》8月1日起施行",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669596.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670277.shtml"
         },
         {
-          "date": "2026-07-30",
-          "title": "养老机器人叩响百姓门 百亿市场预期下的“理想”与“现实”",
-          "summary": "清晨，家住北京市的周青老人照常被“保姆”叫醒。这个“保姆”有点特殊，它不用吃饭、睡觉，却能准时叫人起床，提醒人按时睡觉和吃药。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669595.shtml"
-        },
-        {
-          "date": "2026-07-30",
-          "title": "那达慕，好一场热烈的草原之约",
-          "summary": "那达慕，好一场热烈的草原之约(聚焦传统体育)",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669588.shtml"
-        },
-        {
-          "date": "2026-07-30",
-          "title": "AI带动有色金属盈利大增 铜锡等价格大幅上涨",
-          "summary": "AI算力基建的“狂飙”，正在改变全球有色金属市场的供需版图。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10669576.shtml"
-        },
-        {
-          "date": "2026-07-30",
-          "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
+          "date": "2026-07-31",
+          "title": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/want-trade-spacex-apple-1inch-194500911.html"
+        },
+        {
+          "date": "2026-07-31",
+          "title": "特斯拉正考虑剥离中国业务？马斯克回应",
+          "summary": "中新网7月31日电(记者 宋宇晟 吴家驹)7月31日，针对有消息称特斯拉正考虑剥离中国业务，特斯拉中国方面就此回应中新网记者称此为“不实消息”。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10670252.shtml"
+        },
+        {
+          "date": "2026-07-31",
+          "title": "湊湊火锅一门店被曝餐具爬满活虫，当地市监局已立案",
+          "summary": "中新网7月31日电(记者 吴家驹)据媒体报道，有网友近日反映，在杭州中心的湊湊火锅店就餐时，发现茶杯、餐具上爬满白色活虫。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10670251.shtml"
+        },
+        {
+          "date": "2026-07-31",
+          "title": "“六张网”为经济高质量发展提供坚实支撑",
+          "summary": "“扎实推进‘六张网’规划建设。”7月30日召开的中央政治局会议强调。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10670250.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-30",
-          "title": "特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议",
-          "summary": "中新网7月31日电 据土耳其阿纳多卢通讯社报道，美国总统特朗普当地时间30日表示，已就哈马斯“全面解除武装”达成协议，随着这一进程的推进，以色列军队将撤出加沙地带。",
+          "date": "2026-07-31",
+          "title": "先撤军还是先解除武装？加沙停火卡在关键前提",
+          "summary": "美国总统特朗普7月31日说，关于“全面解除”哈马斯武装的协议，美国与以色列达成“谅解”，“以色列对此非常满意”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669594.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670286.shtml"
         },
         {
-          "date": "2026-07-30",
-          "title": "美国否认伊朗摧毁三架F-35战斗机的说法",
-          "summary": "中新网7月31日电 据土耳其阿纳多卢通讯社报道，美国军方当地时间7月30日否认了伊朗媒体关于导弹袭击摧毁数架美国F-35隐形战斗机的报道。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669593.shtml"
+          "date": "2026-07-31",
+          "title": "敬礼，八一军旗",
+          "summary": "在别人看不见的地方，军旗陪伴着我们",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670284.shtml"
         },
         {
-          "date": "2026-07-30",
-          "title": "外媒：欧足联或将抵制世界杯",
-          "summary": "中新网7月31日电 据英国广播公司(BBC)报道，当地时间7月30日，欧足联的55个成员协会投票决定，如果国际足联继续推进将世界杯股份出售给私人投资者的计划，他们将抵制世界杯。",
+          "date": "2026-07-31",
+          "title": "中国企业家代表团与美中贸委会及其会员企业交流座谈",
+          "summary": "中新社华盛顿7月31日电 (记者 沙晗汀)中国国际贸易促进委员会组织中国企业家代表团于当地时间7月31日在美国华盛顿与美中贸易全国委员会及其会员企业进行交流座谈。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669591.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670283.shtml"
         },
         {
-          "date": "2026-07-30",
-          "title": "欧足联宣布抵制所有国际足联赛事",
-          "summary": "当地时间7月30日，欧洲足球管理机构欧足联及其55个成员国投票决定“抵制所有国际足联赛事”。",
+          "date": "2026-07-31",
+          "title": "今年7月欧元区通胀率升至2.9%",
+          "summary": "中新社布鲁塞尔7月31日电 (记者 德永健)欧盟统计局7月31日公布的数据显示，受能源价格高企等因素影响，今年7月欧元区通胀率升至2.9%。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669590.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670270.shtml"
         },
         {
-          "date": "2026-07-30",
-          "title": "特朗普称已就哈马斯“全面解除武装”达成协议",
-          "summary": "新华社华盛顿7月30日电 美国总统特朗普30日在社交媒体发文称，美国发起的所谓“和平委员会”就哈马斯和加沙地带其他武装组织“全面解除武装”达成了一项历史性协议。(完)",
+          "date": "2026-07-31",
+          "title": "法国密切关注西班牙飞地移民危机 加强法西边境管控",
+          "summary": "中新社巴黎7月31日电 (记者 李洋)位于北非海岸的西班牙飞地休达最近涌入数万名来自摩洛哥的非法移民，引发法国等欧盟国家的密切关注。法国官方当地时间7月31日证实，为应对此事，已加强法西边境管控。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669589.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670271.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-30",
-          "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
-          "summary": "Israel and Hamas have yet to comment on the announcement.",
+          "date": "2026-07-31",
+          "title": "Body of US climber the latest recovered after Pakistan avalanche",
+          "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-30",
-          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-          "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+          "date": "2026-07-31",
+          "title": "What triggered the mass migrant crossings into Ceuta?",
+          "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-30",
-          "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
-          "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
+          "date": "2026-07-31",
+          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+          "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-07-31",
+          "title": "What's in the Gaza peace deal roadmap?",
+          "summary": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-07-31",
+          "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+          "summary": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-07-30",
-          "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-          "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-07-30",
-          "title": "Father of teen school shooter sentenced to 15 years in prison",
-          "summary": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "MoonshotAI/Kimi-K3（⭐ 7527）",
+          "title": "MoonshotAI/Kimi-K3（⭐ 7718）",
           "summary": "Open Frontier Intelligence",
           "source": "GitHub",
           "url": "https://github.com/MoonshotAI/Kimi-K3"
         },
         {
           "date": "GitHub Trending",
-          "title": "mshumer/Claude-of-Duty（⭐ 2397）",
+          "title": "mshumer/Claude-of-Duty（⭐ 2517）",
           "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
           "source": "GitHub",
           "url": "https://github.com/mshumer/Claude-of-Duty"
         },
         {
           "date": "GitHub Trending",
-          "title": "digimata/quill（⭐ 2386）",
-          "summary": "Ultra-minimalist macOS recording + transcription.",
+          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 1933）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/digimata/quill"
+          "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
         },
         {
           "date": "GitHub Trending",
-          "title": "mikiarlo3/ai-copywriter（⭐ 987）",
-          "summary": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+          "title": "yc-software/qm（⭐ 1677）",
+          "summary": "Multiplayer agent harness for work",
           "source": "GitHub",
-          "url": "https://github.com/mikiarlo3/ai-copywriter"
+          "url": "https://github.com/yc-software/qm"
         },
         {
           "date": "GitHub Trending",
-          "title": "VictorTaelin/OptMem（⭐ 930）",
+          "title": "VictorTaelin/OptMem（⭐ 1029）",
           "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
           "source": "GitHub",
           "url": "https://github.com/VictorTaelin/OptMem"
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "點擊 https://surfshark.com/wenzhao 或用優惠碼 WENZHAO 以獲得額外 4 個月 Surfshark 使用！  一張被緊急刪除",
-      "video": "鐵凝與習近平的往事：一張照片遭全網刪除，她曾離第一夫人只有一步？【文昭思緒飛揚560】",
-      "date": "2026-07-26",
-      "url": "https://www.youtube.com/watch?v=lwEB6Ivrg7w"
+      "desc": "2021年，孟晚舟回國，全中國高調迎接，數億人見證這場史無前例的「民族英雄」回歸。但短短三年，她卻幾乎從公眾視野消失。這背後究竟隱藏著什麼？本片完整梳理孟晚舟被",
+      "video": "孟晚舟案，習近平為何百餘次批示？那場換囚要保住什麼秘密？【文昭思緒飛揚561】",
+      "date": "2026-07-31",
+      "url": "https://www.youtube.com/watch?v=lfvQVSXuVOQ"
     },
     {
       "channel": "夸克说",
