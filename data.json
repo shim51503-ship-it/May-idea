@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-07-31",
-  "generatedAt": "2026-07-31T23:54:18.984Z",
+  "issueDate": "2026-08-01",
+  "generatedAt": "2026-08-01T23:49:26.311Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】OpenAI reportedly finds evidence that more of its agents ran amok\n【金融新闻】贷款“明白纸”，让借款人不再“雾里看花”\n【中国新闻】先撤军还是先解除武装？加沙停火卡在关键前提\n【世界新闻】Body of US climber the latest recovered after Pakistan avalanche"
+    "body": "【AI 最新信息】Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps\n【金融新闻】Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?\n【中国新闻】美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪\n【世界新闻】Young guns for hire - the teenage hitmen recruited to kill across Europe"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-08-01",
+          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+        },
+        {
+          "date": "2026-08-01",
+          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+          "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for t",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+        },
+        {
+          "date": "2026-08-01",
+          "title": "Sam Altman is still making the case for parenting via ChatGPT",
+          "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+        },
+        {
+          "date": "2026-08-01",
+          "title": "This $9 key physically locks your most addictive apps",
+          "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
+        },
+        {
           "date": "2026-07-31",
           "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
           "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
-        },
-        {
-          "date": "2026-07-31",
-          "title": "India is starting to pay for apps, not just download them",
-          "summary": "India's app market generated a record $345 million in Q2.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-          "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
-          "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/"
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-          "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance a",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-07-31",
-          "title": "贷款“明白纸”，让借款人不再“雾里看花”",
-          "summary": "《个人贷款业务明示综合融资成本规定》8月1日起施行",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670277.shtml"
-        },
-        {
-          "date": "2026-07-31",
-          "title": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
+          "date": "2026-08-01",
+          "title": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/want-trade-spacex-apple-1inch-194500911.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-26-52-week-232000438.html"
         },
         {
-          "date": "2026-07-31",
-          "title": "特斯拉正考虑剥离中国业务？马斯克回应",
-          "summary": "中新网7月31日电(记者 宋宇晟 吴家驹)7月31日，针对有消息称特斯拉正考虑剥离中国业务，特斯拉中国方面就此回应中新网记者称此为“不实消息”。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10670252.shtml"
+          "date": "2026-08-01",
+          "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/capital-one-says-closed-trump-231856774.html"
         },
         {
-          "date": "2026-07-31",
-          "title": "湊湊火锅一门店被曝餐具爬满活虫，当地市监局已立案",
-          "summary": "中新网7月31日电(记者 吴家驹)据媒体报道，有网友近日反映，在杭州中心的湊湊火锅店就餐时，发现茶杯、餐具上爬满白色活虫。",
+          "date": "2026-08-01",
+          "title": "“民宿+”产业链越串越长 如何让游客觉得没白来？",
+          "summary": "悬崖咖啡、研学基地、冲浪小店……“民宿+”产业链越串越长",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10670251.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670686.shtml"
         },
         {
-          "date": "2026-07-31",
-          "title": "“六张网”为经济高质量发展提供坚实支撑",
-          "summary": "“扎实推进‘六张网’规划建设。”7月30日召开的中央政治局会议强调。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/07-31/10670250.shtml"
+          "date": "2026-08-01",
+          "title": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-reports-earnings-august-231456740.html"
+        },
+        {
+          "date": "2026-08-01",
+          "title": "Why Aug. 4 Could Be a Big Day for the Stock Market",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-aug-4-could-big-225700695.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-07-31",
-          "title": "先撤军还是先解除武装？加沙停火卡在关键前提",
-          "summary": "美国总统特朗普7月31日说，关于“全面解除”哈马斯武装的协议，美国与以色列达成“谅解”，“以色列对此非常满意”。",
+          "date": "2026-08-01",
+          "title": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
+          "summary": "美国国务院8月1日向中东地区美国公民发出广泛安全警告，建议其考虑撤离或做好迅速撤离准备。据美方消息，美以正计划对伊朗能源设施发动“迄今最猛烈的轰炸”，行动或持续整个周末。不过，美总统特朗普尚未下达最终行动命令。伊朗外交部则在同日发表声明，强调决心继续抵抗。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670286.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670688.shtml"
         },
         {
-          "date": "2026-07-31",
-          "title": "敬礼，八一军旗",
-          "summary": "在别人看不见的地方，军旗陪伴着我们",
+          "date": "2026-08-01",
+          "title": "076型两栖攻击舰已是“准航母” 引导发展新模式",
+          "summary": "昨天(1日)是中国人民解放军建军99周年。海军076型两栖攻击舰的首舰四川舰下水已有一年半的时间，目前四川舰的状态如何？",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670284.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670687.shtml"
         },
         {
-          "date": "2026-07-31",
-          "title": "中国企业家代表团与美中贸委会及其会员企业交流座谈",
-          "summary": "中新社华盛顿7月31日电 (记者 沙晗汀)中国国际贸易促进委员会组织中国企业家代表团于当地时间7月31日在美国华盛顿与美中贸易全国委员会及其会员企业进行交流座谈。",
+          "date": "2026-08-01",
+          "title": "法国西南部吉伦特省野火受控 20万被疏散人员返回",
+          "summary": "中新社巴黎8月1日电 (记者 李洋)法国官方当地时间1日确认，法国西南部吉伦特省野火在燃烧10余天后终于得到控制，已有约20万被疏散人员得以返回。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670283.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670678.shtml"
         },
         {
-          "date": "2026-07-31",
-          "title": "今年7月欧元区通胀率升至2.9%",
-          "summary": "中新社布鲁塞尔7月31日电 (记者 德永健)欧盟统计局7月31日公布的数据显示，受能源价格高企等因素影响，今年7月欧元区通胀率升至2.9%。",
+          "date": "2026-08-01",
+          "title": "莫斯科发生爆炸事件已致3人死亡21人受伤",
+          "summary": "中新社莫斯科8月1日电 俄罗斯国家反恐委员会1日晚发布消息说，莫斯科市中心一家餐厅发生爆炸，已造成3人死亡、21人受伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670270.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670679.shtml"
         },
         {
-          "date": "2026-07-31",
-          "title": "法国密切关注西班牙飞地移民危机 加强法西边境管控",
-          "summary": "中新社巴黎7月31日电 (记者 李洋)位于北非海岸的西班牙飞地休达最近涌入数万名来自摩洛哥的非法移民，引发法国等欧盟国家的密切关注。法国官方当地时间7月31日证实，为应对此事，已加强法西边境管控。",
+          "date": "2026-08-01",
+          "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
+          "summary": "当地时间8月1日，俄罗斯国家反恐委员会表示，莫斯科市中心一家餐厅发生的事故系自制爆炸装置爆炸所致。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-01/10670271.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670682.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-07-31",
-          "title": "Body of US climber the latest recovered after Pakistan avalanche",
-          "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+          "date": "2026-08-01",
+          "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+          "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-31",
-          "title": "What triggered the mass migrant crossings into Ceuta?",
-          "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+          "date": "2026-08-01",
+          "title": "Russian ship defies sanctions to send military vehicles to Mali",
+          "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-31",
-          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-          "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+          "date": "2026-08-01",
+          "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+          "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-31",
-          "title": "What's in the Gaza peace deal roadmap?",
-          "summary": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
+          "date": "2026-08-01",
+          "title": "The Sopranos star Vincent Pastore dies aged 80",
+          "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-07-31",
-          "title": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-          "summary": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
+          "date": "2026-08-01",
+          "title": "Tourist plane crashes in Peru, killing 13",
+          "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "MoonshotAI/Kimi-K3（⭐ 7718）",
+          "title": "MoonshotAI/Kimi-K3（⭐ 7825）",
           "summary": "Open Frontier Intelligence",
           "source": "GitHub",
           "url": "https://github.com/MoonshotAI/Kimi-K3"
         },
         {
           "date": "GitHub Trending",
-          "title": "mshumer/Claude-of-Duty（⭐ 2517）",
-          "summary": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-          "source": "GitHub",
-          "url": "https://github.com/mshumer/Claude-of-Duty"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 1933）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "yc-software/qm（⭐ 1677）",
+          "title": "yc-software/qm（⭐ 4921）",
           "summary": "Multiplayer agent harness for work",
           "source": "GitHub",
           "url": "https://github.com/yc-software/qm"
         },
         {
           "date": "GitHub Trending",
-          "title": "VictorTaelin/OptMem（⭐ 1029）",
-          "summary": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 3059）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/VictorTaelin/OptMem"
+          "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "QwenAudio/qwen-audio-agent（⭐ 1230）",
+          "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+          "source": "GitHub",
+          "url": "https://github.com/QwenAudio/qwen-audio-agent"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer（⭐ 942）",
+          "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+          "source": "GitHub",
+          "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
         }
       ]
     }
@@ -222,17 +222,17 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "2021年，孟晚舟回國，全中國高調迎接，數億人見證這場史無前例的「民族英雄」回歸。但短短三年，她卻幾乎從公眾視野消失。這背後究竟隱藏著什麼？本片完整梳理孟晚舟被",
-      "video": "孟晚舟案，習近平為何百餘次批示？那場換囚要保住什麼秘密？【文昭思緒飛揚561】",
-      "date": "2026-07-31",
-      "url": "https://www.youtube.com/watch?v=lfvQVSXuVOQ"
+      "desc": "新的流量閥門正在油管推廣？",
+      "video": "孟晚舟案播出2小時後，突然被加特殊警告！文昭頻道連續斷流",
+      "date": "2026-08-01",
+      "url": "https://www.youtube.com/watch?v=UGpP7HeAKvU"
     },
     {
       "channel": "夸克说",
-      "desc": "#王虹 #邓煜 #鄧煜 #菲尔兹奖 #菲爾茲獎 #2026菲尔兹奖 #2026菲爾茲獎 #王虹菲尔兹奖 #王虹菲爾茲獎 #邓煜菲尔兹奖 #鄧煜菲爾茲獎 #中国教",
-      "video": "王虹邓煜获菲尔兹奖：他俩真的是中国教育培养出来的？不，他们只是命硬而已！王虹鄧煜獲菲爾茲獎：他倆真的是中國教育培養出來的？不，他們隻是命硬而已！夸克说|誇克说",
-      "date": "2026-07-29",
-      "url": "https://www.youtube.com/watch?v=hKaviM5Kew8"
+      "desc": "#中共黑历史 #中共黑歷史 #中共发家史 #中共發家史 #中共靠什么起家 #中共靠什麼起家 #中共起家 #中共起家 #红军历史 #紅軍歷史 #共产党历史 #共產",
+      "video": "天朝造反指南：中共起家的时候是怎么搞钱的？今天想搞事情的人，能学吗？天朝造反指南：中共起家的時候是怎麼搞錢的？今天想搞事情的人，能學嗎？夸克说|誇克说",
+      "date": "2026-08-01",
+      "url": "https://www.youtube.com/watch?v=0tS4Wrex440"
     },
     {
       "channel": "May Fit",
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔥 Claude Cowork 真的沒有你想像中複雜！  這支影片用最白話的方式，帶你一次搞懂 14 個 Claude Cowork 核心概念，從基礎設定一路",
-      "video": "Claude Cowork並不複雜: 14個核心概念一次講清！",
-      "date": "2026-07-25",
-      "url": "https://www.youtube.com/watch?v=2emjLP-i51Y"
+      "desc": "🔥 未來一年，AI Agent 不只會回答問題，而是會真正開始替你工作。這支影片帶你一次看懂 6 個最重要的 AI Agent 趨勢，幫你提前掌握工作方式正在",
+      "video": "未來一年，這6個 AI Agent 趨勢會徹底改變你的工作方式！",
+      "date": "2026-08-01",
+      "url": "https://www.youtube.com/watch?v=0-Rr2iho6CI"
     }
   ]
 }
