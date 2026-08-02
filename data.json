@@ -1,15 +1,22 @@
 {
-  "issueDate": "2026-08-01",
-  "generatedAt": "2026-08-01T23:49:26.311Z",
+  "issueDate": "2026-08-02",
+  "generatedAt": "2026-08-02T23:51:29.545Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps\n【金融新闻】Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?\n【中国新闻】美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪\n【世界新闻】Young guns for hire - the teenage hitmen recruited to kill across Europe"
+    "body": "【AI 最新信息】Sam Altman and AI’s decel debate\n【金融新闻】Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom\n【中国新闻】伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线\n【世界新闻】Two crew killed after firefighting helicopters collide in Greece, as British pilot survives"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-08-02",
+          "title": "Sam Altman and AI’s decel debate",
+          "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+        },
         {
           "date": "2026-08-01",
           "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -37,13 +44,6 @@
           "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
-        },
-        {
-          "date": "2026-07-31",
-          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-          "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-01",
-          "title": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
+          "date": "2026-08-02",
+          "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-26-52-week-232000438.html"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo"
         },
         {
-          "date": "2026-08-01",
-          "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+          "date": "2026-08-02",
+          "title": "Consumer goods giant quietly wows investors after terrible streak",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/capital-one-says-closed-trump-231856774.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/consumer-goods-giant-quietly-wows-231700448.html"
         },
         {
-          "date": "2026-08-01",
-          "title": "“民宿+”产业链越串越长 如何让游客觉得没白来？",
-          "summary": "悬崖咖啡、研学基地、冲浪小店……“民宿+”产业链越串越长",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-02/10670686.shtml"
-        },
-        {
-          "date": "2026-08-01",
-          "title": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
+          "date": "2026-08-02",
+          "title": "XRP ETFs Keep Drawing Cash, So Why Is the Price Down 40%?",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-reports-earnings-august-231456740.html"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-keep-drawing-cash-231349215.html"
         },
         {
-          "date": "2026-08-01",
-          "title": "Why Aug. 4 Could Be a Big Day for the Stock Market",
+          "date": "2026-08-02",
+          "title": "What a $10,000 Investment in Lam Research 10 Years Ago Would Be Worth Today",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-aug-4-could-big-225700695.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-lam-research-230100443.html"
+        },
+        {
+          "date": "2026-08-02",
+          "title": "ADA Price Jumps 10% While Cardano Turns Toward Its Next Big Upgrade Era",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/ada-price-jumps-10-while-230000453.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-01",
-          "title": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
-          "summary": "美国国务院8月1日向中东地区美国公民发出广泛安全警告，建议其考虑撤离或做好迅速撤离准备。据美方消息，美以正计划对伊朗能源设施发动“迄今最猛烈的轰炸”，行动或持续整个周末。不过，美总统特朗普尚未下达最终行动命令。伊朗外交部则在同日发表声明，强调决心继续抵抗。",
+          "date": "2026-08-02",
+          "title": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+          "summary": "中新网8月3日电 据伊朗媒体2日报道，伊朗外交部发言人巴加埃表示，伊朗正与阿曼讨论在霍尔木兹海峡划定一条新航线，以确保双方主权权利以及伊朗的国家利益与安全。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670688.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670987.shtml"
         },
         {
-          "date": "2026-08-01",
-          "title": "076型两栖攻击舰已是“准航母” 引导发展新模式",
-          "summary": "昨天(1日)是中国人民解放军建军99周年。海军076型两栖攻击舰的首舰四川舰下水已有一年半的时间，目前四川舰的状态如何？",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-02/10670687.shtml"
+          "date": "2026-08-02",
+          "title": "以媒称以色列方面通过特朗普社媒得知美叫停对伊打击",
+          "summary": "中新网8月3日电 据以色列媒体2日报道，以色列官员是通过美国总统特朗普在“真相社交”上发表的帖文得知，特朗普已决定取消原定对伊朗的袭击计划。以媒还称，美国中央司令部事先也未被告知此事。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670980.shtml"
         },
         {
-          "date": "2026-08-01",
-          "title": "法国西南部吉伦特省野火受控 20万被疏散人员返回",
-          "summary": "中新社巴黎8月1日电 (记者 李洋)法国官方当地时间1日确认，法国西南部吉伦特省野火在燃烧10余天后终于得到控制，已有约20万被疏散人员得以返回。",
+          "date": "2026-08-02",
+          "title": "特朗普称美伊3日将举行谈判",
+          "summary": "中新网8月3日电 综合外媒2日报道，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670678.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml"
         },
         {
-          "date": "2026-08-01",
-          "title": "莫斯科发生爆炸事件已致3人死亡21人受伤",
-          "summary": "中新社莫斯科8月1日电 俄罗斯国家反恐委员会1日晚发布消息说，莫斯科市中心一家餐厅发生爆炸，已造成3人死亡、21人受伤。",
+          "date": "2026-08-02",
+          "title": "巴西总统卢拉登记参选 谋求连任",
+          "summary": "中新社圣保罗8月2日电 今年是巴西大选年，总统卢拉已在高等选举法院正式登记为巴西劳工党总统候选人。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670679.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670976.shtml"
         },
         {
-          "date": "2026-08-01",
-          "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
-          "summary": "当地时间8月1日，俄罗斯国家反恐委员会表示，莫斯科市中心一家餐厅发生的事故系自制爆炸装置爆炸所致。",
+          "date": "2026-08-02",
+          "title": "巴西劳工党正式确认卢拉为总统候选人",
+          "summary": "新华社里约热内卢8月2日电(记者周永穗)巴西劳工党2日正式确认现总统卢拉为该党总统候选人。卢拉将再次参加大选，角逐其第四个总统任期。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-02/10670682.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670975.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-01",
-          "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-          "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+          "date": "2026-08-02",
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-01",
-          "title": "Russian ship defies sanctions to send military vehicles to Mali",
-          "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
+          "date": "2026-08-02",
+          "title": "At the scene of deadly Moscow bomb blast",
+          "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-01",
-          "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-          "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
+          "date": "2026-08-02",
+          "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+          "summary": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-01",
-          "title": "The Sopranos star Vincent Pastore dies aged 80",
-          "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+          "date": "2026-08-02",
+          "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+          "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-01",
-          "title": "Tourist plane crashes in Peru, killing 13",
-          "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+          "date": "2026-08-02",
+          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+          "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "MoonshotAI/Kimi-K3（⭐ 7825）",
+          "title": "MoonshotAI/Kimi-K3（⭐ 7899）",
           "summary": "Open Frontier Intelligence",
           "source": "GitHub",
           "url": "https://github.com/MoonshotAI/Kimi-K3"
         },
         {
           "date": "GitHub Trending",
-          "title": "yc-software/qm（⭐ 4921）",
+          "title": "yc-software/qm（⭐ 7146）",
           "summary": "Multiplayer agent harness for work",
           "source": "GitHub",
           "url": "https://github.com/yc-software/qm"
         },
         {
           "date": "GitHub Trending",
-          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 3059）",
+          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 3660）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
         },
         {
           "date": "GitHub Trending",
-          "title": "QwenAudio/qwen-audio-agent（⭐ 1230）",
-          "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+          "title": "trycompai/crm（⭐ 1789）",
+          "summary": "An open-source, agentic-first CRM.",
           "source": "GitHub",
-          "url": "https://github.com/QwenAudio/qwen-audio-agent"
+          "url": "https://github.com/trycompai/crm"
         },
         {
           "date": "GitHub Trending",
-          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer（⭐ 942）",
-          "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+          "title": "QwenAudio/qwen-audio-agent（⭐ 1730）",
+          "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
           "source": "GitHub",
-          "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+          "url": "https://github.com/QwenAudio/qwen-audio-agent"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "新的流量閥門正在油管推廣？",
-      "video": "孟晚舟案播出2小時後，突然被加特殊警告！文昭頻道連續斷流",
-      "date": "2026-08-01",
-      "url": "https://www.youtube.com/watch?v=UGpP7HeAKvU"
+      "desc": "兩位中國出身的數學家同獲菲爾茲獎，為何真正的突破卻發生在歐美？本片從王虹、鄧煜的人生故事，揭開決定天才誕生真正的關鍵。",
+      "video": "從放棄數學到破解百年難題：王虹如何破「卷」而出？【文昭思緒飛揚562】",
+      "date": "2026-08-02",
+      "url": "https://www.youtube.com/watch?v=J68xZOpJaok"
     },
     {
       "channel": "夸克说",
