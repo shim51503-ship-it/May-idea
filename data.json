@@ -1,9 +1,9 @@
 {
   "issueDate": "2026-08-04",
-  "generatedAt": "2026-08-04T00:00:17.236Z",
+  "generatedAt": "2026-08-04T23:55:49.527Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;\n【金融新闻】Analyst Report: Enterprise Products Pntr LP\n【中国新闻】英格兰威尔士遭遇有记录以来最干旱7月\n【世界新闻】EU calls for stronger borders after Ceuta migrant crossings"
+    "body": "【AI 最新信息】SpaceX has bought $329M worth of Tesla Megapacks so far this year\n【金融新闻】国内航线燃油附加费今起再次下调\n【中国新闻】我国科学家获空间科学应用领域国际大奖\n【世界新闻】Armed man arrested near Trump's golf course ahead of president's visit"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-03",
-          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
-          "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterpri",
+          "date": "2026-08-04",
+          "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+          "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
+          "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
         },
         {
-          "date": "2026-08-03",
-          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-          "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+          "date": "2026-08-04",
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
         },
         {
-          "date": "2026-08-03",
-          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-          "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+          "date": "2026-08-04",
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
         },
         {
-          "date": "2026-08-03",
-          "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
-          "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+          "date": "2026-08-04",
+          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+          "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
+          "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
         },
         {
-          "date": "2026-08-03",
-          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-          "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assist",
+          "date": "2026-08-04",
+          "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
+          "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
+          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-03",
-          "title": "Analyst Report: Enterprise Products Pntr LP",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-08-03",
-          "title": "Analyst Report: Valero Energy Corp",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3497_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-08-03",
-          "title": "Analyst Report: Stanley Black & Decker Inc",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3424_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-08-03",
-          "title": "Market Update: EPD, GLW, LUV, SWK, VLO",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_47805_MarketUpdate_1785776410000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-08-03",
-          "title": "全球媒体聚焦 | 肯尼亚媒体：肯中迎来人民币结算“高速路”",
-          "summary": "近日，标准银行肯尼亚子行#8204;正式上线#8204;人民币跨境支付系统(CIPS)#8204;，成为非洲第六个接入该系统的国家。多家肯尼亚媒体报道称，这将进一步深化肯中贸易往来，提升人民币跨境支付效率，为两国企业开展贸易投资提供更安全、便捷、高效的金融服务。",
+          "date": "2026-08-04",
+          "title": "国内航线燃油附加费今起再次下调",
+          "summary": "记者从多家航空公司了解到，从今天(5日)起销售的国内航线机票燃油附加费再次下调。调整后的国内航线燃油附加费标准为：800公里以上航线每位成人旅客收取70元燃油附加费，800公里(含)以下航线每位成人旅客收取40元燃油附加费，相较于调整前分别降低了30元和10元。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671482.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672069.shtml"
+        },
+        {
+          "date": "2026-08-04",
+          "title": "新闻分析｜AI对网络安全的“双刃剑”效应日益凸显",
+          "summary": "新华社旧金山8月4日电 新闻分析｜AI对网络安全的“双刃剑”效应日益凸显",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672059.shtml"
+        },
+        {
+          "date": "2026-08-04",
+          "title": "Analyst Report: Nasdaq Inc",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3821_AnalystReport_1785868186000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+        },
+        {
+          "date": "2026-08-04",
+          "title": "Market Update: NDAQ, HBAN, MAS, NOV, TROW, VTR, SNAP, GEHC, RDDT",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47818_MarketUpdate_1785868186000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+        },
+        {
+          "date": "2026-08-04",
+          "title": "Analyst Report: Huntington Bancshares Inc/OH",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_4046_AnalystReport_1785868186000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-03",
-          "title": "英格兰威尔士遭遇有记录以来最干旱7月",
-          "summary": "中新社伦敦8月3日电(记者 欧阳开宇)英国气象局3日公布初步统计数据显示，英格兰和威尔士经历有气象记录以来最为干旱的7月，高温少雨天气进一步加剧当地干旱形势。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671503.shtml"
+          "date": "2026-08-04",
+          "title": "我国科学家获空间科学应用领域国际大奖",
+          "summary": "科技日报讯 (记者付丽丽)当地时间8月3日，在意大利佛罗伦萨举办的第46届国际空间研究委员会(COSPAR)科学大会上，中国气象局王劲松研究员荣获威廉·诺德伯格奖章。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672082.shtml"
         },
         {
-          "date": "2026-08-03",
-          "title": "荷兰反恐行动持续 第四名涉恐嫌犯被捕",
-          "summary": "中新社海牙8月3日电 荷兰警方近日发起的反恐行动持续，3日宣布已逮捕第四名涉恐嫌疑人。",
+          "date": "2026-08-04",
+          "title": "美财长：美伊有望“数小时内”达成霍尔木兹海峡协议",
+          "summary": "中新网8月5日电 据法新社报道，当地时间8月4日，一名美国高级官员表示，与伊朗就重新开放霍尔木兹海峡达成协议“可能就在今明两天”，受此消息影响，国际油价因市场对这条重要水道恢复通航的预期而大幅下挫。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671502.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672074.shtml"
         },
         {
-          "date": "2026-08-03",
-          "title": "美国25个州就特朗普政府加征新关税政策提起诉讼",
-          "summary": "中新社华盛顿8月3日电(记者 沙晗汀)美国纽约州、加利福尼亚州、马里兰州等25个州当地时间3日就特朗普政府加征新关税政策联合提起诉讼。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671501.shtml"
+          "date": "2026-08-04",
+          "title": "三项光伏能耗能效强制性国标明年1月起正式实施",
+          "summary": "记者昨天(4日)从国家标准委了解到，三项光伏领域能耗能效强制性国家标准明年一月起正式实施，三项标准将从源头严控低效产品入市、推动光伏产业技术迭代与绿色升级。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672072.shtml"
         },
         {
-          "date": "2026-08-03",
-          "title": "美国密歇根州报告两例环孢子虫病死亡病例",
-          "summary": "中新网8月4日电 综合路透社、美联社报道，美国疾病控制和预防中心3日证实，密歇根州报告两例环孢子虫病相关死亡病例。这是自今年5月环孢子虫病在美持续蔓延以来首次报告相关死亡病例。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671511.shtml"
+          "date": "2026-08-04",
+          "title": "市场监管总局：我国量子信息产业质量强链取得阶段性成果",
+          "summary": "量子科技是前沿科技竞争的核心赛道，产业标准化、质量体系建设是产业化落地的关键。记者今天(5日)了解到，市场监管总局实施的量子信息产业质量强链专项行动取得系列阶段性成果。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672070.shtml"
         },
         {
-          "date": "2026-08-03",
-          "title": "美国25州联合起诉特朗普政府301关税政策",
-          "summary": "中新网8月4日电 综合外媒报道，美国25个由民主党主政的州3日在位于纽约的美国国际贸易法院联合起诉特朗普政府日前以所谓“强迫劳动”为由向数十个经济体征收的301关税。",
+          "date": "2026-08-04",
+          "title": "内塔尼亚胡：哈马斯完全解除武装前不会从加沙撤军",
+          "summary": "中新网8月5日电 据美联社报道，当地时间8月4日，以色列总理内塔尼亚胡表示，在巴勒斯坦伊斯兰抵抗运动(哈马斯)完全解除武装之前，以色列军队不会撤出其在加沙地带当前的防线，并表示以方并未接受美方宣布的相关方案。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671508.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672071.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-03",
-          "title": "EU calls for stronger borders after Ceuta migrant crossings",
-          "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+          "date": "2026-08-04",
+          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+          "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at his",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-03",
-          "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
-          "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+          "date": "2026-08-04",
+          "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
+          "summary": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-03",
-          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-          "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+          "date": "2026-08-04",
+          "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+          "summary": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-03",
-          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+          "date": "2026-08-04",
+          "title": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
+          "summary": "Women tell the BBC how they were harassed for participating in the CJP protest and posting about it online.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-03",
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+          "date": "2026-08-04",
+          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+          "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "yc-software/qm（⭐ 9598）",
+          "title": "yc-software/qm（⭐ 11118）",
           "summary": "Multiplayer agent harness for work",
           "source": "GitHub",
           "url": "https://github.com/yc-software/qm"
         },
         {
           "date": "GitHub Trending",
-          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 4245）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "trycompai/crm（⭐ 3218）",
+          "title": "trycompai/crm（⭐ 4637）",
           "summary": "An open-source, agentic-first CRM.",
           "source": "GitHub",
           "url": "https://github.com/trycompai/crm"
         },
         {
           "date": "GitHub Trending",
-          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer（⭐ 2044）",
+          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 4535）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer（⭐ 2891）",
           "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
           "source": "GitHub",
           "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
         },
         {
           "date": "GitHub Trending",
-          "title": "microsoft/skill-recorder（⭐ 1378）",
-          "summary": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+          "title": "FareedKhan-dev/kimi-k3-in-c（⭐ 1999）",
+          "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
           "source": "GitHub",
-          "url": "https://github.com/microsoft/skill-recorder"
+          "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
         }
       ]
     }
