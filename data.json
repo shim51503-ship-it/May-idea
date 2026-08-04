@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-02",
-  "generatedAt": "2026-08-02T23:51:29.545Z",
+  "issueDate": "2026-08-04",
+  "generatedAt": "2026-08-04T00:00:17.236Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Sam Altman and AI’s decel debate\n【金融新闻】Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom\n【中国新闻】伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线\n【世界新闻】Two crew killed after firefighting helicopters collide in Greece, as British pilot survives"
+    "body": "【AI 最新信息】After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;\n【金融新闻】Analyst Report: Enterprise Products Pntr LP\n【中国新闻】英格兰威尔士遭遇有记录以来最干旱7月\n【世界新闻】EU calls for stronger borders after Ceuta migrant crossings"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-02",
-          "title": "Sam Altman and AI’s decel debate",
-          "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "date": "2026-08-03",
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
+          "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterpri",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
         },
         {
-          "date": "2026-08-01",
-          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "date": "2026-08-03",
+          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+          "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
         },
         {
-          "date": "2026-08-01",
-          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-          "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for t",
+          "date": "2026-08-03",
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+          "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
         },
         {
-          "date": "2026-08-01",
-          "title": "Sam Altman is still making the case for parenting via ChatGPT",
-          "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+          "date": "2026-08-03",
+          "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
+          "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+          "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
         },
         {
-          "date": "2026-08-01",
-          "title": "This $9 key physically locks your most addictive apps",
-          "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+          "date": "2026-08-03",
+          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+          "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assist",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
+          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-02",
-          "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "date": "2026-08-03",
+          "title": "Analyst Report: Enterprise Products Pntr LP",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-08-02",
-          "title": "Consumer goods giant quietly wows investors after terrible streak",
+          "date": "2026-08-03",
+          "title": "Analyst Report: Valero Energy Corp",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/consumer-goods-giant-quietly-wows-231700448.html"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3497_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-08-02",
-          "title": "XRP ETFs Keep Drawing Cash, So Why Is the Price Down 40%?",
+          "date": "2026-08-03",
+          "title": "Analyst Report: Stanley Black & Decker Inc",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-keep-drawing-cash-231349215.html"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3424_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-08-02",
-          "title": "What a $10,000 Investment in Lam Research 10 Years Ago Would Be Worth Today",
+          "date": "2026-08-03",
+          "title": "Market Update: EPD, GLW, LUV, SWK, VLO",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-lam-research-230100443.html"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47805_MarketUpdate_1785776410000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-08-02",
-          "title": "ADA Price Jumps 10% While Cardano Turns Toward Its Next Big Upgrade Era",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/ada-price-jumps-10-while-230000453.html"
+          "date": "2026-08-03",
+          "title": "全球媒体聚焦 | 肯尼亚媒体：肯中迎来人民币结算“高速路”",
+          "summary": "近日，标准银行肯尼亚子行#8204;正式上线#8204;人民币跨境支付系统(CIPS)#8204;，成为非洲第六个接入该系统的国家。多家肯尼亚媒体报道称，这将进一步深化肯中贸易往来，提升人民币跨境支付效率，为两国企业开展贸易投资提供更安全、便捷、高效的金融服务。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-03/10671482.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-02",
-          "title": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
-          "summary": "中新网8月3日电 据伊朗媒体2日报道，伊朗外交部发言人巴加埃表示，伊朗正与阿曼讨论在霍尔木兹海峡划定一条新航线，以确保双方主权权利以及伊朗的国家利益与安全。",
+          "date": "2026-08-03",
+          "title": "英格兰威尔士遭遇有记录以来最干旱7月",
+          "summary": "中新社伦敦8月3日电(记者 欧阳开宇)英国气象局3日公布初步统计数据显示，英格兰和威尔士经历有气象记录以来最为干旱的7月，高温少雨天气进一步加剧当地干旱形势。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670987.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671503.shtml"
         },
         {
-          "date": "2026-08-02",
-          "title": "以媒称以色列方面通过特朗普社媒得知美叫停对伊打击",
-          "summary": "中新网8月3日电 据以色列媒体2日报道，以色列官员是通过美国总统特朗普在“真相社交”上发表的帖文得知，特朗普已决定取消原定对伊朗的袭击计划。以媒还称，美国中央司令部事先也未被告知此事。",
+          "date": "2026-08-03",
+          "title": "荷兰反恐行动持续 第四名涉恐嫌犯被捕",
+          "summary": "中新社海牙8月3日电 荷兰警方近日发起的反恐行动持续，3日宣布已逮捕第四名涉恐嫌疑人。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670980.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671502.shtml"
         },
         {
-          "date": "2026-08-02",
-          "title": "特朗普称美伊3日将举行谈判",
-          "summary": "中新网8月3日电 综合外媒2日报道，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。",
+          "date": "2026-08-03",
+          "title": "美国25个州就特朗普政府加征新关税政策提起诉讼",
+          "summary": "中新社华盛顿8月3日电(记者 沙晗汀)美国纽约州、加利福尼亚州、马里兰州等25个州当地时间3日就特朗普政府加征新关税政策联合提起诉讼。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671501.shtml"
         },
         {
-          "date": "2026-08-02",
-          "title": "巴西总统卢拉登记参选 谋求连任",
-          "summary": "中新社圣保罗8月2日电 今年是巴西大选年，总统卢拉已在高等选举法院正式登记为巴西劳工党总统候选人。",
+          "date": "2026-08-03",
+          "title": "美国密歇根州报告两例环孢子虫病死亡病例",
+          "summary": "中新网8月4日电 综合路透社、美联社报道，美国疾病控制和预防中心3日证实，密歇根州报告两例环孢子虫病相关死亡病例。这是自今年5月环孢子虫病在美持续蔓延以来首次报告相关死亡病例。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670976.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671511.shtml"
         },
         {
-          "date": "2026-08-02",
-          "title": "巴西劳工党正式确认卢拉为总统候选人",
-          "summary": "新华社里约热内卢8月2日电(记者周永穗)巴西劳工党2日正式确认现总统卢拉为该党总统候选人。卢拉将再次参加大选，角逐其第四个总统任期。",
+          "date": "2026-08-03",
+          "title": "美国25州联合起诉特朗普政府301关税政策",
+          "summary": "中新网8月4日电 综合外媒报道，美国25个由民主党主政的州3日在位于纽约的美国国际贸易法院联合起诉特朗普政府日前以所谓“强迫劳动”为由向数十个经济体征收的301关税。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-03/10670975.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-04/10671508.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-02",
-          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-          "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+          "date": "2026-08-03",
+          "title": "EU calls for stronger borders after Ceuta migrant crossings",
+          "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-02",
-          "title": "At the scene of deadly Moscow bomb blast",
-          "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+          "date": "2026-08-03",
+          "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+          "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-02",
-          "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-          "summary": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+          "date": "2026-08-03",
+          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+          "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-02",
-          "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-          "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+          "date": "2026-08-03",
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-02",
-          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-          "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+          "date": "2026-08-03",
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "MoonshotAI/Kimi-K3（⭐ 7899）",
-          "summary": "Open Frontier Intelligence",
-          "source": "GitHub",
-          "url": "https://github.com/MoonshotAI/Kimi-K3"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "yc-software/qm（⭐ 7146）",
+          "title": "yc-software/qm（⭐ 9598）",
           "summary": "Multiplayer agent harness for work",
           "source": "GitHub",
           "url": "https://github.com/yc-software/qm"
         },
         {
           "date": "GitHub Trending",
-          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 3660）",
+          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 4245）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
         },
         {
           "date": "GitHub Trending",
-          "title": "trycompai/crm（⭐ 1789）",
+          "title": "trycompai/crm（⭐ 3218）",
           "summary": "An open-source, agentic-first CRM.",
           "source": "GitHub",
           "url": "https://github.com/trycompai/crm"
         },
         {
           "date": "GitHub Trending",
-          "title": "QwenAudio/qwen-audio-agent（⭐ 1730）",
-          "summary": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer（⭐ 2044）",
+          "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
           "source": "GitHub",
-          "url": "https://github.com/QwenAudio/qwen-audio-agent"
+          "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "microsoft/skill-recorder（⭐ 1378）",
+          "summary": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+          "source": "GitHub",
+          "url": "https://github.com/microsoft/skill-recorder"
         }
       ]
     }
