@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-04",
-  "generatedAt": "2026-08-04T23:55:49.527Z",
+  "issueDate": "2026-08-05",
+  "generatedAt": "2026-08-05T23:51:05.480Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】SpaceX has bought $329M worth of Tesla Megapacks so far this year\n【金融新闻】国内航线燃油附加费今起再次下调\n【中国新闻】我国科学家获空间科学应用领域国际大奖\n【世界新闻】Armed man arrested near Trump's golf course ahead of president's visit"
+    "body": "【AI 最新信息】Meta launches Muse Code, an AI agent for large code bases\n【金融新闻】“一公里”产业链出圈 华强北迎来全球采购热潮\n【中国新闻】德国机场发现携爆炸物无人机 内政部长：安全威胁升至“新的危险级别”\n【世界新闻】Infantino sorry for errors but stays Fifa president"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-04",
-          "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-          "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+          "date": "2026-08-05",
+          "title": "Meta launches Muse Code, an AI agent for large code bases",
+          "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
+          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
         },
         {
-          "date": "2026-08-04",
-          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-          "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful ",
+          "date": "2026-08-05",
+          "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+          "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+          "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
         },
         {
-          "date": "2026-08-04",
-          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-          "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "date": "2026-08-05",
+          "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+          "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
         },
         {
-          "date": "2026-08-04",
-          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-          "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+          "date": "2026-08-05",
+          "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+          "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
+          "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
         },
         {
-          "date": "2026-08-04",
-          "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
-          "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+          "date": "2026-08-05",
+          "title": "Hark previews its browser use agent for completing tasks",
+          "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
+          "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-04",
-          "title": "国内航线燃油附加费今起再次下调",
-          "summary": "记者从多家航空公司了解到，从今天(5日)起销售的国内航线机票燃油附加费再次下调。调整后的国内航线燃油附加费标准为：800公里以上航线每位成人旅客收取70元燃油附加费，800公里(含)以下航线每位成人旅客收取40元燃油附加费，相较于调整前分别降低了30元和10元。",
+          "date": "2026-08-05",
+          "title": "“一公里”产业链出圈 华强北迎来全球采购热潮",
+          "summary": "海关总署数据显示，今年以来，我国高端智能装备外贸动能强劲，贸易规模不断扩大，与AI相关的人工智能产品出口均实现两位数增长。进入暑期以来，深圳华强北迎来全球采购热潮。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672069.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672672.shtml"
         },
         {
-          "date": "2026-08-04",
-          "title": "新闻分析｜AI对网络安全的“双刃剑”效应日益凸显",
-          "summary": "新华社旧金山8月4日电 新闻分析｜AI对网络安全的“双刃剑”效应日益凸显",
+          "date": "2026-08-05",
+          "title": "手把手教机器人“干活”是什么体验？AI时代他们教机器人出师",
+          "summary": "当人工智能加速向制造业渗透，一种全新的职业岗位正在工厂车间里悄然生长。他们不写算法、不做模型研究，而是站在机器人旁边，手把手教它们“干活”——抓取、搬运、下料，一遍遍示范，一次次纠正，这个岗位叫机器人开发应用工程师。那么，这群“教机器人出师”的人，岗位市场需求有多大？人才培养跟得上吗？是否存在职业转型？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672059.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-06/10672668.shtml"
         },
         {
-          "date": "2026-08-04",
-          "title": "Analyst Report: Nasdaq Inc",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3821_AnalystReport_1785868186000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+          "date": "2026-08-05",
+          "title": "今年前7个月海南离岛免税购物额216亿元 同比增长17.9%",
+          "summary": "中新网海口8月5日电 (王纯豪 谢东良)海口海关5日披露，2026年1-7月海南离岛免税购物金额216亿元，购物人数311.1万人次，购物件数1765.3万件，同比分别增长17.9%、11.9%、6.9%，离岛免税产业延续强劲增长态势。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672648.shtml"
         },
         {
-          "date": "2026-08-04",
-          "title": "Market Update: NDAQ, HBAN, MAS, NOV, TROW, VTR, SNAP, GEHC, RDDT",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_47818_MarketUpdate_1785868186000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+          "date": "2026-08-05",
+          "title": "活力中国调研行 | 不止“过江” 更要“破界” 一座城的融城与突围",
+          "summary": "央广网泰州8月4日消息(记者王姝姝)就在今年7月，江苏泰兴生产力促进中心正式更名为新质生产力促进中心。名称两字之变，背后承载着怎样的转型思路？",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672651.shtml"
         },
         {
-          "date": "2026-08-04",
-          "title": "Analyst Report: Huntington Bancshares Inc/OH",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_4046_AnalystReport_1785868186000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+          "date": "2026-08-05",
+          "title": "广西钦州向海产业换上“向高、向绿、向智”新装",
+          "summary": "中新网南宁8月5日电 (冯抒敏 李映儒)广西钦州市官方5日向外界披露了一份热气腾腾的向海经济“成绩单”：“十四五”期间临港工业产值年均增长16.5%，占全市工业比重达七成以上；今年上半年GDP增长7.2%，登顶广西；规上工业产值、增加值分别增长19.4%、13%，均排广西第一。一系列亮眼数据背后，钦州正沿着向海图强的航",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-05/10672644.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-04",
-          "title": "我国科学家获空间科学应用领域国际大奖",
-          "summary": "科技日报讯 (记者付丽丽)当地时间8月3日，在意大利佛罗伦萨举办的第46届国际空间研究委员会(COSPAR)科学大会上，中国气象局王劲松研究员荣获威廉·诺德伯格奖章。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672082.shtml"
-        },
-        {
-          "date": "2026-08-04",
-          "title": "美财长：美伊有望“数小时内”达成霍尔木兹海峡协议",
-          "summary": "中新网8月5日电 据法新社报道，当地时间8月4日，一名美国高级官员表示，与伊朗就重新开放霍尔木兹海峡达成协议“可能就在今明两天”，受此消息影响，国际油价因市场对这条重要水道恢复通航的预期而大幅下挫。",
+          "date": "2026-08-05",
+          "title": "德国机场发现携爆炸物无人机 内政部长：安全威胁升至“新的危险级别”",
+          "summary": "中新网8月6日电 据法新社报道，德国联邦内政部长多布林特当地时间5日表示，在德国莱比锡机场发现一架装有爆炸物的无人机，该事件被定性为“混合攻击场景”，意味着安全威胁达到“新的危险级别”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672074.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672686.shtml"
         },
         {
-          "date": "2026-08-04",
-          "title": "三项光伏能耗能效强制性国标明年1月起正式实施",
-          "summary": "记者昨天(4日)从国家标准委了解到，三项光伏领域能耗能效强制性国家标准明年一月起正式实施，三项标准将从源头严控低效产品入市、推动光伏产业技术迭代与绿色升级。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672072.shtml"
-        },
-        {
-          "date": "2026-08-04",
-          "title": "市场监管总局：我国量子信息产业质量强链取得阶段性成果",
-          "summary": "量子科技是前沿科技竞争的核心赛道，产业标准化、质量体系建设是产业化落地的关键。记者今天(5日)了解到，市场监管总局实施的量子信息产业质量强链专项行动取得系列阶段性成果。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-05/10672070.shtml"
-        },
-        {
-          "date": "2026-08-04",
-          "title": "内塔尼亚胡：哈马斯完全解除武装前不会从加沙撤军",
-          "summary": "中新网8月5日电 据美联社报道，当地时间8月4日，以色列总理内塔尼亚胡表示，在巴勒斯坦伊斯兰抵抗运动(哈马斯)完全解除武装之前，以色列军队不会撤出其在加沙地带当前的防线，并表示以方并未接受美方宣布的相关方案。",
+          "date": "2026-08-05",
+          "title": "突发！日本熊本县发生5.1级地震",
+          "summary": "中新网8月6日电 据日本媒体报道，当地时间6日上午7时59分左右，日本熊本县天草#12539;芦北地区附近发生5.1级地震，震源深度10公里。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-05/10672071.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672680.shtml"
+        },
+        {
+          "date": "2026-08-05",
+          "title": "卢拉谴责美国撤销巴西驻美大使签证：“既不负责任、又欠缺考虑”",
+          "summary": "中新网8月6日电 据美国《华盛顿邮报》等外媒报道，当地时间5日，巴西总统卢拉表示，美国政府日前撤销巴西驻美大使签证，是一项“既不负责任、又欠缺考虑”的决定。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672677.shtml"
+        },
+        {
+          "date": "2026-08-05",
+          "title": "英国服务业重回扩张 企业景气预期回升",
+          "summary": "中新社伦敦8月5日电 (记者 欧阳开宇)5日公布的标普全球采购经理人指数显示，作为英国经济支柱的服务业7月结束收缩重回扩张，企业对未来一年经营前景的乐观预期，升至今年2月中东局势升温前以来最高水平。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672676.shtml"
+        },
+        {
+          "date": "2026-08-05",
+          "title": "伦敦市中心发生持刀伤人事件 四人遭刺伤",
+          "summary": "中新社伦敦8月5日电 (记者 欧阳开宇)当地时间8月5日，英国伦敦市中心热门文旅街区科文特花园附近发生持刀伤人案件，四名男子遭刺伤，一名女子被警方当场逮捕。警方初步研判，此次事件疑似与嫌疑人精神健康问题相关。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-06/10672675.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-04",
-          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-          "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at his",
+          "date": "2026-08-05",
+          "title": "Infantino sorry for errors but stays Fifa president",
+          "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-04",
-          "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-          "summary": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
+          "date": "2026-08-05",
+          "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+          "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-04",
-          "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
-          "summary": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
+          "date": "2026-08-05",
+          "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+          "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-04",
-          "title": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
-          "summary": "Women tell the BBC how they were harassed for participating in the CJP protest and posting about it online.",
+          "date": "2026-08-05",
+          "title": "Drone carrying explosives found at German airport, police say",
+          "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-04",
-          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-          "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+          "date": "2026-08-05",
+          "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+          "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "yc-software/qm（⭐ 11118）",
-          "summary": "Multiplayer agent harness for work",
-          "source": "GitHub",
-          "url": "https://github.com/yc-software/qm"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "trycompai/crm（⭐ 4637）",
+          "title": "trycompai/crm（⭐ 6204）",
           "summary": "An open-source, agentic-first CRM.",
           "source": "GitHub",
           "url": "https://github.com/trycompai/crm"
         },
         {
           "date": "GitHub Trending",
-          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 4535）",
+          "title": "firecrawl/anydoc（⭐ 4890）",
+          "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+          "source": "GitHub",
+          "url": "https://github.com/firecrawl/anydoc"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "bashalarmistalt/decimen-optical-transfer（⭐ 4691）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
         },
         {
           "date": "GitHub Trending",
-          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer（⭐ 2891）",
+          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer（⭐ 3380）",
           "summary": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
           "source": "GitHub",
           "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
         },
         {
           "date": "GitHub Trending",
-          "title": "FareedKhan-dev/kimi-k3-in-c（⭐ 1999）",
+          "title": "FareedKhan-dev/kimi-k3-in-c（⭐ 2560）",
           "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
           "source": "GitHub",
           "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#中共黑历史 #中共黑歷史 #中共发家史 #中共發家史 #中共靠什么起家 #中共靠什麼起家 #中共起家 #中共起家 #红军历史 #紅軍歷史 #共产党历史 #共產",
-      "video": "天朝造反指南：中共起家的时候是怎么搞钱的？今天想搞事情的人，能学吗？天朝造反指南：中共起家的時候是怎麼搞錢的？今天想搞事情的人，能學嗎？夸克说|誇克说",
-      "date": "2026-08-01",
-      "url": "https://www.youtube.com/watch?v=0tS4Wrex440"
+      "desc": "#华为竹知了 #華為竹知了 #华为投诉 #華為投訴 #余承东 #余承東 #余承东竹知了 #余承東竹知了 #1000万以内最好 #1000萬以內最好 #1000万",
+      "video": "华为竹知了事件：一只小玩具，为何会让华为破防？華爲竹知了事件：一隻小玩具，爲何會讓華爲破防？夸克说|誇克説",
+      "date": "2026-08-05",
+      "url": "https://www.youtube.com/watch?v=_5W2foZfm08"
     },
     {
       "channel": "May Fit",
