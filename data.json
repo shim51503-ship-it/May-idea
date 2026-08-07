@@ -1,9 +1,9 @@
 {
   "issueDate": "2026-08-07",
-  "generatedAt": "2026-08-07T01:39:56.797Z",
+  "generatedAt": "2026-08-07T23:25:29.967Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400\n【金融新闻】多地向县放权 激活发展一池春水\n【中国新闻】经纬线·向新，向前\n【世界新闻】Trump imposes 15% tariff on key chip material to counter China"
+    "body": "【AI 最新信息】OpenAI says it slowed Astra model development over security concerns\n【金融新闻】旅行体验越玩越深！“China Travel”持续升温\n【中国新闻】中期选举在即 美国两党“冗长辩论”规则之争再起波澜\n【世界新闻】Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-06",
-          "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
-          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+          "date": "2026-08-07",
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
         },
         {
-          "date": "2026-08-06",
-          "title": "ChatGPT brings unlimited text chats to free users",
-          "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+          "date": "2026-08-07",
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
         },
         {
-          "date": "2026-08-06",
-          "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-          "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+          "date": "2026-08-07",
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping dev",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
+          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
         },
         {
-          "date": "2026-08-06",
-          "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-          "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+          "date": "2026-08-07",
+          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+          "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
+          "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
         },
         {
-          "date": "2026-08-06",
-          "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including ",
+          "date": "2026-08-07",
+          "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley&#8217;s leaders are bad sci-fi readers",
+          "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#1",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
+          "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/"
         }
       ]
     },
@@ -53,38 +53,38 @@
       "items": [
         {
           "date": "2026-08-07",
-          "title": "多地向县放权 激活发展一池春水",
-          "summary": "县域，正在迎来一场深层次的权力下放。",
+          "title": "旅行体验越玩越深！“China Travel”持续升温",
+          "summary": "暑热未退，“China Travel”热度仍在上涨。外国游客的中国行越走越远，也越走越深，游客开始把更多目光投向小城、山野乡村和街巷，体验更真实、更具体的中国。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673364.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674033.shtml"
         },
         {
           "date": "2026-08-07",
-          "title": "8月7日人民币对美元中间价报6.7904 下调9个基点",
-          "summary": "中新网8月7日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月7日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7904元，下调9个基点。",
+          "title": "德国6月出口额同比增长6.6%",
+          "summary": "中新社柏林8月7日电 (记者 马秀秀)德国联邦统计局7日公布的数据显示，经日历和季节调整后，德国6月出口额为1393亿欧元，环比增长0.9%，同比增长6.6%。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673348.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-08/10674023.shtml"
         },
         {
           "date": "2026-08-07",
-          "title": "上半年规模以上工业中小企业增加值同比增长5.8%",
-          "summary": "记者今天(7日)从工业和信息化部了解到，今年上半年，中小企业经济运行总体平稳，主要指标保持较快增长，企业效益持续改善。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673331.shtml"
+          "title": "Analyst Report: Jacobs Solutions Inc",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3667_AnalystReport_1786126266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
           "date": "2026-08-07",
-          "title": "多款新药在网络平台首发 国产新药为何被全球“扫货”",
-          "summary": "国产新药为何被全球“扫货”(无影灯)",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673326.shtml"
+          "title": "Analyst Report: Shell Plc",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3353_AnalystReport_1786126266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
           "date": "2026-08-07",
-          "title": "“先投后股”何以促进科技成果转化 来自多地的调研",
-          "summary": "“先投后股”何以促进科技成果转化(人民眼·科技创新)",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-07/10673327.shtml"
+          "title": "Market Update: AMT, J, MSI, SHEL, SYK, FBIN",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47856_MarketUpdate_1786126266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         }
       ]
     },
@@ -94,38 +94,38 @@
       "items": [
         {
           "date": "2026-08-07",
-          "title": "经纬线·向新，向前",
-          "summary": "开局关乎全局，起步决定后程。今年上半年，我国经济顶压前行、向新向优，展现出强大韧性和活力。习近平总书记高瞻远瞩、举旗定向，引领中国经济在高质量发展轨道上稳健向前。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673378.shtml"
+          "title": "中期选举在即 美国两党“冗长辩论”规则之争再起波澜",
+          "summary": "随着美国中期选举的临近，针对参议院“冗长辩论”规则的存废博弈再度升温，美国总统特朗普的态度也出现了微妙的变化。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674032.shtml"
         },
         {
           "date": "2026-08-07",
-          "title": "东方之约 相约未来",
-          "summary": "原标题：大道行天下｜东方之约，相约未来——中国元首外交的世界情怀与大国气派",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673376.shtml"
+          "title": "俄黑客称获取北约直接参与袭击俄领土证据",
+          "summary": "据俄罗斯方面7日消息，有匿名俄罗斯黑客称，已获取北约直接参与袭击俄领土的书面证据。相关内容涉及乌克兰武装部队2026年7月袭击俄列宁格勒州和加里宁格勒州石油码头的事件。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674031.shtml"
         },
         {
           "date": "2026-08-07",
-          "title": "陕西省委书记：全力以赴防大汛抢大险救大灾",
-          "summary": "赵一德在商洛市检查防汛救灾工作时强调",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673355.shtml"
+          "title": "美上诉法院叫停白宫宴会厅改造项目",
+          "summary": "中新社华盛顿8月7日电 (记者 沙晗汀)美国哥伦比亚特区联邦巡回上诉法院当地时间7日叫停特朗普政府针对白宫宴会厅的改造项目。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-08/10674029.shtml"
         },
         {
           "date": "2026-08-07",
-          "title": "贵州省遵义市人大常委会副主任刘东明接受审查调查",
-          "summary": "中新网8月7日电 据贵州省纪委监委消息：贵州省遵义市人大常委会副主任、红花岗区委书记刘东明涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。",
+          "title": "台风“白海豚”逼近 上海洋山港所有船舶已安全转移",
+          "summary": "新华社上海8月7日电(记者王辰阳)记者从洋山港海事局获悉，台风“白海豚”逼近我国东部沿海，8月7日22点，随着最后一艘干线集装箱船“中远海运秘鲁”驶离泊位，上海洋山港所有船舶已全部完成安全转移。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673352.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-08/10674027.shtml"
         },
         {
           "date": "2026-08-07",
-          "title": "追光的你｜太行山上新愚公",
-          "summary": "编者按：“他们的事迹可学可做，他们的精神可追可及。”在中国共产党成立105周年之际，央视网《天天学习》栏目特别推出系列报道，以习近平总书记点赞的不同历史时期共产党员先进事迹为引领，穿越历史纵深，还原那些被信仰之光照亮的先锋群像，感悟伟大建党精神的薪火相传。",
+          "title": "香港宏福苑火灾跨部门调查最终报告：大火或由烟头引起",
+          "summary": "新华社香港8月7日电 香港大埔火灾独立委员会最新公开跨部门调查专组的最终调查报告，认为大火或是由烟头引起，而易燃物加剧了火势蔓延。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-07/10673354.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-08/10674026.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-08-07",
-          "title": "Trump imposes 15% tariff on key chip material to counter China",
-          "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
+          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+          "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-08-07",
-          "title": "Meta fined $567m in largest child safety ruling against social media giant",
-          "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+          "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+          "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-08-07",
-          "title": "Two people convicted in relation to death of French streamer",
-          "summary": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
+          "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+          "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-08-07",
-          "title": "Sudan's invisible children - born in war with no legal identity",
-          "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+          "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-06",
-          "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
-          "summary": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
+          "date": "2026-08-07",
+          "title": "What is birthright citizenship and how common is birth tourism in the US?",
+          "summary": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "firecrawl/anydoc（⭐ 8506）",
+          "title": "firecrawl/anydoc（⭐ 10940）",
           "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
           "source": "GitHub",
           "url": "https://github.com/firecrawl/anydoc"
         },
         {
           "date": "GitHub Trending",
-          "title": "FareedKhan-dev/kimi-k3-in-c（⭐ 2835）",
+          "title": "FareedKhan-dev/kimi-k3-in-c（⭐ 3271）",
           "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
           "source": "GitHub",
           "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
         },
         {
           "date": "GitHub Trending",
-          "title": "imsai-sh/zhuzhiliao（⭐ 2297）",
+          "title": "imsai-sh/zhuzhiliao（⭐ 2431）",
           "summary": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
           "source": "GitHub",
           "url": "https://github.com/imsai-sh/zhuzhiliao"
         },
         {
           "date": "GitHub Trending",
-          "title": "thebuggeddev/anatomy（⭐ 1867）",
+          "title": "thebuggeddev/anatomy（⭐ 1974）",
           "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
           "source": "GitHub",
           "url": "https://github.com/thebuggeddev/anatomy"
         },
         {
           "date": "GitHub Trending",
-          "title": "DannyMac180/sol-advisor（⭐ 1704）",
-          "summary": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+          "title": "KKKKhazix/human-writing（⭐ 1870）",
+          "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
           "source": "GitHub",
-          "url": "https://github.com/DannyMac180/sol-advisor"
+          "url": "https://github.com/KKKKhazix/human-writing"
         }
       ]
     }
@@ -243,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  如果你做过 AI 视频，一定懂这种崩溃：  模型一次只能生成几秒，想做完整内容就要反复拼接； ",
-      "video": "Seedance 2.5 震撼升级！最新8种必学AI视频玩法实战 太炸裂了...AI视频 AI工具 AI数字人 AI创业 AI赚钱 AI副业 即梦 小白 AI教学 AI赚钱 AI电影 AI短剧 AI",
-      "date": "2026-08-06",
-      "url": "https://www.youtube.com/watch?v=p2lvvK82Bxw"
+      "desc": "Atoms 官方入口： https://tinyurl.com/958v3r3h  哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  很多人以为",
+      "video": "我让 8个AI员工替我创业，10 分钟就能赚钱了？一人公司全面自动化 AI赚钱 AI创业 AI副业 AI工具 一人公司 AI工作流 AI员工 财富自由 搞钱 赚钱 AI 小白 商业思维",
+      "date": "2026-08-07",
+      "url": "https://www.youtube.com/watch?v=B8oJapzx040"
     },
     {
       "channel": "李厂长来了",
