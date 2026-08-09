@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-08",
-  "generatedAt": "2026-08-08T23:18:56.032Z",
+  "issueDate": "2026-08-09",
+  "generatedAt": "2026-08-09T23:21:32.347Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Planned Amazon data center could become the biggest climate polluter in the U.S.\n【金融新闻】Snap's CTO Sells Over 5 Million Shares for $28.2 Million. Here's a Deeper Look at the Transaction.\n【中国新闻】未来五年 地质灾害防范会有哪些变化？\n【世界新闻】Fast-moving Canada wildfire doubles in size forcing thousands to flee homes"
+    "body": "【AI 最新信息】Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry\n【金融新闻】Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\n【中国新闻】伊朗任命雷扎伊为最高国家安全委员会秘书\n【世界新闻】Residents warned to brace for the worst as Canada wildfire rages out of control"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-08-09",
+          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "summary": "The AI-focused hedge fund is still making some big bets.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+        },
+        {
+          "date": "2026-08-09",
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "summary": "Programming with Claude Code will soon require even less human oversight.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+        },
+        {
+          "date": "2026-08-09",
+          "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
+        },
+        {
+          "date": "2026-08-09",
+          "title": "The AI safety test is becoming a safety risk",
+          "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry stand",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+        },
+        {
           "date": "2026-08-08",
           "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
           "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in th",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
-        },
-        {
-          "date": "2026-08-08",
-          "title": "OpenAI acquires presentation startup NextSlide",
-          "summary": "NextSlide says its team members are now working on ChatGPT.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
-        },
-        {
-          "date": "2026-08-07",
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyb",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
-        },
-        {
-          "date": "2026-08-07",
-          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
-        },
-        {
-          "date": "2026-08-07",
-          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping dev",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-08",
-          "title": "Snap's CTO Sells Over 5 Million Shares for $28.2 Million. Here's a Deeper Look at the Transaction.",
+          "date": "2026-08-09",
+          "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/snaps-cto-sells-over-5-224601591.html"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo"
         },
         {
-          "date": "2026-08-08",
-          "title": "Forget SMH. The Chip Fund That Owns Less Nvidia Is Beating It by 20 Points",
+          "date": "2026-08-09",
+          "title": "If a Stock Market Crash Is Coming, History Says This Investing Strategy Has Never Once Failed",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-smh-chip-fund-owns-224106943.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-225000580.html"
         },
         {
-          "date": "2026-08-08",
-          "title": "Why the Market Continues to Sleep on Micron's Growth Potential",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-market-continues-sleep-microns-223500954.html"
-        },
-        {
-          "date": "2026-08-08",
-          "title": "一周大涨超7% 金价为何突然上涨？背后两大推手→",
-          "summary": "本周，国际金价迎来强势反弹，盘中一度站上每盎司4400美元关口，创下6月中旬以来新高。据美国CNBC报道，疲软的美国就业数据、中东局势缓和预期升温，是推动本轮金价上涨的两大直接导火索。",
+          "date": "2026-08-09",
+          "title": "医保个人账户里的钱如何用在刀刃上？",
+          "summary": "“医保卡里的钱，除了买药还能怎么花？”这是不少参保人的疑问。每个月从工资里扣除的医保费，一部分进了个人账户，日积月累，成了一笔医疗储备金。这笔钱到底怎么用才不浪费？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-09/10674462.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674875.shtml"
         },
         {
-          "date": "2026-08-08",
-          "title": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
+          "date": "2026-08-09",
+          "title": "中国“陪伴经济”打开消费新空间",
+          "summary": "爬山能雇“搭子”，看病能找“陪诊”，外媒关注中国消费新热点——",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674872.shtml"
+        },
+        {
+          "date": "2026-08-09",
+          "title": "How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: SCHD and JEPQ",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-warned-dot-com-222000397.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/61-old-built-3-500-223240630.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-08",
-          "title": "未来五年 地质灾害防范会有哪些变化？",
-          "summary": "新闻周刊丨未来五年 地质灾害防范会有哪些变化？",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674471.shtml"
-        },
-        {
-          "date": "2026-08-08",
-          "title": "克罗地亚两列火车相撞致20人受伤",
-          "summary": "新华社萨格勒布8月8日电(记者马震)克罗地亚一列客运列车和一列货运列车8日在首都萨格勒布以东约60公里的什克利尼亚里附近相撞，造成20名乘客受伤。",
+          "date": "2026-08-09",
+          "title": "伊朗任命雷扎伊为最高国家安全委员会秘书",
+          "summary": "中新网8月10日电 综合外媒报道，当地时间9日，伊朗总统府宣布，穆赫辛·雷扎伊被任命为伊朗最高国家安全委员会秘书。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674469.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674878.shtml"
         },
         {
-          "date": "2026-08-08",
-          "title": "河南发布农田渍涝灾害风险预警",
-          "summary": "新华社郑州8月8日电(记者马意翀)河南省气象局、河南省农业农村厅8日联合发布农田渍涝灾害风险预警。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674468.shtml"
-        },
-        {
-          "date": "2026-08-08",
-          "title": "日本岩手县近海地区发生5.6级地震",
-          "summary": "据日本气象厅消息，当地时间9日2时58分左右，日本岩手县近海地区发生5.6级地震，最大震感为震度4，震源深度40千米。本次地震无海啸风险。(总台记者 林博翰)",
+          "date": "2026-08-09",
+          "title": "以媒：以总理曾同意从加沙部分地区撤军 但又改变决定",
+          "summary": "中新网8月10日电 据《以色列时报》9日报道，以色列总理内塔尼亚胡曾同意以军从加沙地带南部拉法附近的三个区域小范围撤军，但又“改变了主意”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-09/10674465.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674877.shtml"
         },
         {
-          "date": "2026-08-08",
-          "title": "我国渤海首个千亿方大气田Ⅰ期开发项目全面投产",
-          "summary": "今天(8月9日)，记者从中国海油获悉，我国渤海首个千亿方大气田——渤中19-6气田Ⅰ期开发项目全面投产，日产油气当量超5200吨。项目投产对优化区域能源结构、助力经济社会高质量发展具有重要意义。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-09/10674464.shtml"
+          "date": "2026-08-09",
+          "title": "美国芝加哥市周末发生10起枪击事件 致4死多伤",
+          "summary": "中新网8月10日电 据美国哥伦比亚广播公司(CBS)报道，美国芝加哥市本周末发生多起枪击事件，截至当地时间9日下午，事件造成至少4人死亡，多人受伤。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674874.shtml"
+        },
+        {
+          "date": "2026-08-09",
+          "title": "印尼一赛车比赛发生事故致7亡9重伤",
+          "summary": "中新社雅加达8月9日电 (记者 李志全)印度尼西亚北苏拉威西省科塔莫巴古地区9日举行的赛车比赛发生事故。一辆参赛车辆冲出赛道撞向观众，造成7人罹难、9人重伤。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674871.shtml"
+        },
+        {
+          "date": "2026-08-09",
+          "title": "特朗普称正在“低调处理”伊朗问题",
+          "summary": "据美国方面9日消息，美国总统特朗普表示，目前正在“低调处理”伊朗问题，并暗示相比于重新发动大规模军事行动，他更倾向于加大经济施压。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674870.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-08",
-          "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-          "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+          "date": "2026-08-09",
+          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+          "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-08",
-          "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-          "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+          "date": "2026-08-09",
+          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+          "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-08",
-          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-          "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+          "date": "2026-08-09",
+          "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+          "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-08",
-          "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-          "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+          "date": "2026-08-09",
+          "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+          "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-08",
-          "title": "Child among three killed in Russian missile attacks near Kyiv",
-          "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+          "date": "2026-08-09",
+          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+          "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "firecrawl/anydoc（⭐ 12091）",
+          "title": "firecrawl/anydoc（⭐ 12697）",
           "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
           "source": "GitHub",
           "url": "https://github.com/firecrawl/anydoc"
         },
         {
           "date": "GitHub Trending",
-          "title": "thebuggeddev/anatomy（⭐ 2033）",
-          "summary": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-          "source": "GitHub",
-          "url": "https://github.com/thebuggeddev/anatomy"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "KKKKhazix/human-writing（⭐ 1986）",
+          "title": "KKKKhazix/human-writing（⭐ 2093）",
           "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
           "source": "GitHub",
           "url": "https://github.com/KKKKhazix/human-writing"
         },
         {
           "date": "GitHub Trending",
-          "title": "ZzzLc0405/photo-abstract-editorial（⭐ 1713）",
+          "title": "ZzzLc0405/photo-abstract-editorial（⭐ 1948）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
         },
         {
           "date": "GitHub Trending",
-          "title": "Binaryify/open-kimi-ppt-skill（⭐ 1588）",
+          "title": "Binaryify/open-kimi-ppt-skill（⭐ 1606）",
           "summary": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
           "source": "GitHub",
           "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "ShawnPana/phone-harness（⭐ 812）",
+          "summary": "let your agent control your phone",
+          "source": "GitHub",
+          "url": "https://github.com/ShawnPana/phone-harness"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "北京五棵松深處，藏著一棟戒備森嚴的「南樓」。一場秘密手術，如何改寫中國命運？301醫院、150歲工程與高幹醫療特權背後，究竟還藏著多少不能說的秘密？",
-      "video": "中國最神秘的醫院：301醫院的南樓裡，權力如何獲得另一套生命規則？【文昭思緒飛揚563】",
-      "date": "2026-08-07",
-      "url": "https://www.youtube.com/watch?v=rzOwkicmwfA"
+      "desc": "一所被學生稱為「教育界蘭博基尼」的公立中學，提供免費影院、游泳館、幾百門選修課……但很少有人知道，它最初究竟為誰而建。當我們翻開它70多年的歷史，一條隱藏在中國",
+      "video": "想進中國權貴的「天龍人學校」，普通人得卷成什麼樣？【文昭思緒飛揚564】",
+      "date": "2026-08-09",
+      "url": "https://www.youtube.com/watch?v=INxlHUoPCUg"
     },
     {
       "channel": "夸克说",
