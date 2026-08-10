@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-09",
-  "generatedAt": "2026-08-09T23:21:32.347Z",
+  "issueDate": "2026-08-10",
+  "generatedAt": "2026-08-10T23:26:15.950Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry\n【金融新闻】Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead\n【中国新闻】伊朗任命雷扎伊为最高国家安全委员会秘书\n【世界新闻】Residents warned to brace for the worst as Canada wildfire rages out of control"
+    "body": "【AI 最新信息】Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI\n【金融新闻】Guide to peer-to-peer (P2P) payment apps: Everything you need to know before sending money\n【中国新闻】特朗普称美军对霍尔木兹海峡拥有“100%”控制权\n【世界新闻】Trump signs order to limit childhood vaccines and split MMR shots"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-08-10",
+          "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
+          "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
+        },
+        {
+          "date": "2026-08-10",
+          "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+          "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+        },
+        {
+          "date": "2026-08-10",
+          "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+          "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI use",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
+        },
+        {
+          "date": "2026-08-10",
+          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+          "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+        },
+        {
           "date": "2026-08-09",
           "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
           "summary": "The AI-focused hedge fund is still making some big bets.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
-        },
-        {
-          "date": "2026-08-09",
-          "title": "Anthropic is turning Claude Code’s auto mode on by default",
-          "summary": "Programming with Claude Code will soon require even less human oversight.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
-        },
-        {
-          "date": "2026-08-09",
-          "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-          "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
-        },
-        {
-          "date": "2026-08-09",
-          "title": "The AI safety test is becoming a safety risk",
-          "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry stand",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
-        },
-        {
-          "date": "2026-08-08",
-          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-          "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in th",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-09",
-          "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+          "date": "2026-08-10",
+          "title": "Guide to peer-to-peer (P2P) payment apps: Everything you need to know before sending money",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/guide-to-peer-to-peer-p2p-payment-apps-195134245.html"
         },
         {
-          "date": "2026-08-09",
-          "title": "If a Stock Market Crash Is Coming, History Says This Investing Strategy Has Never Once Failed",
+          "date": "2026-08-10",
+          "title": "Does renters insurance cover theft?",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-225000580.html"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-theft-180353254.html"
         },
         {
-          "date": "2026-08-09",
-          "title": "医保个人账户里的钱如何用在刀刃上？",
-          "summary": "“医保卡里的钱，除了买药还能怎么花？”这是不少参保人的疑问。每个月从工资里扣除的医保费，一部分进了个人账户，日积月累，成了一笔医疗储备金。这笔钱到底怎么用才不浪费？",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674875.shtml"
-        },
-        {
-          "date": "2026-08-09",
-          "title": "中国“陪伴经济”打开消费新空间",
-          "summary": "爬山能雇“搭子”，看病能找“陪诊”，外媒关注中国消费新热点——",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-10/10674872.shtml"
-        },
-        {
-          "date": "2026-08-09",
-          "title": "How a 61-Year-Old Built a $3,500 Monthly Paycheck From Just Two Funds: SCHD and JEPQ",
+          "date": "2026-08-10",
+          "title": "Analyst Report: ExxonMobil Holdings Corp",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/61-old-built-3-500-223240630.html"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3550_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+        },
+        {
+          "date": "2026-08-10",
+          "title": "Analyst Report: Sterling Infrastructure Inc",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_6630_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+        },
+        {
+          "date": "2026-08-10",
+          "title": "Analyst Report: Enbridge Inc",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3799_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-09",
-          "title": "伊朗任命雷扎伊为最高国家安全委员会秘书",
-          "summary": "中新网8月10日电 综合外媒报道，当地时间9日，伊朗总统府宣布，穆赫辛·雷扎伊被任命为伊朗最高国家安全委员会秘书。",
+          "date": "2026-08-10",
+          "title": "特朗普称美军对霍尔木兹海峡拥有“100%”控制权",
+          "summary": "中新网8月11日电 据美国有线电视新闻网(CNN)报道，当地时间8月10日，美国总统特朗普表示，美方已经对整个霍尔木兹海峡完成扫雷，目前美国海军对这一关键航道拥有“100%”的控制权。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674878.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675465.shtml"
         },
         {
-          "date": "2026-08-09",
-          "title": "以媒：以总理曾同意从加沙部分地区撤军 但又改变决定",
-          "summary": "中新网8月10日电 据《以色列时报》9日报道，以色列总理内塔尼亚胡曾同意以军从加沙地带南部拉法附近的三个区域小范围撤军，但又“改变了主意”。",
+          "date": "2026-08-10",
+          "title": "特朗普称要向伊朗索赔 外媒：美伊谈判陷入僵局",
+          "summary": "中新网8月11日电 据美国《国会山报》等外媒报道，当地时间8月10日，美国总统特朗普在社交媒体发文称，在伊朗要求美国就军事冲突进行赔偿后，他也要向伊朗提出索赔，并已指示美方谈判代表将这一要求明确纳入今后所有谈判议程中。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674877.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675463.shtml"
         },
         {
-          "date": "2026-08-09",
-          "title": "美国芝加哥市周末发生10起枪击事件 致4死多伤",
-          "summary": "中新网8月10日电 据美国哥伦比亚广播公司(CBS)报道，美国芝加哥市本周末发生多起枪击事件，截至当地时间9日下午，事件造成至少4人死亡，多人受伤。",
+          "date": "2026-08-10",
+          "title": "美国战略石油储备降至1983年以来最低水平",
+          "summary": "中新社华盛顿8月10日电 (记者 沙晗汀)美国能源部当地时间10日发布数据显示，美国战略石油储备(SPR)上周降至3亿桶以下，是自1983年以来的最低水平。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674874.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675462.shtml"
         },
         {
-          "date": "2026-08-09",
-          "title": "印尼一赛车比赛发生事故致7亡9重伤",
-          "summary": "中新社雅加达8月9日电 (记者 李志全)印度尼西亚北苏拉威西省科塔莫巴古地区9日举行的赛车比赛发生事故。一辆参赛车辆冲出赛道撞向观众，造成7人罹难、9人重伤。",
+          "date": "2026-08-10",
+          "title": "哥伦比亚7.5级强震已致111人死亡",
+          "summary": "当地时间10日，哥伦比亚总统德拉埃斯普列亚表示，当天发生的7.5级地震已造成111人死亡，87人受伤，61座建筑物倒塌。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674871.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675461.shtml"
         },
         {
-          "date": "2026-08-09",
-          "title": "特朗普称正在“低调处理”伊朗问题",
-          "summary": "据美国方面9日消息，美国总统特朗普表示，目前正在“低调处理”伊朗问题，并暗示相比于重新发动大规模军事行动，他更倾向于加大经济施压。",
+          "date": "2026-08-10",
+          "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
+          "summary": "当地时间10日，伊朗最高领袖穆杰塔巴·哈梅内伊对伊朗武装力量进行6项新的人事任命，其中包括：任命阿里·阿卜杜拉希空军少将为伊朗武装部队总参谋长；艾哈迈德·瓦希迪准将晋升少将，被任命为伊朗伊斯兰革命卫队总司令。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-10/10674870.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675460.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-09",
-          "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-          "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+          "date": "2026-08-10",
+          "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+          "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-09",
-          "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-          "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+          "date": "2026-08-10",
+          "title": "Canada flight cancelled after child refuses to wear seat belt",
+          "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-09",
-          "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-          "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+          "date": "2026-08-10",
+          "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+          "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-09",
-          "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-          "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+          "date": "2026-08-10",
+          "title": "New train service connects Finland and Sweden for first time in decades",
+          "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-09",
-          "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-          "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
+          "date": "2026-08-10",
+          "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+          "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "firecrawl/anydoc（⭐ 12697）",
-          "summary": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-          "source": "GitHub",
-          "url": "https://github.com/firecrawl/anydoc"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "KKKKhazix/human-writing（⭐ 2093）",
+          "title": "KKKKhazix/human-writing（⭐ 2271）",
           "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
           "source": "GitHub",
           "url": "https://github.com/KKKKhazix/human-writing"
         },
         {
           "date": "GitHub Trending",
-          "title": "ZzzLc0405/photo-abstract-editorial（⭐ 1948）",
+          "title": "ZzzLc0405/photo-abstract-editorial（⭐ 2241）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
         },
         {
           "date": "GitHub Trending",
-          "title": "Binaryify/open-kimi-ppt-skill（⭐ 1606）",
+          "title": "Binaryify/open-kimi-ppt-skill（⭐ 1607）",
           "summary": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
           "source": "GitHub",
           "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
         },
         {
           "date": "GitHub Trending",
-          "title": "ShawnPana/phone-harness（⭐ 812）",
+          "title": "ShawnPana/phone-harness（⭐ 1301）",
           "summary": "let your agent control your phone",
           "source": "GitHub",
           "url": "https://github.com/ShawnPana/phone-harness"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "oil-oil/oil-motion（⭐ 1174）",
+          "summary": "Create smooth, responsive interactive web animations.",
+          "source": "GitHub",
+          "url": "https://github.com/oil-oil/oil-motion"
         }
       ]
     }
