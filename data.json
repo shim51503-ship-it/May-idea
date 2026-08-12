@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-11",
-  "generatedAt": "2026-08-11T23:30:30.046Z",
+  "issueDate": "2026-08-12",
+  "generatedAt": "2026-08-12T23:30:57.565Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Accel closes oversubscribed $550M India fund within weeks, 19 months after its last\n【金融新闻】西藏：“数字拉萨”建设成果丰硕 数字赋能雪域高质量发展\n【中国新闻】外媒称哥伦比亚强震已致超200人死亡 古特雷斯发声\n【世界新闻】Russia releases former US Marine reported in poor health"
+    "body": "【AI 最新信息】Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes\n【金融新闻】中国智能网联汽车为何发展快\n【中国新闻】德国政府通过情报机构改革草案\n【世界新闻】Members of Trump's cabinet remained on decoy plane, after president's quiet exit"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-11",
-          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-          "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+          "date": "2026-08-12",
+          "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
+          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
         },
         {
-          "date": "2026-08-11",
-          "title": "OpenAI launches ChatGPT desktop app for Linux",
-          "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+          "date": "2026-08-12",
+          "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
+          "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
+          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
         },
         {
-          "date": "2026-08-11",
-          "title": "Google’s Gemini app surges to 1 billion users",
-          "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plu",
+          "date": "2026-08-12",
+          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+          "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
         },
         {
-          "date": "2026-08-11",
-          "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
-          "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission",
+          "date": "2026-08-12",
+          "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+          "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America ca",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
+          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
         },
         {
-          "date": "2026-08-11",
-          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-          "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+          "date": "2026-08-12",
+          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-11",
-          "title": "西藏：“数字拉萨”建设成果丰硕 数字赋能雪域高质量发展",
-          "summary": "中新网拉萨8月11日电 (贡嘎来松)11日，西藏拉萨作为全球数字经济大会中国国内唯一永久分会场，2026全球数字经济大会拉萨高层论坛新闻发布会在拉萨举行。记者从发布会上获悉，以“数聚拉萨·能创未来”为主题的拉萨高层论坛，将于8月18日在拉萨市群众文化体育中心篮球主场馆启幕，拉萨已连续五年与北京主会场双向联动，打造京拉数",
+          "date": "2026-08-12",
+          "title": "中国智能网联汽车为何发展快",
+          "summary": "今年以来，L2级组合驾驶辅助功能乘用车渗透率达到70.5%——",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676070.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676692.shtml"
         },
         {
-          "date": "2026-08-11",
-          "title": "亚洲首个！我国柔直海上风电项目发电量破百亿千瓦时",
-          "summary": "8月11日，亚洲首个采用柔性直流输电技术送出的海上风电项目——三峡新能源江苏如东800兆瓦海上风电项目累计发电量突破100亿千瓦时，为我国大容量、远距离海上风电柔性直流输电技术的规模化应用提供了实践验证。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676073.shtml"
+          "date": "2026-08-12",
+          "title": "AARP issues urgent call on Medicare drug costs",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/healthcare/articles/aarp-issues-urgent-call-medicare-221700862.html"
         },
         {
-          "date": "2026-08-11",
-          "title": "云菌“鲜”行海外 今年前7个月出口量增逾两成",
-          "summary": "中新网昆明8月11日电 (段淑敏)昆明海关11日消息，今年前7个月，云南出口至日本、德国、越南等26个国家和地区的新鲜和冷藏食用菌达1857.1吨，同比增长24.7%。曾藏于深山的时令山珍，如今已成为撬动县域经济发展、带动民众增收的“金疙瘩”。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676053.shtml"
+          "date": "2026-08-12",
+          "title": "Market Update: BTI, MCHP, APTV, TWLO, CAVA",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
         },
         {
-          "date": "2026-08-11",
-          "title": "贵阳国际陆港：借力平陆运河 助“贵州造”批量走向“深蓝”",
-          "summary": "中新网贵阳8月11日电 题：贵阳国际陆港：借力平陆运河 助“贵州造”批量走向“深蓝”",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676016.shtml"
+          "date": "2026-08-12",
+          "title": "Bank of America sends blunt message to Nvidia stock investors",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html"
         },
         {
-          "date": "2026-08-11",
-          "title": "广西自贸试验区全面推行政府采购制度型开放改革对接国际经贸规则",
-          "summary": "中新网南宁8月11日电(林浩 韦佳秀)广西壮族自治区财政厅日前印发通知，将在中国(广西)自由贸易试验区全面推行政府采购领域制度型开放改革试点措施，进一步对接国际高标准经贸规则，推进高水平制度型开放。",
+          "date": "2026-08-12",
+          "title": "中国首家尼加拉瓜国家馆落地武汉",
+          "summary": "中新网武汉8月12日电 (张芹 蒋鹰)“丝路新桥·中尼同航”——中国(湖北)—尼加拉瓜经贸合作洽谈会暨国家馆授牌仪式12日在武汉举行。当日，尼加拉瓜国家馆在武汉金控华中贸易服务区正式揭牌，成为中国首家受尼加拉瓜驻华大使馆官方授牌的特色产品与文化实体展馆，同时成立中国(湖北)—尼加拉瓜经济贸易合作中心，推动双边在农产品、",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-11/10676051.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676676.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-11",
-          "title": "外媒称哥伦比亚强震已致超200人死亡 古特雷斯发声",
-          "summary": "中新网8月12日电 综合法新社、美国有线电视新闻网(CNN)等外媒报道，据最新统计，近日在哥伦比亚西部发生的7.4级强震已造成超200人死亡。",
+          "date": "2026-08-12",
+          "title": "德国政府通过情报机构改革草案",
+          "summary": "中新社柏林8月12日电 德国联邦政府12日通过情报机构改革草案，计划大幅扩大德国联邦情报局和联邦宪法保卫局的权限。德国政府称，这是对两家联邦情报机构法律基础所进行的范围最广、最根本性的一次改革。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676084.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676703.shtml"
         },
         {
-          "date": "2026-08-11",
-          "title": "中方严斥美国炮制“弹道导弹发射通报”涉华共同发言",
-          "summary": "新华社日内瓦8月11日电(记者王其冰)中国裁军事务大使李驰江11日在日内瓦裁军谈判会议(简称裁谈会)上严正驳斥美国代表所谓“弹道导弹发射通报”涉华共同发言，强调中国正当合理的国防现代化建设不容置疑，中方提前通报导弹发射的善意举措不应被地缘政治算计所绑架；中方坚决反对个别国家滥用裁谈会平台搞政治操弄。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676080.shtml"
+          "date": "2026-08-12",
+          "title": "英国财政部：中东局势或致英国明年经济增长近乎停滞",
+          "summary": "中新社伦敦8月12日电 (记者 欧阳开宇)英国财政部12日公布一份经济推演报告显示，若中东局势持续扰动霍尔木兹海峡航运，英国2027年经济增长或将大幅回落至0.3%，近乎陷入停滞。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676700.shtml"
         },
         {
-          "date": "2026-08-11",
-          "title": "英国首相伯纳姆出台新政 力图振兴萧条的商业街",
-          "summary": "中新社伦敦8月11日电 (记者 欧阳开宇)英国首相安迪·伯纳姆11日公布一揽子政策，希望扭转国内城镇商业街长期“空心化”、持续萧条的局面，将更多城市建设的决策权下放至地方社区与市政当局。",
+          "date": "2026-08-12",
+          "title": "韩国前总统尹锡悦面临新指控",
+          "summary": "中新社首尔8月13日电 (记者 金旭)当地时间12日，韩国第二综合特别检察组以传播“紧急戒严正当化信息”为由，起诉前总统尹锡悦和前国家安保室长申源湜。这是该特检组首次起诉尹锡悦。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676079.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676699.shtml"
         },
         {
-          "date": "2026-08-11",
-          "title": "美军：使用导弹袭击一艘驶往伊朗的货轮 并致其停航",
-          "summary": "中新网8月12日电 当地时间11日，美军中央司令部在社交媒体发布消息称，美军一架直升机当天向一艘“违反美国对伊朗海上封锁”的货轮开火，致使其转向装置失效而停止航行。",
+          "date": "2026-08-12",
+          "title": "特朗普称白宫新闻秘书莱维特将离职",
+          "summary": "中新网8月13日电 据英国广播公司(BBC)报道，当地时间8月13日，美国总统唐纳德·特朗普宣布，白宫新闻秘书卡罗琳·莱维特将于8月底卸任。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676078.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676705.shtml"
         },
         {
-          "date": "2026-08-11",
-          "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
-          "summary": "当地时间11日，伊朗最高国家安全委员会秘书雷扎伊表示，美国是霍尔木兹海峡、波斯湾和阿曼湾不安全的根源，美国对伊朗发动非法战争，危及整个地区。“除非美国改变其行为并接受伊朗的条件，否则霍尔木兹海峡不会开放。”",
+          "date": "2026-08-12",
+          "title": "美军称已使59艘商船改变航线，特朗普：伊朗无能为力",
+          "summary": "中新网8月13日电 据外媒报道，当地时间8月13日，美国中央司令部(CENTCOM)表示，作为对伊朗实施封锁行动的一部分，美军已改变59艘商船的航向，使其中3艘失去动力，并登船检查了另外2艘。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-12/10676077.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676698.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-11",
-          "title": "Russia releases former US Marine reported in poor health",
-          "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says.",
+          "date": "2026-08-12",
+          "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+          "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-11",
-          "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
-          "summary": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.",
+          "date": "2026-08-12",
+          "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+          "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-11",
-          "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-          "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+          "date": "2026-08-12",
+          "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+          "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-11",
-          "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-          "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+          "date": "2026-08-12",
+          "title": "Thousands of Canadians call for US ambassador's expulsion",
+          "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-11",
-          "title": "Luigi Mangione murder trial to have anonymous jury",
-          "summary": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case.",
+          "date": "2026-08-12",
+          "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+          "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "KKKKhazix/human-writing（⭐ 2406）",
-          "summary": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+          "title": "guillaumemeyer/watermarks-remover（⭐ 2199）",
+          "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
           "source": "GitHub",
-          "url": "https://github.com/KKKKhazix/human-writing"
+          "url": "https://github.com/guillaumemeyer/watermarks-remover"
         },
         {
           "date": "GitHub Trending",
-          "title": "Binaryify/open-kimi-ppt-skill（⭐ 1603）",
-          "summary": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-          "source": "GitHub",
-          "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "ShawnPana/phone-harness（⭐ 1494）",
+          "title": "ShawnPana/phone-harness（⭐ 1634）",
           "summary": "let your agent control your phone",
           "source": "GitHub",
           "url": "https://github.com/ShawnPana/phone-harness"
         },
         {
           "date": "GitHub Trending",
-          "title": "oil-oil/oil-motion（⭐ 1480）",
+          "title": "oil-oil/oil-motion（⭐ 1609）",
           "summary": "Create smooth, responsive interactive web animations.",
           "source": "GitHub",
           "url": "https://github.com/oil-oil/oil-motion"
         },
         {
           "date": "GitHub Trending",
-          "title": "SMNETSTUDIO/WeChat-AI（⭐ 1412）",
+          "title": "antirez/h3.c（⭐ 1584）",
+          "summary": "MiniMax H3 inference engine for Mac computers",
+          "source": "GitHub",
+          "url": "https://github.com/antirez/h3.c"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "SMNETSTUDIO/WeChat-AI（⭐ 1519）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
@@ -229,17 +229,17 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#出入境新规 #出入境新規 #出入境管理规定 #出入境管理規定 #中国出入境新规 #中國出入境新規 #限制出境 #邊控 #收护照 #收護照 #护照被收 #護照被",
-      "video": "中国人还能出国吗？出入境新规出台后，你还能拿到护照吗？中國人還能出國嗎？出入境新規出颱後，你還能拿到護照嗎？夸克说|誇克说",
-      "date": "2026-08-08",
-      "url": "https://www.youtube.com/watch?v=QK4Ogus0vgQ"
+      "desc": "#比亚迪 #新能源汽车 #新能源汽車 #中国新能源汽车 #中國新能源汽車 #新能源车出海 #新能源車出海 #中国新能源汽车出海 #中國新能源汽車出海 #中国电动",
+      "video": "比亚迪出海惨遭背刺？当年的丁仲礼vs柴静，到底谁错了？比亞迪出海慘遭背刺？當年的丁仲禮vs柴靜，到底誰錯了？ 夸克说|誇克説",
+      "date": "2026-08-12",
+      "url": "https://www.youtube.com/watch?v=WYUZAj7I_TA"
     },
     {
       "channel": "May Fit",
-      "desc": "Follow Annabel instagram 👉🏼https://www.instagram.com/annabel.fit  場地提供： Iron o",
-      "video": "【女性健身肌力課 Ep2 】巴西裔IFBB Pro健身教練親授蜜桃臀訓練法！如何面對體重增加12公斤的心路歷程？",
-      "date": "2026-06-25",
-      "url": "https://www.youtube.com/watch?v=R7thnrBARP4"
+      "desc": "",
+      "video": "《女生不怕練太多，只怕練不夠多 #fitness 》 女生的骨密流失比男性快！我們練的不只是外觀，還有意志力、以及老化後身體的「獨立能力」肌力訓練",
+      "date": "2026-08-12",
+      "url": "https://www.youtube.com/watch?v=8DvWEdRKTP0"
     },
     {
       "channel": "盈夏AI轻创业",
