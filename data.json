@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-12",
-  "generatedAt": "2026-08-12T23:30:57.565Z",
+  "issueDate": "2026-08-13",
+  "generatedAt": "2026-08-13T23:32:17.610Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes\n【金融新闻】中国智能网联汽车为何发展快\n【中国新闻】德国政府通过情报机构改革草案\n【世界新闻】Members of Trump's cabinet remained on decoy plane, after president's quiet exit"
+    "body": "【AI 最新信息】Writer introduces new AI model and upgraded harness to contain token costs\n【金融新闻】财经大V齐俊杰，被海南证监局点名\n【中国新闻】俄外交部驳斥日方抗议：“不可接受，令人愤慨”\n【世界新闻】Conditions on US aircraft carrier at sea for more than 250 days raise alarms"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-12",
-          "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
-          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+          "date": "2026-08-13",
+          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+          "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
         },
         {
-          "date": "2026-08-12",
-          "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
-          "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+          "date": "2026-08-13",
+          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+          "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
         },
         {
-          "date": "2026-08-12",
-          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-          "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+          "date": "2026-08-13",
+          "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
         },
         {
-          "date": "2026-08-12",
-          "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-          "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America ca",
+          "date": "2026-08-13",
+          "title": "IBM partners with OpenAI to bolster enterprise AI push",
+          "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
+          "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
         },
         {
-          "date": "2026-08-12",
-          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-          "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+          "date": "2026-08-13",
+          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+          "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture th",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
+          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-12",
-          "title": "中国智能网联汽车为何发展快",
-          "summary": "今年以来，L2级组合驾驶辅助功能乘用车渗透率达到70.5%——",
+          "date": "2026-08-13",
+          "title": "财经大V齐俊杰，被海南证监局点名",
+          "summary": "中新网8月13日电(吴家驹)近日，中国证监会海南监管局网站发布行政监管措施决定书，对齐家私募基金管理(海南)有限公司(简称“齐家私募基金公司”)、齐俊杰采取责令改正的行政监管措施，并记入资本市场诚信档案数据库，同时要求于2026年9月30日前提交整改报告。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676692.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677333.shtml"
         },
         {
-          "date": "2026-08-12",
-          "title": "AARP issues urgent call on Medicare drug costs",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/aarp-issues-urgent-call-medicare-221700862.html"
-        },
-        {
-          "date": "2026-08-12",
-          "title": "Market Update: BTI, MCHP, APTV, TWLO, CAVA",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-        },
-        {
-          "date": "2026-08-12",
-          "title": "Bank of America sends blunt message to Nvidia stock investors",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html"
-        },
-        {
-          "date": "2026-08-12",
-          "title": "中国首家尼加拉瓜国家馆落地武汉",
-          "summary": "中新网武汉8月12日电 (张芹 蒋鹰)“丝路新桥·中尼同航”——中国(湖北)—尼加拉瓜经贸合作洽谈会暨国家馆授牌仪式12日在武汉举行。当日，尼加拉瓜国家馆在武汉金控华中贸易服务区正式揭牌，成为中国首家受尼加拉瓜驻华大使馆官方授牌的特色产品与文化实体展馆，同时成立中国(湖北)—尼加拉瓜经济贸易合作中心，推动双边在农产品、",
+          "date": "2026-08-13",
+          "title": "宇树科技：网上投资者放弃认购数量8734股",
+          "summary": "中新网北京8月13日电(记者 刘星晨)13日晚，宇树科技发布首次公开发行股票并在科创板上市发行结果公告。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-12/10676676.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677332.shtml"
+        },
+        {
+          "date": "2026-08-13",
+          "title": "全球首单企业类自贸离岸债在上海发行",
+          "summary": "8月12日，中央结算公司支持上海电气集团股份有限公司境外子公司上海电气环球资本有限公司成功发行15亿元人民币自贸离岸债，期限3年，票面利率1.8%。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677330.shtml"
+        },
+        {
+          "date": "2026-08-13",
+          "title": "开局起步“十五五”：三亚力推旅游产品迭代升级",
+          "summary": "中新网海口8月13日电 (张茜翼 张芷懿)中共三亚市委常委、市政府副市长向义海13日在海南省新闻办公室举行的发布会上表示，到2030年，三亚全市年接待国内外游客不低于5000万人次，年游客总花费不低于1600亿元，年接待入境游客不低于200万人次，力争达到250万人次。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677313.shtml"
+        },
+        {
+          "date": "2026-08-13",
+          "title": "京东集团发布2026年二季度及半年业绩：活跃用户保持双位数增长 服务收入占比进一步提升",
+          "summary": "北京时间8月13日，京东集团【纳斯达克代码：JD，港交所代号：9618(港币柜台)及89618(人民币柜台)】发布了2026年二季度及半年业绩，AI等新生产要素激发了供应链和产品的创新潮，京东的超级供应链优势更加凸显，围绕居家、健康、出行等需求的多样化生活服务进一步带动了用户活跃度的提升。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677301.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-12",
-          "title": "德国政府通过情报机构改革草案",
-          "summary": "中新社柏林8月12日电 德国联邦政府12日通过情报机构改革草案，计划大幅扩大德国联邦情报局和联邦宪法保卫局的权限。德国政府称，这是对两家联邦情报机构法律基础所进行的范围最广、最根本性的一次改革。",
+          "date": "2026-08-13",
+          "title": "俄外交部驳斥日方抗议：“不可接受，令人愤慨”",
+          "summary": "中新网8月14日电 据俄罗斯卫星网报道，俄罗斯外交部发言人扎哈罗娃13日发表评论称，俄方坚决驳回日本领导层就俄总统普京登上伊图鲁普岛(日本称择捉岛)提出的主张，认为日方这些主张在政治上毫无意义、具有“侮辱性”，且“法律上完全站不住脚”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676703.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677353.shtml"
         },
         {
-          "date": "2026-08-12",
-          "title": "英国财政部：中东局势或致英国明年经济增长近乎停滞",
-          "summary": "中新社伦敦8月12日电 (记者 欧阳开宇)英国财政部12日公布一份经济推演报告显示，若中东局势持续扰动霍尔木兹海峡航运，英国2027年经济增长或将大幅回落至0.3%，近乎陷入停滞。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676700.shtml"
+          "date": "2026-08-13",
+          "title": "新一代“人造太阳”来了 千亿级聚变能产业蓄势待发",
+          "summary": "新一代“人造太阳”，要来了！",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677347.shtml"
         },
         {
-          "date": "2026-08-12",
-          "title": "韩国前总统尹锡悦面临新指控",
-          "summary": "中新社首尔8月13日电 (记者 金旭)当地时间12日，韩国第二综合特别检察组以传播“紧急戒严正当化信息”为由，起诉前总统尹锡悦和前国家安保室长申源湜。这是该特检组首次起诉尹锡悦。",
+          "date": "2026-08-13",
+          "title": "美防长称有足够军事力量，可无限期维持对伊朗海上封锁",
+          "summary": "中新网8月14日电 据卡塔尔半岛电视台报道，美国国防部长赫格塞思当地时间13日表示，美军拥有足够的军事力量，可以“无限期维持”对伊朗的海上封锁。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676699.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677345.shtml"
         },
         {
-          "date": "2026-08-12",
-          "title": "特朗普称白宫新闻秘书莱维特将离职",
-          "summary": "中新网8月13日电 据英国广播公司(BBC)报道，当地时间8月13日，美国总统唐纳德·特朗普宣布，白宫新闻秘书卡罗琳·莱维特将于8月底卸任。",
+          "date": "2026-08-13",
+          "title": "美媒：“乔治·华盛顿”号航母驶往中东 替换“亚伯拉罕·林肯”号",
+          "summary": "中新网8月14日电 据美联社14日报道，根据美国海军声明及有关军舰动向的公开信息显示，“乔治·华盛顿”号航母开始驶往中东。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676705.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677344.shtml"
         },
         {
-          "date": "2026-08-12",
-          "title": "美军称已使59艘商船改变航线，特朗普：伊朗无能为力",
-          "summary": "中新网8月13日电 据外媒报道，当地时间8月13日，美国中央司令部(CENTCOM)表示，作为对伊朗实施封锁行动的一部分，美军已改变59艘商船的航向，使其中3艘失去动力，并登船检查了另外2艘。",
+          "date": "2026-08-13",
+          "title": "驳斥特朗普的说法 伊朗称霍尔木兹海峡在伊朗控制和管理之下",
+          "summary": "中新网8月14日电 据卡塔尔半岛电视台14日报道，伊朗方面驳斥了美国总统特朗普此前关于霍尔木兹海峡控制权的说法，伊朗民兵武装组织负责人侯赛因·塔伊布称，霍尔木兹海峡“在伊朗的控制和管理之下”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-13/10676698.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677342.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-12",
-          "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-          "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+          "date": "2026-08-13",
+          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+          "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-12",
-          "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-          "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+          "date": "2026-08-13",
+          "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+          "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-12",
-          "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-          "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+          "date": "2026-08-13",
+          "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+          "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-12",
-          "title": "Thousands of Canadians call for US ambassador's expulsion",
-          "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+          "date": "2026-08-13",
+          "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+          "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-12",
-          "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-          "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+          "date": "2026-08-13",
+          "title": "Family of Irish plane crash victim awarded $29m in damages",
+          "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "guillaumemeyer/watermarks-remover（⭐ 2199）",
+          "title": "deepseek-ai/deepseek-harness（⭐ 39834）",
+          "summary": "DeepSeek Harness: Everything is a Plugin.",
+          "source": "GitHub",
+          "url": "https://github.com/deepseek-ai/deepseek-harness"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "guillaumemeyer/watermarks-remover（⭐ 5302）",
           "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
           "source": "GitHub",
           "url": "https://github.com/guillaumemeyer/watermarks-remover"
         },
         {
           "date": "GitHub Trending",
-          "title": "ShawnPana/phone-harness（⭐ 1634）",
-          "summary": "let your agent control your phone",
-          "source": "GitHub",
-          "url": "https://github.com/ShawnPana/phone-harness"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "oil-oil/oil-motion（⭐ 1609）",
-          "summary": "Create smooth, responsive interactive web animations.",
-          "source": "GitHub",
-          "url": "https://github.com/oil-oil/oil-motion"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "antirez/h3.c（⭐ 1584）",
+          "title": "antirez/h3.c（⭐ 1773）",
           "summary": "MiniMax H3 inference engine for Mac computers",
           "source": "GitHub",
           "url": "https://github.com/antirez/h3.c"
         },
         {
           "date": "GitHub Trending",
-          "title": "SMNETSTUDIO/WeChat-AI（⭐ 1519）",
-          "summary": "（该仓库未填写描述）",
+          "title": "ShawnPana/phone-harness（⭐ 1712）",
+          "summary": "let your agent control your phone",
           "source": "GitHub",
-          "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
+          "url": "https://github.com/ShawnPana/phone-harness"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "oil-oil/oil-motion（⭐ 1685）",
+          "summary": "Create smooth, responsive interactive web animations.",
+          "source": "GitHub",
+          "url": "https://github.com/oil-oil/oil-motion"
         }
       ]
     }
@@ -215,10 +215,10 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "长鑫科技究竟是中国半导体产业崛起的里程碑，还是被民族主义叙事放大的巨大泡沫？它究竟能否真正挑战美韩企业统治数十年的存储芯片格局？中国模式进入全球芯片产业之后，又",
-      "video": "中国芯崛起？长鑫科技上市暴涨500%，世界存储芯片格局变天了吗？ | 三星 | SK海力士 | 美光 | DRAM | HBM | 卡脖子 | 中美博弈 | A股 | 老周横眉",
-      "date": "2026-08-06",
-      "url": "https://www.youtube.com/watch?v=IFRIfQeM9Hk"
+      "desc": "“民族企业”为何越来越招人恨？是华为变了，还是中国人变了？从虚假宣传、跑分作弊、强势法务，到251事件，一只竹知了，引爆了华为积累多年的信任危机。本期节目探讨后",
+      "video": "华为突然不香了？从“遥遥领先”到全网群嘲，爱国红利为何开始反噬？ | 竹知了 | 余承东 | 爱国营销 | 民族企业 | 老周横眉",
+      "date": "2026-08-13",
+      "url": "https://www.youtube.com/watch?v=T0q0po4OOOE"
     },
     {
       "channel": "文昭思绪飞扬",
