@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-13",
-  "generatedAt": "2026-08-13T23:32:17.610Z",
+  "issueDate": "2026-08-14",
+  "generatedAt": "2026-08-14T23:13:11.571Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Writer introduces new AI model and upgraded harness to contain token costs\n【金融新闻】财经大V齐俊杰，被海南证监局点名\n【中国新闻】俄外交部驳斥日方抗议：“不可接受，令人愤慨”\n【世界新闻】Conditions on US aircraft carrier at sea for more than 250 days raise alarms"
+    "body": "【AI 最新信息】Google will now allow users to remove visible watermark from its AI generations\n【金融新闻】巴奴火锅上线“打赏服务员”功能，客服回应：自愿打赏，严禁索要\n【中国新闻】日本防卫大臣小泉进次郎参拜靖国神社\n【世界新闻】Dozens injured and thousands evacuated in Croatia wildfire"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-13",
-          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-          "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower ",
+          "date": "2026-08-14",
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
         },
         {
-          "date": "2026-08-13",
-          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-          "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+          "date": "2026-08-14",
+          "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
+          "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+          "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
         },
         {
-          "date": "2026-08-13",
-          "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
-          "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+          "date": "2026-08-14",
+          "title": "Kog is going deeper to squeeze more inference out of GPUs",
+          "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
         },
         {
-          "date": "2026-08-13",
-          "title": "IBM partners with OpenAI to bolster enterprise AI push",
-          "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+          "date": "2026-08-14",
+          "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+          "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
+          "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
         },
         {
-          "date": "2026-08-13",
-          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-          "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture th",
+          "date": "2026-08-14",
+          "title": "Meta&#8217;s &#8216;open&#8217; AI, and a $250M deal gone very wrong",
+          "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-13",
-          "title": "财经大V齐俊杰，被海南证监局点名",
-          "summary": "中新网8月13日电(吴家驹)近日，中国证监会海南监管局网站发布行政监管措施决定书，对齐家私募基金管理(海南)有限公司(简称“齐家私募基金公司”)、齐俊杰采取责令改正的行政监管措施，并记入资本市场诚信档案数据库，同时要求于2026年9月30日前提交整改报告。",
+          "date": "2026-08-14",
+          "title": "巴奴火锅上线“打赏服务员”功能，客服回应：自愿打赏，严禁索要",
+          "summary": "中新网8月14日电(记者 吴家驹)近日，不少消费者发现，巴奴火锅在点餐小程序上线了“打赏服务员”功能，引发网络争议。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677333.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-14/10678008.shtml"
         },
         {
-          "date": "2026-08-13",
-          "title": "宇树科技：网上投资者放弃认购数量8734股",
-          "summary": "中新网北京8月13日电(记者 刘星晨)13日晚，宇树科技发布首次公开发行股票并在科创板上市发行结果公告。",
+          "date": "2026-08-14",
+          "title": "长春都市圈聚力打造特色农品 抱团开拓海内外市场",
+          "summary": "中新网长春8月14日电 (李彦国 高龙安)梅花鹿饲养量占全中国的30%，大米端上香港市民的餐桌，鲜食玉米远销30多个国家和地区……记者在14日举行的长春现代化都市圈农业产业协同发展发布会上获悉，圈内四座城市正合力打造梅花鹿、大米、鲜食玉米、食用菌等特色产业，力拓海内外市场。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677332.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-14/10678004.shtml"
         },
         {
-          "date": "2026-08-13",
-          "title": "全球首单企业类自贸离岸债在上海发行",
-          "summary": "8月12日，中央结算公司支持上海电气集团股份有限公司境外子公司上海电气环球资本有限公司成功发行15亿元人民币自贸离岸债，期限3年，票面利率1.8%。",
+          "date": "2026-08-14",
+          "title": "高温高通胀高赤字……欧洲战略自主缺失吞下苦果",
+          "summary": "这个夏天，仿佛对欧洲格外残酷。美国《纽约时报》近日报道称，欧洲显得像是在旁观席上，眼睁睁看着自己的命运被外部力量所塑造。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677330.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-14/10678000.shtml"
         },
         {
-          "date": "2026-08-13",
-          "title": "开局起步“十五五”：三亚力推旅游产品迭代升级",
-          "summary": "中新网海口8月13日电 (张茜翼 张芷懿)中共三亚市委常委、市政府副市长向义海13日在海南省新闻办公室举行的发布会上表示，到2030年，三亚全市年接待国内外游客不低于5000万人次，年游客总花费不低于1600亿元，年接待入境游客不低于200万人次，力争达到250万人次。",
+          "date": "2026-08-14",
+          "title": "为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
+          "summary": "中新网绍兴8月14日电 题：为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677313.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677987.shtml"
         },
         {
-          "date": "2026-08-13",
-          "title": "京东集团发布2026年二季度及半年业绩：活跃用户保持双位数增长 服务收入占比进一步提升",
-          "summary": "北京时间8月13日，京东集团【纳斯达克代码：JD，港交所代号：9618(港币柜台)及89618(人民币柜台)】发布了2026年二季度及半年业绩，AI等新生产要素激发了供应链和产品的创新潮，京东的超级供应链优势更加凸显，围绕居家、健康、出行等需求的多样化生活服务进一步带动了用户活跃度的提升。",
+          "date": "2026-08-14",
+          "title": "广州“消费帮扶工惠行”累计带动特色产品销售超30亿元",
+          "summary": "中新网广州8月14日电 (记者 张璐)西藏的清甜鲜果带着雪域高原的阳光、贵州的醇香腊肉裹着苗家烟火的温度、湛江的海鲜干货藏着南海之滨的风浪……8月14日至16日，广州塔西广场化身“山海风味集市”，“奋进‘十五五’助力‘百千万’——十城联动 千品惠购 消费帮扶工惠行”活动(简称“活动”)正式启幕。活动现场人头攒动，烟火气",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-13/10677301.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677981.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-13",
-          "title": "俄外交部驳斥日方抗议：“不可接受，令人愤慨”",
-          "summary": "中新网8月14日电 据俄罗斯卫星网报道，俄罗斯外交部发言人扎哈罗娃13日发表评论称，俄方坚决驳回日本领导层就俄总统普京登上伊图鲁普岛(日本称择捉岛)提出的主张，认为日方这些主张在政治上毫无意义、具有“侮辱性”，且“法律上完全站不住脚”。",
+          "date": "2026-08-14",
+          "title": "日本防卫大臣小泉进次郎参拜靖国神社",
+          "summary": "当地时间15日，日本防卫大臣小泉进次郎参拜靖国神社。(总台报道员 李茜文)",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677353.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678017.shtml"
         },
         {
-          "date": "2026-08-13",
-          "title": "新一代“人造太阳”来了 千亿级聚变能产业蓄势待发",
-          "summary": "新一代“人造太阳”，要来了！",
+          "date": "2026-08-14",
+          "title": "美国7月零售销售额环比下降0.6% 创一年来最大跌幅",
+          "summary": "中新社华盛顿8月14日电 (记者 沙晗汀)美国商务部当地时间14日公布数据显示，美国7月零售销售额环比下降0.6%，创一年来最大环比跌幅，低于市场普遍预期。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678016.shtml"
+        },
+        {
+          "date": "2026-08-14",
+          "title": "拉美首个中外共建中文本科专业在巴西阿西斯开学",
+          "summary": "中新社圣保罗8月14日电 (记者 林春茵)当地时间13日，作为巴西乃至拉丁美洲首个由中外高校合作举办、实行四年制培养并授予学士学位的中文本科专业，巴西圣保罗州立大学中国语言与文化本科专业在该校阿西斯校区举行开学典礼。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678013.shtml"
+        },
+        {
+          "date": "2026-08-14",
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "summary": "当地时间8月14日，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。此外，特朗普在谈及伊朗时表示，他“很快将宣布霍尔木兹海峡成为美国领土”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-15/10678012.shtml"
+        },
+        {
+          "date": "2026-08-14",
+          "title": "中国人民银行将发行江泽民诞辰100周年纪念币",
+          "summary": "新华社北京8月14日电 中国人民银行8月14日发布公告称，定于2026年8月17日起陆续发行江泽民诞辰100周年纪念币。江泽民诞辰100周年纪念币共4枚，其中普通纪念币1枚，金质纪念币2枚，银质纪念币1枚，均为中华人民共和国法定货币。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677347.shtml"
-        },
-        {
-          "date": "2026-08-13",
-          "title": "美防长称有足够军事力量，可无限期维持对伊朗海上封锁",
-          "summary": "中新网8月14日电 据卡塔尔半岛电视台报道，美国国防部长赫格塞思当地时间13日表示，美军拥有足够的军事力量，可以“无限期维持”对伊朗的海上封锁。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677345.shtml"
-        },
-        {
-          "date": "2026-08-13",
-          "title": "美媒：“乔治·华盛顿”号航母驶往中东 替换“亚伯拉罕·林肯”号",
-          "summary": "中新网8月14日电 据美联社14日报道，根据美国海军声明及有关军舰动向的公开信息显示，“乔治·华盛顿”号航母开始驶往中东。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677344.shtml"
-        },
-        {
-          "date": "2026-08-13",
-          "title": "驳斥特朗普的说法 伊朗称霍尔木兹海峡在伊朗控制和管理之下",
-          "summary": "中新网8月14日电 据卡塔尔半岛电视台14日报道，伊朗方面驳斥了美国总统特朗普此前关于霍尔木兹海峡控制权的说法，伊朗民兵武装组织负责人侯赛因·塔伊布称，霍尔木兹海峡“在伊朗的控制和管理之下”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-14/10677342.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678011.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-13",
-          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-          "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+          "date": "2026-08-14",
+          "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+          "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-13",
-          "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-          "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+          "date": "2026-08-14",
+          "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+          "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-13",
-          "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-          "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+          "date": "2026-08-14",
+          "title": "Trump asks Supreme Court to allow ballroom work to continue",
+          "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-13",
-          "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-          "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+          "date": "2026-08-14",
+          "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+          "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-13",
-          "title": "Family of Irish plane crash victim awarded $29m in damages",
-          "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+          "date": "2026-08-14",
+          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+          "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/deepseek-harness（⭐ 39834）",
+          "title": "deepseek-ai/deepseek-harness（⭐ 95036）",
           "summary": "DeepSeek Harness: Everything is a Plugin.",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/deepseek-harness"
         },
         {
           "date": "GitHub Trending",
-          "title": "guillaumemeyer/watermarks-remover（⭐ 5302）",
+          "title": "guillaumemeyer/watermarks-remover（⭐ 8061）",
           "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
           "source": "GitHub",
           "url": "https://github.com/guillaumemeyer/watermarks-remover"
         },
         {
           "date": "GitHub Trending",
-          "title": "antirez/h3.c（⭐ 1773）",
+          "title": "zhu1090093659/dsh-web-ui（⭐ 1929）",
+          "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+          "source": "GitHub",
+          "url": "https://github.com/zhu1090093659/dsh-web-ui"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "antirez/h3.c（⭐ 1850）",
           "summary": "MiniMax H3 inference engine for Mac computers",
           "source": "GitHub",
           "url": "https://github.com/antirez/h3.c"
         },
         {
           "date": "GitHub Trending",
-          "title": "ShawnPana/phone-harness（⭐ 1712）",
-          "summary": "let your agent control your phone",
+          "title": "anywhere-labs/deepseek-harness-desktop（⭐ 1787）",
+          "summary": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
           "source": "GitHub",
-          "url": "https://github.com/ShawnPana/phone-harness"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "oil-oil/oil-motion（⭐ 1685）",
-          "summary": "Create smooth, responsive interactive web animations.",
-          "source": "GitHub",
-          "url": "https://github.com/oil-oil/oil-motion"
+          "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
         }
       ]
     }
@@ -222,17 +222,17 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "一所被學生稱為「教育界蘭博基尼」的公立中學，提供免費影院、游泳館、幾百門選修課……但很少有人知道，它最初究竟為誰而建。當我們翻開它70多年的歷史，一條隱藏在中國",
-      "video": "中國第一所「天龍人學校」：普通孩子卷到爆肝，他們連前途都有特供？【文昭思緒飛揚564】",
-      "date": "2026-08-09",
-      "url": "https://www.youtube.com/watch?v=INxlHUoPCUg"
+      "desc": "一句「我爸是李剛」，如何引爆全網怒火？從校園悲劇、輿論洗白到父子沉寂，揭開特權幻覺背後，未解的金錢疑雲。",
+      "video": "喊完「我爸是李剛」，囂張公子竟淪落到刮膩子謀生？父親那筆賬卻沒查完【文昭思緒飛揚565】",
+      "date": "2026-08-14",
+      "url": "https://www.youtube.com/watch?v=mrGoVomziX8"
     },
     {
       "channel": "夸克说",
-      "desc": "#比亚迪 #新能源汽车 #新能源汽車 #中国新能源汽车 #中國新能源汽車 #新能源车出海 #新能源車出海 #中国新能源汽车出海 #中國新能源汽車出海 #中国电动",
-      "video": "比亚迪出海惨遭背刺？当年的丁仲礼vs柴静，到底谁错了？比亞迪出海慘遭背刺？當年的丁仲禮vs柴靜，到底誰錯了？ 夸克说|誇克説",
-      "date": "2026-08-12",
-      "url": "https://www.youtube.com/watch?v=WYUZAj7I_TA"
+      "desc": "#郭德纲 #郭德綱 #郭德纲被举报 #郭德綱被舉報 #郭德纲立案调查 #郭德綱立案調查 #郭德纲武汉演出 #郭德綱武漢演出 #郭德纲改编红歌 #郭德綱改編紅歌 ",
+      "video": "郭德纲被举报，到底是谁想整死他？这个中国相声第一人，为什么突然没人支持了？郭德綱被舉報，到底是誰想整死他？這個中國相聲第一人，爲什麼突然沒人支持了？ 夸克说|誇克说",
+      "date": "2026-08-14",
+      "url": "https://www.youtube.com/watch?v=06tEhg6b2zc"
     },
     {
       "channel": "May Fit",
