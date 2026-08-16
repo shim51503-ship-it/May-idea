@@ -1,15 +1,36 @@
 {
-  "issueDate": "2026-08-15",
-  "generatedAt": "2026-08-15T23:11:43.368Z",
+  "issueDate": "2026-08-16",
+  "generatedAt": "2026-08-16T23:11:02.547Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Woman claims her stepfather used Grok to transform childhood photo into explicit imagery\n【金融新闻】JEPQ vs. SPYI: Nearly Identical Yields, and One ETF Charges You Twice the Fee\n【中国新闻】以色列空袭黎巴嫩 造成11人死亡\n【世界新闻】Hawaii braces for potential first direct hit by a hurricane in 34 years"
+    "body": "【AI 最新信息】Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+\n【金融新闻】The Ramsey Show: “You’re Gonna Weep for Your Kids, for Yourself” to Single Mom After $1,350/Mo Cut in Child Support\n【中国新闻】巴西里约热内卢州一大巴翻覆致10人遇难\n【世界新闻】Trump says US to scale back military drills with South Korea after it stayed out of Iran war"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-08-16",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+        },
+        {
+          "date": "2026-08-16",
+          "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
+          "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
+        },
+        {
+          "date": "2026-08-16",
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+        },
         {
           "date": "2026-08-15",
           "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -23,27 +44,6 @@
           "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
-        },
-        {
-          "date": "2026-08-15",
-          "title": "SpaceX officially closes its Cursor acquisition",
-          "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
-        },
-        {
-          "date": "2026-08-14",
-          "title": "Google will now allow users to remove visible watermark from its AI generations",
-          "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
-        },
-        {
-          "date": "2026-08-14",
-          "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
-          "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, ",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-15",
-          "title": "JEPQ vs. SPYI: Nearly Identical Yields, and One ETF Charges You Twice the Fee",
+          "date": "2026-08-16",
+          "title": "The Ramsey Show: “You’re Gonna Weep for Your Kids, for Yourself” to Single Mom After $1,350/Mo Cut in Child Support",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/options/articles/jepq-vs-spyi-nearly-identical-224507134.html"
+          "url": "https://finance.yahoo.com/markets/articles/ramsey-show-gonna-weep-kids-224756893.html"
         },
         {
-          "date": "2026-08-15",
-          "title": "Make Sure You Do This Before 65: The 401(k) Conversion Move That Saves Six Figures in Taxes",
+          "date": "2026-08-16",
+          "title": "HIVE reports 74% revenue jump in fiscal Q1 2027 earnings",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/options/articles/sure-65-401-k-conversion-224501173.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hive-reports-74-revenue-jump-223813201.html"
         },
         {
-          "date": "2026-08-15",
-          "title": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?",
+          "date": "2026-08-16",
+          "title": "Amazon, Alphabet, and Microsoft Are Dropping Nearly $600 Billion on Capital Expenditures: 1 Clear Winner Emerges",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mks-mksi-just-posted-86-224242758.html"
+          "url": "https://finance.yahoo.com/technology/articles/amazon-alphabet-microsoft-dropping-nearly-222700076.html"
         },
         {
-          "date": "2026-08-15",
-          "title": "Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
+          "date": "2026-08-16",
+          "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-profits-doubled-223104992.html"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo"
         },
         {
-          "date": "2026-08-15",
-          "title": "Dara Khosrowshahi Just Delivered Fantastic News for Uber Stock Investors",
+          "date": "2026-08-16",
+          "title": "Wall Street’s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the ‘Smart Money?’",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dara-khosrowshahi-just-delivered-fantastic-222000993.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-15",
-          "title": "以色列空袭黎巴嫩 造成11人死亡",
-          "summary": "据黎巴嫩公共卫生部紧急行动中心当地时间15日下午发布的声明，当天以色列对纳巴提耶区代尔扎赫拉尼和安萨尔镇的空袭共造成11人死亡，另有19人受伤。",
+          "date": "2026-08-16",
+          "title": "巴西里约热内卢州一大巴翻覆致10人遇难",
+          "summary": "中新社里约热内卢8月16日电 (记者 林春茵)当地时间16日晨，巴西东南部里约热内卢州彼得罗波利斯市(Petrópolis)发生大巴翻覆事故，造成10人遇难。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678443.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678807.shtml"
         },
         {
-          "date": "2026-08-15",
-          "title": "厄瓜多尔总统诺沃亚抵达北京 开启访华行程",
-          "summary": "今天(16日)早晨，厄瓜多尔共和国总统丹尼尔·罗伊－希尔克里斯特·诺沃亚·阿辛抵达北京，开始为期8天的访华行程。此访是诺沃亚总统首次对中国进行国事访问。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-16/10678440.shtml"
+          "date": "2026-08-16",
+          "title": "特朗普：非常高兴看到沙土巴三国签署共同防务协议",
+          "summary": "中新网8月17日电 美国总统特朗普16日在其社交媒体平台“真实社交”上发文，对沙特阿拉伯、土耳其和巴基斯坦近期签署共同防务协议表示欢迎。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678803.shtml"
         },
         {
-          "date": "2026-08-15",
-          "title": "《给阿嬷的情书》在台湾首映",
-          "summary": "中新社台北8月15日电 (记者 朱贺)电影《给阿嬷的情书》15日、16日以“特别放映”单元亮相2026桃园电影节，系在台湾首映。15日下午放映前，等待入场的观众已排起长龙；观影结束，不少观众红着眼眶走出影厅。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678437.shtml"
+          "date": "2026-08-16",
+          "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
+          "summary": "中新网8月17日电 美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678801.shtml"
         },
         {
-          "date": "2026-08-15",
-          "title": "中国使馆：日政要参拜靖国神社严重挑战战后国际秩序",
-          "summary": "中国驻日本大使馆发言人15日就日本首相高市早苗向靖国神社供奉祭祀费、部分内阁成员和国会议员参拜靖国神社答记者问时表示，日方有关行径严重挑战二战胜利成果和战后国际秩序。中方对此表示强烈愤慨、严厉谴责，已向日方提出严正交涉、强烈抗议。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678435.shtml"
+          "date": "2026-08-16",
+          "title": "以军袭击已致黎巴嫩4346人死亡",
+          "summary": "据黎巴嫩公共卫生部紧急行动中心16日消息，3月2日至8月16日期间，以色列在黎巴嫩发动的持续不断的空袭和袭击已造成4346人死亡，12301人受伤。(总台记者 杨渊)",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678800.shtml"
         },
         {
-          "date": "2026-08-15",
-          "title": "2026海峡两岸（福州）青少年科技教育交流会在福州开幕",
-          "summary": "中新社福州8月15日电 (叶秋云)2026海峡两岸(福州)青少年科技教育交流会15日在福州开幕。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-15/10678434.shtml"
+          "date": "2026-08-16",
+          "title": "特朗普：已指示国防部“大幅缩减”与韩国联合军演规模",
+          "summary": "美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678798.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-15",
-          "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-          "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+          "date": "2026-08-16",
+          "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+          "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-15",
-          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-          "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+          "date": "2026-08-16",
+          "title": "Thailand has a gun problem - 10 million of them",
+          "summary": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-15",
-          "title": "Australian state to launch gun buyback after Bondi Beach attack",
-          "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+          "date": "2026-08-16",
+          "title": "US commander says mental health a 'priority' on USS Lincoln",
+          "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-15",
-          "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-          "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+          "date": "2026-08-16",
+          "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+          "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-15",
-          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-          "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+          "date": "2026-08-16",
+          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+          "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/deepseek-harness（⭐ 114840）",
+          "title": "deepseek-ai/deepseek-harness（⭐ 130933）",
           "summary": "DeepSeek Harness: Everything is a Plugin.",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/deepseek-harness"
         },
         {
           "date": "GitHub Trending",
-          "title": "guillaumemeyer/watermarks-remover（⭐ 9696）",
+          "title": "guillaumemeyer/watermarks-remover（⭐ 11295）",
           "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
           "source": "GitHub",
           "url": "https://github.com/guillaumemeyer/watermarks-remover"
         },
         {
           "date": "GitHub Trending",
-          "title": "anywhere-labs/deepseek-harness-desktop（⭐ 5793）",
-          "summary": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+          "title": "anywhere-labs/deepseek-harness-desktop（⭐ 8850）",
+          "summary": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
           "source": "GitHub",
           "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
         },
         {
           "date": "GitHub Trending",
-          "title": "awesome-dsh-plugin/awesome-dsh-plugin（⭐ 2975）",
+          "title": "awesome-dsh-plugin/awesome-dsh-plugin（⭐ 5051）",
           "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
           "source": "GitHub",
           "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
         },
         {
           "date": "GitHub Trending",
-          "title": "zhu1090093659/dsh-web-ui（⭐ 2698）",
+          "title": "zhu1090093659/dsh-web-ui（⭐ 3417）",
           "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
           "source": "GitHub",
           "url": "https://github.com/zhu1090093659/dsh-web-ui"
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "一句「我爸是李剛」，如何引爆全網怒火？從校園悲劇、輿論洗白到父子沉寂，揭開特權幻覺背後，未解的金錢疑雲。",
-      "video": "喊完「我爸是李剛」，囂張公子竟淪落到刮膩子謀生？父親那筆賬卻沒查完【文昭思緒飛揚565】",
-      "date": "2026-08-14",
-      "url": "https://www.youtube.com/watch?v=mrGoVomziX8"
+      "desc": "1936年，「陝北王」劉志丹抵達前線僅一天，便離奇中彈身亡。多名目擊者證詞互相矛盾：這究竟是戰場意外，還是一場被掩埋九十年的政治謀殺？",
+      "video": "毛澤東走上王座，最怕被揭開的：「零號謀殺案」？【文昭思緒飛揚566】",
+      "date": "2026-08-16",
+      "url": "https://www.youtube.com/watch?v=3wO2mW3eylw"
     },
     {
       "channel": "夸克说",
