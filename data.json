@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-16",
-  "generatedAt": "2026-08-16T23:11:02.547Z",
+  "issueDate": "2026-08-17",
+  "generatedAt": "2026-08-17T23:13:55.474Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+\n【金融新闻】The Ramsey Show: “You’re Gonna Weep for Your Kids, for Yourself” to Single Mom After $1,350/Mo Cut in Child Support\n【中国新闻】巴西里约热内卢州一大巴翻覆致10人遇难\n【世界新闻】Trump says US to scale back military drills with South Korea after it stayed out of Iran war"
+    "body": "【AI 最新信息】AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team\n【金融新闻】So, your emergency savings account is fully funded. What next?\n【中国新闻】民调：特朗普支持率创第二任期内新低\n【世界新闻】Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-16",
-          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "date": "2026-08-17",
+          "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
+          "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
         },
         {
-          "date": "2026-08-16",
-          "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
-          "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+          "date": "2026-08-17",
+          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+          "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
         },
         {
-          "date": "2026-08-16",
-          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-          "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "date": "2026-08-17",
+          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+          "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footpri",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
         },
         {
-          "date": "2026-08-15",
-          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-          "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+          "date": "2026-08-17",
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
         },
         {
-          "date": "2026-08-15",
-          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+          "date": "2026-08-17",
+          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+          "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-16",
-          "title": "The Ramsey Show: “You’re Gonna Weep for Your Kids, for Yourself” to Single Mom After $1,350/Mo Cut in Child Support",
+          "date": "2026-08-17",
+          "title": "So, your emergency savings account is fully funded. What next?",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/articles/ramsey-show-gonna-weep-kids-224756893.html"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/after-emergency-fund-what-next-200634232.html"
         },
         {
-          "date": "2026-08-16",
-          "title": "HIVE reports 74% revenue jump in fiscal Q1 2027 earnings",
+          "date": "2026-08-17",
+          "title": "Spot Bitcoin and Ethereum ETFs: The difference between owning the coin and the fund",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hive-reports-74-revenue-jump-223813201.html"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/spot-bitcoin-etfs-200144120.html"
         },
         {
-          "date": "2026-08-16",
-          "title": "Amazon, Alphabet, and Microsoft Are Dropping Nearly $600 Billion on Capital Expenditures: 1 Clear Winner Emerges",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/articles/amazon-alphabet-microsoft-dropping-nearly-222700076.html"
+          "date": "2026-08-17",
+          "title": "广东力争到2030年山苍子全产业链总产值突破10亿元",
+          "summary": "中新网广州8月17日电 (记者 程景伟)据广东省林业局17日消息，《广东省林业局关于加快推进山苍子产业高质量发展的指导意见》(以下简称：《指导意见》)近日印发，提出全省以连南、连山、乳源三个自治县为核心，带动岭南民族特色高质量发展廊道16个县山苍子产业发展。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679331.shtml"
         },
         {
-          "date": "2026-08-16",
-          "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
+          "date": "2026-08-17",
+          "title": "Bitcoin and ethereum prices today, Monday, August 17, 2026: Crypto prices down slightly as analysts question timing of bear market bottom",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html"
         },
         {
-          "date": "2026-08-16",
-          "title": "Wall Street’s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the ‘Smart Money?’",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html"
+          "date": "2026-08-17",
+          "title": "广州提出至2028年服务贸易年进出口总额超1000亿美元",
+          "summary": "中新社广州8月17日电 (王华 秦小雅)广州市商务局17日晚发布有关建设方案，明确“三步走”发展目标，至2028年全市服务贸易年进出口总额超1000亿美元，当中还明确了20项与港澳服务贸易融合发展任务。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679325.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-16",
-          "title": "巴西里约热内卢州一大巴翻覆致10人遇难",
-          "summary": "中新社里约热内卢8月16日电 (记者 林春茵)当地时间16日晨，巴西东南部里约热内卢州彼得罗波利斯市(Petrópolis)发生大巴翻覆事故，造成10人遇难。",
+          "date": "2026-08-17",
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "summary": "中新网8月18日电 据路透社报道，当地时间8月17日，路透社与益普索集团发布的一项民意调查结果显示，美国总统特朗普的支持率从本月早些时候的35%跌至33%，创下其第二任期内新低。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678807.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679357.shtml"
         },
         {
-          "date": "2026-08-16",
-          "title": "特朗普：非常高兴看到沙土巴三国签署共同防务协议",
-          "summary": "中新网8月17日电 美国总统特朗普16日在其社交媒体平台“真实社交”上发文，对沙特阿拉伯、土耳其和巴基斯坦近期签署共同防务协议表示欢迎。",
+          "date": "2026-08-17",
+          "title": "特朗普称金正恩已回应其“对话”请求",
+          "summary": "中新网8月18日电 综合外媒报道，美国总统特朗普17日在白宫对媒体称，朝鲜领导人金正恩已回应他提出的“对话”请求，但他没有透露回应的内容。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678803.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679356.shtml"
         },
         {
-          "date": "2026-08-16",
-          "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
-          "summary": "中新网8月17日电 美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+          "date": "2026-08-17",
+          "title": "委内瑞拉强震已致6438人死亡",
+          "summary": "当地时间8月17日，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯在社交媒体发文称，在6月24日地震中遇难的人数已升至6438人。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678801.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679355.shtml"
         },
         {
-          "date": "2026-08-16",
-          "title": "以军袭击已致黎巴嫩4346人死亡",
-          "summary": "据黎巴嫩公共卫生部紧急行动中心16日消息，3月2日至8月16日期间，以色列在黎巴嫩发动的持续不断的空袭和袭击已造成4346人死亡，12301人受伤。(总台记者 杨渊)",
+          "date": "2026-08-17",
+          "title": "英国与黎巴嫩签署谅解备忘录 强化安全合作",
+          "summary": "中新社伦敦8月17日电 (记者 欧阳开宇)英国政府17日消息称，英国已与黎巴嫩签署一份安全合作谅解备忘录，进一步深化双方在安全领域的伙伴关系，助力黎巴嫩维护国内安全与稳定。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678800.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679350.shtml"
         },
         {
-          "date": "2026-08-16",
-          "title": "特朗普：已指示国防部“大幅缩减”与韩国联合军演规模",
-          "summary": "美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+          "date": "2026-08-17",
+          "title": "曾公开批评因凡蒂诺 国际足联首席运营官已离任",
+          "summary": "总台记者获悉，当地时间8月17日，国际足联确认与其首席运营官凯文·拉穆尔之间的工作关系已于当天结束。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-17/10678798.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679353.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-16",
-          "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+          "date": "2026-08-17",
+          "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+          "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-08-17",
+          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+          "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-08-17",
+          "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+          "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-08-17",
+          "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
           "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-16",
-          "title": "Thailand has a gun problem - 10 million of them",
-          "summary": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
+          "date": "2026-08-17",
+          "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+          "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-08-16",
-          "title": "US commander says mental health a 'priority' on USS Lincoln",
-          "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-08-16",
-          "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-          "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-08-16",
-          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-          "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/deepseek-harness（⭐ 130933）",
+          "title": "deepseek-ai/deepseek-harness（⭐ 149658）",
           "summary": "DeepSeek Harness: Everything is a Plugin.",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/deepseek-harness"
         },
         {
           "date": "GitHub Trending",
-          "title": "guillaumemeyer/watermarks-remover（⭐ 11295）",
+          "title": "guillaumemeyer/watermarks-remover（⭐ 13415）",
           "summary": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
           "source": "GitHub",
           "url": "https://github.com/guillaumemeyer/watermarks-remover"
         },
         {
           "date": "GitHub Trending",
-          "title": "anywhere-labs/deepseek-harness-desktop（⭐ 8850）",
-          "summary": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+          "title": "anywhere-labs/deepseek-harness-desktop（⭐ 11601）",
+          "summary": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
           "source": "GitHub",
           "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
         },
         {
           "date": "GitHub Trending",
-          "title": "awesome-dsh-plugin/awesome-dsh-plugin（⭐ 5051）",
+          "title": "awesome-dsh-plugin/awesome-dsh-plugin（⭐ 7558）",
           "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
           "source": "GitHub",
           "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
         },
         {
           "date": "GitHub Trending",
-          "title": "zhu1090093659/dsh-web-ui（⭐ 3417）",
-          "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+          "title": "yjh051108/dsh-routing-suite（⭐ 5231）",
+          "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
           "source": "GitHub",
-          "url": "https://github.com/zhu1090093659/dsh-web-ui"
+          "url": "https://github.com/yjh051108/dsh-routing-suite"
         }
       ]
     }
