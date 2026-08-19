@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-18",
-  "generatedAt": "2026-08-18T23:13:11.327Z",
+  "issueDate": "2026-08-19",
+  "generatedAt": "2026-08-19T23:14:30.695Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Cursor capitalizes on GitHub frustration, launches rival hosting platform\n【金融新闻】Costco launching Medicare Advantage plans with SCAN Group\n【中国新闻】阿联酋宣布暂停与伊朗所有贸易及金融交易\n【世界新闻】The Indian activist jailed after taking on a luxury hotel plan"
+    "body": "【AI 最新信息】OpenAI seeks to one-up Anthropic with new customer privacy protections\n【金融新闻】手机充电为什么越来越快\n【中国新闻】美联邦政府债务首破40万亿美元大关，财政危机警报拉响\n【世界新闻】Who is Natalie Harp, Trump's right-hand woman?"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-18",
-          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-          "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+          "date": "2026-08-19",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
         },
         {
-          "date": "2026-08-18",
-          "title": "OpenAI institutes new safeguards after Hugging Face breach",
-          "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the p",
+          "date": "2026-08-19",
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropi",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
         },
         {
-          "date": "2026-08-18",
-          "title": "Etched&#8217;s valuation doubles to $21B in a month",
-          "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+          "date": "2026-08-19",
+          "title": "AI was supposed to win people over by now &#8212; it hasn&#8217;t",
+          "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessaril",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
         },
         {
-          "date": "2026-08-18",
-          "title": "Why Apple&#8217;s camera-equipped AirPods may not be the &#8216;pervert pods&#8217; consumers fear",
-          "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+          "date": "2026-08-19",
+          "title": "Google packs Search and Gemini with new AI study tools",
+          "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it contin",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
+          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
         },
         {
-          "date": "2026-08-18",
-          "title": "Warp&#8217;s new system is an out-of-the-box software factory for AI development",
-          "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+          "date": "2026-08-19",
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, w",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
+          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-18",
-          "title": "Costco launching Medicare Advantage plans with SCAN Group",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html"
-        },
-        {
-          "date": "2026-08-18",
-          "title": "Gold prices today, Tuesday, August 18, 2026: Gold falters as U.S. Treasury yields rise",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-18-2026-gold-falters-as-us-treasury-yields-rise-154856224.html"
-        },
-        {
-          "date": "2026-08-18",
-          "title": "Seller concession limits: How much can you ask for?",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html"
-        },
-        {
-          "date": "2026-08-18",
-          "title": "满足多样化、高品质出行需求正成为行业共识",
-          "summary": "中新网北京8月18日电(记者 查志远)近年来，多样化、高品质出行需求越来越受到关注。",
+          "date": "2026-08-19",
+          "title": "手机充电为什么越来越快",
+          "summary": "手机充电为什么越来越快(身边的创新)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679955.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680723.shtml"
         },
         {
-          "date": "2026-08-18",
-          "title": "（投资中国）德企阿玛松增资扩产天津二期项目 拟建北方总部",
-          "summary": "中新网天津8月18日电 (记者 周亚强)阿玛松农机装备制造增资扩产二期项目签约仪式18日在天津武清开发区举行。该项目将把原有仓储销售型工厂升级为集生产、仓储、销售于一体的综合性智能制造基地，全面达产后预计年产值超2亿元人民币。",
+          "date": "2026-08-19",
+          "title": "国际市场仍为中国航空货运重要增长点",
+          "summary": "中新社北京8月19日电 (记者 阮煜琳)记者19日从中国物流与采购联合会航空物流分会获悉，从统计数据来看，2026年7月，国际货运延续增长态势，国内市场整体微降，跨境电商货物需求仍为核心驱动力。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679952.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680715.shtml"
+        },
+        {
+          "date": "2026-08-19",
+          "title": "业内人士：AI时代，内容体系将进一步扩展",
+          "summary": "中新网北京8月19日电(梁小燕)AI不仅是提效工具，还在改变着内容与用户的关系。网易传媒副总裁李淼日前接受采访时表示，进入AI时代，内容体系将进一步扩展。内容创作的形式不再局限于图文和视频，还可能延伸至游戏、剧集或微电影等领域。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680700.shtml"
+        },
+        {
+          "date": "2026-08-19",
+          "title": "从拼融资到比落地，具身智能面临数据“大考”",
+          "summary": "中新网北京8月19日电(左雨晴) 近年来，具身智能无疑是科技产业最炙手可热的赛道之一。北京物联网智能技术应用协会发布的《2026具身智能产业发展洞察报告》显示，中国具身智能广义市场规模在2025年已达到9150亿元，2026年预计突破1.09万亿元。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680697.shtml"
+        },
+        {
+          "date": "2026-08-19",
+          "title": "辽宁营口：力争2030年临港工业产值突破1500亿元",
+          "summary": "中新网沈阳8月19日电 (王翕瞳)辽宁省政府新闻办19日发布消息称，营口推进高水平对外开放，力争到2030年港口货物吞吐量达到2.85亿吨、集装箱吞吐量达670万标箱。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680675.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-18",
-          "title": "阿联酋宣布暂停与伊朗所有贸易及金融交易",
-          "summary": "中新网8月19日电 据“海湾新闻(Gulf News)”网站报道，阿联酋外交部19日凌晨宣布，即日起阿联酋决定暂停与伊朗的所有贸易、商业往来及金融交易，恢复时间直至另行通知。",
+          "date": "2026-08-19",
+          "title": "美联邦政府债务首破40万亿美元大关，财政危机警报拉响",
+          "summary": "中新网8月20日电 据路透社报道，美国财政部19日公布的数据显示，美国联邦政府债务总额首次突破40万亿美元大关。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679986.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680730.shtml"
         },
         {
-          "date": "2026-08-18",
-          "title": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
-          "summary": "阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。",
+          "date": "2026-08-19",
+          "title": "“我和他相处得很好” 特朗普：预计今年晚些时候会见金正恩",
+          "summary": "中新网8月20日电 据美国有线电视新闻网(CNN)报道，当地时间19日，美国总统特朗普表示，他计划今年晚些时候将会见朝鲜领导人金正恩。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679981.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680728.shtml"
         },
         {
-          "date": "2026-08-18",
-          "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
-          "summary": "据韩国方面消息，在美国总统特朗普要求大幅缩减韩美联合军演规模后，韩美军方18日举行紧急会晤，决定大幅压缩正在进行的“乙支自由护盾”联合军演日程，原计划持续至27日的演习将提前至本周结束，第二阶段反击演练被取消。",
+          "date": "2026-08-19",
+          "title": "知情人士：若美升级战事 伊朗考虑打击驻欧美军设施",
+          "summary": "英国方面当地时间19日有消息称，伊朗高层已在斟酌应对美国升级战事的反击方案，选项包括攻击美国在欧洲的军事目标、破坏霍尔木兹海峡海底光纤电缆。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679979.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680727.shtml"
         },
         {
-          "date": "2026-08-18",
-          "title": "尼泊尔和印度将联合测绘“跨境占用”土地",
-          "summary": "中新社加德满都8月18日电 尼泊尔和印度近日同意对两国边境地区存在的“跨境占用”土地展开联合测绘，并计划在三年内完成相关测绘工作。",
+          "date": "2026-08-19",
+          "title": "“尼泊尔摄影记者镜头下的中国”摄影展开展",
+          "summary": "中新社加德满都8月19日电 (记者 崔楠)“尼泊尔摄影记者镜头下的中国”摄影展19日在尼首都加德满都杜巴广场开展。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679973.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680717.shtml"
         },
         {
-          "date": "2026-08-18",
-          "title": "伊朗举行已故最高领袖下葬四十日纪念仪式",
-          "summary": "据伊朗方面18日消息，伊朗当天在首都德黑兰伊玛目霍梅尼清真寺建筑外广场举行已故最高领袖阿里·哈梅内伊下葬四十日纪念仪式。",
+          "date": "2026-08-19",
+          "title": "一乌克兰籍嫌疑人涉嫌参与“北溪”爆炸案被捕",
+          "summary": "中新社柏林8月19日电 (记者 马秀秀)德国联邦检察院19日发布声明说，一名乌克兰籍嫌疑人因涉嫌参与“北溪”天然气管道爆炸事件，当天在克罗地亚被捕。这是“北溪”爆炸案中被捕的第二名嫌疑人。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-19/10679975.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680718.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-18",
-          "title": "The Indian activist jailed after taking on a luxury hotel plan",
-          "summary": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
+          "date": "2026-08-19",
+          "title": "Who is Natalie Harp, Trump's right-hand woman?",
+          "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-18",
-          "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-          "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
+          "date": "2026-08-19",
+          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+          "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-18",
-          "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-          "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+          "date": "2026-08-19",
+          "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+          "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-18",
-          "title": "Man in Chucky-style mask terrorises Philadelphia residents",
-          "summary": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week.",
+          "date": "2026-08-19",
+          "title": "Sacked Ukrainian defence minister calls for presidential election",
+          "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-18",
-          "title": "US announces new sanctions on top ICC figures",
-          "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+          "date": "2026-08-19",
+          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+          "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/deepseek-harness（⭐ 160206）",
+          "title": "deepseek-ai/deepseek-harness（⭐ 167047）",
           "summary": "DeepSeek Harness: Everything is a Plugin.",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/deepseek-harness"
         },
         {
           "date": "GitHub Trending",
-          "title": "anywhere-labs/deepseek-harness-desktop（⭐ 13556）",
+          "title": "anywhere-labs/deepseek-harness-desktop（⭐ 15125）",
           "summary": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
           "source": "GitHub",
           "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
         },
         {
           "date": "GitHub Trending",
-          "title": "awesome-dsh-plugin/awesome-dsh-plugin（⭐ 8852）",
+          "title": "awesome-dsh-plugin/awesome-dsh-plugin（⭐ 10032）",
           "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
           "source": "GitHub",
           "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
         },
         {
           "date": "GitHub Trending",
-          "title": "yjh051108/dsh-routing-suite（⭐ 6022）",
+          "title": "yjh051108/dsh-routing-suite（⭐ 6295）",
           "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
           "source": "GitHub",
           "url": "https://github.com/yjh051108/dsh-routing-suite"
         },
         {
           "date": "GitHub Trending",
-          "title": "zhu1090093659/dsh-web-ui（⭐ 4567）",
-          "summary": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+          "title": "xiaobright/dsh-anchored-standard（⭐ 3638）",
+          "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
           "source": "GitHub",
-          "url": "https://github.com/zhu1090093659/dsh-web-ui"
+          "url": "https://github.com/xiaobright/dsh-anchored-standard"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#郭德纲 #郭德綱 #郭德纲被举报 #郭德綱被舉報 #郭德纲立案调查 #郭德綱立案調查 #郭德纲武汉演出 #郭德綱武漢演出 #郭德纲改编红歌 #郭德綱改編紅歌 ",
-      "video": "郭德纲被举报，到底是谁想整死他？这个中国相声第一人，为什么突然没人支持了？郭德綱被舉報，到底是誰想整死他？這個中國相聲第一人，爲什麼突然沒人支持了？ 夸克说|誇克说",
-      "date": "2026-08-14",
-      "url": "https://www.youtube.com/watch?v=06tEhg6b2zc"
+      "desc": "#朱镕基去世 #朱鎔基去世 #朱镕基逝世 #朱鎔基逝世 #朱镕基 #朱鎔基 #朱镕基改革 #朱鎔基改革 #朱镕基国企改革 #朱鎔基國企改革 #国企下岗潮 #國企",
+      "video": "否定朱镕基就是反华？朱镕基改革的真正受益者，到底是谁？否定朱鎔基就是反華？朱鎔基改革的真正受益者，到底是誰？ 夸克说",
+      "date": "2026-08-19",
+      "url": "https://www.youtube.com/watch?v=ISBxmPEDQgQ"
     },
     {
       "channel": "May Fit",
