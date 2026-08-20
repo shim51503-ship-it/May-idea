@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-19",
-  "generatedAt": "2026-08-19T23:14:30.695Z",
+  "issueDate": "2026-08-20",
+  "generatedAt": "2026-08-20T23:17:12.610Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】OpenAI seeks to one-up Anthropic with new customer privacy protections\n【金融新闻】手机充电为什么越来越快\n【中国新闻】美联邦政府债务首破40万亿美元大关，财政危机警报拉响\n【世界新闻】Who is Natalie Harp, Trump's right-hand woman?"
+    "body": "【AI 最新信息】OpenAI is gaining on Anthropic with business users, new data indicates\n【金融新闻】上市公司组织百人“抢公章”？ 海威华芯控制权纠纷升级\n【中国新闻】美国务院宣布：决定批准对卡塔尔45亿美元军售\n【世界新闻】Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-19",
-          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-          "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "date": "2026-08-20",
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" en",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
         },
         {
-          "date": "2026-08-19",
-          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-          "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropi",
+          "date": "2026-08-20",
+          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+          "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
+          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
         },
         {
-          "date": "2026-08-19",
-          "title": "AI was supposed to win people over by now &#8212; it hasn&#8217;t",
-          "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessaril",
+          "date": "2026-08-20",
+          "title": "OK, can we actually cool data centers with our pee?",
+          "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
+          "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
         },
         {
-          "date": "2026-08-19",
-          "title": "Google packs Search and Gemini with new AI study tools",
-          "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it contin",
+          "date": "2026-08-20",
+          "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+          "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their tra",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
+          "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
         },
         {
-          "date": "2026-08-19",
-          "title": "Researchers say OpenAI revoked their access to limited cyber program",
-          "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, w",
+          "date": "2026-08-20",
+          "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+          "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/"
+          "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-19",
-          "title": "手机充电为什么越来越快",
-          "summary": "手机充电为什么越来越快(身边的创新)",
+          "date": "2026-08-20",
+          "title": "上市公司组织百人“抢公章”？ 海威华芯控制权纠纷升级",
+          "summary": "中新网北京8月20日电(左雨晴) 8月20日，“抢公章”突然冲上了微博热搜。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680723.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681375.shtml"
         },
         {
-          "date": "2026-08-19",
-          "title": "国际市场仍为中国航空货运重要增长点",
-          "summary": "中新社北京8月19日电 (记者 阮煜琳)记者19日从中国物流与采购联合会航空物流分会获悉，从统计数据来看，2026年7月，国际货运延续增长态势，国内市场整体微降，跨境电商货物需求仍为核心驱动力。",
+          "date": "2026-08-20",
+          "title": "锚定建设高能级开放强省 浙江绘就五年“路线图”",
+          "summary": "中新网杭州8月20日电(蓝伊旎)浙江省政府新闻办20日在杭州召开新闻发布会，介绍了《浙江省“十五五”建设高能级开放强省规划》(下称《规划》)有关情况。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680715.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681371.shtml"
         },
         {
-          "date": "2026-08-19",
-          "title": "业内人士：AI时代，内容体系将进一步扩展",
-          "summary": "中新网北京8月19日电(梁小燕)AI不仅是提效工具，还在改变着内容与用户的关系。网易传媒副总裁李淼日前接受采访时表示，进入AI时代，内容体系将进一步扩展。内容创作的形式不再局限于图文和视频，还可能延伸至游戏、剧集或微电影等领域。",
+          "date": "2026-08-20",
+          "title": "新疆霍尔果斯铁路口岸累计通行中欧（亚）班列超5.9万列",
+          "summary": "中新社乌鲁木齐8月20日电 (苟继鹏 吴奇)记者20日从新疆铁路部门获悉，今年霍尔果斯铁路口岸通行中欧(亚)班列突破6000列。截至目前，该口岸已累计通行中欧(亚)班列超5.9万列。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680700.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681369.shtml"
         },
         {
-          "date": "2026-08-19",
-          "title": "从拼融资到比落地，具身智能面临数据“大考”",
-          "summary": "中新网北京8月19日电(左雨晴) 近年来，具身智能无疑是科技产业最炙手可热的赛道之一。北京物联网智能技术应用协会发布的《2026具身智能产业发展洞察报告》显示，中国具身智能广义市场规模在2025年已达到9150亿元，2026年预计突破1.09万亿元。",
+          "date": "2026-08-20",
+          "title": "宁夏“举杯贺兰山·青年艺术季”收官 文旅消费持续升温",
+          "summary": "中新网银川8月20日电 (记者 李佩珊)8月20日晚，2026“举杯贺兰山·青年艺术季”在位于宁夏银川市的漫葡·看见贺兰演艺小镇收官。为期40天的系列文艺文旅活动汇聚全国优质文艺资源，联动全城业态拉动暑期消费，持续丰富银川文旅业态、提升城市文旅影响力。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680697.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml"
         },
         {
-          "date": "2026-08-19",
-          "title": "辽宁营口：力争2030年临港工业产值突破1500亿元",
-          "summary": "中新网沈阳8月19日电 (王翕瞳)辽宁省政府新闻办19日发布消息称，营口推进高水平对外开放，力争到2030年港口货物吞吐量达到2.85亿吨、集装箱吞吐量达670万标箱。",
+          "date": "2026-08-20",
+          "title": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
+          "summary": "北京时间8月20日晚，汽车之家(NYSE：ATHM；HKEX：2518)对外披露2026年第二季度未经审计的财务业绩。本季度，公司实现总营收12亿元人民币，归属于汽车之家的经调整净利润为2.77亿元人民币。流量层面，用户基盘稳固，据QuestMobile数据，6月移动端日均用户量达7,650万，同比稳中有升；业务层面，",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680675.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-19",
-          "title": "美联邦政府债务首破40万亿美元大关，财政危机警报拉响",
-          "summary": "中新网8月20日电 据路透社报道，美国财政部19日公布的数据显示，美国联邦政府债务总额首次突破40万亿美元大关。",
+          "date": "2026-08-20",
+          "title": "美国务院宣布：决定批准对卡塔尔45亿美元军售",
+          "summary": "中新网8月21日电 综合外媒报道，美国国务院当地时间20日发表声明宣布，已决定批准一项或向卡塔尔出售空中加油机及相关设备的军售计划，预计总价值高达45亿美元。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680730.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681393.shtml"
         },
         {
-          "date": "2026-08-19",
-          "title": "“我和他相处得很好” 特朗普：预计今年晚些时候会见金正恩",
-          "summary": "中新网8月20日电 据美国有线电视新闻网(CNN)报道，当地时间19日，美国总统特朗普表示，他计划今年晚些时候将会见朝鲜领导人金正恩。",
+          "date": "2026-08-20",
+          "title": "伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
+          "summary": "中新网8月21日电 据外媒报道，伊朗外交部当地时间20日发表声明，强烈谴责美国对伊朗实施经济和贸易制裁，称美方此举侵犯了伊朗公民基本人权，是“经济恐怖主义”和“反人类罪”的体现。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680728.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681391.shtml"
         },
         {
-          "date": "2026-08-19",
-          "title": "知情人士：若美升级战事 伊朗考虑打击驻欧美军设施",
-          "summary": "英国方面当地时间19日有消息称，伊朗高层已在斟酌应对美国升级战事的反击方案，选项包括攻击美国在欧洲的军事目标、破坏霍尔木兹海峡海底光纤电缆。",
+          "date": "2026-08-20",
+          "title": "吉尔吉斯斯坦欢迎中方对吉公民实施过境免签政策",
+          "summary": "中新社阿斯塔纳8月20日电 比什凯克消息：吉尔吉斯斯坦总统办公厅20日发文表示，吉方欢迎中方将吉尔吉斯斯坦纳入240小时过境免签和海南30天入境免签政策适用国家范围。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680727.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681389.shtml"
         },
         {
-          "date": "2026-08-19",
-          "title": "“尼泊尔摄影记者镜头下的中国”摄影展开展",
-          "summary": "中新社加德满都8月19日电 (记者 崔楠)“尼泊尔摄影记者镜头下的中国”摄影展19日在尼首都加德满都杜巴广场开展。",
+          "date": "2026-08-20",
+          "title": "泰国政府官员中文学习班赴华学习",
+          "summary": "中新社曼谷8月20日电 (记者 李映民)当地时间20日晚，中国驻泰国大使馆举办仪式欢送第22届泰国政府官员中文学习班69名学员赴中国华侨大学学习。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680717.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681388.shtml"
         },
         {
-          "date": "2026-08-19",
-          "title": "一乌克兰籍嫌疑人涉嫌参与“北溪”爆炸案被捕",
-          "summary": "中新社柏林8月19日电 (记者 马秀秀)德国联邦检察院19日发布声明说，一名乌克兰籍嫌疑人因涉嫌参与“北溪”天然气管道爆炸事件，当天在克罗地亚被捕。这是“北溪”爆炸案中被捕的第二名嫌疑人。",
+          "date": "2026-08-20",
+          "title": "今年上半年中国继续保持德国最大贸易伙伴",
+          "summary": "中新社柏林8月20日电 (记者 马秀秀)德国联邦统计局20日公布的数据显示，2026年上半年，中国继续保持德国最大贸易伙伴地位，双边贸易额达到1255亿欧元。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680718.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681390.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-19",
-          "title": "Who is Natalie Harp, Trump's right-hand woman?",
-          "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+          "date": "2026-08-20",
+          "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+          "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-19",
-          "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-          "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+          "date": "2026-08-20",
+          "title": "Watch: Fishermen rescued after five days adrift in cool box",
+          "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-19",
-          "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-          "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+          "date": "2026-08-20",
+          "title": "Dozens dead after boat capsizes in north-western Nigeria",
+          "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-19",
-          "title": "Sacked Ukrainian defence minister calls for presidential election",
-          "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+          "date": "2026-08-20",
+          "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+          "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-19",
-          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-          "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+          "date": "2026-08-20",
+          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+          "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/deepseek-harness（⭐ 167047）",
-          "summary": "DeepSeek Harness: Everything is a Plugin.",
-          "source": "GitHub",
-          "url": "https://github.com/deepseek-ai/deepseek-harness"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "anywhere-labs/deepseek-harness-desktop（⭐ 15125）",
-          "summary": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-          "source": "GitHub",
-          "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "awesome-dsh-plugin/awesome-dsh-plugin（⭐ 10032）",
-          "summary": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-          "source": "GitHub",
-          "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "yjh051108/dsh-routing-suite（⭐ 6295）",
+          "title": "yjh051108/dsh-routing-suite（⭐ 6446）",
           "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
           "source": "GitHub",
           "url": "https://github.com/yjh051108/dsh-routing-suite"
         },
         {
           "date": "GitHub Trending",
-          "title": "xiaobright/dsh-anchored-standard（⭐ 3638）",
+          "title": "xiaobright/dsh-anchored-standard（⭐ 3680）",
           "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
           "source": "GitHub",
           "url": "https://github.com/xiaobright/dsh-anchored-standard"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "s1dashu/ip-as-logo-skill（⭐ 3058）",
+          "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+          "source": "GitHub",
+          "url": "https://github.com/s1dashu/ip-as-logo-skill"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "yetone/cumora（⭐ 2773）",
+          "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+          "source": "GitHub",
+          "url": "https://github.com/yetone/cumora"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "CopilotKit/OpenBot（⭐ 1588）",
+          "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "source": "GitHub",
+          "url": "https://github.com/CopilotKit/OpenBot"
         }
       ]
     }
@@ -215,10 +215,10 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "“民族企业”为何越来越招人恨？是华为变了，还是中国人变了？从虚假宣传、跑分作弊、强势法务，到251事件，一只竹知了，引爆了华为积累多年的信任危机。本期节目探讨后",
-      "video": "华为突然不香了？从“遥遥领先”到全网群嘲，爱国红利为何开始反噬？ | 竹知了 | 余承东 | 爱国营销 | 民族企业 | 老周横眉",
-      "date": "2026-08-13",
-      "url": "https://www.youtube.com/watch?v=T0q0po4OOOE"
+      "desc": "我们究竟应该如何评价一个政治家的功与过？看国家和时代的总账，还是看每一个普通人的得失？为了国家的宏大目标，牺牲一部分具体的人，边界究竟在哪里？而时代的局限与制度",
+      "video": "为了让国家变强，多少代价才算值得？ | 如何评价朱镕基 | 老周横眉",
+      "date": "2026-08-20",
+      "url": "https://www.youtube.com/watch?v=_KYWdjcgtEo"
     },
     {
       "channel": "文昭思绪飞扬",
@@ -243,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "Atoms 官方入口： https://tinyurl.com/958v3r3h  哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  很多人以为",
-      "video": "我让 8个AI员工替我创业，10 分钟就能赚钱了？一人公司全面自动化 AI赚钱 AI创业 AI副业 AI工具 一人公司 AI工作流 AI员工 财富自由 搞钱 赚钱 AI 小白 商业思维",
-      "date": "2026-08-07",
-      "url": "https://www.youtube.com/watch?v=B8oJapzx040"
+      "desc": "哈喽大家好，我是盈夏，专注研究如何用最新科技让普通人也能轻松搞钱。  你是不是也有这样的感受：  手机里装了好几个 AI 工具，收藏夹里存了一堆 AI 赚钱攻略",
+      "video": "3个最赚钱的Claude副业教学 普通人必看 低门槛高变现 AI副业 AI赚钱 AI创业 Claude AI工具 AI教程 手把手教学 副业 赚钱 2026 搞钱 商业 自由职业 不露脸",
+      "date": "2026-08-20",
+      "url": "https://www.youtube.com/watch?v=qVSRWU9O8oE"
     },
     {
       "channel": "李厂长来了",
