@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-20",
-  "generatedAt": "2026-08-20T23:17:12.610Z",
+  "issueDate": "2026-08-21",
+  "generatedAt": "2026-08-21T23:15:10.019Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】OpenAI is gaining on Anthropic with business users, new data indicates\n【金融新闻】上市公司组织百人“抢公章”？ 海威华芯控制权纠纷升级\n【中国新闻】美国务院宣布：决定批准对卡塔尔45亿美元军售\n【世界新闻】Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment"
+    "body": "【AI 最新信息】Anthropic’s Opus 4.6 is a smut-machine\n【金融新闻】美国政府紧急下场救市难解美债危局\n【中国新闻】中国考古机构首次赴南美洲开展联合考古\n【世界新闻】Two injured in stabbing attack at Canada Sikh temple"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-20",
-          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-          "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" en",
+          "date": "2026-08-21",
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to g",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
         },
         {
-          "date": "2026-08-20",
-          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-          "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+          "date": "2026-08-21",
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
+          "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
         },
         {
-          "date": "2026-08-20",
-          "title": "OK, can we actually cool data centers with our pee?",
-          "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+          "date": "2026-08-21",
+          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
         },
         {
-          "date": "2026-08-20",
-          "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-          "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their tra",
+          "date": "2026-08-21",
+          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+          "summary": "There's about to be a big fight to secure access to space.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
         },
         {
-          "date": "2026-08-20",
-          "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-          "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+          "date": "2026-08-21",
+          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-20",
-          "title": "上市公司组织百人“抢公章”？ 海威华芯控制权纠纷升级",
-          "summary": "中新网北京8月20日电(左雨晴) 8月20日，“抢公章”突然冲上了微博热搜。",
+          "date": "2026-08-21",
+          "title": "美国政府紧急下场救市难解美债危局",
+          "summary": "美国的债务问题，已经到了连自己人都捂不住的地步了。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681375.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682122.shtml"
         },
         {
-          "date": "2026-08-20",
-          "title": "锚定建设高能级开放强省 浙江绘就五年“路线图”",
-          "summary": "中新网杭州8月20日电(蓝伊旎)浙江省政府新闻办20日在杭州召开新闻发布会，介绍了《浙江省“十五五”建设高能级开放强省规划》(下称《规划》)有关情况。",
+          "date": "2026-08-21",
+          "title": "海南洋浦港审批便利化新举措提升国际船舶进口岸效率",
+          "summary": "中新网海南洋浦8月21日电 (贾兴宇)海南洋浦港正在高标准建设西部陆海新通道国际航运枢纽，集装箱吞吐量快速增长。洋浦海事局21日介绍，近日推出针对国际航行集装箱船舶进口岸审批便利化新举措，实现“一次信息留存、多次便利申报”。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681371.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml"
         },
         {
-          "date": "2026-08-20",
-          "title": "新疆霍尔果斯铁路口岸累计通行中欧（亚）班列超5.9万列",
-          "summary": "中新社乌鲁木齐8月20日电 (苟继鹏 吴奇)记者20日从新疆铁路部门获悉，今年霍尔果斯铁路口岸通行中欧(亚)班列突破6000列。截至目前，该口岸已累计通行中欧(亚)班列超5.9万列。",
+          "date": "2026-08-21",
+          "title": "闽宁科技合作推进会在宁夏银川召开",
+          "summary": "中新网银川8月21日电 (记者 李佩珊)8月21日，闽宁科技合作推进会在宁夏银川召开。闽宁两省区科技主管部门、高校院所、科技企业及技术转移机构代表参会，系统总结三十年来闽宁科技协作成效经验，共商“十五五”时期科技创新务实合作举措。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681369.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682103.shtml"
         },
         {
-          "date": "2026-08-20",
-          "title": "宁夏“举杯贺兰山·青年艺术季”收官 文旅消费持续升温",
-          "summary": "中新网银川8月20日电 (记者 李佩珊)8月20日晚，2026“举杯贺兰山·青年艺术季”在位于宁夏银川市的漫葡·看见贺兰演艺小镇收官。为期40天的系列文艺文旅活动汇聚全国优质文艺资源，联动全城业态拉动暑期消费，持续丰富银川文旅业态、提升城市文旅影响力。",
+          "date": "2026-08-21",
+          "title": "临床出题、产业破题 广州医博会搭医产协同创新平台",
+          "summary": "中新网广州8月21日电 (记者 蔡敏婕)智能体打通院内诊疗与院外居家照护全链路、可穿戴式脑机接口协助改善下肢运动功能、脑机接口多感官睡眠干预系统输出个性化睡眠改善方案......21日，2026广州医疗与健康产业博览会(下称“医博会”)在广州开幕，博览会以“创新驱动健康，湾区链接全球”为主题，总展览面积3万平方米，参展",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681345.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682106.shtml"
         },
         {
-          "date": "2026-08-20",
-          "title": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
-          "summary": "北京时间8月20日晚，汽车之家(NYSE：ATHM；HKEX：2518)对外披露2026年第二季度未经审计的财务业绩。本季度，公司实现总营收12亿元人民币，归属于汽车之家的经调整净利润为2.77亿元人民币。流量层面，用户基盘稳固，据QuestMobile数据，6月移动端日均用户量达7,650万，同比稳中有升；业务层面，",
+          "date": "2026-08-21",
+          "title": "涉及汽车门把手缺陷 9家车企召回多款汽车",
+          "summary": "8月21日，市场监管总局发布公告，多家车企因车内应急机械拉手相关问题召回多款汽车，包括小米、特斯拉、零跑、小鹏、吉利、奇瑞、东风汽车、北汽蓝谷、中国一汽等。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682098.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-20",
-          "title": "美国务院宣布：决定批准对卡塔尔45亿美元军售",
-          "summary": "中新网8月21日电 综合外媒报道，美国国务院当地时间20日发表声明宣布，已决定批准一项或向卡塔尔出售空中加油机及相关设备的军售计划，预计总价值高达45亿美元。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681393.shtml"
+          "date": "2026-08-21",
+          "title": "中国考古机构首次赴南美洲开展联合考古",
+          "summary": "北京时间8月22日，中国社会科学院考古研究所与秘鲁相关机构，在秘鲁苏佩，正式签署考古合作协议，将联合开展卡拉尔文明考古研究。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682145.shtml"
         },
         {
-          "date": "2026-08-20",
-          "title": "伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
-          "summary": "中新网8月21日电 据外媒报道，伊朗外交部当地时间20日发表声明，强烈谴责美国对伊朗实施经济和贸易制裁，称美方此举侵犯了伊朗公民基本人权，是“经济恐怖主义”和“反人类罪”的体现。",
+          "date": "2026-08-21",
+          "title": "美国将向联合国支付7.25亿美元拖欠会费",
+          "summary": "央视记者当地时间8月21日获悉，一份美国国务院致国会的通知显示，特朗普政府已启动向联合国支付7.25亿美元的程序，用于偿还美国拖欠联合国的部分会费，预计将在特朗普下月赴纽约出席联合国大会并发表讲话前完成支付。不过，这7.25亿美元还不到美国欠款总额的20%。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681391.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682144.shtml"
         },
         {
-          "date": "2026-08-20",
-          "title": "吉尔吉斯斯坦欢迎中方对吉公民实施过境免签政策",
-          "summary": "中新社阿斯塔纳8月20日电 比什凯克消息：吉尔吉斯斯坦总统办公厅20日发文表示，吉方欢迎中方将吉尔吉斯斯坦纳入240小时过境免签和海南30天入境免签政策适用国家范围。",
+          "date": "2026-08-21",
+          "title": "伊朗称美经济战“注定失败” 特朗普否认军事选项受限",
+          "summary": "针对美国总统特朗普日前宣称要对伊朗实施的“毁灭性经济行动”，21日，伊朗方面密集发声予以谴责，表示美方经济施压“注定失败”，同时伊朗方面将制定计划应对制裁。同日，特朗普称对伊朗转向经济战并不意味着美国军事选项受限。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681389.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682143.shtml"
         },
         {
-          "date": "2026-08-20",
-          "title": "泰国政府官员中文学习班赴华学习",
-          "summary": "中新社曼谷8月20日电 (记者 李映民)当地时间20日晚，中国驻泰国大使馆举办仪式欢送第22届泰国政府官员中文学习班69名学员赴中国华侨大学学习。",
+          "date": "2026-08-21",
+          "title": "中国人权研究会代表团访问尼泊尔",
+          "summary": "中新社加德满都8月21日电 (记者 崔楠)8月18日至21日，中国全国政协常委、民族和宗教委员会副主任、中国人权研究会常务副会长蒋建国率中国人权研究会代表团赴尼泊尔开展人权交流活动。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681388.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682140.shtml"
         },
         {
-          "date": "2026-08-20",
-          "title": "今年上半年中国继续保持德国最大贸易伙伴",
-          "summary": "中新社柏林8月20日电 (记者 马秀秀)德国联邦统计局20日公布的数据显示，2026年上半年，中国继续保持德国最大贸易伙伴地位，双边贸易额达到1255亿欧元。",
+          "date": "2026-08-21",
+          "title": "世界卫生组织欧洲区主任角逐下一任世界卫生组织总干事",
+          "summary": "中新社布鲁塞尔8月21日电 (记者 德永健)比利时卫生专家、世界卫生组织欧洲区主任汉斯·克鲁格21日宣布，经比利时政府提名，他将参选下一任世界卫生组织总干事。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-21/10681390.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682141.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-20",
-          "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-          "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
+          "date": "2026-08-21",
+          "title": "Two injured in stabbing attack at Canada Sikh temple",
+          "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-20",
-          "title": "Watch: Fishermen rescued after five days adrift in cool box",
-          "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+          "date": "2026-08-21",
+          "title": "One killed in sword attack at Swedish school",
+          "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-20",
-          "title": "Dozens dead after boat capsizes in north-western Nigeria",
-          "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+          "date": "2026-08-21",
+          "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+          "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-20",
-          "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-          "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
+          "date": "2026-08-21",
+          "title": "How Israel is expanding settlements in drive to reshape West Bank",
+          "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-20",
-          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-          "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+          "date": "2026-08-21",
+          "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+          "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "yjh051108/dsh-routing-suite（⭐ 6446）",
-          "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-          "source": "GitHub",
-          "url": "https://github.com/yjh051108/dsh-routing-suite"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "xiaobright/dsh-anchored-standard（⭐ 3680）",
-          "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-          "source": "GitHub",
-          "url": "https://github.com/xiaobright/dsh-anchored-standard"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "s1dashu/ip-as-logo-skill（⭐ 3058）",
+          "title": "s1dashu/ip-as-logo-skill（⭐ 3478）",
           "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
           "source": "GitHub",
           "url": "https://github.com/s1dashu/ip-as-logo-skill"
         },
         {
           "date": "GitHub Trending",
-          "title": "yetone/cumora（⭐ 2773）",
+          "title": "yetone/cumora（⭐ 2858）",
           "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
           "source": "GitHub",
           "url": "https://github.com/yetone/cumora"
         },
         {
           "date": "GitHub Trending",
-          "title": "CopilotKit/OpenBot（⭐ 1588）",
+          "title": "CopilotKit/OpenBot（⭐ 2111）",
           "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
           "source": "GitHub",
           "url": "https://github.com/CopilotKit/OpenBot"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "cinderline/northcinder（⭐ 1203）",
+          "summary": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+          "source": "GitHub",
+          "url": "https://github.com/cinderline/northcinder"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report（⭐ 1036）",
+          "summary": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+          "source": "GitHub",
+          "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#朱镕基去世 #朱鎔基去世 #朱镕基逝世 #朱鎔基逝世 #朱镕基 #朱鎔基 #朱镕基改革 #朱鎔基改革 #朱镕基国企改革 #朱鎔基國企改革 #国企下岗潮 #國企",
-      "video": "否定朱镕基就是反华？朱镕基改革的真正受益者，到底是谁？否定朱鎔基就是反華？朱鎔基改革的真正受益者，到底是誰？ 夸克说",
-      "date": "2026-08-19",
-      "url": "https://www.youtube.com/watch?v=ISBxmPEDQgQ"
+      "desc": "#牛来 #牛來 #牛来电影 #牛來電影 #国产动画牛来 #國產動畫牛來 #牛来票房 #牛來票房 #牛来票房7352元没有万 #牛來票房7352元沒有萬 #牛来爆",
+      "video": "牛来爆火背后的真相，是审丑猎奇，还是冥币驱逐劣币？牛來爆火背後的真相，是審醜獵奇，還是冥幣驅逐劣幣? 夸克说",
+      "date": "2026-08-21",
+      "url": "https://www.youtube.com/watch?v=E3NClL0RzGc"
     },
     {
       "channel": "May Fit",
