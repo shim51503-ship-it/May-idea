@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-21",
-  "generatedAt": "2026-08-21T23:15:10.019Z",
+  "issueDate": "2026-08-22",
+  "generatedAt": "2026-08-22T23:12:10.349Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Anthropic’s Opus 4.6 is a smut-machine\n【金融新闻】美国政府紧急下场救市难解美债危局\n【中国新闻】中国考古机构首次赴南美洲开展联合考古\n【世界新闻】Two injured in stabbing attack at Canada Sikh temple"
+    "body": "【AI 最新信息】Harvard’s $699 startup bootcamp offers AI avatars of its instructors\n【金融新闻】Top analyst sees trouble looming for SpaceX stock\n【中国新闻】叙利亚谴责以色列袭击“严重侵犯叙主权”\n【世界新闻】Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-08-22",
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+        },
+        {
+          "date": "2026-08-22",
+          "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innov",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+        },
+        {
+          "date": "2026-08-22",
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+        },
+        {
+          "date": "2026-08-22",
+          "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
+          "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingl",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+        },
+        {
           "date": "2026-08-21",
           "title": "Anthropic’s Opus 4.6 is a smut-machine",
           "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to g",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
-        },
-        {
-          "date": "2026-08-21",
-          "title": "Nvidia partners with data center developer Cloverleaf",
-          "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
-        },
-        {
-          "date": "2026-08-21",
-          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
-        },
-        {
-          "date": "2026-08-21",
-          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-          "summary": "There's about to be a big fight to secure access to space.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-        },
-        {
-          "date": "2026-08-21",
-          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-          "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-21",
-          "title": "美国政府紧急下场救市难解美债危局",
-          "summary": "美国的债务问题，已经到了连自己人都捂不住的地步了。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682122.shtml"
+          "date": "2026-08-22",
+          "title": "Top analyst sees trouble looming for SpaceX stock",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-trouble-looming-230000865.html"
         },
         {
-          "date": "2026-08-21",
-          "title": "海南洋浦港审批便利化新举措提升国际船舶进口岸效率",
-          "summary": "中新网海南洋浦8月21日电 (贾兴宇)海南洋浦港正在高标准建设西部陆海新通道国际航运枢纽，集装箱吞吐量快速增长。洋浦海事局21日介绍，近日推出针对国际航行集装箱船舶进口岸审批便利化新举措，实现“一次信息留存、多次便利申报”。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml"
+          "date": "2026-08-22",
+          "title": "He Sold Nothing in the 2022 Crash. He Swapped Into a Similar Fund for a Week, Booked $90,000 of Losses, and Hasn’t Paid Capital-Gains Tax Since.",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/options/articles/sold-nothing-2022-crash-swapped-224702668.html"
         },
         {
-          "date": "2026-08-21",
-          "title": "闽宁科技合作推进会在宁夏银川召开",
-          "summary": "中新网银川8月21日电 (记者 李佩珊)8月21日，闽宁科技合作推进会在宁夏银川召开。闽宁两省区科技主管部门、高校院所、科技企业及技术转移机构代表参会，系统总结三十年来闽宁科技协作成效经验，共商“十五五”时期科技创新务实合作举措。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682103.shtml"
+          "date": "2026-08-22",
+          "title": "The Hidden Cost Of Home Insurance",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/video/hidden-cost-home-insurance-223201978.html"
         },
         {
-          "date": "2026-08-21",
-          "title": "临床出题、产业破题 广州医博会搭医产协同创新平台",
-          "summary": "中新网广州8月21日电 (记者 蔡敏婕)智能体打通院内诊疗与院外居家照护全链路、可穿戴式脑机接口协助改善下肢运动功能、脑机接口多感官睡眠干预系统输出个性化睡眠改善方案......21日，2026广州医疗与健康产业博览会(下称“医博会”)在广州开幕，博览会以“创新驱动健康，湾区链接全球”为主题，总展览面积3万平方米，参展",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682106.shtml"
+          "date": "2026-08-22",
+          "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders.",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-announced-largest-ever-stock-222000154.html"
         },
         {
-          "date": "2026-08-21",
-          "title": "涉及汽车门把手缺陷 9家车企召回多款汽车",
-          "summary": "8月21日，市场监管总局发布公告，多家车企因车内应急机械拉手相关问题召回多款汽车，包括小米、特斯拉、零跑、小鹏、吉利、奇瑞、东风汽车、北汽蓝谷、中国一汽等。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682098.shtml"
+          "date": "2026-08-22",
+          "title": "Up 20% in 1 Day, is Hyperliquid Worth Buying Hand Over Fist Right Now?",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/20-1-day-hyperliquid-worth-221700326.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-21",
-          "title": "中国考古机构首次赴南美洲开展联合考古",
-          "summary": "北京时间8月22日，中国社会科学院考古研究所与秘鲁相关机构，在秘鲁苏佩，正式签署考古合作协议，将联合开展卡拉尔文明考古研究。",
+          "date": "2026-08-22",
+          "title": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
+          "summary": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列无人机当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682500.shtml"
+        },
+        {
+          "date": "2026-08-22",
+          "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
+          "summary": "当地时间8月22日，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682499.shtml"
+        },
+        {
+          "date": "2026-08-22",
+          "title": "美国友人“赛考斯”23日凌晨抵京 用中文说出“我回来了”",
+          "summary": "中新网北京8月23日电(记者 周昕 李京泽) 应中国教育国际交流协会邀请，支持中国治沙事业的美国友人“赛考斯”(本名罗纳德·萨科尔斯基)23日凌晨抵达北京。时隔20余年再度来到中国，“赛考斯”用中文说出“我回来了”。他告诉记者，“当飞机着陆时，我意识到，我回到了我的第二个家，我将看到我的‘家人’”。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682145.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682498.shtml"
         },
         {
-          "date": "2026-08-21",
-          "title": "美国将向联合国支付7.25亿美元拖欠会费",
-          "summary": "央视记者当地时间8月21日获悉，一份美国国务院致国会的通知显示，特朗普政府已启动向联合国支付7.25亿美元的程序，用于偿还美国拖欠联合国的部分会费，预计将在特朗普下月赴纽约出席联合国大会并发表讲话前完成支付。不过，这7.25亿美元还不到美国欠款总额的20%。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682144.shtml"
+          "date": "2026-08-22",
+          "title": "“赛考斯”抵达北京：美中两国可以携手建设更加美好的世界",
+          "summary": "中新网北京8月23日电(记者 周昕 李京泽) 8月23日凌晨，应中国教育国际交流协会邀请，支持中国治沙事业的美国友人“赛考斯”(本名罗纳德·萨科尔斯基)抵达北京。在机场接受记者采访时，“赛考斯”表示，自己与殷玉珍的缘分是一段由上天书写的故事。“我只是扮演好自己的角色，殷玉珍才是真正的英雄。这是故事的一个篇章。我即将要去",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682497.shtml"
         },
         {
-          "date": "2026-08-21",
-          "title": "伊朗称美经济战“注定失败” 特朗普否认军事选项受限",
-          "summary": "针对美国总统特朗普日前宣称要对伊朗实施的“毁灭性经济行动”，21日，伊朗方面密集发声予以谴责，表示美方经济施压“注定失败”，同时伊朗方面将制定计划应对制裁。同日，特朗普称对伊朗转向经济战并不意味着美国军事选项受限。",
+          "date": "2026-08-22",
+          "title": "日本本州岛5.8级地震已致多人受伤",
+          "summary": "总台记者23日获悉，日本本州岛5.8级地震后，当地已出现多名伤者。截至当地时间4时，埼玉县有9人受伤，截至当地时间5时，神奈川县有3人受伤；此外，东京有人被玻璃划伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682143.shtml"
-        },
-        {
-          "date": "2026-08-21",
-          "title": "中国人权研究会代表团访问尼泊尔",
-          "summary": "中新社加德满都8月21日电 (记者 崔楠)8月18日至21日，中国全国政协常委、民族和宗教委员会副主任、中国人权研究会常务副会长蒋建国率中国人权研究会代表团赴尼泊尔开展人权交流活动。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682140.shtml"
-        },
-        {
-          "date": "2026-08-21",
-          "title": "世界卫生组织欧洲区主任角逐下一任世界卫生组织总干事",
-          "summary": "中新社布鲁塞尔8月21日电 (记者 德永健)比利时卫生专家、世界卫生组织欧洲区主任汉斯·克鲁格21日宣布，经比利时政府提名，他将参选下一任世界卫生组织总干事。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682141.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682496.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-21",
-          "title": "Two injured in stabbing attack at Canada Sikh temple",
-          "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+          "date": "2026-08-22",
+          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-21",
-          "title": "One killed in sword attack at Swedish school",
-          "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+          "date": "2026-08-22",
+          "title": "Carney faces crucial test after walking away from Trump's deal",
+          "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-21",
-          "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-          "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+          "date": "2026-08-22",
+          "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+          "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-21",
-          "title": "How Israel is expanding settlements in drive to reshape West Bank",
-          "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+          "date": "2026-08-22",
+          "title": "US military newspaper editor voices censorship fears after being fired",
+          "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-21",
-          "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-          "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+          "date": "2026-08-22",
+          "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+          "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "s1dashu/ip-as-logo-skill（⭐ 3478）",
+          "title": "s1dashu/ip-as-logo-skill（⭐ 3772）",
           "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
           "source": "GitHub",
           "url": "https://github.com/s1dashu/ip-as-logo-skill"
         },
         {
           "date": "GitHub Trending",
-          "title": "yetone/cumora（⭐ 2858）",
+          "title": "yetone/cumora（⭐ 2900）",
           "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
           "source": "GitHub",
           "url": "https://github.com/yetone/cumora"
         },
         {
           "date": "GitHub Trending",
-          "title": "CopilotKit/OpenBot（⭐ 2111）",
+          "title": "CopilotKit/OpenBot（⭐ 2315）",
           "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
           "source": "GitHub",
           "url": "https://github.com/CopilotKit/OpenBot"
         },
         {
           "date": "GitHub Trending",
-          "title": "cinderline/northcinder（⭐ 1203）",
-          "summary": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+          "title": "MengTo/threeui（⭐ 1826）",
+          "summary": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
           "source": "GitHub",
-          "url": "https://github.com/cinderline/northcinder"
+          "url": "https://github.com/MengTo/threeui"
         },
         {
           "date": "GitHub Trending",
-          "title": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report（⭐ 1036）",
-          "summary": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+          "title": "wang2122/sprix-sage-router（⭐ 1243）",
+          "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
           "source": "GitHub",
-          "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
+          "url": "https://github.com/wang2122/sprix-sage-router"
         }
       ]
     }
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔥 Claude Design 2.0 迎來重大升級！真正高效的做法，不是一直改提示詞，而是先搭好一套可以重複使用的設計系統。  這支影片用10分鐘帶你一次搞",
-      "video": "Claude Design 2.0 迎來重大升級｜10分鐘掌握",
-      "date": "2026-08-15",
-      "url": "https://www.youtube.com/watch?v=XjovI-SAI1E"
+      "desc": "🔗 下载链接： 個人AI檔案庫：https://lichangzhangai.kit.com/f934f0d22a  🔥 AI模型會一直換，但真正值得累積的",
+      "video": "AI模型會過時，但這套AI個人檔案可以一直用！",
+      "date": "2026-08-22",
+      "url": "https://www.youtube.com/watch?v=2-8xsEk8iP4"
     }
   ]
 }
