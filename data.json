@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-22",
-  "generatedAt": "2026-08-22T23:12:10.349Z",
+  "issueDate": "2026-08-23",
+  "generatedAt": "2026-08-23T23:12:02.682Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Harvard’s $699 startup bootcamp offers AI avatars of its instructors\n【金融新闻】Top analyst sees trouble looming for SpaceX stock\n【中国新闻】叙利亚谴责以色列袭击“严重侵犯叙主权”\n【世界新闻】Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse"
+    "body": "【AI 最新信息】Who&#8217;s behind the new ‘stealth model’ Ox Alpha?\n【金融新闻】Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead\n【中国新闻】美军中央司令部：在中东地区海域开展舰艇补给作业\n【世界新闻】Trump waves green flag to start IndyCar race through Washington streets"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-08-23",
+          "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+          "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
+        },
+        {
+          "date": "2026-08-23",
+          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+        },
+        {
+          "date": "2026-08-23",
+          "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+          "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
+        },
+        {
+          "date": "2026-08-23",
+          "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+          "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihood",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+        },
+        {
           "date": "2026-08-22",
           "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
           "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
-        },
-        {
-          "date": "2026-08-22",
-          "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innov",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
-        },
-        {
-          "date": "2026-08-22",
-          "title": "OpenAI says California should strengthen its AI safety bill",
-          "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
-        },
-        {
-          "date": "2026-08-22",
-          "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
-          "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingl",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
-        },
-        {
-          "date": "2026-08-21",
-          "title": "Anthropic’s Opus 4.6 is a smut-machine",
-          "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to g",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-22",
-          "title": "Top analyst sees trouble looming for SpaceX stock",
+          "date": "2026-08-23",
+          "title": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-trouble-looming-230000865.html"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo"
         },
         {
-          "date": "2026-08-22",
-          "title": "He Sold Nothing in the 2022 Crash. He Swapped Into a Similar Fund for a Week, Booked $90,000 of Losses, and Hasn’t Paid Capital-Gains Tax Since.",
+          "date": "2026-08-23",
+          "title": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/options/articles/sold-nothing-2022-crash-swapped-224702668.html"
+          "url": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-thermo-fisher-healthcare-225340177.html"
         },
         {
-          "date": "2026-08-22",
-          "title": "The Hidden Cost Of Home Insurance",
+          "date": "2026-08-23",
+          "title": "The Cannabis M&A Wave Is Here. Curaleaf Proved It. Here's Whether Green Thumb Should Ride It -- or Wait to Be Swept Up.",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/video/hidden-cost-home-insurance-223201978.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cannabis-m-wave-curaleaf-proved-225000442.html"
         },
         {
-          "date": "2026-08-22",
-          "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders.",
+          "date": "2026-08-23",
+          "title": "Prediction: Oklo Won't Book Its First Commercial Power Revenue Before 2028",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-announced-largest-ever-stock-222000154.html"
+          "url": "https://finance.yahoo.com/energy/articles/prediction-oklo-wont-book-first-224601649.html"
         },
         {
-          "date": "2026-08-22",
-          "title": "Up 20% in 1 Day, is Hyperliquid Worth Buying Hand Over Fist Right Now?",
+          "date": "2026-08-23",
+          "title": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/20-1-day-hyperliquid-worth-221700326.html"
+          "url": "https://finance.yahoo.com/healthcare/articles/abbott-vs-thermo-fisher-better-224317862.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-22",
-          "title": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
-          "summary": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列无人机当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。",
+          "date": "2026-08-23",
+          "title": "美军中央司令部：在中东地区海域开展舰艇补给作业",
+          "summary": "中新网8月24日电 当地时间8月23日，美军中央司令部在社交媒体上发布消息称，美国海军一架MH-60S“海鹰”直升机在中东地区海域为“拳师”号两栖攻击舰执行垂直补给任务，物资由“北极”号快速战斗支援舰提供。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682500.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-24/10682882.shtml"
         },
         {
-          "date": "2026-08-22",
-          "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
-          "summary": "当地时间8月22日，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
+          "date": "2026-08-23",
+          "title": "日本熊本县发生3.9级地震 此前强震仍有2794人避难",
+          "summary": "中新网8月24日电 据日本气象厅消息，当地时间8月24日4时05分左右，日本熊本县天草、芦北地区发生3.9级地震，最大震感为震度3，震源深度10公里。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682499.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-24/10682881.shtml"
         },
         {
-          "date": "2026-08-22",
-          "title": "美国友人“赛考斯”23日凌晨抵京 用中文说出“我回来了”",
-          "summary": "中新网北京8月23日电(记者 周昕 李京泽) 应中国教育国际交流协会邀请，支持中国治沙事业的美国友人“赛考斯”(本名罗纳德·萨科尔斯基)23日凌晨抵达北京。时隔20余年再度来到中国，“赛考斯”用中文说出“我回来了”。他告诉记者，“当飞机着陆时，我意识到，我回到了我的第二个家，我将看到我的‘家人’”。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682498.shtml"
-        },
-        {
-          "date": "2026-08-22",
-          "title": "“赛考斯”抵达北京：美中两国可以携手建设更加美好的世界",
-          "summary": "中新网北京8月23日电(记者 周昕 李京泽) 8月23日凌晨，应中国教育国际交流协会邀请，支持中国治沙事业的美国友人“赛考斯”(本名罗纳德·萨科尔斯基)抵达北京。在机场接受记者采访时，“赛考斯”表示，自己与殷玉珍的缘分是一段由上天书写的故事。“我只是扮演好自己的角色，殷玉珍才是真正的英雄。这是故事的一个篇章。我即将要去",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-23/10682497.shtml"
-        },
-        {
-          "date": "2026-08-22",
-          "title": "日本本州岛5.8级地震已致多人受伤",
-          "summary": "总台记者23日获悉，日本本州岛5.8级地震后，当地已出现多名伤者。截至当地时间4时，埼玉县有9人受伤，截至当地时间5时，神奈川县有3人受伤；此外，东京有人被玻璃划伤。",
+          "date": "2026-08-23",
+          "title": "几内亚首都一垃圾填埋场垮塌造成至少30人死亡",
+          "summary": "几内亚政府当地时间23日发布通报说，该国首都科纳克里郊区一处垃圾填埋场当天发生垮塌事故，已造成30人死亡、22人受伤，其中6人重伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-23/10682496.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-24/10682878.shtml"
+        },
+        {
+          "date": "2026-08-23",
+          "title": "美军称对伊朗海上封锁以来已拦截75艘商船",
+          "summary": "据美国中央司令部当地时间8月23日的消息，美国“约翰·芬恩”号导弹驱逐舰正在阿拉伯海航行，并执行美国对伊朗的海上封锁任务。截至8月23日，美军已要求70艘商船改变航向，使3艘商船失去行动能力，并登临检查2艘商船。(央视记者 朱磊)",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-24/10682877.shtml"
+        },
+        {
+          "date": "2026-08-23",
+          "title": "俄国防部：击落269架乌克兰无人机",
+          "summary": "俄罗斯国防部23日晚发布通报说，莫斯科时间当天8时至20时，俄防空部队在阿尔汉格尔斯克州、别尔哥罗德州、布良斯克州以及莫斯科地区等俄多地拦截并击落269架乌克兰无人机。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-24/10682876.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-22",
-          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-          "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+          "date": "2026-08-23",
+          "title": "Trump waves green flag to start IndyCar race through Washington streets",
+          "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-08-23",
+          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+          "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-22",
-          "title": "Carney faces crucial test after walking away from Trump's deal",
-          "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+          "date": "2026-08-23",
+          "title": "Guinea rubbish landfill collapse kills 30",
+          "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-22",
-          "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-          "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
+          "date": "2026-08-23",
+          "title": "France links sharp rise in drownings to heatwaves",
+          "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-22",
-          "title": "US military newspaper editor voices censorship fears after being fired",
-          "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+          "date": "2026-08-23",
+          "title": "Frustration builds in Indiana town struggling without power for 12 days",
+          "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-08-22",
-          "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-          "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "s1dashu/ip-as-logo-skill（⭐ 3772）",
+          "title": "s1dashu/ip-as-logo-skill（⭐ 3892）",
           "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
           "source": "GitHub",
           "url": "https://github.com/s1dashu/ip-as-logo-skill"
         },
         {
           "date": "GitHub Trending",
-          "title": "yetone/cumora（⭐ 2900）",
+          "title": "yetone/cumora（⭐ 2945）",
           "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
           "source": "GitHub",
           "url": "https://github.com/yetone/cumora"
         },
         {
           "date": "GitHub Trending",
-          "title": "CopilotKit/OpenBot（⭐ 2315）",
-          "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-          "source": "GitHub",
-          "url": "https://github.com/CopilotKit/OpenBot"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "MengTo/threeui（⭐ 1826）",
+          "title": "MengTo/threeui（⭐ 2843）",
           "summary": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
           "source": "GitHub",
           "url": "https://github.com/MengTo/threeui"
         },
         {
           "date": "GitHub Trending",
-          "title": "wang2122/sprix-sage-router（⭐ 1243）",
+          "title": "CopilotKit/OpenBot（⭐ 2489）",
+          "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "source": "GitHub",
+          "url": "https://github.com/CopilotKit/OpenBot"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "wang2122/sprix-sage-router（⭐ 1412）",
           "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
           "source": "GitHub",
           "url": "https://github.com/wang2122/sprix-sage-router"
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "1936年，「陝北王」劉志丹抵達前線僅一天，便離奇中彈身亡。多名目擊者證詞互相矛盾：這究竟是戰場意外，還是一場被掩埋九十年的政治謀殺？",
-      "video": "毛澤東走上王座，最怕被揭開的：「零號謀殺案」？【文昭思緒飛揚566】",
-      "date": "2026-08-16",
-      "url": "https://www.youtube.com/watch?v=3wO2mW3eylw"
+      "desc": "（*本期影片為紀錄類故事影片，無任何不良宣導） 20年前就該被執行死刑的人，竟突然「復活」，還開豪車、做富豪、稱霸夜場！他究竟是如何一次次逃過死神？一個死刑犯的",
+      "video": "判了死刑，20年後竟又犯下大案：雲南最囂張的黑老大是怎樣「復活」的？【文昭思緒飛揚568】",
+      "date": "2026-08-23",
+      "url": "https://www.youtube.com/watch?v=LybfifBZRlo"
     },
     {
       "channel": "夸克说",
