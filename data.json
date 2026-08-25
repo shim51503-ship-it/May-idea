@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-24",
-  "generatedAt": "2026-08-24T23:15:03.173Z",
+  "issueDate": "2026-08-25",
+  "generatedAt": "2026-08-25T23:17:20.239Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Trump bought SpaceX shares two weeks after blockbuster IPO\n【金融新闻】How to buy travel insurance (and when to skip it)\n【中国新闻】美宣布对伊实施“经济孤立”新措施 伊方：只会让事情更糟\n【世界新闻】Iran faces 'greatest financial offensive ever', says US treasury secretary"
+    "body": "【AI 最新信息】Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding\n【金融新闻】Louis Navellier has blunt message on Nvidia’s reign before earnings\n【中国新闻】美国蒙大拿州家庭枪击惨案致9死 枪手杀害8名亲属后自杀\n【世界新闻】Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-24",
-          "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-          "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+          "date": "2026-08-25",
+          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+          "summary": "The company's new fundraising total now stands at $232 million.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
+          "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
         },
         {
-          "date": "2026-08-24",
-          "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-          "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+          "date": "2026-08-25",
+          "title": "Claude Cowork finally remembers what you told the app in chat",
+          "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other contex",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
+          "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
         },
         {
-          "date": "2026-08-24",
-          "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-          "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with ",
+          "date": "2026-08-25",
+          "title": "Gamma acquires Accel-backed design startup Lica",
+          "summary": "Lica co-founders are going to work on Gamma's new research team.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+          "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
         },
         {
-          "date": "2026-08-24",
-          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-          "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 bi",
+          "date": "2026-08-25",
+          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+          "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
         },
         {
-          "date": "2026-08-24",
-          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+          "date": "2026-08-25",
+          "title": "Accel-backed Keenable is indexing the web for AI agents",
+          "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
+          "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-24",
-          "title": "How to buy travel insurance (and when to skip it)",
+          "date": "2026-08-25",
+          "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
           "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/how-to-buy-travel-insurance-202029737.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html"
         },
         {
-          "date": "2026-08-24",
-          "title": "国家人形机器人产业标准体系建设指南将公开征求意见",
-          "summary": "中新网8月24日电 据工信部网站消息，为加强人形机器人标准化工作系统谋划，工业和信息化部组织编制形成《国家人形机器人产业标准体系建设指南(2026版)》(征求意见稿)。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683483.shtml"
+          "date": "2026-08-25",
+          "title": "FICO credit scores are holding up, but consumers are under pressure",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/fico-credit-scores-are-holding-up-but-consumers-are-under-pressure-205705068.html"
         },
         {
-          "date": "2026-08-24",
-          "title": "（长江十年行）长江入海处，中国制造从这里驶向深蓝",
-          "summary": "中新网上海8月24日电 (李秋莹)全球每10台岸边集装箱起重机，就有7台在上海长兴岛完成制造，发往世界各大港口；全球每5艘在建的大型LNG运输船中，就有1艘出自这座岛屿的船坞。长江在此奔涌入海，而中国的巨轮与重型装备，正是从这里驶向全球。",
+          "date": "2026-08-25",
+          "title": "新疆阿勒泰加快打造中国高纯石英产业新高地",
+          "summary": "中新社新疆阿勒泰8月25日电 （苟继鹏）25日，以“石英铸基 芯疆未来”为主题的2026高纯石英产业链发展大会在新疆阿勒泰市召开，40余位行业专家学者以及180余家产业链上下游企业代表参会。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683476.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684212.shtml"
         },
         {
-          "date": "2026-08-24",
-          "title": "闽宁协作三十载：西吉小菌棒成为群众增收“金棒棒”",
-          "summary": "中新网宁夏西吉8月24日电 题：闽宁协作三十载：西吉小菌棒成为群众增收“金棒棒”",
+          "date": "2026-08-25",
+          "title": "沪港数字合作成果丰硕 将深化数据标准对接",
+          "summary": "中新网上海8月25日电 (记者 陈静)上海市数据局副局长钱晓25日表示，过去一年，沪港数字合作在机制深化、数据跨境流通、便民利企服务等方面取得丰硕成果。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683466.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684192.shtml"
         },
         {
-          "date": "2026-08-24",
-          "title": "2026年服贸会环境与能源服务专题首次引入都市型现代农业内容",
-          "summary": "中新网北京8月24日电 (记者 陈杭)2026年服贸会环境与能源服务专题各项筹备工作已基本完成。专题展首次引入都市型现代农业相关内容，依托北京平谷农业中关村创新优势，集中呈现科技农业、绿色农业、质量农业、品牌农业实践成果，彰显智慧城市建设与现代农业发展有机联动。",
+          "date": "2026-08-25",
+          "title": "湖北形成“海陆空多向联动”的国际物流格局",
+          "summary": "中新网武汉8月25日电 (梁婷 潘庆芳)记者25日从2026年加快建设交通强国大会获悉，依托近洋直航与陆上铁路、航空枢纽互补，湖北形成“海陆空多向联动”的国际物流格局。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683460.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684189.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-24",
-          "title": "美宣布对伊实施“经济孤立”新措施 伊方：只会让事情更糟",
-          "summary": "美伊冲突已持续近6个月，在军事手段难以达成目标之后，美国转而对伊朗发动大规模“经济战”。",
+          "date": "2026-08-25",
+          "title": "美国蒙大拿州家庭枪击惨案致9死 枪手杀害8名亲属后自杀",
+          "summary": "中新网8月26日电 据美国广播公司(ABC)当地时间25日报道，一名男子23日在美国蒙大拿州比灵斯市一处住宅内与亲属共进晚餐时，杀害了包括4名儿童在内的8名亲属，随后自杀身亡。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683508.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684225.shtml"
         },
         {
-          "date": "2026-08-24",
-          "title": "美军再次在东太平洋打击“贩毒船” 致2人死亡",
-          "summary": "中新网8月25日电 当地时间24日，美军南方司令部在社交媒体上发表声明说，美军23日在东太平洋打击一艘“贩毒船”，造成船上两人死亡。",
+          "date": "2026-08-25",
+          "title": "美移民执法局7月逮捕近5万人 创特朗普第二任期单月新高",
+          "summary": "中新社华盛顿8月25日电 据美国媒体25日报道，美国移民与海关执法局(ICE)7月逮捕近5万名移民，创美国总统特朗普第二任期以来单月逮捕人数最高纪录。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683507.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684224.shtml"
         },
         {
-          "date": "2026-08-24",
-          "title": "美方宣布对伊朗新一轮制裁措施 伊朗回应：已做好准备",
-          "summary": "中新网8月25日电 据卡塔尔半岛电视台报道，当地时间24日，美国财政部长贝森特召开新闻发布会，宣布美国当日发起对伊朗“经济孤立”的新一轮制裁措施，以进一步加大对伊施压。",
+          "date": "2026-08-25",
+          "title": "加拿大宣布对价值约200亿美元美国商品征收报复性关税",
+          "summary": "中新网8月26日电 据路透社报道，当地时间25日，加拿大政府宣布对价值约200亿美元的美国商品征收报复性关税。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683506.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684222.shtml"
         },
         {
-          "date": "2026-08-24",
-          "title": "以色列总理声称伊朗曾企图暗杀其子",
-          "summary": "以色列总理内塔尼亚胡24日接受采访时声称，伊朗曾“试图暗杀他的一个儿子”。",
+          "date": "2026-08-25",
+          "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
+          "summary": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683504.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml"
         },
         {
-          "date": "2026-08-24",
-          "title": "加拿大总理：若美国拿出“正确态度” 将重返贸易谈判",
-          "summary": "当地时间24日，谈及加美关税冲突，加拿大总理卡尼表示，如果美国改变策略，加拿大愿意进行对话。卡尼称，如果“美国人首先以对我们产业的正确态度和真正的伙伴关系坐到谈判桌前，我们当然也会坐到谈判桌前。”他表示，不会接受“加拿大是美国的附庸”这种观点，也不会接受加拿大相对于美国应该处于劣势的观点。",
+          "date": "2026-08-25",
+          "title": "古巴谴责美国延长对古实施经济封锁",
+          "summary": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-25/10683503.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-24",
-          "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-          "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+          "date": "2026-08-25",
+          "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+          "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-24",
-          "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-          "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+          "date": "2026-08-25",
+          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-24",
-          "title": "Outrage in Nepal over rape and murder of three-year-old girl",
-          "summary": "There have been protests since the girl was found dead last week, three days after she went missing.",
+          "date": "2026-08-25",
+          "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+          "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-24",
-          "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-          "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
+          "date": "2026-08-25",
+          "title": "Two unvaccinated people die of measles in Pennsylvania",
+          "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-24",
-          "title": "Access to Zambian courts prevented as election petition deadline looms",
-          "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+          "date": "2026-08-25",
+          "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+          "summary": "The footage shows dozens of men, women and children sitting in a forest.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "s1dashu/ip-as-logo-skill（⭐ 4116）",
-          "summary": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-          "source": "GitHub",
-          "url": "https://github.com/s1dashu/ip-as-logo-skill"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "MengTo/threeui（⭐ 3433）",
+          "title": "MengTo/threeui（⭐ 3901）",
           "summary": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
           "source": "GitHub",
           "url": "https://github.com/MengTo/threeui"
         },
         {
           "date": "GitHub Trending",
-          "title": "wang2122/sprix-sage-router（⭐ 1756）",
-          "summary": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-          "source": "GitHub",
-          "url": "https://github.com/wang2122/sprix-sage-router"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "b-nnett/grok-bot-0.18-reconstructed（⭐ 1634）",
+          "title": "b-nnett/grok-bot-0.18-reconstructed（⭐ 2523）",
           "summary": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
           "source": "GitHub",
           "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
         },
         {
           "date": "GitHub Trending",
-          "title": "vvxw/deploy-vercel（⭐ 1299）",
-          "summary": "Install Command：npm install",
+          "title": "tobi/walgit（⭐ 1526）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/vvxw/deploy-vercel"
+          "url": "https://github.com/tobi/walgit"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "duty1g/x64dbg-mcp-server（⭐ 1376）",
+          "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+          "source": "GitHub",
+          "url": "https://github.com/duty1g/x64dbg-mcp-server"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "cclank/lanshu-create-ai-presenter-video（⭐ 910）",
+          "summary": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+          "source": "GitHub",
+          "url": "https://github.com/cclank/lanshu-create-ai-presenter-video"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#牛来 #牛來 #牛来电影 #牛來電影 #国产动画牛来 #國產動畫牛來 #牛来票房 #牛來票房 #牛来票房7352元没有万 #牛來票房7352元沒有萬 #牛来爆",
-      "video": "牛来爆火背后的真相，是审丑猎奇，还是冥币驱逐劣币？牛來爆火背後的真相，是審醜獵奇，還是冥幣驅逐劣幣? 夸克说",
-      "date": "2026-08-21",
-      "url": "https://www.youtube.com/watch?v=E3NClL0RzGc"
+      "desc": "#龙餐馆 #龍餐館 #欢迎来龙餐馆 #歡迎來龍餐館 #欢迎来到龙餐馆 #歡迎來到龍餐館 #龙餐馆美化美军 #龍餐館美化美軍 #龙餐馆反战 #龍餐館反戰 #龙餐馆",
+      "video": "欢迎来到龙餐馆：反战电影，还是更高级的战狼？中国主旋律电影是如何进化的？歡迎來龍餐館：反戰電影，還是更高級的戰狼？中國主旋律電影是如何進化的？ 夸克说",
+      "date": "2026-08-25",
+      "url": "https://www.youtube.com/watch?v=etnZnSO9Vtw"
     },
     {
       "channel": "May Fit",
