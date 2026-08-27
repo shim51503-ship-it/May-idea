@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-25",
-  "generatedAt": "2026-08-25T23:17:20.239Z",
+  "issueDate": "2026-08-27",
+  "generatedAt": "2026-08-27T04:09:12.269Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding\n【金融新闻】Louis Navellier has blunt message on Nvidia’s reign before earnings\n【中国新闻】美国蒙大拿州家庭枪击惨案致9死 枪手杀害8名亲属后自杀\n【世界新闻】Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%"
+    "body": "【AI 最新信息】Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation\n【金融新闻】A股午评：超3000只个股飘红，三大指数集体收涨\n【中国新闻】奥地利国民议会议长将访华\n【世界新闻】At least one dead after car crashes into crowd in northern France"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-25",
-          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-          "summary": "The company's new fundraising total now stands at $232 million.",
+          "date": "2026-08-27",
+          "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+          "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
+          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
         },
         {
-          "date": "2026-08-25",
-          "title": "Claude Cowork finally remembers what you told the app in chat",
-          "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other contex",
+          "date": "2026-08-26",
+          "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
+          "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chi",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/"
         },
         {
-          "date": "2026-08-25",
-          "title": "Gamma acquires Accel-backed design startup Lica",
-          "summary": "Lica co-founders are going to work on Gamma's new research team.",
+          "date": "2026-08-26",
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+          "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
+          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
         },
         {
-          "date": "2026-08-25",
-          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-          "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-",
+          "date": "2026-08-26",
+          "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+          "summary": "Consumer AI apps need to stop making users learn their product architecture.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
+          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
         },
         {
-          "date": "2026-08-25",
-          "title": "Accel-backed Keenable is indexing the web for AI agents",
-          "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+          "date": "2026-08-26",
+          "title": "How do we explain OpenAI&#8217;s executive exodus?",
+          "summary": "Was Greg Brockman the right executive all along?",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+          "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-25",
-          "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html"
-        },
-        {
-          "date": "2026-08-25",
-          "title": "FICO credit scores are holding up, but consumers are under pressure",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/fico-credit-scores-are-holding-up-but-consumers-are-under-pressure-205705068.html"
-        },
-        {
-          "date": "2026-08-25",
-          "title": "新疆阿勒泰加快打造中国高纯石英产业新高地",
-          "summary": "中新社新疆阿勒泰8月25日电 （苟继鹏）25日，以“石英铸基 芯疆未来”为主题的2026高纯石英产业链发展大会在新疆阿勒泰市召开，40余位行业专家学者以及180余家产业链上下游企业代表参会。",
+          "date": "2026-08-27",
+          "title": "A股午评：超3000只个股飘红，三大指数集体收涨",
+          "summary": "A股午评：超3000只个股飘红，三大指数集体收涨；CPO、光通信概念股爆发，半导体大涨，贵金属上涨；创新药概念股下挫，银行、酒类下跌",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684212.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685080.shtml"
         },
         {
-          "date": "2026-08-25",
-          "title": "沪港数字合作成果丰硕 将深化数据标准对接",
-          "summary": "中新网上海8月25日电 (记者 陈静)上海市数据局副局长钱晓25日表示，过去一年，沪港数字合作在机制深化、数据跨境流通、便民利企服务等方面取得丰硕成果。",
+          "date": "2026-08-27",
+          "title": "一张百元“豹子号”人民币标价数千元？新规明确禁止！9月起严查",
+          "summary": "短视频平台上，不少人在出售编号相对特殊的百元纸币。其中尾号为888、777的所谓“豹子号”更加抢手，有用户在评论区晒出自己手中的“豹子号”纸币，很快就有人求购。除了三位连号，五位、六位甚至更多尾数同号的人民币价值更高，单张标价在数百元至数千元。记者咨询了一位商家，对方开价：五位同号人民币300~400元。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684192.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685078.shtml"
         },
         {
-          "date": "2026-08-25",
-          "title": "湖北形成“海陆空多向联动”的国际物流格局",
-          "summary": "中新网武汉8月25日电 (梁婷 潘庆芳)记者25日从2026年加快建设交通强国大会获悉，依托近洋直航与陆上铁路、航空枢纽互补，湖北形成“海陆空多向联动”的国际物流格局。",
+          "date": "2026-08-27",
+          "title": "中经评论：激活中国消费版图的“县域空间”",
+          "summary": "山河辽阔，县域为基；百业兴荣，消费为脉。县域作为连接城市、辐射乡村的关键枢纽，不仅是扩大内需的潜力空间，也是畅通国内大循环的重要支点。数据显示，我国三线及以下城市、县镇与农村地区的下沉市场，承载着70%的人口和60%的社会消费品零售总额，构成一个规模空前、层次丰富的内需市场。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684189.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685073.shtml"
+        },
+        {
+          "date": "2026-08-27",
+          "title": "国家能源局：1-7月全国电力市场交易电量同比增长23.4%",
+          "summary": "中新网8月27日电 据国家能源局微信公众号消息，2026年7月，全国各电力交易机构完成交易电量7404亿千瓦时，同比增长18.5%。从交易范围看，省内交易电量5491亿千瓦时，同比增长19.0%；跨省跨区交易电量1913亿千瓦时，同比增长17.2%。从交易品种看，中长期交易电量6786亿千瓦时；现货交易电量618亿千瓦",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685071.shtml"
+        },
+        {
+          "date": "2026-08-27",
+          "title": "27日，A股半导体板块集体大涨",
+          "summary": "A股半导体板块集体大涨；前7个月，中国芯片行业利润同比增长18.5倍",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685060.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-25",
-          "title": "美国蒙大拿州家庭枪击惨案致9死 枪手杀害8名亲属后自杀",
-          "summary": "中新网8月26日电 据美国广播公司(ABC)当地时间25日报道，一名男子23日在美国蒙大拿州比灵斯市一处住宅内与亲属共进晚餐时，杀害了包括4名儿童在内的8名亲属，随后自杀身亡。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684225.shtml"
+          "date": "2026-08-27",
+          "title": "奥地利国民议会议长将访华",
+          "summary": "新华社北京8月27日电 应全国人大常委会委员长赵乐际邀请，奥地利国民议会议长罗森克兰茨将于8月29日至9月4日率团访华。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-27/10685081.shtml"
         },
         {
-          "date": "2026-08-25",
-          "title": "美移民执法局7月逮捕近5万人 创特朗普第二任期单月新高",
-          "summary": "中新社华盛顿8月25日电 据美国媒体25日报道，美国移民与海关执法局(ICE)7月逮捕近5万名移民，创美国总统特朗普第二任期以来单月逮捕人数最高纪录。",
+          "date": "2026-08-27",
+          "title": "尼泊尔山洪已致162人死亡，484人失联",
+          "summary": "中新网8月27日电 据英国《卫报》援引尼泊尔警方最新通报，该国北部26日暴发的山洪已造成重大人员伤亡。截至当地时间27日上午5时，搜救人员共找到162具遇难者遗体。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684224.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-27/10685076.shtml"
         },
         {
-          "date": "2026-08-25",
-          "title": "加拿大宣布对价值约200亿美元美国商品征收报复性关税",
-          "summary": "中新网8月26日电 据路透社报道，当地时间25日，加拿大政府宣布对价值约200亿美元的美国商品征收报复性关税。",
+          "date": "2026-08-27",
+          "title": "韩国警方提请法院批捕中国留学生遇害案嫌疑人",
+          "summary": "中新网8月27日电 据韩联社27日报道，韩国警方已以涉嫌杀人等罪名提请法院批捕杀害中国籍女留学生A某的中国籍大学讲师郑某，对郑某的逮捕必要性审查将于当天进行。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684222.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-27/10685077.shtml"
         },
         {
-          "date": "2026-08-25",
-          "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
-          "summary": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml"
+          "date": "2026-08-27",
+          "title": "汇聚建设科技强国的磅礴力量",
+          "summary": "汇聚建设科技强国的磅礴力量(人民要论)",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-27/10685072.shtml"
         },
         {
-          "date": "2026-08-25",
-          "title": "古巴谴责美国延长对古实施经济封锁",
-          "summary": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml"
+          "date": "2026-08-27",
+          "title": "国台办：加强两岸青年交流是利在当下、功在千秋的“希望工程”",
+          "summary": "本报北京8月26日电 (记者张烁)国务院台办发言人张晗26日在例行新闻发布会上指出，两岸同胞加强合作和交流是不可阻挡的历史潮流，也符合岛内主流民意。尤其是两岸青年肩负着国家的希望、民族的未来，让他们加强交流、增进理解，对于国家强盛、民族复兴是利在当下、功在千秋的“希望工程”。奉劝民进党当局多倾听岛内主流民意心声，多做有",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-27/10685066.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-25",
-          "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-          "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+          "date": "2026-08-27",
+          "title": "At least one dead after car crashes into crowd in northern France",
+          "summary": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-25",
-          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-          "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+          "date": "2026-08-27",
+          "title": "At least 12 dead as wildfires sweep through northern Algeria",
+          "summary": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-25",
-          "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-          "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+          "date": "2026-08-26",
+          "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+          "summary": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-25",
-          "title": "Two unvaccinated people die of measles in Pennsylvania",
-          "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+          "date": "2026-08-26",
+          "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+          "summary": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-25",
-          "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-          "summary": "The footage shows dozens of men, women and children sitting in a forest.",
+          "date": "2026-08-26",
+          "title": "The question dominating Indian politics: Is it worse when women swear?",
+          "summary": "Rahul Gandhi's comments renew the debate over gender disparity in reactions to insults hurled at PM Narendra Modi.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "MengTo/threeui（⭐ 3901）",
+          "title": "MengTo/threeui（⭐ 4218）",
           "summary": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
           "source": "GitHub",
           "url": "https://github.com/MengTo/threeui"
         },
         {
           "date": "GitHub Trending",
-          "title": "b-nnett/grok-bot-0.18-reconstructed（⭐ 2523）",
+          "title": "b-nnett/grok-bot-0.18-reconstructed（⭐ 3108）",
           "summary": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
           "source": "GitHub",
           "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
         },
         {
           "date": "GitHub Trending",
-          "title": "tobi/walgit（⭐ 1526）",
+          "title": "tobi/walgit（⭐ 2069）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/tobi/walgit"
         },
         {
           "date": "GitHub Trending",
-          "title": "duty1g/x64dbg-mcp-server（⭐ 1376）",
+          "title": "duty1g/x64dbg-mcp-server（⭐ 1477）",
           "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
           "source": "GitHub",
           "url": "https://github.com/duty1g/x64dbg-mcp-server"
         },
         {
           "date": "GitHub Trending",
-          "title": "cclank/lanshu-create-ai-presenter-video（⭐ 910）",
-          "summary": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+          "title": "nateherkai/scroll-craft（⭐ 1025）",
+          "summary": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
           "source": "GitHub",
-          "url": "https://github.com/cclank/lanshu-create-ai-presenter-video"
+          "url": "https://github.com/nateherkai/scroll-craft"
         }
       ]
     }
