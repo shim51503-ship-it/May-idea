@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-27",
-  "generatedAt": "2026-08-27T04:09:12.269Z",
+  "issueDate": "2026-08-28",
+  "generatedAt": "2026-08-28T06:26:05.271Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation\n【金融新闻】A股午评：超3000只个股飘红，三大指数集体收涨\n【中国新闻】奥地利国民议会议长将访华\n【世界新闻】At least one dead after car crashes into crowd in northern France"
+    "body": "【AI 最新信息】Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026\n【金融新闻】财政部有关负责同志就标普维持我主权信用评级及展望稳定有关问题答记者问\n【中国新闻】中国华能集团有限公司董事长、党组书记调整\n【世界新闻】What we know about deadly Nepal-Tibet floods"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-08-27",
-          "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-          "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
         },
         {
-          "date": "2026-08-26",
-          "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
-          "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chi",
+          "date": "2026-08-27",
+          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/"
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
         },
         {
-          "date": "2026-08-26",
-          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-          "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+          "date": "2026-08-27",
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that t",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
         },
         {
-          "date": "2026-08-26",
-          "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
-          "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+          "date": "2026-08-27",
+          "title": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
+          "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to a",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
         },
         {
-          "date": "2026-08-26",
-          "title": "How do we explain OpenAI&#8217;s executive exodus?",
-          "summary": "Was Greg Brockman the right executive all along?",
+          "date": "2026-08-27",
+          "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+          "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/"
+          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-27",
-          "title": "A股午评：超3000只个股飘红，三大指数集体收涨",
-          "summary": "A股午评：超3000只个股飘红，三大指数集体收涨；CPO、光通信概念股爆发，半导体大涨，贵金属上涨；创新药概念股下挫，银行、酒类下跌",
+          "date": "2026-08-28",
+          "title": "财政部有关负责同志就标普维持我主权信用评级及展望稳定有关问题答记者问",
+          "summary": "近日，财政部有关负责同志就标普国际信用评级公司维持我主权信用评级“A+”及展望“稳定”有关问题接受了记者采访。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685080.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685820.shtml"
         },
         {
-          "date": "2026-08-27",
-          "title": "一张百元“豹子号”人民币标价数千元？新规明确禁止！9月起严查",
-          "summary": "短视频平台上，不少人在出售编号相对特殊的百元纸币。其中尾号为888、777的所谓“豹子号”更加抢手，有用户在评论区晒出自己手中的“豹子号”纸币，很快就有人求购。除了三位连号，五位、六位甚至更多尾数同号的人民币价值更高，单张标价在数百元至数千元。记者咨询了一位商家，对方开价：五位同号人民币300~400元。",
+          "date": "2026-08-28",
+          "title": "沪苏企业携手建智算中心 集绿色算力、具身智能等于一体",
+          "summary": "中新网上海8月28日电 (记者 陈静)记者28日在此间获悉，总投资70亿元、规划建设十万卡级的长三角(远洋)绿色智算中心(下称：智算中心)目前各项建设工作稳步推进。一个集绿色算力、具身智能等于一体的综合性产业高地正在长三角腹地加速崛起。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685078.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685807.shtml"
         },
         {
-          "date": "2026-08-27",
-          "title": "中经评论：激活中国消费版图的“县域空间”",
-          "summary": "山河辽阔，县域为基；百业兴荣，消费为脉。县域作为连接城市、辐射乡村的关键枢纽，不仅是扩大内需的潜力空间，也是畅通国内大循环的重要支点。数据显示，我国三线及以下城市、县镇与农村地区的下沉市场，承载着70%的人口和60%的社会消费品零售总额，构成一个规模空前、层次丰富的内需市场。",
+          "date": "2026-08-28",
+          "title": "雅万高铁持续完善重点旅客服务",
+          "summary": "中新网雅加达8月28日电 (记者 李志全)印尼中国高速铁路有限公司(KCIC)表示，2026年1月至8月，雅万高铁已为约9000人次重点旅客提供出行服务。自2025年以来，累计服务重点旅客已达2.4万人次。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685073.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685805.shtml"
         },
         {
-          "date": "2026-08-27",
-          "title": "国家能源局：1-7月全国电力市场交易电量同比增长23.4%",
-          "summary": "中新网8月27日电 据国家能源局微信公众号消息，2026年7月，全国各电力交易机构完成交易电量7404亿千瓦时，同比增长18.5%。从交易范围看，省内交易电量5491亿千瓦时，同比增长19.0%；跨省跨区交易电量1913亿千瓦时，同比增长17.2%。从交易品种看，中长期交易电量6786亿千瓦时；现货交易电量618亿千瓦",
+          "date": "2026-08-28",
+          "title": "《会计师事务所职业责任保险实施办法》公布",
+          "summary": "中新网北京8月28日电 (记者 赵建华)财政部、国家金融监管总局近日联合印发《会计师事务所职业责任保险实施办法》(下称《办法》)。《办法》自2027年1月1日起施行。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685071.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685813.shtml"
         },
         {
-          "date": "2026-08-27",
-          "title": "27日，A股半导体板块集体大涨",
-          "summary": "A股半导体板块集体大涨；前7个月，中国芯片行业利润同比增长18.5倍",
+          "date": "2026-08-28",
+          "title": "中国—波兰经济联委会第20次会议在北京召开",
+          "summary": "中新网北京8月28日电 (记者 尹倩芸)据中国商务部消息，8月27日，商务部副部长兼国际贸易谈判副代表凌激在京与波兰经济发展与技术部副国务秘书巴拉诺夫斯基共同主持召开中国—波兰经济联委会第20次会议。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685060.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685815.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-27",
-          "title": "奥地利国民议会议长将访华",
-          "summary": "新华社北京8月27日电 应全国人大常委会委员长赵乐际邀请，奥地利国民议会议长罗森克兰茨将于8月29日至9月4日率团访华。",
+          "date": "2026-08-28",
+          "title": "中国华能集团有限公司董事长、党组书记调整",
+          "summary": "中新网8月28日电 据中国华能集团有限公司网站消息，2026年8月28日，中国华能集团有限公司召开中层以上管理人员大会。中央组织部有关负责同志宣布了党中央关于中国华能集团有限公司董事长、党组书记调整的决定：白勇同志任中国华能集团有限公司董事长、党组书记，免去其中粮集团有限公司董事、总经理、党组副书记职务；免去温枢刚同志",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-27/10685081.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685812.shtml"
         },
         {
-          "date": "2026-08-27",
-          "title": "尼泊尔山洪已致162人死亡，484人失联",
-          "summary": "中新网8月27日电 据英国《卫报》援引尼泊尔警方最新通报，该国北部26日暴发的山洪已造成重大人员伤亡。截至当地时间27日上午5时，搜救人员共找到162具遇难者遗体。",
+          "date": "2026-08-28",
+          "title": "马朝旭：深圳将以最佳状态迎接APEC领导人非正式会议召开",
+          "summary": "中新社大连8月28日电 (记者 周昕)2026年亚太经合组织(APEC)第三次高官会27日在辽宁大连举行开幕式。中国外交部副部长马朝旭在开幕式发表致辞时表示，深圳将以最佳状态迎接领导人非正式会议的召开。中方愿同各方密切沟通，做好日程、礼宾、安全、新闻等各项安排，确保领导人非正式会议取得圆满成功。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685809.shtml"
+        },
+        {
+          "date": "2026-08-28",
+          "title": "伊朗官员称已与阿曼就在霍尔木兹海峡开辟临时航道达成协议",
+          "summary": "中新社北京8月28日电 综合消息：伊朗最高国家安全委员会秘书穆赫辛·雷扎伊当地时间27日说，已经与阿曼达成协议，将在霍尔木兹海峡中部开辟一条临时航道供船只进出。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-27/10685076.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685797.shtml"
         },
         {
-          "date": "2026-08-27",
-          "title": "韩国警方提请法院批捕中国留学生遇害案嫌疑人",
-          "summary": "中新网8月27日电 据韩联社27日报道，韩国警方已以涉嫌杀人等罪名提请法院批捕杀害中国籍女留学生A某的中国籍大学讲师郑某，对郑某的逮捕必要性审查将于当天进行。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-27/10685077.shtml"
-        },
-        {
-          "date": "2026-08-27",
-          "title": "汇聚建设科技强国的磅礴力量",
-          "summary": "汇聚建设科技强国的磅礴力量(人民要论)",
+          "date": "2026-08-28",
+          "title": "中共中央政治局召开会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作 中共中央总书记习近平主持会议",
+          "summary": "原标题：中共中央政治局召开会议",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-27/10685072.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685800.shtml"
         },
         {
-          "date": "2026-08-27",
-          "title": "国台办：加强两岸青年交流是利在当下、功在千秋的“希望工程”",
-          "summary": "本报北京8月26日电 (记者张烁)国务院台办发言人张晗26日在例行新闻发布会上指出，两岸同胞加强合作和交流是不可阻挡的历史潮流，也符合岛内主流民意。尤其是两岸青年肩负着国家的希望、民族的未来，让他们加强交流、增进理解，对于国家强盛、民族复兴是利在当下、功在千秋的“希望工程”。奉劝民进党当局多倾听岛内主流民意心声，多做有",
+          "date": "2026-08-28",
+          "title": "中共中央政治局召开会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作 中共中央总书记习近平主持会议",
+          "summary": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作，中共中央总书记习近平主持会议。（央视新闻客户端）",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-27/10685066.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685799.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-27",
-          "title": "At least one dead after car crashes into crowd in northern France",
-          "summary": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+          "date": "2026-08-28",
+          "title": "What we know about deadly Nepal-Tibet floods",
+          "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-27",
-          "title": "At least 12 dead as wildfires sweep through northern Algeria",
-          "summary": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
+          "date": "2026-08-28",
+          "title": "'High risk' of lake breaching and causing second flood, warns China",
+          "summary": "China says a lake formed after a recent landslide near the Nepal-Tibet border may burst in the coming days.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-26",
-          "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
-          "summary": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
+          "date": "2026-08-28",
+          "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+          "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-26",
-          "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
-          "summary": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
+          "date": "2026-08-28",
+          "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+          "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-26",
-          "title": "The question dominating Indian politics: Is it worse when women swear?",
-          "summary": "Rahul Gandhi's comments renew the debate over gender disparity in reactions to insults hurled at PM Narendra Modi.",
+          "date": "2026-08-28",
+          "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+          "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "MengTo/threeui（⭐ 4218）",
-          "summary": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-          "source": "GitHub",
-          "url": "https://github.com/MengTo/threeui"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "b-nnett/grok-bot-0.18-reconstructed（⭐ 3108）",
+          "title": "b-nnett/grok-bot-0.18-reconstructed（⭐ 3378）",
           "summary": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
           "source": "GitHub",
           "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
         },
         {
           "date": "GitHub Trending",
-          "title": "tobi/walgit（⭐ 2069）",
+          "title": "HEJustinSun/my-girlfriend-jingtian-latex（⭐ 2548）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "tobi/walgit（⭐ 2265）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/tobi/walgit"
         },
         {
           "date": "GitHub Trending",
-          "title": "duty1g/x64dbg-mcp-server（⭐ 1477）",
+          "title": "duty1g/x64dbg-mcp-server（⭐ 1581）",
           "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
           "source": "GitHub",
           "url": "https://github.com/duty1g/x64dbg-mcp-server"
         },
         {
           "date": "GitHub Trending",
-          "title": "nateherkai/scroll-craft（⭐ 1025）",
-          "summary": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+          "title": "ApodexAI/FrontierAgent（⭐ 1168）",
+          "summary": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
           "source": "GitHub",
-          "url": "https://github.com/nateherkai/scroll-craft"
+          "url": "https://github.com/ApodexAI/FrontierAgent"
         }
       ]
     }
@@ -215,17 +215,17 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "我们究竟应该如何评价一个政治家的功与过？看国家和时代的总账，还是看每一个普通人的得失？为了国家的宏大目标，牺牲一部分具体的人，边界究竟在哪里？而时代的局限与制度",
-      "video": "为了让国家变强，多少代价才算值得？ | 如何评价朱镕基 | 老周横眉",
-      "date": "2026-08-20",
-      "url": "https://www.youtube.com/watch?v=_KYWdjcgtEo"
+      "desc": "一场围绕小鲜肉和饭圈的冲突，为什么会演变成大规模街头抗议和警民冲突？这期节目从经济压力、婚恋焦虑、社会原子化与归属感缺失出发，聊聊中国男女为什么越来越恨对方，以",
+      "video": "中国男女为什么越来越恨对方？时代峰峻冲突背后的青年困境 | 男女对立 | 青年失业 | 中国经济衰退 | 彩礼 | 老周横眉",
+      "date": "2026-08-27",
+      "url": "https://www.youtube.com/watch?v=-Tr02nmPbzE"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "（*本期影片為紀錄類故事影片，無任何不良宣導） 20年前就該被執行死刑的人，竟突然「復活」，還開豪車、做富豪、稱霸夜場！他究竟是如何一次次逃過死神？一個死刑犯的",
-      "video": "判了死刑，20年後竟又犯下大案：雲南最囂張的黑老大是怎樣「復活」的？【文昭思緒飛揚568】",
-      "date": "2026-08-23",
-      "url": "https://www.youtube.com/watch?v=LybfifBZRlo"
+      "desc": "本視頻內容均基於公開的法庭文件、警方通報、與媒體報導，還原事實與進行商業模式分析，旨在警示大眾、普及法律知識，切勿模仿。  一张假驾照、一张3.8万美元银行本票",
+      "video": "中國女留學生栽在特斯拉：她的背後，是一條涉及70多輛豪車的跨國走私鏈【文昭思緒飛揚569】",
+      "date": "2026-08-28",
+      "url": "https://www.youtube.com/watch?v=issVQgIRCtk"
     },
     {
       "channel": "夸克说",
