@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-08-28",
-  "generatedAt": "2026-08-28T06:26:05.271Z",
+  "issueDate": "2026-08-29",
+  "generatedAt": "2026-08-29T03:58:09.782Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026\n【金融新闻】财政部有关负责同志就标普维持我主权信用评级及展望稳定有关问题答记者问\n【中国新闻】中国华能集团有限公司董事长、党组书记调整\n【世界新闻】What we know about deadly Nepal-Tibet floods"
+    "body": "【AI 最新信息】Neocloud Lambda secures $1B in debt to buy more chips\n【金融新闻】2026年海南海运鱼苗出口收官 总货值约1.42亿元\n【中国新闻】我国首次实现地月双向高速激光通信\n【世界新闻】Footage of Tibet floods isn't being shown in China - and we know little about victims there"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-08-27",
-          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "date": "2026-08-28",
+          "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+          "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high c",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
+          "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
         },
         {
-          "date": "2026-08-27",
-          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+          "date": "2026-08-28",
+          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+          "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall perf",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
+          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
         },
         {
-          "date": "2026-08-27",
-          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-          "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that t",
+          "date": "2026-08-28",
+          "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+          "summary": "There's a lot of capital pouring into the business of giving models away.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
         },
         {
-          "date": "2026-08-27",
-          "title": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
-          "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to a",
+          "date": "2026-08-28",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
         },
         {
-          "date": "2026-08-27",
-          "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-          "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+          "date": "2026-08-28",
+          "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+          "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
+          "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-08-28",
-          "title": "财政部有关负责同志就标普维持我主权信用评级及展望稳定有关问题答记者问",
-          "summary": "近日，财政部有关负责同志就标普国际信用评级公司维持我主权信用评级“A+”及展望“稳定”有关问题接受了记者采访。",
+          "date": "2026-08-29",
+          "title": "2026年海南海运鱼苗出口收官 总货值约1.42亿元",
+          "summary": "中新网三亚8月29日电 (丛高)8月28日，圣多美和普林西比籍“OCEAN KING”(海威)号鱼苗运输船搭载10万尾白点鱼苗驶离海南陵水新村港，前往中国香港。至此，2026年海南海运鱼苗出口业务圆满收官。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685820.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686326.shtml"
         },
         {
-          "date": "2026-08-28",
-          "title": "沪苏企业携手建智算中心 集绿色算力、具身智能等于一体",
-          "summary": "中新网上海8月28日电 (记者 陈静)记者28日在此间获悉，总投资70亿元、规划建设十万卡级的长三角(远洋)绿色智算中心(下称：智算中心)目前各项建设工作稳步推进。一个集绿色算力、具身智能等于一体的综合性产业高地正在长三角腹地加速崛起。",
+          "date": "2026-08-29",
+          "title": "读懂中国经济的底气与潜能",
+          "summary": "8月28日，标普国际信用评级公司发布报告，维持中国主权信用评级“A+”、展望“稳定”。面对国内外错综复杂环境，中国经济这个“A+”评级，很有含金量，是国际市场和全球发展预期对中国宏观经济韧性、财政运行稳健性和风险防控有效性投下的信任票。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685807.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686324.shtml"
         },
         {
-          "date": "2026-08-28",
-          "title": "雅万高铁持续完善重点旅客服务",
-          "summary": "中新网雅加达8月28日电 (记者 李志全)印尼中国高速铁路有限公司(KCIC)表示，2026年1月至8月，雅万高铁已为约9000人次重点旅客提供出行服务。自2025年以来，累计服务重点旅客已达2.4万人次。",
+          "date": "2026-08-29",
+          "title": "限售股个税新规堵漏洞 会带来哪些影响？",
+          "summary": "财经老王丨限售股个税新规堵漏洞 会带来哪些影响？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685805.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686314.shtml"
         },
         {
-          "date": "2026-08-28",
-          "title": "《会计师事务所职业责任保险实施办法》公布",
-          "summary": "中新网北京8月28日电 (记者 赵建华)财政部、国家金融监管总局近日联合印发《会计师事务所职业责任保险实施办法》(下称《办法》)。《办法》自2027年1月1日起施行。",
+          "date": "2026-08-29",
+          "title": "烘焙市场扩容 为何实体面包店却纷纷“退场”？",
+          "summary": "实体面包店纷纷“退场”为哪般",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685813.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686312.shtml"
         },
         {
-          "date": "2026-08-28",
-          "title": "中国—波兰经济联委会第20次会议在北京召开",
-          "summary": "中新网北京8月28日电 (记者 尹倩芸)据中国商务部消息，8月27日，商务部副部长兼国际贸易谈判副代表凌激在京与波兰经济发展与技术部副国务秘书巴拉诺夫斯基共同主持召开中国—波兰经济联委会第20次会议。",
+          "date": "2026-08-29",
+          "title": "改写消费市场格局！如何接住下沉市场的长期红利",
+          "summary": "接住下沉市场的长期红利",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685815.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686311.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-28",
-          "title": "中国华能集团有限公司董事长、党组书记调整",
-          "summary": "中新网8月28日电 据中国华能集团有限公司网站消息，2026年8月28日，中国华能集团有限公司召开中层以上管理人员大会。中央组织部有关负责同志宣布了党中央关于中国华能集团有限公司董事长、党组书记调整的决定：白勇同志任中国华能集团有限公司董事长、党组书记，免去其中粮集团有限公司董事、总经理、党组副书记职务；免去温枢刚同志",
+          "date": "2026-08-29",
+          "title": "我国首次实现地月双向高速激光通信",
+          "summary": "记者从中国科学院空间应用工程与技术中心获悉，日前，我国在地月激光通信试验任务中取得重要突破，成功在超过40万公里的地月距离上建立起双向激光链路，首次实现地月双向高速激光通信。这标志着我国空间激光通信正式从近地轨道迈入地月空间。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685812.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686328.shtml"
         },
         {
-          "date": "2026-08-28",
-          "title": "马朝旭：深圳将以最佳状态迎接APEC领导人非正式会议召开",
-          "summary": "中新社大连8月28日电 (记者 周昕)2026年亚太经合组织(APEC)第三次高官会27日在辽宁大连举行开幕式。中国外交部副部长马朝旭在开幕式发表致辞时表示，深圳将以最佳状态迎接领导人非正式会议的召开。中方愿同各方密切沟通，做好日程、礼宾、安全、新闻等各项安排，确保领导人非正式会议取得圆满成功。",
+          "date": "2026-08-29",
+          "title": "《联合国防治荒漠化公约》COP17通过《乌兰巴托宣言》",
+          "summary": "中新社北京8月29日电 (记者 陈溯)记者29日从中国国家林业和草原局获悉，当天凌晨，《联合国防治荒漠化公约》(以下简称《公约》)第十七次缔约方大会(COP17)在蒙古国首都乌兰巴托闭幕，大会通过系列决议文件和《乌兰巴托宣言》(以下简称“宣言”)。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685809.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686315.shtml"
         },
         {
-          "date": "2026-08-28",
-          "title": "伊朗官员称已与阿曼就在霍尔木兹海峡开辟临时航道达成协议",
-          "summary": "中新社北京8月28日电 综合消息：伊朗最高国家安全委员会秘书穆赫辛·雷扎伊当地时间27日说，已经与阿曼达成协议，将在霍尔木兹海峡中部开辟一条临时航道供船只进出。",
+          "date": "2026-08-29",
+          "title": "第十届中欧健康研讨会在布鲁塞尔举行",
+          "summary": "中新网布鲁塞尔8月29日电 (记者 德永健)第十届中欧健康研讨会27日在布鲁塞尔举行，与会专家学者围绕“数智健康”主题，深入探讨当前数智技术为健康领域带来的机遇与挑战。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685797.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686313.shtml"
         },
         {
-          "date": "2026-08-28",
-          "title": "中共中央政治局召开会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作 中共中央总书记习近平主持会议",
-          "summary": "原标题：中共中央政治局召开会议",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685800.shtml"
+          "date": "2026-08-29",
+          "title": "特朗普：美获逾650亿桶委石油储量“多数控制权”",
+          "summary": "中新社华盛顿8月28日电 (记者 陈孟统)美国总统特朗普28日表示，美国与委内瑞拉达成协议，获得对委内瑞拉超过650亿桶已探明石油储量的“多数控制权”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686297.shtml"
         },
         {
-          "date": "2026-08-28",
-          "title": "中共中央政治局召开会议 研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作 中共中央总书记习近平主持会议",
-          "summary": "中共中央政治局召开会议，研究部署西藏日喀则市吉隆县泥石流灾害抢险救援工作，中共中央总书记习近平主持会议。（央视新闻客户端）",
+          "date": "2026-08-29",
+          "title": "福建海警位金门附近海域依法开展常态执法巡查",
+          "summary": "中新网8月29日电 据中国海警微信公众号消息，中国海警局东海分局新闻发言人朱安庆表示，8月29日，福建海警位金门附近海域依法开展常态执法巡查。8月以来，福建海警组织舰艇编队持续强化相关海域管控力度，切实维护两岸渔民合法正当权益和生命财产安全，有力保障厦金海域正常航行和作业秩序。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-28/10685799.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686320.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-28",
-          "title": "What we know about deadly Nepal-Tibet floods",
-          "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+          "date": "2026-08-29",
+          "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+          "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-28",
-          "title": "'High risk' of lake breaching and causing second flood, warns China",
-          "summary": "China says a lake formed after a recent landslide near the Nepal-Tibet border may burst in the coming days.",
+          "date": "2026-08-29",
+          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-28",
-          "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-          "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+          "date": "2026-08-29",
+          "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+          "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-28",
-          "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
-          "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
+          "date": "2026-08-29",
+          "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+          "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-08-28",
-          "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-          "summary": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
+          "date": "2026-08-29",
+          "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+          "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "b-nnett/grok-bot-0.18-reconstructed（⭐ 3378）",
-          "summary": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-          "source": "GitHub",
-          "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "HEJustinSun/my-girlfriend-jingtian-latex（⭐ 2548）",
+          "title": "HEJustinSun/my-girlfriend-jingtian-latex（⭐ 3732）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
         },
         {
           "date": "GitHub Trending",
-          "title": "tobi/walgit（⭐ 2265）",
+          "title": "b-nnett/grok-bot-0.18-reconstructed（⭐ 3410）",
+          "summary": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+          "source": "GitHub",
+          "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "tobi/walgit（⭐ 2301）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/tobi/walgit"
         },
         {
           "date": "GitHub Trending",
-          "title": "duty1g/x64dbg-mcp-server（⭐ 1581）",
-          "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+          "title": "sapientinc/PRAXIST（⭐ 1768）",
+          "summary": "Autonomous research system for measurable, computer-executable research.",
           "source": "GitHub",
-          "url": "https://github.com/duty1g/x64dbg-mcp-server"
+          "url": "https://github.com/sapientinc/PRAXIST"
         },
         {
           "date": "GitHub Trending",
-          "title": "ApodexAI/FrontierAgent（⭐ 1168）",
-          "summary": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+          "title": "bryllim/workout-guide（⭐ 981）",
+          "summary": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
           "source": "GitHub",
-          "url": "https://github.com/ApodexAI/FrontierAgent"
+          "url": "https://github.com/bryllim/workout-guide"
         }
       ]
     }
@@ -243,17 +243,17 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "哈喽大家好，我是盈夏，专注研究如何用最新科技让普通人也能轻松搞钱。  你是不是也有这样的感受：  手机里装了好几个 AI 工具，收藏夹里存了一堆 AI 赚钱攻略",
-      "video": "3个最赚钱的Claude副业教学 普通人必看 低门槛高变现 AI副业 AI赚钱 AI创业 Claude AI工具 AI教程 手把手教学 副业 赚钱 2026 搞钱 商业 自由职业 不露脸",
-      "date": "2026-08-20",
-      "url": "https://www.youtube.com/watch?v=qVSRWU9O8oE"
+      "desc": "哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  你是不是也刷到过那种很有质感的 AI 纪录片？  没有真人出镜，只用老照片、报纸、地图、人物抠",
+      "video": "AI纪录片频道手把手教学 不露脸做Youtube赚钱 最新玩法揭秘！ AI赚钱 AI工具 AI创业 如何做youtube 不露脸 AI副业 AI创业 AI搞钱 普通人教程 Vox style 自媒体",
+      "date": "2026-08-28",
+      "url": "https://www.youtube.com/watch?v=Wkc-0NfyBIY"
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔗 下载链接： 個人AI檔案庫：https://lichangzhangai.kit.com/f934f0d22a  🔥 AI模型會一直換，但真正值得累積的",
-      "video": "AI模型會過時，但這套AI個人檔案可以一直用！",
-      "date": "2026-08-22",
-      "url": "https://www.youtube.com/watch?v=2-8xsEk8iP4"
+      "desc": "點擊 https://www.hostinger.com/HOSTAI 輸入優惠碼 HOSTAI，就能享有 Hostinger 首購 9 折優惠！  🔗 下载",
+      "video": "20分鐘構建AI第二大腦知識庫【Codex + Obsidian詳細步驟】",
+      "date": "2026-08-29",
+      "url": "https://www.youtube.com/watch?v=hOJsRc9Ju7k"
     }
   ]
 }
