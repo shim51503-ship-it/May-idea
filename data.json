@@ -1,15 +1,36 @@
 {
-  "issueDate": "2026-08-29",
-  "generatedAt": "2026-08-29T03:58:09.782Z",
+  "issueDate": "2026-08-30",
+  "generatedAt": "2026-08-30T00:55:02.613Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Neocloud Lambda secures $1B in debt to buy more chips\n【金融新闻】2026年海南海运鱼苗出口收官 总货值约1.42亿元\n【中国新闻】我国首次实现地月双向高速激光通信\n【世界新闻】Footage of Tibet floods isn't being shown in China - and we know little about victims there"
+    "body": "【AI 最新信息】Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft\n【金融新闻】数智激活电商动能 中国新电商大会共探AI产业新机遇\n【中国新闻】西藏吉隆泥石流灾害已致16人遇难 546人失联\n【世界新闻】Canada installs large Lake Ontario sign in latest jab at US"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-08-29",
+          "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+          "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+        },
+        {
+          "date": "2026-08-29",
+          "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+          "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shift",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+        },
+        {
+          "date": "2026-08-29",
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+        },
         {
           "date": "2026-08-28",
           "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -23,27 +44,6 @@
           "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall perf",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
-        },
-        {
-          "date": "2026-08-28",
-          "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-          "summary": "There's a lot of capital pouring into the business of giving models away.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
-        },
-        {
-          "date": "2026-08-28",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit ",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
-        },
-        {
-          "date": "2026-08-28",
-          "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-          "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
         }
       ]
     },
@@ -53,38 +53,38 @@
       "items": [
         {
           "date": "2026-08-29",
-          "title": "2026年海南海运鱼苗出口收官 总货值约1.42亿元",
-          "summary": "中新网三亚8月29日电 (丛高)8月28日，圣多美和普林西比籍“OCEAN KING”(海威)号鱼苗运输船搭载10万尾白点鱼苗驶离海南陵水新村港，前往中国香港。至此，2026年海南海运鱼苗出口业务圆满收官。",
+          "title": "数智激活电商动能 中国新电商大会共探AI产业新机遇",
+          "summary": "中新网吉林8月29日电(记者 苍雁 石洪宇)第六届中国新电商大会29日在吉林省吉林市开幕。大会期间举办的“人工智能+新电商”分论坛上，来自政府、企业和学术界的代表共话AI赋能驱动产业新增长。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686326.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686565.shtml"
         },
         {
           "date": "2026-08-29",
-          "title": "读懂中国经济的底气与潜能",
-          "summary": "8月28日，标普国际信用评级公司发布报告，维持中国主权信用评级“A+”、展望“稳定”。面对国内外错综复杂环境，中国经济这个“A+”评级，很有含金量，是国际市场和全球发展预期对中国宏观经济韧性、财政运行稳健性和风险防控有效性投下的信任票。",
+          "title": "年产值可达200亿元 天津子牙经开区借循环经济链通中亚市场",
+          "summary": "中新网天津8月29日电 题：年产值可达200亿 天津子牙经开区借循环经济链通中亚市场",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686324.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686559.shtml"
         },
         {
           "date": "2026-08-29",
-          "title": "限售股个税新规堵漏洞 会带来哪些影响？",
-          "summary": "财经老王丨限售股个税新规堵漏洞 会带来哪些影响？",
+          "title": "中国北方首条邮轮无目的地海上游航线开通",
+          "summary": "中新社天津8月29日电 (记者 周亚强)10.5万吨级邮轮“理想”号29日从天津国际邮轮母港启航，搭载2700余名游客开始3天2晚海上巡游。这是中国北方首个邮轮无目的地海上游试点航线。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686314.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686533.shtml"
         },
         {
           "date": "2026-08-29",
-          "title": "烘焙市场扩容 为何实体面包店却纷纷“退场”？",
-          "summary": "实体面包店纷纷“退场”为哪般",
+          "title": "广东暑期工业研学游受热捧",
+          "summary": "中新社广州8月29日电 (记者 蔡敏婕)步入智造车间，感受人形机器人与机械臂的默契协同；追溯食品源头，见证从农田到货架的全链安心……与以往传统旅游不同，近年来，广东越来越多亲子家庭和学生团体选择在暑期走进现代化企业，在“看得见、摸得着”的实景中感受工业魅力与科技力量。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686312.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686522.shtml"
         },
         {
           "date": "2026-08-29",
-          "title": "改写消费市场格局！如何接住下沉市场的长期红利",
-          "summary": "接住下沉市场的长期红利",
+          "title": "（活力中国调研行）直播电商助力山东企业乘风破浪",
+          "summary": "中新社山东济宁8月29日电 题：直播电商助力山东企业乘风破浪",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686311.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/08-29/10686521.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-08-29",
-          "title": "我国首次实现地月双向高速激光通信",
-          "summary": "记者从中国科学院空间应用工程与技术中心获悉，日前，我国在地月激光通信试验任务中取得重要突破，成功在超过40万公里的地月距离上建立起双向激光链路，首次实现地月双向高速激光通信。这标志着我国空间激光通信正式从近地轨道迈入地月空间。",
+          "date": "2026-08-30",
+          "title": "西藏吉隆泥石流灾害已致16人遇难 546人失联",
+          "summary": "今天(30日)，西藏吉隆“8·26”泥石流灾害新闻发布会在吉隆镇举行。8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。截至29日18时，灾害造成16人遇难，546人失联。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686328.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686615.shtml"
         },
         {
           "date": "2026-08-29",
-          "title": "《联合国防治荒漠化公约》COP17通过《乌兰巴托宣言》",
-          "summary": "中新社北京8月29日电 (记者 陈溯)记者29日从中国国家林业和草原局获悉，当天凌晨，《联合国防治荒漠化公约》(以下简称《公约》)第十七次缔约方大会(COP17)在蒙古国首都乌兰巴托闭幕，大会通过系列决议文件和《乌兰巴托宣言》(以下简称“宣言”)。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686315.shtml"
-        },
-        {
-          "date": "2026-08-29",
-          "title": "第十届中欧健康研讨会在布鲁塞尔举行",
-          "summary": "中新网布鲁塞尔8月29日电 (记者 德永健)第十届中欧健康研讨会27日在布鲁塞尔举行，与会专家学者围绕“数智健康”主题，深入探讨当前数智技术为健康领域带来的机遇与挑战。",
+          "title": "尼日尔军方称逮捕多名企图发动兵变的士兵",
+          "summary": "当地时间8月29日，总台记者获悉，尼日尔国防部表示，该国国防与安全部队已成功挫败当天发生在首都尼亚美的兵变企图，多名参与叛乱的士兵被现场逮捕。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686313.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686613.shtml"
         },
         {
           "date": "2026-08-29",
-          "title": "特朗普：美获逾650亿桶委石油储量“多数控制权”",
-          "summary": "中新社华盛顿8月28日电 (记者 陈孟统)美国总统特朗普28日表示，美国与委内瑞拉达成协议，获得对委内瑞拉超过650亿桶已探明石油储量的“多数控制权”。",
+          "title": "美称与委内瑞拉达成石油协议 被批“公然盗窃”",
+          "summary": "美国总统特朗普当地时间8月28日在社交媒体发文宣布，美国已与委内瑞拉达成协议，获得对委内瑞拉已探明石油储量中逾650亿桶的“多数控制权”。该协议遭到多方批评，美方的行为也被网友怒斥为是对委内瑞拉石油的“公然盗窃”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/08-29/10686297.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686612.shtml"
         },
         {
           "date": "2026-08-29",
-          "title": "福建海警位金门附近海域依法开展常态执法巡查",
-          "summary": "中新网8月29日电 据中国海警微信公众号消息，中国海警局东海分局新闻发言人朱安庆表示，8月29日，福建海警位金门附近海域依法开展常态执法巡查。8月以来，福建海警组织舰艇编队持续强化相关海域管控力度，切实维护两岸渔民合法正当权益和生命财产安全，有力保障厦金海域正常航行和作业秩序。",
+          "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
+          "summary": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过伊朗的协调和许可。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml"
+        },
+        {
+          "date": "2026-08-29",
+          "title": "王毅同尼泊尔外长通电话：面对灾情，两国要坚定站在一起",
+          "summary": "中新社北京8月29日电 中共中央政治局委员、外交部长王毅29日同尼泊尔外长希西尔通电话。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686320.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml"
         }
       ]
     },
@@ -134,11 +134,11 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-08-29",
-          "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-          "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+          "date": "2026-08-30",
+          "title": "Canada installs large Lake Ontario sign in latest jab at US",
+          "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-08-29",
@@ -149,24 +149,24 @@
         },
         {
           "date": "2026-08-29",
-          "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-          "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+          "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-08-29",
-          "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-          "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+          "title": "Former Ecuadorian president imprisoned for corruption",
+          "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-08-29",
-          "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-          "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+          "title": "Norway's new king remembers 'my dear father' in first speech",
+          "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "HEJustinSun/my-girlfriend-jingtian-latex（⭐ 3732）",
+          "title": "HEJustinSun/my-girlfriend-jingtian-latex（⭐ 3926）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
         },
         {
           "date": "GitHub Trending",
-          "title": "b-nnett/grok-bot-0.18-reconstructed（⭐ 3410）",
-          "summary": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-          "source": "GitHub",
-          "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "tobi/walgit（⭐ 2301）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/tobi/walgit"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "sapientinc/PRAXIST（⭐ 1768）",
+          "title": "sapientinc/PRAXIST（⭐ 2933）",
           "summary": "Autonomous research system for measurable, computer-executable research.",
           "source": "GitHub",
           "url": "https://github.com/sapientinc/PRAXIST"
         },
         {
           "date": "GitHub Trending",
-          "title": "bryllim/workout-guide（⭐ 981）",
+          "title": "wide-trace/open-higgsfield（⭐ 1068）",
+          "summary": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+          "source": "GitHub",
+          "url": "https://github.com/wide-trace/open-higgsfield"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "bryllim/workout-guide（⭐ 1003）",
           "summary": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
           "source": "GitHub",
           "url": "https://github.com/bryllim/workout-guide"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "XiaoDuoYa/codex-with-chatgpt（⭐ 927）",
+          "summary": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+          "source": "GitHub",
+          "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "本視頻內容均基於公開的法庭文件、警方通報、與媒體報導，還原事實與進行商業模式分析，旨在警示大眾、普及法律知識，切勿模仿。  一张假驾照、一张3.8万美元银行本票",
-      "video": "中國女留學生栽在特斯拉：她的背後，是一條涉及70多輛豪車的跨國走私鏈【文昭思緒飛揚569】",
-      "date": "2026-08-28",
-      "url": "https://www.youtube.com/watch?v=issVQgIRCtk"
+      "desc": "1965年的雅加達，一夜之間軍車出動、電台易手，整個國家的權力天平突然翻轉。幾百萬華人的命運，也被捲入冷戰與政治風暴。為什麼一場權力之爭，最後改變了一個族群數十",
+      "video": "印尼最慘痛的排華暴動：一場只持續一天的政變，為何讓華人付出幾十年代價？【文昭思緒飛揚570】",
+      "date": "2026-08-30",
+      "url": "https://www.youtube.com/watch?v=MAKZDSI54as"
     },
     {
       "channel": "夸克说",
