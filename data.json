@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-02",
-  "generatedAt": "2026-09-02T00:41:23.154Z",
+  "issueDate": "2026-09-03",
+  "generatedAt": "2026-09-03T00:52:39.952Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B\n【金融新闻】促进民营经济高质量发展丨解难题、送政策，看民营企业如何轻装出海\n【中国新闻】美众议院通过临时拨款法案，以避免政府在中期选举前“停摆”\n【世界新闻】Iran retaliates after US strikes kills four at wedding party, state media reports"
+    "body": "【AI 最新信息】The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026\n【金融新闻】光伏超越煤电只是新起点\n【中国新闻】世界粮食计划署证实援助卡车在苏丹遭空袭\n【世界新闻】Protests in Spain over government's handling of Ceuta migrant crisis"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-01",
-          "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
-          "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at",
+          "date": "2026-09-02",
+          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+          "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
         },
         {
-          "date": "2026-09-01",
-          "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
-          "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+          "date": "2026-09-02",
+          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+          "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
         },
         {
-          "date": "2026-09-01",
-          "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
-          "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to ",
+          "date": "2026-09-02",
+          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+          "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
+          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
         },
         {
-          "date": "2026-09-01",
-          "title": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
-          "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+          "date": "2026-09-02",
+          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+          "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most rea",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
         },
         {
-          "date": "2026-09-01",
-          "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
-          "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+          "date": "2026-09-02",
+          "title": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
+          "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
+          "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-01",
-          "title": "促进民营经济高质量发展丨解难题、送政策，看民营企业如何轻装出海",
-          "summary": "新华社北京8月30日电 题：解难题、送政策，看民营企业如何轻装出海",
+          "date": "2026-09-02",
+          "title": "光伏超越煤电只是新起点",
+          "summary": "中国电力版图再次被改写。国家能源局最新数据显示，截至今年7月底，全国光伏发电装机规模达12.86亿千瓦，首次超越煤电12.85亿千瓦的装机规模。此次装机位次更迭，是我国能源绿色低碳转型路上的重要里程碑，标志着新能源从过去能源体系里的“后来者”，一步步站上电源规模的中心位置。但里程碑不等于终点，光伏装机规模超越煤电，只是",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688386.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689192.shtml"
         },
         {
-          "date": "2026-09-01",
-          "title": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html"
+          "date": "2026-09-02",
+          "title": "“大”和“新”的中国市场为外企提供机会清单",
+          "summary": "“放眼世界，中国可能是唯一兼具‘大’和‘新’两个特点的富有潜力市场。”",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689154.shtml"
         },
         {
-          "date": "2026-09-01",
-          "title": "暑运期间中国民航累计运送旅客超1.5亿人次",
-          "summary": "中新社北京9月1日电 (记者 刘文文)为期62天的中国民航暑运已于8月31日结束。记者9月1日从中国民航局获悉，7月1日至8月31日，全国民航累计运送旅客1.51亿人次，日均244.2万人次，同比增长2.9%；累计保障航班121.1万班，日均1.95万班，同比增长1%。(完)",
+          "date": "2026-09-02",
+          "title": "从1.4亿人“全球购”看中国机遇2.0",
+          "summary": "从1.4亿人“全球购”看中国机遇2.0(新视窗)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688337.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689153.shtml"
         },
         {
-          "date": "2026-09-01",
-          "title": "面对面心贴心 浙江市场监管部门倾听多元主体发展诉求",
-          "summary": "中新网杭州9月1日电(蓝伊旎)9月1日，浙江省市场监督管理局在杭州召开“浙里暖企·驱动创新”企业座谈会，市场监管部门代表与16位企业家围坐一堂，面对面听取企业意见建议，致力于通过“整体市监”的技术包、工具箱，助其解决发展难题。",
+          "date": "2026-09-02",
+          "title": "天津出台2026年营商环境“施工图” 部署五大行动",
+          "summary": "中新网天津9月2日电 (记者 周亚强)天津市政府新闻办2日举行政策吹风会，解读《2026年天津市推进营商环境提质升级行动计划》。该计划提出五项行动、23项任务，为全年营商环境优化提供具体抓手和实施路径。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688322.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689147.shtml"
         },
         {
-          "date": "2026-09-01",
-          "title": "听企声解民忧 浙江启动2026年市场监管服务月活动",
-          "summary": "中新网杭州9月1日电(蓝伊旎)9月1日，浙江省市场监督管理局在杭州正式启动2026年全省市场监管系统“助企惠民 有感有得”服务月活动，推出“十个一”集中服务举措，致力于帮助企业与民众解决难题。",
+          "date": "2026-09-02",
+          "title": "天津出台方案推进交旅融合 到2028年培育超40个特色产品",
+          "summary": "中新网天津9月2日电 (记者 周亚强)记者2日从天津市交通运输委员会获悉，该委日前会同天津市文化和旅游局印发《天津市交通运输与旅游融合高质量发展实施方案(2026—2028年)》(下称《方案》)，提出到2028年培育形成40个以上交旅融合特色产品，年直接服务人次突破470万，年均增长10%以上。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688323.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689146.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-01",
-          "title": "美众议院通过临时拨款法案，以避免政府在中期选举前“停摆”",
-          "summary": "中新网9月2日电 据英国《卫报》报道，美国众议院当地时间9月1日通过了一项临时拨款法案，以避免政府在11月中期选举前“停摆”。",
+          "date": "2026-09-03",
+          "title": "世界粮食计划署证实援助卡车在苏丹遭空袭",
+          "summary": "中新社北京9月3日电 喀土穆消息：当地时间9月2日，世界粮食计划署对外证实，两辆载有联合国粮食援助物资的卡车日前在苏丹南科尔多凡州迪林镇附近遭到空袭，原本用于救济数千名平民的紧急物资被毁。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688381.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689197.shtml"
         },
         {
-          "date": "2026-09-01",
-          "title": "我国科研团队首次实现高光谱相机实时解析",
-          "summary": "高光谱成像能通过物质特有的光谱信息识别材质和成分，是遥感监测、工业检测等领域的重要技术。近日，北京理工大学科研团队首创片上光谱计算新方法，将原本依赖大型服务器完成的光谱解析集成到便携设备中，实现高光谱信息的现场实时处理。相关成果近日发表于国际学术期刊《科学》。",
+          "date": "2026-09-03",
+          "title": "刚果（金）埃博拉疫情死亡病例超3000例 “红区”学校复课",
+          "summary": "中新社约翰内斯堡9月2日电 非洲疾病预防控制中心2日表示，刚果(金)本轮埃博拉疫情累计死亡病例超过3000例；涉疫情高风险地区学校本周复课。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689188.shtml"
+        },
+        {
+          "date": "2026-09-03",
+          "title": "柬埔寨发布《2026—2035年国家地雷行动政策》",
+          "summary": "中新社金边9月2日电(记者 杨强)柬埔寨政府当地时间2日在金边发布《2026—2035年国家地雷行动政策》，目标是到2030年清除所有已发现的地雷，到2035年清除所有已发现的集束炸弹以及其他战争遗留爆炸物。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689178.shtml"
+        },
+        {
+          "date": "2026-09-03",
+          "title": "美国“林肯”号航母抵达泰国休整 海上航行286天后舰体布满锈迹",
+          "summary": "中新网9月3日电 综合美国哥伦比亚广播公司(CBS)、路透社报道，美国海军“亚伯拉罕·林肯”号航空母舰9月2日抵达泰国东部港口。此前，该航母已连续在海上航行286天，其中包括一段持续时间较长的中东部署。泰国官员表示，此次访问将持续五天，“林肯”号和舰员将在泰国进行休整和恢复。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689206.shtml"
+        },
+        {
+          "date": "2026-09-03",
+          "title": "抗日战争胜利81周年：勿忘国殇，吾辈自强",
+          "summary": "今天(9月3日)",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688380.shtml"
-        },
-        {
-          "date": "2026-09-01",
-          "title": "希奇莱马宣誓就任赞比亚总统 开启第二个五年任期",
-          "summary": "中新社约翰内斯堡9月1日电 卢萨卡消息：赞比亚总统哈凯恩德·希奇莱马当地时间9月1日在首都卢萨卡宣誓就职，开启第二个五年任期。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688379.shtml"
-        },
-        {
-          "date": "2026-09-01",
-          "title": "德国指认俄涉莱比锡机场袭击并宣布反制措施",
-          "summary": "中新社柏林9月1日电 德国政府9月1日表示，俄罗斯应对8月上旬发生在德东部莱比锡机场的无人机袭击未遂事件负责，并宣布关闭俄罗斯驻波恩总领事馆等一系列反制措施。俄方否认参与事件，并表示将采取对等回应。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml"
-        },
-        {
-          "date": "2026-09-01",
-          "title": "英国首相伯纳姆在议会发表声明 阐述施政方向",
-          "summary": "中新社伦敦9月1日电 (记者 欧阳开宇)当地时间9月1日，英国首相安迪·伯纳姆首次以首相身份在议会下院发表重要政策声明，系统阐述施政方向，涉及对外安全、移民、经济民生、权力下放、公用事业改革等多项重大议题。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-02/10688373.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689203.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-09-02",
-          "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-          "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+          "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+          "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-01",
-          "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial",
-          "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
+          "date": "2026-09-02",
+          "title": "South African airline behind daring stadium stunt cancels next flyby",
+          "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-01",
-          "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
-          "summary": "The BBC's Tokyo correspondent Kurumi Mori tries Japan's latest food trend, instant noodles made using cold water.",
+          "date": "2026-09-02",
+          "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+          "summary": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-01",
-          "title": "Ariana Grande completes tour and steps back from public life",
-          "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+          "date": "2026-09-02",
+          "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+          "summary": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-01",
-          "title": "Germany says Russia behind Leipzig airport drone attack",
-          "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+          "date": "2026-09-02",
+          "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+          "summary": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "sapientinc/PRAXIST（⭐ 6174）",
-          "summary": "Autonomous research system for measurable, computer-executable research.",
-          "source": "GitHub",
-          "url": "https://github.com/sapientinc/PRAXIST"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "XiaoDuoYa/codex-with-chatgpt（⭐ 2127）",
+          "title": "XiaoDuoYa/codex-with-chatgpt（⭐ 2275）",
           "summary": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
           "source": "GitHub",
           "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
         },
         {
           "date": "GitHub Trending",
-          "title": "crmne/fastpotify（⭐ 1534）",
-          "summary": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-          "source": "GitHub",
-          "url": "https://github.com/crmne/fastpotify"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Nanako0129/sepia（⭐ 1352）",
+          "title": "Nanako0129/sepia（⭐ 1573）",
           "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
           "source": "GitHub",
           "url": "https://github.com/Nanako0129/sepia"
         },
         {
           "date": "GitHub Trending",
-          "title": "MetaMask-AI/metamask-desktop（⭐ 1229）",
+          "title": "MetaMask-AI/metamask-desktop（⭐ 1230）",
           "summary": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
           "source": "GitHub",
           "url": "https://github.com/MetaMask-AI/metamask-desktop"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "cbrock84/headcount（⭐ 1116）",
+          "summary": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+          "source": "GitHub",
+          "url": "https://github.com/cbrock84/headcount"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "GangTailorUpgrade/undress-service（⭐ 933）",
+          "summary": "Dress AI Sponsor",
+          "source": "GitHub",
+          "url": "https://github.com/GangTailorUpgrade/undress-service"
         }
       ]
     }
@@ -250,7 +250,7 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "點擊 https://www.hostinger.com/HOSTAI 輸入優惠碼 HOSTAI，就能享有 Hostinger 首購 9 折優惠！  🔗 下载",
+      "desc": "點擊 https://www.hostinger.com/HOSTAI 輸入優惠碼 HOSTAI，就能享有 Hostinger VPS hosting首購 9 ",
       "video": "20分鐘構建AI第二大腦知識庫【Codex + Obsidian詳細步驟】",
       "date": "2026-08-29",
       "url": "https://www.youtube.com/watch?v=hOJsRc9Ju7k"
