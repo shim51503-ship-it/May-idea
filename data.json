@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-03",
-  "generatedAt": "2026-09-03T00:52:39.952Z",
+  "issueDate": "2026-09-04",
+  "generatedAt": "2026-09-04T00:32:46.690Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026\n【金融新闻】光伏超越煤电只是新起点\n【中国新闻】世界粮食计划署证实援助卡车在苏丹遭空袭\n【世界新闻】Protests in Spain over government's handling of Ceuta migrant crisis"
+    "body": "【AI 最新信息】Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation\n【金融新闻】一块铁皮，能锻造出“中国钢制家具之都”？\n【中国新闻】尼日利亚发生非法装卸石油制品事件至少43人死亡\n【世界新闻】Transplanted pig kidney works in US man's body for record 271 days"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-02",
-          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-          "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes",
+          "date": "2026-09-03",
+          "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+          "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
+          "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
         },
         {
-          "date": "2026-09-02",
-          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-          "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+          "date": "2026-09-03",
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately im",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
         },
         {
-          "date": "2026-09-02",
-          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-          "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the",
+          "date": "2026-09-03",
+          "title": "Meta is paying to peek at how you use their latest AI model",
+          "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"co",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
         },
         {
-          "date": "2026-09-02",
-          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-          "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most rea",
+          "date": "2026-09-03",
+          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
         },
         {
-          "date": "2026-09-02",
-          "title": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
-          "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now ",
+          "date": "2026-09-03",
+          "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+          "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
+          "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-02",
-          "title": "光伏超越煤电只是新起点",
-          "summary": "中国电力版图再次被改写。国家能源局最新数据显示，截至今年7月底，全国光伏发电装机规模达12.86亿千瓦，首次超越煤电12.85亿千瓦的装机规模。此次装机位次更迭，是我国能源绿色低碳转型路上的重要里程碑，标志着新能源从过去能源体系里的“后来者”，一步步站上电源规模的中心位置。但里程碑不等于终点，光伏装机规模超越煤电，只是",
+          "date": "2026-09-04",
+          "title": "一块铁皮，能锻造出“中国钢制家具之都”？",
+          "summary": "在欧美地区，一套DIY钢制工具柜是不少年轻人仪式感满满的爆款礼物。但很少有人知道，这种颇受海外市场欢迎的“硬核好物”，不少来自于河南洛阳伊滨区。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689192.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690023.shtml"
         },
         {
-          "date": "2026-09-02",
-          "title": "“大”和“新”的中国市场为外企提供机会清单",
-          "summary": "“放眼世界，中国可能是唯一兼具‘大’和‘新’两个特点的富有潜力市场。”",
+          "date": "2026-09-04",
+          "title": "商品房销售走向“所见即所得”，房地产发展新模式加快构建",
+          "summary": "告别传统粗放扩张，满足人民群众高品质、多样化的住房需求",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689154.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690021.shtml"
         },
         {
-          "date": "2026-09-02",
-          "title": "从1.4亿人“全球购”看中国机遇2.0",
-          "summary": "从1.4亿人“全球购”看中国机遇2.0(新视窗)",
+          "date": "2026-09-03",
+          "title": "为何越来越多的全球青年创业者扎根中国",
+          "summary": "近日，在HICOOL 2026全球创业者峰会的展示区，美国神经科学研究员朱莉娅·斯科特展示了团队研发的一款心理健康应用程序。该产品依托游戏和可穿戴传感器，通过调节大脑活动和心率，帮助用户进行情感处理、注意力训练和记忆强化。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689153.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690006.shtml"
         },
         {
-          "date": "2026-09-02",
-          "title": "天津出台2026年营商环境“施工图” 部署五大行动",
-          "summary": "中新网天津9月2日电 (记者 周亚强)天津市政府新闻办2日举行政策吹风会，解读《2026年天津市推进营商环境提质升级行动计划》。该计划提出五项行动、23项任务，为全年营商环境优化提供具体抓手和实施路径。",
+          "date": "2026-09-03",
+          "title": "人工智能中小企业创业支持计划启动",
+          "summary": "昨天，工业和信息化部宣布，启动人工智能中小企业创业支持计划。计划通过三年时间，在行业应用、数据服务、智能算力等重点领域，培育形成一大批人工智能创业企业，新培育科技和创新型中小企业1万家以上。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689147.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-04/10689994.shtml"
         },
         {
-          "date": "2026-09-02",
-          "title": "天津出台方案推进交旅融合 到2028年培育超40个特色产品",
-          "summary": "中新网天津9月2日电 (记者 周亚强)记者2日从天津市交通运输委员会获悉，该委日前会同天津市文化和旅游局印发《天津市交通运输与旅游融合高质量发展实施方案(2026—2028年)》(下称《方案》)，提出到2028年培育形成40个以上交旅融合特色产品，年直接服务人次突破470万，年均增长10%以上。",
+          "date": "2026-09-03",
+          "title": "广东省在香港发行离岸人民币地方政府债券75亿元",
+          "summary": "中新社广州9月3日电 (记者 许青青)据广东省财政厅3日晚消息，当日，广东省在香港特别行政区成功发行2026年离岸人民币地方政府债券75亿元，这是广东省连续第三年在香港发行地方政府债券并在香港联合交易所挂牌上市，持续推进粤港澳大湾区金融市场互联互通。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689146.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-04/10689976.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-03",
-          "title": "世界粮食计划署证实援助卡车在苏丹遭空袭",
-          "summary": "中新社北京9月3日电 喀土穆消息：当地时间9月2日，世界粮食计划署对外证实，两辆载有联合国粮食援助物资的卡车日前在苏丹南科尔多凡州迪林镇附近遭到空袭，原本用于救济数千名平民的紧急物资被毁。",
+          "date": "2026-09-04",
+          "title": "尼日利亚发生非法装卸石油制品事件至少43人死亡",
+          "summary": "中新社北京9月4日电 阿布贾消息：当地时间9月3日，尼日利亚河流州警方通报称，该州当日发生一起非法装卸石油制品事件，导致至少43人因吸入有毒气体死亡。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689197.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690020.shtml"
+        },
+        {
+          "date": "2026-09-04",
+          "title": "河南文旅推介会亮相印尼 爪哇岛劲吹“河洛风”",
+          "summary": "中新社雅加达9月3日电 题：河南文旅推介会亮相印尼 爪哇岛劲吹“河洛风”",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689990.shtml"
+        },
+        {
+          "date": "2026-09-04",
+          "title": "德国多家机构上调2026年本国经济增长预期",
+          "summary": "中新社柏林9月3日电(记者 马秀秀)德国多家主要经济研究机构3日发布最新经济预测，明显上调2026年德国经济增长预期。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689989.shtml"
+        },
+        {
+          "date": "2026-09-04",
+          "title": "国际游客量持续下跌 柬埔寨谋求旅游业振兴发展",
+          "summary": "中新社金边9月3日电(记者 杨强)柬埔寨旅游部当地时间9月3日发布的统计报告显示，今年1月至7月，柬埔寨累计接待国际游客199.78万人次，与去年同期相比下降逾46%。中国是柬埔寨今年前7个月最大游客来源国。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689988.shtml"
         },
         {
           "date": "2026-09-03",
-          "title": "刚果（金）埃博拉疫情死亡病例超3000例 “红区”学校复课",
-          "summary": "中新社约翰内斯堡9月2日电 非洲疾病预防控制中心2日表示，刚果(金)本轮埃博拉疫情累计死亡病例超过3000例；涉疫情高风险地区学校本周复课。",
+          "title": "离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场",
+          "summary": "离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场 | 国际早察",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689188.shtml"
-        },
-        {
-          "date": "2026-09-03",
-          "title": "柬埔寨发布《2026—2035年国家地雷行动政策》",
-          "summary": "中新社金边9月2日电(记者 杨强)柬埔寨政府当地时间2日在金边发布《2026—2035年国家地雷行动政策》，目标是到2030年清除所有已发现的地雷，到2035年清除所有已发现的集束炸弹以及其他战争遗留爆炸物。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689178.shtml"
-        },
-        {
-          "date": "2026-09-03",
-          "title": "美国“林肯”号航母抵达泰国休整 海上航行286天后舰体布满锈迹",
-          "summary": "中新网9月3日电 综合美国哥伦比亚广播公司(CBS)、路透社报道，美国海军“亚伯拉罕·林肯”号航空母舰9月2日抵达泰国东部港口。此前，该航母已连续在海上航行286天，其中包括一段持续时间较长的中东部署。泰国官员表示，此次访问将持续五天，“林肯”号和舰员将在泰国进行休整和恢复。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689206.shtml"
-        },
-        {
-          "date": "2026-09-03",
-          "title": "抗日战争胜利81周年：勿忘国殇，吾辈自强",
-          "summary": "今天(9月3日)",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-03/10689203.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-04/10690013.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-02",
-          "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-          "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+          "date": "2026-09-03",
+          "title": "Transplanted pig kidney works in US man's body for record 271 days",
+          "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-02",
-          "title": "South African airline behind daring stadium stunt cancels next flyby",
-          "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
+          "date": "2026-09-03",
+          "title": "US investigating if missile hit Iran wedding, Vance says",
+          "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-02",
-          "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-          "summary": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
+          "date": "2026-09-03",
+          "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+          "summary": "The ICE officer faces federal charges related to the January shooting in Minnesota.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-02",
-          "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
-          "summary": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
+          "date": "2026-09-03",
+          "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
+          "summary": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-02",
-          "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
-          "summary": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
+          "date": "2026-09-03",
+          "title": "AI data centres are booming in Australia - but at what cost?",
+          "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "XiaoDuoYa/codex-with-chatgpt（⭐ 2275）",
-          "summary": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+          "title": "anthropics/commerce-agents（⭐ 1550）",
+          "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
           "source": "GitHub",
-          "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+          "url": "https://github.com/anthropics/commerce-agents"
         },
         {
           "date": "GitHub Trending",
-          "title": "Nanako0129/sepia（⭐ 1573）",
-          "summary": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+          "title": "rakanki911/DLSS5-Swapper（⭐ 1080）",
+          "summary": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
           "source": "GitHub",
-          "url": "https://github.com/Nanako0129/sepia"
+          "url": "https://github.com/rakanki911/DLSS5-Swapper"
         },
         {
           "date": "GitHub Trending",
-          "title": "MetaMask-AI/metamask-desktop（⭐ 1230）",
-          "summary": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-          "source": "GitHub",
-          "url": "https://github.com/MetaMask-AI/metamask-desktop"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "cbrock84/headcount（⭐ 1116）",
-          "summary": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-          "source": "GitHub",
-          "url": "https://github.com/cbrock84/headcount"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "GangTailorUpgrade/undress-service（⭐ 933）",
+          "title": "GangTailorUpgrade/undress-service（⭐ 1016）",
           "summary": "Dress AI Sponsor",
           "source": "GitHub",
           "url": "https://github.com/GangTailorUpgrade/undress-service"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "shadcn-ui/cn（⭐ 955）",
+          "summary": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+          "source": "GitHub",
+          "url": "https://github.com/shadcn-ui/cn"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "2akouwu/reverify（⭐ 762）",
+          "summary": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+          "source": "GitHub",
+          "url": "https://github.com/2akouwu/reverify"
         }
       ]
     }
@@ -215,24 +215,24 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "一场围绕小鲜肉和饭圈的冲突，为什么会演变成大规模街头抗议和警民冲突？这期节目从经济压力、婚恋焦虑、社会原子化与归属感缺失出发，聊聊中国男女为什么越来越恨对方，以",
-      "video": "中国男女为什么越来越恨对方？时代峰峻冲突背后的青年困境 | 男女对立 | 青年失业 | 中国经济衰退 | 彩礼 | 老周横眉",
-      "date": "2026-08-27",
-      "url": "https://www.youtube.com/watch?v=-Tr02nmPbzE"
+      "desc": "宇树科技上市首日市值一度冲上4449亿元，但我们距离真正的具身智能究竟还有多远？这期节目从宇树的估值、研发投入、政府采购和产业政策出发，看看中国机器人究竟是真的",
+      "video": "宇树科技4500亿市值背后，是硬科技，还是一场被催熟的泡沫？ | 人形机器人 | 宇树机器人 | 王兴兴 | 宇树股价 | 机器人运动会 | 特斯拉 | Optimus | 老周横眉",
+      "date": "2026-09-03",
+      "url": "https://www.youtube.com/watch?v=NAiqDPEMNtE"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "1965年的雅加達，一夜之間軍車出動、電台易手，整個國家的權力天平突然翻轉。幾百萬華人的命運，也被捲入冷戰與政治風暴。為什麼一場權力之爭，最後改變了一個族群數十",
-      "video": "印尼最慘痛的排華暴動：一場只持續一天的政變，為何讓華人付出幾十年代價？【文昭思緒飛揚570】",
-      "date": "2026-08-30",
-      "url": "https://www.youtube.com/watch?v=MAKZDSI54as"
+      "desc": "昔日中國首富，私人飛機、頂級會所、數十人廚師團隊，排場堪比帝王。可當2.4萬億債務突然曝光，恆大大廈崩塌，人們開始問，許家印究竟把錢花到了哪裡，爲啥恆大會暴雷？",
+      "video": "許家印把自己過成了皇帝：50名廚師隨時待命，他為極致奢華付出了什麼代價【文昭思緒飛揚571】",
+      "date": "2026-09-04",
+      "url": "https://www.youtube.com/watch?v=SD7tHsaseN8"
     },
     {
       "channel": "夸克说",
-      "desc": "#龙餐馆 #龍餐館 #欢迎来龙餐馆 #歡迎來龍餐館 #欢迎来到龙餐馆 #歡迎來到龍餐館 #龙餐馆美化美军 #龍餐館美化美軍 #龙餐馆反战 #龍餐館反戰 #龙餐馆",
-      "video": "欢迎来到龙餐馆：反战电影，还是更高级的战狼？中国主旋律电影是如何进化的？歡迎來龍餐館：反戰電影，還是更高級的戰狼？中國主旋律電影是如何進化的？ 夸克说",
-      "date": "2026-08-25",
-      "url": "https://www.youtube.com/watch?v=etnZnSO9Vtw"
+      "desc": "#孙宇晨 #孫宇晨 #景甜 #景甜事件 #景甜風波 #孙宇晨景甜 #孫宇晨景甜 #孙宇晨爆料景甜 #孫宇晨爆料景甜 #我的女友景甜 #我的女友景甜 #孙宇晨起诉",
+      "video": "孙宇晨爆料景甜：她背后的“大哥”是谁？20年顶级资源从何而来？孙宇晨爆料景甜：她背後的「大哥」是誰？20年頂級資源從何而來？夸克说|誇克说",
+      "date": "2026-09-03",
+      "url": "https://www.youtube.com/watch?v=3e1A6byhWW8"
     },
     {
       "channel": "May Fit",
