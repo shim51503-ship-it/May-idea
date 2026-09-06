@@ -1,15 +1,36 @@
 {
-  "issueDate": "2026-09-05",
-  "generatedAt": "2026-09-05T00:29:19.969Z",
+  "issueDate": "2026-09-06",
+  "generatedAt": "2026-09-06T00:24:14.963Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation\n【金融新闻】2026年柏林国际消费电子展开幕\n【中国新闻】美国8月非农就业增加16.2万 失业率4.1%\n【世界新闻】Germany's far-right AfD bids for first taste of power in eastern vote"
+    "body": "【AI 最新信息】Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft\n【金融新闻】中外专家共议地热脱碳：国际合作是发展关键\n【中国新闻】美伊互袭油轮 伊朗军方称或对美进行更大规模打击\n【世界新闻】'He was a lifeline' - Families at a loss after Haitian caregivers let go in US"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-09-05",
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+        },
+        {
+          "date": "2026-09-05",
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+        },
+        {
+          "date": "2026-09-05",
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+        },
         {
           "date": "2026-09-04",
           "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -23,27 +44,6 @@
           "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control t",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "What will Apple&#8217;s John Ternus era look like?",
-          "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John T",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
-          "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-04",
-          "title": "2026年柏林国际消费电子展开幕",
-          "summary": "中新社柏林9月4日电 (记者 马秀秀)2026年德国柏林国际消费电子展(IFA)4日在柏林会展中心开幕。",
+          "date": "2026-09-05",
+          "title": "中外专家共议地热脱碳：国际合作是发展关键",
+          "summary": "中新社太原9月5日电 (记者 范丽芳)“全球能源系统脱碳的紧迫性不容忽视。地热能具有独特优势，应在实现减碳目标中发挥重要作用，而通过国际协作和知识共享来发展地热产业至关重要。”",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690751.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691218.shtml"
         },
         {
-          "date": "2026-09-04",
-          "title": "绿色合作持续转型 外商投资企业“对话山西”",
-          "summary": "中新网太原9月4日电 (记者 李庭耀)4日下午，作为2026年太原能源低碳发展论坛五场国际会议之一，“投资中国 对话山西”外商投资企业圆桌论坛在山西太原举办。",
+          "date": "2026-09-05",
+          "title": "打通产销链路 福建平和举办蜜柚购销·招商引资大会",
+          "summary": "中新网福建平和9月5日电 (记者 张金川)9月5日，以“福柚兴业 产业强县”为主题的2026年平和县蜜柚购销·招商引资大会在福建省漳州市平和县开幕。本次大会以柚为媒、以会聚力，打通产销链路、集聚招商动能，为平和蜜柚全产业链升级、乡村全面振兴注入强劲动力。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690735.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691210.shtml"
         },
         {
-          "date": "2026-09-04",
-          "title": "多款“硬核”人形机器人亮相第二十一届中博会具身智能展",
-          "summary": "中新网广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会正在广州举行，在具身智能展区，近70家企业携核心产品参展，覆盖核心零部件、人形机器人整机、AI算法和行业应用等产业链关键环节，呈现行业技术创新与应用落地成果。",
+          "date": "2026-09-05",
+          "title": "外贸服务搬进宠博会 “浙里出海”助绍兴企业掘金新蓝海",
+          "summary": "中新网绍兴9月5日电(蓝伊旎)9月4日至6日，2026绍兴国际宠物用品博览会在浙江绍兴举办，汇聚100余家宠物行业展商，宠物食品、日用用品、医疗健康、智能设备等丰富类目吸引中外客商采购。其间，由浙江省贸促会主办的2026“浙里出海”—1+N跨境电商助企行动(绍兴站)同步开展，旨在把外贸服务融入行业展会，助企破解出海难题",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690728.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691192.shtml"
         },
         {
-          "date": "2026-09-04",
-          "title": "5年建500家零碳工厂！中国工厂正在加速变绿",
-          "summary": "今年7月，国家级零碳工厂建设正式启动。“十五五”期间，我国要培育建设500家零碳工厂。从北京亦庄的风电装备工厂，到上海金山的电缆厂，零碳工厂正逐步从概念变成现实。零碳工厂到底长啥样？它会给生产生活带来怎样的变化呢？",
+          "date": "2026-09-05",
+          "title": "广东省人工智能核心产业规模突破3000亿元",
+          "summary": "中新网广州9月5日电 (记者 许青青)由广东省工业和信息化厅、广东省通信管理局共同主办的“人工智能赋能中小企业数智化转型”活动4日在广州举行。记者从活动上获悉，截至目前，广东省人工智能核心产业规模突破3000亿元。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690727.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691181.shtml"
         },
         {
-          "date": "2026-09-04",
-          "title": "“千年药乡”甘肃开“仓”迎客",
-          "summary": "中新网甘肃定西9月4日电 (戴文昌 田鹏鹤)4日，第七届中国(甘肃)中医药产业博览会在甘肃省定西市陇西县开幕。素有“千年药乡”“天然药仓”之称的甘肃，正式开“仓”迎客，上千名海内外客商循着药香而来。",
+          "date": "2026-09-05",
+          "title": "亚太中小企业数智技术供需对接活动在穗举行",
+          "summary": "中新网广州9月5日电 (记者 王坚)第21届中国国际中小企业博览会(简称“中博会”)正在广州举行。其间，作为中博会配套活动，亚太中小企业数智技术与应用场景供需对接活动4日在广州举行。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690726.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691169.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-04",
-          "title": "美国8月非农就业增加16.2万 失业率4.1%",
-          "summary": "中新社华盛顿9月4日电(记者 陈孟统)美国劳工部4日发布数据显示，美国8月非农就业岗位增加16.2万个，失业率为4.1%，与7月持平。",
+          "date": "2026-09-05",
+          "title": "美伊互袭油轮 伊朗军方称或对美进行更大规模打击",
+          "summary": "当地时间5日，美伊军事冲突持续，美军称当天打击了3艘伊朗油轮。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691228.shtml"
         },
         {
-          "date": "2026-09-04",
-          "title": "英国建筑业持续收缩拖累经济复苏",
-          "summary": "中新社伦敦9月4日电 (记者 欧阳开宇)4日公布的标普全球建筑业采购经理人指数(PMI)数据显示，英国建筑业景气度持续走弱，8月行业连续第20个月陷入收缩区间，住宅建造板块低迷，成为拖累基建地产领域的核心短板。",
+          "date": "2026-09-05",
+          "title": "普京会见美国总统特使威特科夫",
+          "summary": "中新社莫斯科9月5日电 俄罗斯总统普京5日在克里姆林宫会见美国总统特朗普的特使威特科夫和女婿库什纳，讨论俄乌冲突相关问题。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691227.shtml"
         },
         {
-          "date": "2026-09-04",
-          "title": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
-          "summary": "中新社华盛顿9月4日电 (记者 沙晗汀)美国国务院当地时间4日宣布，国务卿鲁比奥将于本月8日至10日访问哥伦比亚、厄瓜多尔和秘鲁。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690754.shtml"
+          "date": "2026-09-05",
+          "title": "台湾鲜果“朝摘夕至” 岛内文旦柚登陆南京",
+          "summary": "中新社南京9月5日电 (记者 朱晓颖)依托宁台直航定班全货机空中通道，来自台湾花莲的文旦柚5日在南京开柜上架。该批文旦柚从台湾果园采摘、完成报关清关，到运达南京农副产品物流中心，全程不到24小时，较传统方式节省了近一周时间。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691222.shtml"
         },
         {
-          "date": "2026-09-04",
-          "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
-          "summary": "当地时间9月4日，美国总统特朗普表示，美国特使威特科夫与库什纳将向俄罗斯提交结束俄乌冲突的方案。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml"
+          "date": "2026-09-05",
+          "title": "国际地热论坛：中外专家山西共议地热赋能低碳未来",
+          "summary": "中新网太原9月5日电 (记者 范丽芳)“全球能源系统脱碳的紧迫性不容忽视。地热能具有独特优势，应在实现减碳目标中发挥重要作用，而通过国际协作和知识共享来发展地热产业至关重要。”",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-05/10691204.shtml"
         },
         {
-          "date": "2026-09-04",
-          "title": "美总统称可能很快会打击伊朗“镐山”核设施",
-          "summary": "当地时间4日，美国总统特朗普在白宫接受采访时称，美国可能很快会打击伊朗的“镐山”核设施。",
+          "date": "2026-09-05",
+          "title": "美军称打击伊朗三艘油轮",
+          "summary": "当地时间9月5日，美国中央司令部发布声明称，“在伊朗伊斯兰革命卫队向两艘在地区水域巡逻的美军舰船发射弹道导弹后，美国中央司令部部队对三艘伊朗原油运输船实施了打击。”",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-05/10690746.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-05/10691194.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-04",
-          "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-          "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+          "date": "2026-09-06",
+          "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+          "summary": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-04",
-          "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-          "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+          "date": "2026-09-05",
+          "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+          "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-04",
-          "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-          "summary": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+          "date": "2026-09-05",
+          "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+          "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-04",
-          "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-          "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+          "date": "2026-09-05",
+          "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+          "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-04",
-          "title": "UN votes to adopt new world map to reflect Africa's true size",
-          "summary": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+          "date": "2026-09-05",
+          "title": "US envoys meet Putin in Moscow for Ukraine talks",
+          "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,36 +176,36 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "lnkiai/m3e-canvas（⭐ 1933）",
+          "title": "lnkiai/m3e-canvas（⭐ 3661）",
           "summary": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
           "source": "GitHub",
           "url": "https://github.com/lnkiai/m3e-canvas"
         },
         {
           "date": "GitHub Trending",
-          "title": "anthropics/commerce-agents（⭐ 1926）",
+          "title": "anthropics/commerce-agents（⭐ 2048）",
           "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
           "source": "GitHub",
           "url": "https://github.com/anthropics/commerce-agents"
         },
         {
           "date": "GitHub Trending",
-          "title": "shadcn-ui/cn（⭐ 1106）",
+          "title": "shadcn-ui/cn（⭐ 1169）",
           "summary": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
           "source": "GitHub",
           "url": "https://github.com/shadcn-ui/cn"
         },
         {
           "date": "GitHub Trending",
-          "title": "GangTailorUpgrade/undress-service（⭐ 1054）",
+          "title": "GangTailorUpgrade/undress-service（⭐ 1089）",
           "summary": "Dress AI Sponsor",
           "source": "GitHub",
           "url": "https://github.com/GangTailorUpgrade/undress-service"
         },
         {
           "date": "GitHub Trending",
-          "title": "2akouwu/reverify（⭐ 879）",
-          "summary": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+          "title": "2akouwu/reverify（⭐ 923）",
+          "summary": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
           "source": "GitHub",
           "url": "https://github.com/2akouwu/reverify"
         }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#孙宇晨 #孫宇晨 #景甜 #景甜事件 #景甜風波 #孙宇晨景甜 #孫宇晨景甜 #孙宇晨爆料景甜 #孫宇晨爆料景甜 #我的女友景甜 #我的女友景甜 #孙宇晨起诉",
-      "video": "孙宇晨爆料景甜：她背后的“大哥”是谁？20年顶级资源从何而来？孙宇晨爆料景甜：她背後的「大哥」是誰？20年頂級資源從何而來？夸克说|誇克说",
-      "date": "2026-09-03",
-      "url": "https://www.youtube.com/watch?v=3e1A6byhWW8"
+      "desc": "#西藏吉隆泥石流 #西藏吉隆泥石流 #吉隆泥石流 #吉隆泥石流 #吉隆口岸泥石流 #吉隆口岸泥石流 #西藏日喀则泥石流 #西藏日喀則泥石流 #西藏日喀则吉隆县 ",
+      "video": "皇马辱华：一场泥石流，如何变成中共的舆论武器？皇馬辱華：一場泥石流，如何變成中共的輿論武器？夸克说|誇克说",
+      "date": "2026-09-05",
+      "url": "https://www.youtube.com/watch?v=FpEd-JzCTz8"
     },
     {
       "channel": "May Fit",
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "點擊 https://www.hostinger.com/HOSTAI 輸入優惠碼 HOSTAI，就能享有 Hostinger VPS hosting首購 9 ",
-      "video": "20分鐘構建AI第二大腦知識庫【Codex + Obsidian詳細步驟】",
-      "date": "2026-08-29",
-      "url": "https://www.youtube.com/watch?v=hOJsRc9Ju7k"
+      "desc": "🔥 ChatGPT內置瀏覽器，它不只是能幫你看網頁，還能直接操作瀏覽器、開多個分頁、和客服聊天、比較產品，甚至在指定時間自動幫你搶票。  如果你還只是把 Ch",
+      "video": "ChatGPT瀏覽器5個實用場景，比我想像中好用太多！",
+      "date": "2026-09-05",
+      "url": "https://www.youtube.com/watch?v=IVxZ0-3C5Wg"
     }
   ]
 }
