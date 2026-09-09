@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-08",
-  "generatedAt": "2026-09-08T00:49:19.389Z",
+  "issueDate": "2026-09-09",
+  "generatedAt": "2026-09-09T00:53:31.393Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Opaque recurrence, and other AI terms that you should probably know\n【金融新闻】8家中央金融企业获3600亿元增资 巨额资金将发挥哪些关键作用？\n【中国新闻】“为什么越来越多的外国人要去中国看看？”\n【世界新闻】Trump threatens to stop sale of Canadian Bombardier jets in US"
+    "body": "【AI 最新信息】Hackers are stealing Claude tokens from subscribers\n【金融新闻】中国快递按下转型升级“换挡键” 新的增量从何而来\n【中国新闻】习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电\n【世界新闻】US slaps import ban on Canadian alcohol and other goods"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-07",
-          "title": "Opaque recurrence, and other AI terms that you should probably know",
-          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might en",
+          "date": "2026-09-08",
+          "title": "Hackers are stealing Claude tokens from subscribers",
+          "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+          "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
         },
         {
-          "date": "2026-09-06",
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "date": "2026-09-08",
+          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+          "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
         },
         {
-          "date": "2026-09-06",
-          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-          "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+          "date": "2026-09-08",
+          "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+          "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet ye",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
         },
         {
-          "date": "2026-09-05",
-          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-          "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+          "date": "2026-09-08",
+          "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
         },
         {
-          "date": "2026-09-05",
-          "title": "Hikers rescued after using Google Gemini for planning",
-          "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+          "date": "2026-09-08",
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+          "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
+          "date": "2026-09-09",
+          "title": "中国快递按下转型升级“换挡键” 新的增量从何而来",
+          "summary": "主要快递上市公司“半年报”显示，利润增速普遍“跑赢”件量增速",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693007.shtml"
+        },
+        {
           "date": "2026-09-08",
-          "title": "8家中央金融企业获3600亿元增资 巨额资金将发挥哪些关键作用？",
-          "summary": "日前，中国工商银行等8家中央金融企业集中对外披露增资方案，合计计划增资3600亿元用于补充核心一级资本。财政部昨天(7日)明确，近期将发行3000亿元特别国债，专项为上述金融央企资本补充提供支撑。这一次中央金融企业大规模集中增资，背后有怎样的深层考量？巨额资金将投向何处、发挥哪些关键作用？",
+          "title": "利润增速普遍“跑赢”件量增速 中国快递按下转型升级“换挡键”",
+          "summary": "主要快递上市公司“半年报”显示，利润增速普遍“跑赢”件量增速",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692322.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10692982.shtml"
         },
         {
-          "date": "2026-09-07",
-          "title": "8大金融央企巨额增资，将如何影响你的存款、贷款与保险？",
-          "summary": "昨天(6日)，中国工商银行等8家中央金融企业分别发布增资计划，将补充核心一级资本。",
+          "date": "2026-09-08",
+          "title": "“中国购”的行李箱里有了新东西",
+          "summary": "外国游客从“打卡式买特产”转向“生活化买好物”",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692312.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10692981.shtml"
         },
         {
-          "date": "2026-09-07",
-          "title": "（活力中国调研行）一家农机企业的三十年“突围”路",
-          "summary": "中新网郑州9月8日电 题：一家农机企业的三十年“突围”路",
+          "date": "2026-09-08",
+          "title": "报告称，中国工业数据治理“领跑者”企业呈现四大新特征",
+          "summary": "中新社沈阳9月8日电 (记者 李晛)中国工业经济联合会8日发布2026中国工业数据治理“领跑者”企业工作研究成果。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692290.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692963.shtml"
         },
         {
-          "date": "2026-09-07",
-          "title": "广西南宁港实现外贸船舶首次靠泊",
-          "summary": "中新社南宁9月8日电 (记者 黄艳梅)9月7日晚，随着巴拿马籍外贸船舶“北港南宁博润”靠泊广西南宁港六景作业区，南宁港迎来历史上首次外贸船舶靠泊作业。该船舶在南宁港完成装卸作业后，将开往越南芹苴港。",
+          "date": "2026-09-08",
+          "title": "（活力中国调研行）无人驾驶拖拉机能在耕地上“绣花”",
+          "summary": "中新网洛阳9月8日电(卢岩 赵梦阳)当下，无人机乃至无人驾驶汽车正在越来越多地走入普通百姓生活，而无人驾驶拖拉机这种大型专业装备，却依然带着不少神秘色彩。8日，在洛阳国家农机装备创新中心暨洛阳智能农业装备研究院有限公司院内，记者们见到了这头高科技“铁牛”的硬核实力。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692305.shtml"
-        },
-        {
-          "date": "2026-09-07",
-          "title": "2026年度海丝法务区成果在厦门发布",
-          "summary": "中新社厦门9月8日电 (记者 林永传)7日下午举办的第六届海丝法务区论坛开幕式上，2026年度海丝法务区10项成果对外发布。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692302.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692961.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
+          "date": "2026-09-09",
+          "title": "习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电",
+          "summary": "新华社快讯：习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693003.shtml"
+        },
+        {
           "date": "2026-09-08",
-          "title": "“为什么越来越多的外国人要去中国看看？”",
-          "summary": "“为什么越来越多的外国人要去中国看看？”(外国网友趣问中国#9323;)",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692327.shtml"
+          "title": "南非卫生部：超5.5万人开始使用长效艾滋病预防药物",
+          "summary": "中新社约翰内斯堡9月8日电 南非政府新闻网8日报道，南非卫生部称，长效艾滋病病毒预防药物来那卡帕韦(Lenacapavir)在南推广取得“显著进展”，截至9月7日，已有55123人开始使用该药物。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692996.shtml"
         },
         {
           "date": "2026-09-08",
-          "title": "江西遂川乡村水电路网陆续恢复 抢险救灾工作继续推进",
-          "summary": "受台风“沙德尔”持续强降雨天气影响，9月5日，江西省遂川县高坪镇明坑村石下组突发泥石流地质灾害。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692326.shtml"
-        },
-        {
-          "date": "2026-09-07",
-          "title": "偷拍未公开战机、撬锁擅闯军事禁区 国安部披露多个案件详情",
-          "summary": "有的地方不能随便进，有些画面不能随便拍",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692311.shtml"
-        },
-        {
-          "date": "2026-09-07",
-          "title": "俄德关系紧张升级 俄外交部宣布关闭德驻圣彼得堡总领事馆",
-          "summary": "中新网9月8日电 综合外媒报道，俄罗斯外交部当地时间7日宣布关闭德国驻圣彼得堡总领事馆。",
+          "title": "第81届联合国大会开幕",
+          "summary": "中新社联合国9月8日电 (记者 王帆)当地时间8日，在第80届联合国大会闭幕后，第81届联合国大会在纽约联合国总部开幕。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692309.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692995.shtml"
         },
         {
-          "date": "2026-09-07",
-          "title": "伊朗多线释放强硬信号 美军基地因移动设备陷“暴露”危机",
-          "summary": "当地时间6日至7日，伊朗在军事、经济、外交多个方面对美释放强硬信号。",
+          "date": "2026-09-08",
+          "title": "尼泊尔泥石流灾害遇难人数升至1366人",
+          "summary": "根据尼泊尔警方刚刚修正的最新数据，截至当地时间9月8日20时，尼泊尔泥石流灾害造成的遇难人数升至1366人。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692308.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692998.shtml"
+        },
+        {
+          "date": "2026-09-08",
+          "title": "十万卡集群将越来越多！事关国产算力，重磅部署",
+          "summary": "9月7日，工业和信息化部印发《信息通信行业发展“十五五”规划》(下文简称《规划》)。《规划》提出要提升算力设施发展水平；深化算力协同发展能力；强化公共算力服务能力。到2030年，新建大型超大型算力设施运行电能利用效率(PUE)降至1.2以下，智能算力规模达到9800EFLOPS(每秒百亿亿次浮点运算)。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-09/10692994.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
+          "date": "2026-09-09",
+          "title": "US slaps import ban on Canadian alcohol and other goods",
+          "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "date": "2026-09-08",
-          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-          "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+          "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+          "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-07",
-          "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-          "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+          "date": "2026-09-08",
+          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+          "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-07",
-          "title": "A food safety officer has become a social media star in India - why?",
-          "summary": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
+          "date": "2026-09-08",
+          "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+          "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-07",
-          "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-          "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+          "date": "2026-09-08",
+          "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+          "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-09-07",
-          "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-          "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "lnkiai/m3e-canvas（⭐ 4669）",
-          "summary": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-          "source": "GitHub",
-          "url": "https://github.com/lnkiai/m3e-canvas"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "ashemag/human-atlas（⭐ 2017）",
+          "title": "ashemag/human-atlas（⭐ 2458）",
           "summary": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
           "source": "GitHub",
           "url": "https://github.com/ashemag/human-atlas"
         },
         {
           "date": "GitHub Trending",
-          "title": "Rion-Wu-tech/wechat-intelligence-hub（⭐ 1786）",
+          "title": "Albert-Weasker/niubigeo（⭐ 2166）",
+          "summary": "Open-source AI brand visibility and competitor reports",
+          "source": "GitHub",
+          "url": "https://github.com/Albert-Weasker/niubigeo"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Rion-Wu-tech/wechat-intelligence-hub（⭐ 1939）",
           "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
           "source": "GitHub",
           "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
         },
         {
           "date": "GitHub Trending",
-          "title": "pierrenade/short-video-generator-AI（⭐ 1171）",
-          "summary": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+          "title": "EverettFish/holo-card-studio（⭐ 1125）",
+          "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
           "source": "GitHub",
-          "url": "https://github.com/pierrenade/short-video-generator-AI"
+          "url": "https://github.com/EverettFish/holo-card-studio"
         },
         {
           "date": "GitHub Trending",
-          "title": "anthropics/fermats-last-theorem（⭐ 939）",
-          "summary": "（该仓库未填写描述）",
+          "title": "vinzdg/codenotch（⭐ 1104）",
+          "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
           "source": "GitHub",
-          "url": "https://github.com/anthropics/fermats-last-theorem"
+          "url": "https://github.com/vinzdg/codenotch"
         }
       ]
     }
