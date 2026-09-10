@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-09",
-  "generatedAt": "2026-09-09T00:53:31.393Z",
+  "issueDate": "2026-09-10",
+  "generatedAt": "2026-09-10T00:43:16.562Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Hackers are stealing Claude tokens from subscribers\n【金融新闻】中国快递按下转型升级“换挡键” 新的增量从何而来\n【中国新闻】习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电\n【世界新闻】US slaps import ban on Canadian alcohol and other goods"
+    "body": "【AI 最新信息】AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks\n【金融新闻】中美省州投资贸易合作交流活动在厦门举办\n【中国新闻】美国共和党举行中期选举大会 特朗普将发表演讲\n【世界新闻】Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-08",
-          "title": "Hackers are stealing Claude tokens from subscribers",
-          "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+          "date": "2026-09-10",
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+          "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
         },
         {
-          "date": "2026-09-08",
-          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-          "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+          "date": "2026-09-09",
+          "title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
         },
         {
-          "date": "2026-09-08",
-          "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-          "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet ye",
+          "date": "2026-09-09",
+          "title": "Massachusetts hits data centers with new clean power rules",
+          "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+          "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
         },
         {
-          "date": "2026-09-08",
-          "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+          "date": "2026-09-09",
+          "title": "Apple Watch&#8217;s new AI features are normalizing the idea that technology is always listening",
+          "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about co",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
         },
         {
-          "date": "2026-09-08",
-          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-          "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+          "date": "2026-09-09",
+          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+          "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+          "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
         }
       ]
     },
@@ -53,38 +53,38 @@
       "items": [
         {
           "date": "2026-09-09",
-          "title": "中国快递按下转型升级“换挡键” 新的增量从何而来",
-          "summary": "主要快递上市公司“半年报”显示，利润增速普遍“跑赢”件量增速",
+          "title": "中美省州投资贸易合作交流活动在厦门举办",
+          "summary": "中新社厦门9月10日电 (吴冠标)作为第二十六届中国国际投资贸易洽谈会活动之一的中美省州投资贸易合作交流活动9日在厦门举办，多名美国商界人士表示，省州、城市、企业等地方层面合作展现出较强韧性，美企对华投资仍在持续落地。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693007.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693667.shtml"
         },
         {
-          "date": "2026-09-08",
-          "title": "利润增速普遍“跑赢”件量增速 中国快递按下转型升级“换挡键”",
-          "summary": "主要快递上市公司“半年报”显示，利润增速普遍“跑赢”件量增速",
+          "date": "2026-09-09",
+          "title": "“一天车都没练，退费却被扣1000多元” 驾校怎样退费才合理？",
+          "summary": "“公司规定扣掉以后就退这么多。”深圳市某驾校工作人员在微信中回复万女士。万女士给某驾校交了4000元报名费，申请退费却被扣除近2000元，而她连方向盘都没摸过，实在无法接受扣费结果，万女士由此开启了维权之路。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10692982.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693662.shtml"
         },
         {
-          "date": "2026-09-08",
-          "title": "“中国购”的行李箱里有了新东西",
-          "summary": "外国游客从“打卡式买特产”转向“生活化买好物”",
+          "date": "2026-09-09",
+          "title": "商务部：中方反对美方在人工智能领域推行科技霸权、搞算力垄断",
+          "summary": "中新社北京9月9日电 (记者 尹倩芸)就美国发布中国人工智能企业对美蒸馏活动相关网络安全公告，中国商务部新闻发言人9日表示，美方相关公告，是其在人工智能领域推行科技霸权、搞算力垄断，打压竞争的又一明证。中方对此坚决反对。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10692981.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml"
         },
         {
-          "date": "2026-09-08",
-          "title": "报告称，中国工业数据治理“领跑者”企业呈现四大新特征",
-          "summary": "中新社沈阳9月8日电 (记者 李晛)中国工业经济联合会8日发布2026中国工业数据治理“领跑者”企业工作研究成果。",
+          "date": "2026-09-09",
+          "title": "报告：北京、上海、香港位列世界旅游城市综合排名前十",
+          "summary": "中新社北京9月9日电 (记者 徐婧)2026年中国国际服务贸易交易会9日在北京开幕，2026世界旅游合作与发展大会当天举行。会上发布的《世界旅游城市发展报告(2025-2026)》显示，北京、上海、香港位列世界旅游城市综合排名前十。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692963.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693654.shtml"
         },
         {
-          "date": "2026-09-08",
-          "title": "（活力中国调研行）无人驾驶拖拉机能在耕地上“绣花”",
-          "summary": "中新网洛阳9月8日电(卢岩 赵梦阳)当下，无人机乃至无人驾驶汽车正在越来越多地走入普通百姓生活，而无人驾驶拖拉机这种大型专业装备，却依然带着不少神秘色彩。8日，在洛阳国家农机装备创新中心暨洛阳智能农业装备研究院有限公司院内，记者们见到了这头高科技“铁牛”的硬核实力。",
+          "date": "2026-09-09",
+          "title": "2026年服贸会开幕 新科技点亮趣味生活",
+          "summary": "中新社北京9月9日电 题：2026年服贸会开幕 新科技点亮趣味生活",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692961.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
+          "date": "2026-09-10",
+          "title": "美国共和党举行中期选举大会 特朗普将发表演讲",
+          "summary": "中新网9月10日电 据美联社报道，当地时间9月9日，美国共和党中期选举大会在得克萨斯州达拉斯举行，大会为期两天，美国总统特朗普将发表演讲。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693693.shtml"
+        },
+        {
+          "date": "2026-09-10",
+          "title": "2026年“最美教师”名单公布",
+          "summary": "中央宣传部、教育部9月10日联合发布2026年“最美教师”。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-10/10693687.shtml"
+        },
+        {
           "date": "2026-09-09",
-          "title": "习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电",
-          "summary": "新华社快讯：习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电。",
+          "title": "特朗普专机应急滑梯因误操作弹出",
+          "summary": "当地时间9月9日下午，美国总统特朗普从白宫乘坐“海军陆战队一号”直升机前往位于马里兰州的安德鲁斯联合基地，准备搭乘“空军一号”专机前往达拉斯出席共和党中期选举集会。不过在他抵达时，“空军一号”的应急滑梯却处于弹出的状态。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693680.shtml"
+        },
+        {
+          "date": "2026-09-09",
+          "title": "美媒：特朗普专机突发状况 应急滑梯因误操作意外弹出",
+          "summary": "中新网9月10日电 据美国广播公司(ABC)报道，当地时间9月9日下午，美国总统特朗普准备搭乘“空军一号”专机前往达拉斯出席共和党中期选举集会之际，该专机的应急滑梯却处于弹出状态。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693679.shtml"
+        },
+        {
+          "date": "2026-09-09",
+          "title": "全球公共安全合作论坛（连云港）2026年大会举行 王小洪出席并致辞",
+          "summary": "新华社南京9月9日电(记者董雪、朱国亮)全球公共安全合作论坛(连云港)2026年大会9日在江苏连云港举行，国务委员、公安部部长王小洪出席并致辞。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693003.shtml"
-        },
-        {
-          "date": "2026-09-08",
-          "title": "南非卫生部：超5.5万人开始使用长效艾滋病预防药物",
-          "summary": "中新社约翰内斯堡9月8日电 南非政府新闻网8日报道，南非卫生部称，长效艾滋病病毒预防药物来那卡帕韦(Lenacapavir)在南推广取得“显著进展”，截至9月7日，已有55123人开始使用该药物。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692996.shtml"
-        },
-        {
-          "date": "2026-09-08",
-          "title": "第81届联合国大会开幕",
-          "summary": "中新社联合国9月8日电 (记者 王帆)当地时间8日，在第80届联合国大会闭幕后，第81届联合国大会在纽约联合国总部开幕。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692995.shtml"
-        },
-        {
-          "date": "2026-09-08",
-          "title": "尼泊尔泥石流灾害遇难人数升至1366人",
-          "summary": "根据尼泊尔警方刚刚修正的最新数据，截至当地时间9月8日20时，尼泊尔泥石流灾害造成的遇难人数升至1366人。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692998.shtml"
-        },
-        {
-          "date": "2026-09-08",
-          "title": "十万卡集群将越来越多！事关国产算力，重磅部署",
-          "summary": "9月7日，工业和信息化部印发《信息通信行业发展“十五五”规划》(下文简称《规划》)。《规划》提出要提升算力设施发展水平；深化算力协同发展能力；强化公共算力服务能力。到2030年，新建大型超大型算力设施运行电能利用效率(PUE)降至1.2以下，智能算力规模达到9800EFLOPS(每秒百亿亿次浮点运算)。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-09/10692994.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-10/10693676.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-09-09",
-          "title": "US slaps import ban on Canadian alcohol and other goods",
-          "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+          "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+          "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlem",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-08",
-          "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-          "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+          "date": "2026-09-09",
+          "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+          "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands ent",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-08",
-          "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-          "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+          "date": "2026-09-09",
+          "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+          "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-08",
-          "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-          "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+          "date": "2026-09-09",
+          "title": "Iran referred to UN Security Council for nuclear non-compliance",
+          "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-08",
-          "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-          "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+          "date": "2026-09-09",
+          "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+          "summary": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "ashemag/human-atlas（⭐ 2458）",
+          "title": "ashemag/human-atlas（⭐ 2839）",
           "summary": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
           "source": "GitHub",
           "url": "https://github.com/ashemag/human-atlas"
         },
         {
           "date": "GitHub Trending",
-          "title": "Albert-Weasker/niubigeo（⭐ 2166）",
-          "summary": "Open-source AI brand visibility and competitor reports",
-          "source": "GitHub",
-          "url": "https://github.com/Albert-Weasker/niubigeo"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Rion-Wu-tech/wechat-intelligence-hub（⭐ 1939）",
+          "title": "Rion-Wu-tech/wechat-intelligence-hub（⭐ 2021）",
           "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
           "source": "GitHub",
           "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
         },
         {
           "date": "GitHub Trending",
-          "title": "EverettFish/holo-card-studio（⭐ 1125）",
-          "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+          "title": "openai/NavierStokesAndEuler（⭐ 1554）",
+          "summary": "Lean certificates accompanying Navier-Stokes and Euler results",
           "source": "GitHub",
-          "url": "https://github.com/EverettFish/holo-card-studio"
+          "url": "https://github.com/openai/NavierStokesAndEuler"
         },
         {
           "date": "GitHub Trending",
-          "title": "vinzdg/codenotch（⭐ 1104）",
+          "title": "vinzdg/codenotch（⭐ 1287）",
           "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
           "source": "GitHub",
           "url": "https://github.com/vinzdg/codenotch"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "EverettFish/holo-card-studio（⭐ 1237）",
+          "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+          "source": "GitHub",
+          "url": "https://github.com/EverettFish/holo-card-studio"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#西藏吉隆泥石流 #西藏吉隆泥石流 #吉隆泥石流 #吉隆泥石流 #吉隆口岸泥石流 #吉隆口岸泥石流 #西藏日喀则泥石流 #西藏日喀則泥石流 #西藏日喀则吉隆县 ",
-      "video": "皇马辱华：一场泥石流，如何变成中共的舆论武器？皇馬辱華：一場泥石流，如何變成中共的輿論武器？夸克说|誇克说",
-      "date": "2026-09-05",
-      "url": "https://www.youtube.com/watch?v=FpEd-JzCTz8"
+      "desc": "#袁腾飞润美国 #袁騰飛潤美國 #袁腾飞润美 #袁騰飛潤美 #袁腾飞去美国 #袁騰飛去美國 #袁腾飞赴美 #袁騰飛赴美 #袁腾飞骂文昭 #袁騰飛罵文昭 #袁腾飞",
+      "video": "袁腾飞为何痛骂文昭？为什么他能润，崔永元却走不了？他真的是大外宣吗？袁騰飛爲何痛罵文昭？爲什麼他能潤，崔永元卻走不了？他真的是大外宣嗎？夸克说|誇克説",
+      "date": "2026-09-09",
+      "url": "https://www.youtube.com/watch?v=fK6FU5k6sz8"
     },
     {
       "channel": "May Fit",
