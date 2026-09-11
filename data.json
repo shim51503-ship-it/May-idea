@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-10",
-  "generatedAt": "2026-09-10T00:43:16.562Z",
+  "issueDate": "2026-09-11",
+  "generatedAt": "2026-09-11T00:41:37.151Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks\n【金融新闻】中美省州投资贸易合作交流活动在厦门举办\n【中国新闻】美国共和党举行中期选举大会 特朗普将发表演讲\n【世界新闻】Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement"
+    "body": "【AI 最新信息】Jensen Huang explains why Nvidia will grow an astounding 70% next year\n【金融新闻】中汽协：8月新能源汽车国内销量比例达65.7%\n【中国新闻】香港推出最新烟盒设计规定：更新12款健康忠告图像\n【世界新闻】Coach crash kills several people in Swiss Alps"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-09-10",
-          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-          "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+          "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+          "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
         },
         {
-          "date": "2026-09-09",
-          "title": "OpenAI adds a prominent AI doomer to its board of directors",
-          "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+          "date": "2026-09-10",
+          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+          "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
+          "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
         },
         {
-          "date": "2026-09-09",
-          "title": "Massachusetts hits data centers with new clean power rules",
-          "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+          "date": "2026-09-10",
+          "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+          "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
+          "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
         },
         {
-          "date": "2026-09-09",
-          "title": "Apple Watch&#8217;s new AI features are normalizing the idea that technology is always listening",
-          "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about co",
+          "date": "2026-09-10",
+          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+          "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as compet",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
+          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
         },
         {
-          "date": "2026-09-09",
-          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-          "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+          "date": "2026-09-10",
+          "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
+          "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-09",
-          "title": "中美省州投资贸易合作交流活动在厦门举办",
-          "summary": "中新社厦门9月10日电 (吴冠标)作为第二十六届中国国际投资贸易洽谈会活动之一的中美省州投资贸易合作交流活动9日在厦门举办，多名美国商界人士表示，省州、城市、企业等地方层面合作展现出较强韧性，美企对华投资仍在持续落地。",
+          "date": "2026-09-11",
+          "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
+          "summary": "中新网北京9月11日电(记者 张尼)中国汽车工业协会10日发布2026年8月汽车工业产销情况。数据显示，8月，新能源汽车国内销量比例达到65.7%。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693667.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml"
         },
         {
-          "date": "2026-09-09",
-          "title": "“一天车都没练，退费却被扣1000多元” 驾校怎样退费才合理？",
-          "summary": "“公司规定扣掉以后就退这么多。”深圳市某驾校工作人员在微信中回复万女士。万女士给某驾校交了4000元报名费，申请退费却被扣除近2000元，而她连方向盘都没摸过，实在无法接受扣费结果，万女士由此开启了维权之路。",
+          "date": "2026-09-10",
+          "title": "2026全球工业互联网大会在沈阳闭幕",
+          "summary": "中新社沈阳9月10日电 (记者 李晛)2026全球工业互联网大会10日在沈阳闭幕。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693662.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694354.shtml"
         },
         {
-          "date": "2026-09-09",
-          "title": "商务部：中方反对美方在人工智能领域推行科技霸权、搞算力垄断",
-          "summary": "中新社北京9月9日电 (记者 尹倩芸)就美国发布中国人工智能企业对美蒸馏活动相关网络安全公告，中国商务部新闻发言人9日表示，美方相关公告，是其在人工智能领域推行科技霸权、搞算力垄断，打压竞争的又一明证。中方对此坚决反对。",
+          "date": "2026-09-10",
+          "title": "广西南宁举办第十一届创业大赛 聚焦AI与乡村振兴",
+          "summary": "中新网南宁9月10日电(记者 黄艳梅)广西南宁市人力资源和社会保障局10日介绍，2026年南宁市第十一届创业大赛暨第四届广西农民工创业大赛选拔赛报名近日正式启动。大赛以“AI智创邕城 筑梦乡村振兴”为主题，旨在以赛促创、以赛聚才，进一步激发社会创业创新活力，为南宁高质量发展和乡村全面振兴注入新动能。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694329.shtml"
         },
         {
-          "date": "2026-09-09",
-          "title": "报告：北京、上海、香港位列世界旅游城市综合排名前十",
-          "summary": "中新社北京9月9日电 (记者 徐婧)2026年中国国际服务贸易交易会9日在北京开幕，2026世界旅游合作与发展大会当天举行。会上发布的《世界旅游城市发展报告(2025-2026)》显示，北京、上海、香港位列世界旅游城市综合排名前十。",
+          "date": "2026-09-10",
+          "title": "北京两项医疗AI成果在非洲投入临床应用",
+          "summary": "中新社北京9月10日电 (记者 徐婧)2026年中国国际服务贸易交易会正在北京举行。记者从10日举行的健康卫生服务专题创新成果发布活动上获悉，国家人工智能应用中试基地(医疗)·北京(“中试基地”)孵化的两项医疗AI成果在非洲投入临床应用。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693654.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694328.shtml"
         },
         {
-          "date": "2026-09-09",
-          "title": "2026年服贸会开幕 新科技点亮趣味生活",
-          "summary": "中新社北京9月9日电 题：2026年服贸会开幕 新科技点亮趣味生活",
+          "date": "2026-09-10",
+          "title": "国家发改委面对面回应美企关切 释放中国开放信号",
+          "summary": "中新社北京9月10日电 题：国家发改委面对面回应美企关切 释放中国开放信号",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694327.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-10",
-          "title": "美国共和党举行中期选举大会 特朗普将发表演讲",
-          "summary": "中新网9月10日电 据美联社报道，当地时间9月9日，美国共和党中期选举大会在得克萨斯州达拉斯举行，大会为期两天，美国总统特朗普将发表演讲。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693693.shtml"
-        },
-        {
-          "date": "2026-09-10",
-          "title": "2026年“最美教师”名单公布",
-          "summary": "中央宣传部、教育部9月10日联合发布2026年“最美教师”。",
+          "date": "2026-09-11",
+          "title": "香港推出最新烟盒设计规定：更新12款健康忠告图像",
+          "summary": "香港推出最新烟盒设计规定：外包装不得有纹理，统一采用暗啡色，删除焦油、尼古丁标志，更新12款健康忠告图像",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-10/10693687.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694398.shtml"
         },
         {
-          "date": "2026-09-09",
-          "title": "特朗普专机应急滑梯因误操作弹出",
-          "summary": "当地时间9月9日下午，美国总统特朗普从白宫乘坐“海军陆战队一号”直升机前往位于马里兰州的安德鲁斯联合基地，准备搭乘“空军一号”专机前往达拉斯出席共和党中期选举集会。不过在他抵达时，“空军一号”的应急滑梯却处于弹出的状态。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693680.shtml"
-        },
-        {
-          "date": "2026-09-09",
-          "title": "美媒：特朗普专机突发状况 应急滑梯因误操作意外弹出",
-          "summary": "中新网9月10日电 据美国广播公司(ABC)报道，当地时间9月9日下午，美国总统特朗普准备搭乘“空军一号”专机前往达拉斯出席共和党中期选举集会之际，该专机的应急滑梯却处于弹出状态。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693679.shtml"
-        },
-        {
-          "date": "2026-09-09",
-          "title": "全球公共安全合作论坛（连云港）2026年大会举行 王小洪出席并致辞",
-          "summary": "新华社南京9月9日电(记者董雪、朱国亮)全球公共安全合作论坛(连云港)2026年大会9日在江苏连云港举行，国务委员、公安部部长王小洪出席并致辞。",
+          "date": "2026-09-11",
+          "title": "让跨国电诈无处遁形！中国发起成立国际打击电信网络诈骗联盟",
+          "summary": "近年来，电信网络诈骗已发展成典型的跨国犯罪形式，仅凭一国之力难以彻底根除。为破解跨国反诈治理瓶颈，9月10日，国际打击电信网络诈骗联盟成立大会在江苏连云港举行。来自46个创始国、34个观摩国以及联合国、国际刑警组织等4个国际组织的代表齐聚一堂，共同见证这一历史性时刻。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-10/10693676.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694397.shtml"
+        },
+        {
+          "date": "2026-09-10",
+          "title": "也门打起来了！全球两大航运“油管”同时动荡",
+          "summary": "也门打起来了！战火逼近曼德海峡！全球两大航运“油管”同时动荡，后果很严重 | 国际早察",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694385.shtml"
+        },
+        {
+          "date": "2026-09-10",
+          "title": "深海科考新突破！我国在西太平洋海底锁定一处大型高温热液区",
+          "summary": "近日，由清华大学、中国地质调查局青岛海洋地质研究所、上海交通大学等单位开展的西太平洋海底热液活动与资源联合科考航次取得重要突破。科考团队依托自主研制的设备在西太平洋新锁定一处大型高温活动热液区，初步证实具备大规模多金属硫化物资源潜力。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694384.shtml"
+        },
+        {
+          "date": "2026-09-10",
+          "title": "全力救治善后 深入排查隐患——各地各部门贯彻落实习近平总书记重要指示精神坚决守牢安全发展底线",
+          "summary": "新华社北京9月10日电 题：全力救治善后 深入排查隐患——各地各部门贯彻落实习近平总书记重要指示精神坚决守牢安全发展底线",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694377.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-09",
-          "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-          "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlem",
+          "date": "2026-09-10",
+          "title": "Coach crash kills several people in Swiss Alps",
+          "summary": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-09",
-          "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-          "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands ent",
+          "date": "2026-09-10",
+          "title": "Man jailed after threatening to kill son's teacher in French village",
+          "summary": "The father had threatened to behead a female primary school teacher near Toulouse.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-09",
-          "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-          "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+          "date": "2026-09-10",
+          "title": "More than 20 children killed in DR Congo school fire",
+          "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-09",
-          "title": "Iran referred to UN Security Council for nuclear non-compliance",
-          "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+          "date": "2026-09-10",
+          "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+          "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-09",
-          "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
-          "summary": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+          "date": "2026-09-10",
+          "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+          "summary": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "ashemag/human-atlas（⭐ 2839）",
+          "title": "ashemag/human-atlas（⭐ 3077）",
           "summary": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
           "source": "GitHub",
           "url": "https://github.com/ashemag/human-atlas"
         },
         {
           "date": "GitHub Trending",
-          "title": "Rion-Wu-tech/wechat-intelligence-hub（⭐ 2021）",
-          "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-          "source": "GitHub",
-          "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "openai/NavierStokesAndEuler（⭐ 1554）",
+          "title": "openai/NavierStokesAndEuler（⭐ 1716）",
           "summary": "Lean certificates accompanying Navier-Stokes and Euler results",
           "source": "GitHub",
           "url": "https://github.com/openai/NavierStokesAndEuler"
         },
         {
           "date": "GitHub Trending",
-          "title": "vinzdg/codenotch（⭐ 1287）",
+          "title": "sdli1995/dlssg_for_sm86（⭐ 1416）",
+          "summary": "Here is a dlssg for RTX30 Series GPU ",
+          "source": "GitHub",
+          "url": "https://github.com/sdli1995/dlssg_for_sm86"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "vinzdg/codenotch（⭐ 1386）",
           "summary": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
           "source": "GitHub",
           "url": "https://github.com/vinzdg/codenotch"
         },
         {
           "date": "GitHub Trending",
-          "title": "EverettFish/holo-card-studio（⭐ 1237）",
+          "title": "EverettFish/holo-card-studio（⭐ 1334）",
           "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
           "source": "GitHub",
           "url": "https://github.com/EverettFish/holo-card-studio"
@@ -215,17 +215,17 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "宇树科技上市首日市值一度冲上4449亿元，但我们距离真正的具身智能究竟还有多远？这期节目从宇树的估值、研发投入、政府采购和产业政策出发，看看中国机器人究竟是真的",
-      "video": "宇树科技4500亿市值背后，是硬科技，还是一场被催熟的泡沫？ | 人形机器人 | 宇树机器人 | 王兴兴 | 宇树股价 | 机器人运动会 | 特斯拉 | Optimus | 老周横眉",
-      "date": "2026-09-07",
-      "url": "https://www.youtube.com/watch?v=W3Xmb6GSwXw"
+      "desc": "星宇股份批量劝退应届生之后，被年轻人告到了欧盟，也把一场普通的劳资纠纷变成了全国热点。奔驰、大众等海外客户迅速介入，公司也随即道歉并调整补偿方案。但这件事真正值",
+      "video": "踢到铁板：107名年轻人把中国上市公司告到欧盟，这是中国劳工权益的胜利吗？ | 星宇股份 | 应届毕业生 | 劳动仲裁 | 牛马 | 青年失业 | 内卷  | 企业剥削 | 周晓萍 | 老周横眉",
+      "date": "2026-09-10",
+      "url": "https://www.youtube.com/watch?v=ThW1foByftE"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "一篇《我的女友景甜》，瞬間引爆全網。3000萬彩禮、豪華旅行、官司交鋒，景甜強勢反擊，輿論竟在24小時內徹底翻轉。這場看似男女感情糾紛的背後，究竟還藏著多少故事",
-      "video": "景甜反擊戰：從6000字「小作文」到大咖和媒體下場，這場流量遊戲為何突然反轉？【文昭思緒飛揚572】",
-      "date": "2026-09-06",
-      "url": "https://www.youtube.com/watch?v=o08Nn-k7-Y8"
+      "desc": "晴空無雨，一堵巨大的水牆卻突然衝出喜馬拉雅。42名工程師被困地下，183米救援距離竟成天塹。更令人不安的是，同樣的風險，會不會出現在雅魯藏布江？",
+      "video": "數百人被困水電隧洞：雅魯藏布萬億工程，能躲過尼泊爾式的泥石流嗎？【文昭思緒飛揚573】",
+      "date": "2026-09-11",
+      "url": "https://www.youtube.com/watch?v=56tMNX5ZIS0"
     },
     {
       "channel": "夸克说",
