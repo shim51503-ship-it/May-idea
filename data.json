@@ -1,15 +1,29 @@
 {
-  "issueDate": "2026-09-12",
-  "generatedAt": "2026-09-12T00:48:37.426Z",
+  "issueDate": "2026-09-13",
+  "generatedAt": "2026-09-13T00:30:14.037Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data\n【金融新闻】172-year-old bank sees 400% upside for 'federal bank' token\n【中国新闻】习言道｜金砖国家集聚“大富矿”、“大工厂”、“大市场”\n【世界新闻】Arrest made over the death of black woman found hanged from tree"
+    "body": "【AI 最新信息】OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026\n【金融新闻】新大众文艺，如何走进“猜你喜欢”\n【中国新闻】曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位\n【世界新闻】Trump's comments on a united Ireland may have targeted audience across the Atlantic"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-09-12",
+          "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+        },
+        {
+          "date": "2026-09-12",
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+        },
         {
           "date": "2026-09-11",
           "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -30,20 +44,6 @@
           "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
-        },
-        {
-          "date": "2026-09-11",
-          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-          "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
-        },
-        {
-          "date": "2026-09-11",
-          "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-          "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-11",
-          "title": "172-year-old bank sees 400% upside for 'federal bank' token",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html"
+          "date": "2026-09-12",
+          "title": "新大众文艺，如何走进“猜你喜欢”",
+          "summary": "算法推荐、观众反馈与创作者的选择，共同参与作品传播",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695510.shtml"
         },
         {
-          "date": "2026-09-11",
-          "title": "百公里11.5度电！2030年新能源汽车什么样？",
-          "summary": "工业和信息化部等九部门今天(11日)发布了《智能网联新能源汽车产业发展“十五五”规划》。规划中提到“纯电动乘用车平均电能消耗量达到每百公里11.5千瓦时左右”、“高速公路、城市快速路、部分城市道路等场景实现高度自动驾驶”、国内市场新能源乘用车新车总销量占比达到70%……可以说目标相当明确。",
+          "date": "2026-09-12",
+          "title": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+          "summary": "表演功底深厚、满足游客“追星打卡”需求，但成本更高，热度周期有限",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695088.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695507.shtml"
         },
         {
-          "date": "2026-09-11",
-          "title": "服务消费如何高质量发展？多方共探新路径",
-          "summary": "中新网北京9月11日电 (钟余)2026年中国国际服务贸易交易会主题论坛——2026国际消费趋势大会暨服务消费高质量发展论坛日前在首钢园举行，本次论坛以“开放合作共赢 创新服务消费”为主题，围绕内外市场融通、服务消费创新等议题展开研讨，探寻服务消费高质量发展新路径。",
+          "date": "2026-09-12",
+          "title": "当物流装上“AI引擎” 如何跑出新速度？",
+          "summary": "网上下单、家门口收快递，早已融入普通人的日常生活。但亿万件包裹如何实现高效流转、精准投递？在服贸会上，记者发现，人工智能正在改变传统物流的运行逻辑。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695074.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml"
         },
         {
-          "date": "2026-09-11",
-          "title": "lululemon营收下滑，千元瑜伽裤不香了？",
-          "summary": "中新网北京9月11日电(记者 谢艺观)一条瑜伽裤卖到近千元，照样有人抢着买——lululemon，一个在高净值人群口中高频出现的品牌，最近被浇了冷水：最新一季财报全球收入下滑、71岁的创始人奇普·威尔逊被外媒曝出正与妻子办理离婚手续。",
+          "date": "2026-09-12",
+          "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
+          "summary": "中新社上海9月12日电 (范宇斌)距离9月22日启幕的第48届世界技能大赛(简称“世赛”)仅剩10天，各项筹备工作已进入收官冲刺阶段。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695070.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml"
         },
         {
-          "date": "2026-09-11",
-          "title": "中越跨境游持续升温 云南铁路河口北站服务越南旅客增幅明显",
-          "summary": "中新网昆明9月11日电 (王一翔 刘昊亮)据中国铁路昆明局集团有限公司消息，今年前8个月，位于中国与越南边境的云南铁路河口北站累计服务越南跨境旅客达9.4万人次，较2025年同期的7.4万人次增长2万人次，增幅达27%，中越跨境游热度持续攀升。",
+          "date": "2026-09-12",
+          "title": "多国好物跨越疆界 服贸会联通中外互惠共享",
+          "summary": "中新社北京9月12日电 (记者 周兆军 陈杭)埃塞俄比亚咖啡、斯里兰卡红茶、叙利亚阿勒颇古皂……正在北京举行的2026年中国国际服务贸易交易会上，第十一届“炫彩世界”文化展示交流活动集中展示环球风物，将不同国家的风味、工艺与文化带到前来参观的各国观众身边。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695050.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml"
         }
       ]
     },
@@ -94,38 +94,38 @@
       "items": [
         {
           "date": "2026-09-12",
-          "title": "习言道｜金砖国家集聚“大富矿”、“大工厂”、“大市场”",
-          "summary": "应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695109.shtml"
+          "title": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
+          "summary": "近期，也门胡塞武装夺取了多个红海地区的关键战略要地并与沙特持续发生激烈冲突，曼德海峡局势骤然趋紧。在12日胡塞武装称将就沙特在过去48小时对也门多地发动的129次袭击进行报复后，胡塞武装于13日凌晨发声称打击沙特的多处军事设施。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695508.shtml"
         },
         {
           "date": "2026-09-12",
-          "title": "法国2026年经济增长预期下调至0.5%",
-          "summary": "中新社巴黎9月11日电 (记者 李洋)法国经济与财政部长莱斯屈尔当地时间11日表示，2026年法国经济增长预期由0.7%下调至0.5%。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695106.shtml"
+          "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
+          "summary": "中新社莫斯科9月12日电 9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科夫，中俄友好、和平与发展委员会俄方主席季托夫会见，并访问伊尔库茨克州。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695502.shtml"
         },
         {
-          "date": "2026-09-11",
-          "title": "中国代表团参加联合国粮农组织渔业委员会第37届会议",
-          "summary": "中新社罗马9月11日电 联合国粮农组织渔业委员会第37届会议9月7日至11日在意大利首都罗马召开，中国代表团参加此次会议。",
+          "date": "2026-09-12",
+          "title": "英国朴茨茅斯现两阵营对峙示威",
+          "summary": "中新社伦敦9月12日电 (记者 欧阳开宇)当地时间9月12日，英国南部港口城市朴茨茅斯市中心爆发大规模对立示威游行，反移民集会与反种族主义游行同期上演。当地警方启用新警务管控权力，实施示威蒙面禁令，当日共拘捕三人。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695100.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695504.shtml"
         },
         {
-          "date": "2026-09-11",
-          "title": "特朗普在五角大楼纪念“9·11”事件25周年",
-          "summary": "中新社华盛顿9月11日电 (记者 陈孟统)“25年过去了，自2001年9月11日恐怖袭击以来，一代人已经走过，但时间并没有冲淡那一天的意义。”美国总统特朗普11日在五角大楼出席“9·11”事件25周年纪念仪式时说。",
+          "date": "2026-09-12",
+          "title": "中国园林“多景园”建成25周年庆祝活动在德国曼海姆举行",
+          "summary": "中新社柏林9月12日电 中国园林“多景园”建成25周年庆祝活动12日在德国曼海姆市路易森公园举行，中德各界代表100余人参加。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695101.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695505.shtml"
         },
         {
-          "date": "2026-09-11",
-          "title": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压",
-          "summary": "当地时间9月11日，胡塞武装发表声明，公布其近日军事行动成果；当天晚些时候，沙特能源部发表声明称，该国东西输油管道遭袭后预防性关闭。",
+          "date": "2026-09-12",
+          "title": "旅美大熊猫“青宝”迎来五周岁生日 大批美国民众来庆生",
+          "summary": "中新社华盛顿9月12日电 (记者 沙晗汀)旅居华盛顿美国国家动物园的大熊猫“青宝”当地时间12日迎来五周岁生日。这是“青宝”在美国度过的第二个生日。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695097.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695506.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-09-12",
-          "title": "Arrest made over the death of black woman found hanged from tree",
-          "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+          "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+          "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-11",
-          "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-          "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+          "date": "2026-09-12",
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-11",
-          "title": "Passenger train derails in France leaving at least 44 injured",
-          "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+          "date": "2026-09-12",
+          "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+          "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-11",
-          "title": "Six Nigerians accused of romance scams to be extradited to the US",
-          "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+          "date": "2026-09-12",
+          "title": "Fire at nursing home in Chile kills 16 residents",
+          "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-11",
-          "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-          "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+          "date": "2026-09-12",
+          "title": "Bulgaria investigates fire at weapons site that owner calls sabotage",
+          "summary": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "openai/NavierStokesAndEuler（⭐ 1777）",
-          "summary": "Lean certificates accompanying Navier-Stokes and Euler results",
-          "source": "GitHub",
-          "url": "https://github.com/openai/NavierStokesAndEuler"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "sdli1995/dlssg_for_sm86（⭐ 1766）",
+          "title": "sdli1995/dlssg_for_sm86（⭐ 2175）",
           "summary": "Here is a dlssg for RTX30 Series GPU ",
           "source": "GitHub",
           "url": "https://github.com/sdli1995/dlssg_for_sm86"
         },
         {
           "date": "GitHub Trending",
-          "title": "EverettFish/holo-card-studio（⭐ 1443）",
+          "title": "openai/NavierStokesAndEuler（⭐ 1824）",
+          "summary": "Lean certificates accompanying Navier-Stokes and Euler results",
+          "source": "GitHub",
+          "url": "https://github.com/openai/NavierStokesAndEuler"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "EverettFish/holo-card-studio（⭐ 1468）",
           "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
           "source": "GitHub",
           "url": "https://github.com/EverettFish/holo-card-studio"
         },
         {
           "date": "GitHub Trending",
-          "title": "Edge0-AI/Edge0（⭐ 1346）",
+          "title": "Edge0-AI/Edge0（⭐ 1445）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/Edge0-AI/Edge0"
         },
         {
           "date": "GitHub Trending",
-          "title": "Vincentwei1021/anything2explainer（⭐ 934）",
+          "title": "Vincentwei1021/anything2explainer（⭐ 1060）",
           "summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
           "source": "GitHub",
           "url": "https://github.com/Vincentwei1021/anything2explainer"
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "晴空無雨，一堵巨大的水牆卻突然衝出喜馬拉雅。42名工程師被困地下，183米救援距離竟成天塹。更令人不安的是，同樣的風險，會不會出現在雅魯藏布江？",
-      "video": "數百人被困水電隧洞：雅魯藏布萬億工程，能躲過尼泊爾式的泥石流嗎？【文昭思緒飛揚573】",
-      "date": "2026-09-11",
-      "url": "https://www.youtube.com/watch?v=56tMNX5ZIS0"
+      "desc": "兩顆原子彈落下、蘇聯突然參戰，日本竟然還沒有決定投降！六巨頭3比3僵持，天皇兩度「聖斷」，最後一夜甚至爆發皇宮政變：如果他們真的搶到了那盤錄音，二戰會不會是另一",
+      "video": "日本投降前9天：明明已無路可走，為何還差點打下去？【文昭思緒飛揚574】",
+      "date": "2026-09-13",
+      "url": "https://www.youtube.com/watch?v=HcOu67kdC60"
     },
     {
       "channel": "夸克说",
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "📩 免费订阅《李厂长AI周报》：https://join.lichangzhang.ai/ 每周帮你筛掉AI噪音，只留下真正值得关注的新闻、工具和工作流，几分",
-      "video": "GPT-6 Astra 終於來了, 真的很好用！(8個應用案例)",
-      "date": "2026-09-06",
-      "url": "https://www.youtube.com/watch?v=L6q_-OkOrKE"
+      "desc": "🔗 GPT-6 vs Fable 5.1 指令詞下载链接：https://join.lichangzhang.ai/vs   📩 免费订阅《李厂长AI周报》",
+      "video": "我對比了GPT-6 Astra 和 Fable 5.1，結果出乎意料！",
+      "date": "2026-09-12",
+      "url": "https://www.youtube.com/watch?v=O664KLj_L9M"
     }
   ]
 }
