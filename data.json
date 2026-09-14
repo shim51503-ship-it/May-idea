@@ -1,15 +1,29 @@
 {
-  "issueDate": "2026-09-13",
-  "generatedAt": "2026-09-13T00:30:14.037Z",
+  "issueDate": "2026-09-14",
+  "generatedAt": "2026-09-14T00:32:47.383Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026\n【金融新闻】新大众文艺，如何走进“猜你喜欢”\n【中国新闻】曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位\n【世界新闻】Trump's comments on a united Ireland may have targeted audience across the Atlantic"
+    "body": "【AI 最新信息】What&#8217;s behind the AI industry’s latest warnings of doom?\n【金融新闻】AI网球机器人走进球场 又一国产“神器”全球下单！\n【中国新闻】特朗普暗示要复制“委内瑞拉剧本”：“留在伊朗、掌控石油”\n【世界新闻】Swedish party blocs tied after Sunday vote, projections say"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-09-13",
+          "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
+          "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+        },
+        {
+          "date": "2026-09-13",
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around t",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+        },
         {
           "date": "2026-09-12",
           "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
@@ -30,20 +44,6 @@
           "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
-        },
-        {
-          "date": "2026-09-11",
-          "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
-          "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of o",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
-        },
-        {
-          "date": "2026-09-11",
-          "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
-          "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-12",
-          "title": "新大众文艺，如何走进“猜你喜欢”",
-          "summary": "算法推荐、观众反馈与创作者的选择，共同参与作品传播",
+          "date": "2026-09-13",
+          "title": "AI网球机器人走进球场 又一国产“神器”全球下单！",
+          "summary": "又一国产“神器”，全球下单！",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695510.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695884.shtml"
         },
         {
-          "date": "2026-09-12",
-          "title": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
-          "summary": "表演功底深厚、满足游客“追星打卡”需求，但成本更高，热度周期有限",
+          "date": "2026-09-13",
+          "title": "从三笔账读懂平陆运河",
+          "summary": "9月3日，平陆运河举行船舶通航全要素综合演练，为正式通航作最后准备。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695507.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695880.shtml"
         },
         {
-          "date": "2026-09-12",
-          "title": "当物流装上“AI引擎” 如何跑出新速度？",
-          "summary": "网上下单、家门口收快递，早已融入普通人的日常生活。但亿万件包裹如何实现高效流转、精准投递？在服贸会上，记者发现，人工智能正在改变传统物流的运行逻辑。",
+          "date": "2026-09-13",
+          "title": "“词元贷”给人工智能企业“贷”来什么？",
+          "summary": "广东率先探索以词元消耗等数字化指标授信——",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695874.shtml"
         },
         {
-          "date": "2026-09-12",
-          "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
-          "summary": "中新社上海9月12日电 (范宇斌)距离9月22日启幕的第48届世界技能大赛(简称“世赛”)仅剩10天，各项筹备工作已进入收官冲刺阶段。",
+          "date": "2026-09-13",
+          "title": "词元出海怎么实现？服贸会上有答案",
+          "summary": "词元出海怎么实现？服贸会上有答案(财米油盐)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695873.shtml"
         },
         {
-          "date": "2026-09-12",
-          "title": "多国好物跨越疆界 服贸会联通中外互惠共享",
-          "summary": "中新社北京9月12日电 (记者 周兆军 陈杭)埃塞俄比亚咖啡、斯里兰卡红茶、叙利亚阿勒颇古皂……正在北京举行的2026年中国国际服务贸易交易会上，第十一届“炫彩世界”文化展示交流活动集中展示环球风物，将不同国家的风味、工艺与文化带到前来参观的各国观众身边。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml"
+          "date": "2026-09-13",
+          "title": "49-year-old clothing chain closing stores as its shoppers shrink",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/small-business/articles/49-old-clothing-chain-closing-153300913.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-12",
-          "title": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
-          "summary": "近期，也门胡塞武装夺取了多个红海地区的关键战略要地并与沙特持续发生激烈冲突，曼德海峡局势骤然趋紧。在12日胡塞武装称将就沙特在过去48小时对也门多地发动的129次袭击进行报复后，胡塞武装于13日凌晨发声称打击沙特的多处军事设施。",
+          "date": "2026-09-14",
+          "title": "特朗普暗示要复制“委内瑞拉剧本”：“留在伊朗、掌控石油”",
+          "summary": "特朗普暗示要复制“委内瑞拉剧本”：“留在伊朗、掌控石油” | 国际早察",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695508.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695895.shtml"
         },
         {
-          "date": "2026-09-12",
-          "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
-          "summary": "中新社莫斯科9月12日电 9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科夫，中俄友好、和平与发展委员会俄方主席季托夫会见，并访问伊尔库茨克州。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695502.shtml"
+          "date": "2026-09-13",
+          "title": "伊拉克一化肥厂发生氨气泄漏事故 已致2死90人呼吸困难",
+          "summary": "中新网9月14日电 综合伊拉克媒体等外媒报道，当地时间9月13日，伊拉克民防部门表示，位于该国南部巴士拉省豪尔祖拜尔地区的一家化肥公司发生氨气泄漏事故，目前已造成2人死亡，另有90人出现呼吸困难症状。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695886.shtml"
         },
         {
-          "date": "2026-09-12",
-          "title": "英国朴茨茅斯现两阵营对峙示威",
-          "summary": "中新社伦敦9月12日电 (记者 欧阳开宇)当地时间9月12日，英国南部港口城市朴茨茅斯市中心爆发大规模对立示威游行，反移民集会与反种族主义游行同期上演。当地警方启用新警务管控权力，实施示威蒙面禁令，当日共拘捕三人。",
+          "date": "2026-09-13",
+          "title": "特朗普再挺“爱尔兰统一” 引发英国政界反对",
+          "summary": "中新网9月14日电 综合路透社等外媒报道，当地时间13日，美国总统特朗普再次表示，他支持北爱尔兰脱离英国，“与爱尔兰统一”。此前一天，特朗普发表类似言论，已引发英国政界强烈反对。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695504.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695879.shtml"
         },
         {
-          "date": "2026-09-12",
-          "title": "中国园林“多景园”建成25周年庆祝活动在德国曼海姆举行",
-          "summary": "中新社柏林9月12日电 中国园林“多景园”建成25周年庆祝活动12日在德国曼海姆市路易森公园举行，中德各界代表100余人参加。",
+          "date": "2026-09-13",
+          "title": "突发：伊朗锡里克地区传出数声爆炸巨响",
+          "summary": "中新网9月14日电 据伊朗媒体当地时间14日凌晨消息，伊朗霍尔木兹甘省锡里克地区传出数声爆炸巨响。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695505.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695878.shtml"
         },
         {
-          "date": "2026-09-12",
-          "title": "旅美大熊猫“青宝”迎来五周岁生日 大批美国民众来庆生",
-          "summary": "中新社华盛顿9月12日电 (记者 沙晗汀)旅居华盛顿美国国家动物园的大熊猫“青宝”当地时间12日迎来五周岁生日。这是“青宝”在美国度过的第二个生日。",
+          "date": "2026-09-13",
+          "title": "特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？",
+          "summary": "中新网9月14日电 综合路透社、美联社等外媒报道，当地时间13日，美国总统特朗普在访问爱尔兰时重申，美伊战事预计将在2026年结束，时间点可能在11月美国国会中期选举之后。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695506.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-14/10695877.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-12",
-          "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-          "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+          "date": "2026-09-13",
+          "title": "Swedish party blocs tied after Sunday vote, projections say",
+          "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-12",
-          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+          "date": "2026-09-13",
+          "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+          "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-12",
-          "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-          "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+          "date": "2026-09-13",
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+          "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-12",
-          "title": "Fire at nursing home in Chile kills 16 residents",
-          "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+          "date": "2026-09-13",
+          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+          "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-12",
-          "title": "Bulgaria investigates fire at weapons site that owner calls sabotage",
-          "summary": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+          "date": "2026-09-13",
+          "title": "Questions mount over what an AI 'slowdown' would look like",
+          "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "sdli1995/dlssg_for_sm86（⭐ 2175）",
-          "summary": "Here is a dlssg for RTX30 Series GPU ",
-          "source": "GitHub",
-          "url": "https://github.com/sdli1995/dlssg_for_sm86"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "openai/NavierStokesAndEuler（⭐ 1824）",
+          "title": "openai/NavierStokesAndEuler（⭐ 1856）",
           "summary": "Lean certificates accompanying Navier-Stokes and Euler results",
           "source": "GitHub",
           "url": "https://github.com/openai/NavierStokesAndEuler"
         },
         {
           "date": "GitHub Trending",
-          "title": "EverettFish/holo-card-studio（⭐ 1468）",
-          "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-          "source": "GitHub",
-          "url": "https://github.com/EverettFish/holo-card-studio"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Edge0-AI/Edge0（⭐ 1445）",
+          "title": "Edge0-AI/Edge0（⭐ 1599）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/Edge0-AI/Edge0"
         },
         {
           "date": "GitHub Trending",
-          "title": "Vincentwei1021/anything2explainer（⭐ 1060）",
+          "title": "Vincentwei1021/anything2explainer（⭐ 1166）",
           "summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
           "source": "GitHub",
           "url": "https://github.com/Vincentwei1021/anything2explainer"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "gazijarin/itsgiving（⭐ 815）",
+          "summary": "Express yourself in meetings (with memes, of course).",
+          "source": "GitHub",
+          "url": "https://github.com/gazijarin/itsgiving"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "sumimakito/Mac-Duo（⭐ 791）",
+          "summary": "Wish you could bring the iPhone Duo effect to your MacBook?",
+          "source": "GitHub",
+          "url": "https://github.com/sumimakito/Mac-Duo"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#ChinaGT #ChinaGT #ChinaGT上海站 #ChinaGT上海站 #中国超级跑车锦标赛 #中國超級跑車錦標賽 #上海赛车场事故 #上海賽車場事",
-      "video": "吴彦祖炮轰中国GT：中国为什么什么都能做成草台班子？吳彥祖砲轟中國GT：中國爲什麼什麼都能做成草颱班子？ 夸克说",
-      "date": "2026-09-11",
-      "url": "https://www.youtube.com/watch?v=m1YK1-hqBjE"
+      "desc": "#长沙4岁男童事件 #長沙4歲男童事件 #长沙餐厅幼童纠纷 #長沙餐廳幼童糾紛 #4岁男童肢体接触争议 #4歲男童肢體接觸爭議 #长沙幼童纠纷 #長沙幼童糾紛 ",
+      "video": "长沙4岁男童事件：一个四岁孩子，怎么成了性别战争的牺牲品？一個四歲孩子，怎麼成了性別戰爭的犧牲品？夸克说|誇克说",
+      "date": "2026-09-13",
+      "url": "https://www.youtube.com/watch?v=LRqKBdlXYV4"
     },
     {
       "channel": "May Fit",
