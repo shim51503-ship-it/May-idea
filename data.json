@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-15",
-  "generatedAt": "2026-09-15T01:04:31.992Z",
+  "issueDate": "2026-09-16",
+  "generatedAt": "2026-09-16T00:54:02.076Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;\n【金融新闻】站在“十字路口”的摩天大楼何以“向上”生长\n【中国新闻】视频画报｜习近平主席引领“大金砖合作”开启新篇章\n【世界新闻】Legendary costume designer Bob Mackie dies aged 87"
+    "body": "【AI 最新信息】We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says\n【金融新闻】预售房“封顶才能卖” 商品房销售制度开启新变革\n【中国新闻】肯尼迪中心董事会决定立即关闭该中心 特朗普发声\n【世界新闻】Five takeaways from Canada's push to woo the world's richest investors"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-14",
-          "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
-          "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+          "date": "2026-09-16",
+          "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
+          "summary": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+          "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
         },
         {
-          "date": "2026-09-14",
-          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-          "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+          "date": "2026-09-15",
+          "title": "The AI data center boom is colliding with cities scarred by big industry",
+          "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+          "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
         },
         {
-          "date": "2026-09-14",
-          "title": "With iOS 27, I&#8217;m actually using Siri again",
-          "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+          "date": "2026-09-15",
+          "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+          "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, a",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+          "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
         },
         {
-          "date": "2026-09-14",
-          "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-          "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Si",
+          "date": "2026-09-15",
+          "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+          "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
         },
         {
-          "date": "2026-09-14",
-          "title": "Microsoft&#8217;s new AI &#8216;code of conduct&#8217; tells models not to hack systems or trick humans",
-          "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and acceler",
+          "date": "2026-09-15",
+          "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+          "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
+          "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-14",
-          "title": "站在“十字路口”的摩天大楼何以“向上”生长",
-          "summary": "当“摊大饼”的增量时代落幕，以场景重构空间、以运营激活价值、以生态定义竞争力的场景城市，正成为城市高质量发展的核心命题与未来方向。当已有的楼宇长出产业、留住“大脑”、接住人，那些向上的力量将在钢筋水泥之间重新生长。",
+          "date": "2026-09-15",
+          "title": "预售房“封顶才能卖” 商品房销售制度开启新变革",
+          "summary": "预售房“封顶才能卖”；有序推进商品住房现房销售——",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696503.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697153.shtml"
         },
         {
-          "date": "2026-09-14",
-          "title": "从原创突破到产业应用 青年专家共话基础研究与未来产业",
-          "summary": "中新网杭州9月14日电(鲍梦妮)日前，由浙江省科学技术协会、浙江省经济和信息化厅指导的“科学咖啡馆·未来产业专场”活动在杭州举办。",
+          "date": "2026-09-15",
+          "title": "美巨头喊AI“降速”，安全之外还在盘算什么",
+          "summary": "美国AI巨头，忽然不约而同地谈起“降速”。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696470.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697131.shtml"
         },
         {
-          "date": "2026-09-14",
-          "title": "National specialty clothing chain closing all its stores",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html"
+          "date": "2026-09-15",
+          "title": "以智博会为窗口 解码浙江智能物联产业突围路径",
+          "summary": "中新网宁波9月15日电(蓝伊旎 罗德慧)近日，第十六届智慧城市与智能经济博览会(下称“智博会”)在浙江宁波举办。在浙江智能物联产业展区，国产推理GPU、存储颗粒等硬核芯片集中亮相，工业大模型、纺织智能机器人演绎制造业变革，桌面AI工作站、水陆两栖球形特种机器人等前沿智能终端同台展示。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697125.shtml"
         },
         {
-          "date": "2026-09-14",
-          "title": "广州规划至2030年海洋生产总值突破7300亿元",
-          "summary": "中新社广州9月14日电 (记者 王华)广州市政府14日发布的《广州市海洋经济发展“十五五”规划》(以下简称“规划”)提出，到2030年广州海洋生产总值突破7300亿元(人民币，下同)。",
+          "date": "2026-09-15",
+          "title": "专家聚焦国货供应链产业未来核心方向：数字化、平台化、订单化",
+          "summary": "中新网北京9月15日电 (记者 陈康亮)2026“国货新字号·消费新趋势”主题推介会暨国行供应链订单集采选品发布会15日在北京举办。会议期间，行业专家、企业代表围绕“聚力大宗集采 筑牢质量根基 共筑商贸流通新生态”对话交流，为供应链产业升级建言献策；与会专家一致认为数字化、平台化、订单化是国货供应链产业未来核心发展方向",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696430.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697121.shtml"
         },
         {
-          "date": "2026-09-14",
-          "title": "香港二季度本地居民总收入同比增长7.9%",
-          "summary": "中新社香港9月14日电 香港特区政府统计处14日公布，2026年第二季度以当时市价计算的香港本地居民总收入较上年同期增长7.9%，达9661亿港元。",
+          "date": "2026-09-15",
+          "title": "粤发布服装行业高质量发展行动计划 推动岭南时尚产业跃升",
+          "summary": "中新社广州9月15日电 (记者 蔡敏婕)“2026广东时装周——秋季”15日在广州番禺开幕。《广东省服装行业高质量发展行动计划(2026—2028年)》亦于当日发布，明确广东纺织服装产业发展路径，推动产业由规模扩张向质量效益转型。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696431.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697111.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-15",
-          "title": "视频画报｜习近平主席引领“大金砖合作”开启新篇章",
-          "summary": "视频：视频画报｜习近平主席引领“大金砖合作”开启新篇章来源：新华社",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696516.shtml"
-        },
-        {
-          "date": "2026-09-15",
-          "title": "始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实",
-          "summary": "新华社北京9月14日电 题：始终把人民生命安全放在首位——以习近平同志为核心的党中央坚强领导科学指挥2026年防汛抗洪救灾纪实",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696515.shtml"
-        },
-        {
-          "date": "2026-09-15",
-          "title": "威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？",
-          "summary": "中新网9月15日电 综合英国广播公司(BBC)、英国《卫报》等外媒报道，当地时间9月14日，英国威尔士、苏格兰和北爱尔兰三地政党领导人在威尔士首府卡迪夫会晤，并签署谅解备忘录，呼吁英国政府为可能到来的宪政变革做好准备，并承认各方“自决权”。",
+          "date": "2026-09-16",
+          "title": "肯尼迪中心董事会决定立即关闭该中心 特朗普发声",
+          "summary": "中新网9月16日电 据美国全国公共广播电台(NPR)报道，美国肯尼迪表演艺术中心董事会当地时间15日投票决定立即关闭该中心进行翻修。投票前不久，一名联邦法官发布命令，驳回肯尼迪中心董事会将美国总统特朗普的名字再次添加到中心大楼外墙上的提议。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-15/10696513.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml"
         },
         {
           "date": "2026-09-15",
-          "title": "“嫦娥六号”月背月壤样品落户维也纳联合国总部",
-          "summary": "当地时间9月14日，中国国家航天局、常驻维也纳联合国和其他国际组织代表团和联合国外空司在维也纳联合国总部举行交接仪式，中国将“嫦娥六号”采集的人类首批月背月壤样品正式赠送联合国。维也纳各国际组织负责人、各国常驻代表、维也纳各界代表等400余名嘉宾出席。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-15/10696507.shtml"
+          "title": "特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”",
+          "summary": "特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸” | 国际早察",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml"
         },
         {
-          "date": "2026-09-14",
-          "title": "特朗普说伊朗“急着谈判”，伊朗却与阿曼敲定了海峡航线共识！带来这些连锁反应",
-          "summary": "特朗普说伊朗“急着谈判”，伊朗却转头与阿曼敲定了海峡航线共识！油价和无人机都“炸”了 | 国际早察",
+          "date": "2026-09-15",
+          "title": "南非确定首批绿色氢能项目 明年启动建设",
+          "summary": "中新社约翰内斯堡9月15日电 (记者 孙翔)南非15日在非洲绿色氢能峰会期间宣布，该国已确定首批6个绿色氢能优先项目。其中，电制可持续航空燃料项目计划于2027年第一季度开工建设。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-15/10696504.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml"
+        },
+        {
+          "date": "2026-09-15",
+          "title": "俄外交部：日本应铭记九一八历史 “再军事化”必蹈覆辙",
+          "summary": "中新社莫斯科9月15日电 在九一八事变爆发95周年之际，俄罗斯外交部发言人扎哈罗娃15日表示，这段历史不仅我们要铭记，日本人自己更应该铭记。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml"
+        },
+        {
+          "date": "2026-09-15",
+          "title": "新一代通信网，带来哪些智能时代新体验？",
+          "summary": "“‘六张网’建设刷新‘进度条’”系列报道之四",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697152.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-14",
-          "title": "Legendary costume designer Bob Mackie dies aged 87",
-          "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+          "date": "2026-09-15",
+          "title": "Five takeaways from Canada's push to woo the world's richest investors",
+          "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-14",
-          "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
-          "summary": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+          "date": "2026-09-15",
+          "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+          "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-14",
-          "title": "Africa's richest man launches continent's biggest share sale",
-          "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+          "date": "2026-09-15",
+          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+          "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-14",
-          "title": "Flash flooding interrupts half-marathon, submerges cars",
-          "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the fl",
+          "date": "2026-09-15",
+          "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+          "summary": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-14",
-          "title": "Body of missing runner found in South Africa",
-          "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+          "date": "2026-09-15",
+          "title": "South African president vows justice as more women's bodies found near Johannesburg",
+          "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "sumimakito/Mac-Duo（⭐ 870）",
-          "summary": "Wish you could bring the iPhone Duo effect to your MacBook?",
-          "source": "GitHub",
-          "url": "https://github.com/sumimakito/Mac-Duo"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "kruzovic7/ai-data-extractor（⭐ 811）",
-          "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-          "source": "GitHub",
-          "url": "https://github.com/kruzovic7/ai-data-extractor"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Chuloo/mural（⭐ 802）",
+          "title": "Chuloo/mural（⭐ 1045）",
           "summary": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
           "source": "GitHub",
           "url": "https://github.com/Chuloo/mural"
         },
         {
           "date": "GitHub Trending",
-          "title": "yifanzhang-pro/recurrent-looped-tranformer（⭐ 744）",
+          "title": "sumimakito/Mac-Duo（⭐ 912）",
+          "summary": "Wish you could bring the iPhone Duo effect to your MacBook?",
+          "source": "GitHub",
+          "url": "https://github.com/sumimakito/Mac-Duo"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "yifanzhang-pro/recurrent-looped-tranformer（⭐ 825）",
           "summary": "Official Project Page for Recurrent Looped Transformer (RLT)",
           "source": "GitHub",
           "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
         },
         {
           "date": "GitHub Trending",
-          "title": "angusdevgo/IDM_Pro_Tool（⭐ 697）",
-          "summary": "IDM激活与状态维护工具",
+          "title": "kruzovic7/ai-data-extractor（⭐ 822）",
+          "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
           "source": "GitHub",
-          "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
+          "url": "https://github.com/kruzovic7/ai-data-extractor"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "ai-sucks-butt/ai-sucks-butt（⭐ 728）",
+          "summary": "If you think AI sucks, star the repo.",
+          "source": "GitHub",
+          "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#长沙4岁男童事件 #長沙4歲男童事件 #长沙餐厅幼童纠纷 #長沙餐廳幼童糾紛 #4岁男童肢体接触争议 #4歲男童肢體接觸爭議 #长沙幼童纠纷 #長沙幼童糾紛 ",
-      "video": "长沙4岁男童事件：一个四岁孩子，怎么成了性别战争的牺牲品？一個四歲孩子，怎麼成了性別戰爭的犧牲品？夸克说|誇克说",
-      "date": "2026-09-13",
-      "url": "https://www.youtube.com/watch?v=LRqKBdlXYV4"
+      "desc": "#国防动员法 #國防動員法 #国防动员法修订 #國防動員法修訂 #国防动员法10月1日 #國防動員法10月1日 #后备兵员 #後備兵員 #普通人会被征召吗 #普",
+      "video": "国防动员法修订：所有成年男性都可能被征召吗？國防動員法修訂：所有成年男性都可能被徵召嗎？夸克说|誇克说",
+      "date": "2026-09-15",
+      "url": "https://www.youtube.com/watch?v=n_FPjDQFJ14"
     },
     {
       "channel": "May Fit",
