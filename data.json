@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-16",
-  "generatedAt": "2026-09-16T00:54:02.076Z",
+  "issueDate": "2026-09-17",
+  "generatedAt": "2026-09-17T00:57:59.720Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says\n【金融新闻】预售房“封顶才能卖” 商品房销售制度开启新变革\n【中国新闻】肯尼迪中心董事会决定立即关闭该中心 特朗普发声\n【世界新闻】Five takeaways from Canada's push to woo the world's richest investors"
+    "body": "【AI 最新信息】Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?\n【金融新闻】夏粮收购接近尾声 秋粮收购准备基本就绪\n【中国新闻】美联储时隔三年多重启加息\n【世界新闻】US interest rates raised for first time in three years"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-09-16",
-          "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
-          "summary": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker",
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+          "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversig",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+          "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
         },
         {
-          "date": "2026-09-15",
-          "title": "The AI data center boom is colliding with cities scarred by big industry",
-          "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted ",
+          "date": "2026-09-16",
+          "title": "After accusations of selling &#8216;perv glasses,&#8217; Meta prepares to sell a pair without a camera",
+          "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
+          "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
         },
         {
-          "date": "2026-09-15",
-          "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-          "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, a",
+          "date": "2026-09-16",
+          "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+          "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+          "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
         },
         {
-          "date": "2026-09-15",
-          "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "date": "2026-09-16",
+          "title": "Your AI agents can now control your Google Home devices",
+          "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review c",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
         },
         {
-          "date": "2026-09-15",
-          "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-          "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+          "date": "2026-09-16",
+          "title": "Anthropic merges Claude chat and Cowork in one interface",
+          "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+          "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-15",
-          "title": "预售房“封顶才能卖” 商品房销售制度开启新变革",
-          "summary": "预售房“封顶才能卖”；有序推进商品住房现房销售——",
+          "date": "2026-09-17",
+          "title": "夏粮收购接近尾声 秋粮收购准备基本就绪",
+          "summary": "人民网北京9月16日电 (记者李栋)国家粮食和物资储备局最新发布数据，目前，夏粮旺季收购接近尾声，秋粮收购各项准备工作已基本就绪。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697153.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697980.shtml"
         },
         {
-          "date": "2026-09-15",
-          "title": "美巨头喊AI“降速”，安全之外还在盘算什么",
-          "summary": "美国AI巨头，忽然不约而同地谈起“降速”。",
+          "date": "2026-09-17",
+          "title": "要脱保的新能源车，换电池还是换车？专家分析",
+          "summary": "纯电车型动力电池单件零整比均值为44.17%——",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697131.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697973.shtml"
         },
         {
-          "date": "2026-09-15",
-          "title": "以智博会为窗口 解码浙江智能物联产业突围路径",
-          "summary": "中新网宁波9月15日电(蓝伊旎 罗德慧)近日，第十六届智慧城市与智能经济博览会(下称“智博会”)在浙江宁波举办。在浙江智能物联产业展区，国产推理GPU、存储颗粒等硬核芯片集中亮相，工业大模型、纺织智能机器人演绎制造业变革，桌面AI工作站、水陆两栖球形特种机器人等前沿智能终端同台展示。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697125.shtml"
+          "date": "2026-09-16",
+          "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html"
         },
         {
-          "date": "2026-09-15",
-          "title": "专家聚焦国货供应链产业未来核心方向：数字化、平台化、订单化",
-          "summary": "中新网北京9月15日电 (记者 陈康亮)2026“国货新字号·消费新趋势”主题推介会暨国行供应链订单集采选品发布会15日在北京举办。会议期间，行业专家、企业代表围绕“聚力大宗集采 筑牢质量根基 共筑商贸流通新生态”对话交流，为供应链产业升级建言献策；与会专家一致认为数字化、平台化、订单化是国货供应链产业未来核心发展方向",
+          "date": "2026-09-16",
+          "title": "中国四部门：2030年农业保险体系总体达到国际先进水平",
+          "summary": "中新社北京9月16日电 (记者 赵建华)中国财政部、农业农村部、国家金融监管总局、国家林草局等四部门近日联合印发《关于加快农业保险高质量发展的实施方案》(下称方案)。方案明确：到2030年，基本建成与农户风险保障需求相契合、与现代农业发展相适应、中央与地方分工负责的多层次农业保险体系，总体达到国际先进水平。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697121.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697945.shtml"
         },
         {
-          "date": "2026-09-15",
-          "title": "粤发布服装行业高质量发展行动计划 推动岭南时尚产业跃升",
-          "summary": "中新社广州9月15日电 (记者 蔡敏婕)“2026广东时装周——秋季”15日在广州番禺开幕。《广东省服装行业高质量发展行动计划(2026—2028年)》亦于当日发布，明确广东纺织服装产业发展路径，推动产业由规模扩张向质量效益转型。",
+          "date": "2026-09-16",
+          "title": "中方在世贸组织公共论坛深入探讨产业政策作用与影响",
+          "summary": "中新社日内瓦9月16日电 世界贸易组织2026年公共论坛正在日内瓦举行，中方16日举办“产业政策与全球经贸治理协同”专题研讨会，深入探讨产业政策的作用和影响，分析全球产业政策发展新趋势及新挑战，并就如何推进产业政策规则全球协同提出意见建议。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697111.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697944.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
+          "date": "2026-09-17",
+          "title": "美联储时隔三年多重启加息",
+          "summary": "中新社纽约9月16日电 (记者 王帆)美国联邦储备委员会16日宣布，将联邦基金利率目标区间上调25个基点到3.75%至4%之间的水平。这是美联储自2023年7月以来首次加息，符合市场普遍预期。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697967.shtml"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "美众议院通过一项针对俄罗斯和伊朗的制裁法案",
+          "summary": "中新网9月17日电 据美国全国广播公司(NBC)报道，美国国会众议院当地时间16日投票通过了一项旨在对俄罗斯和伊朗实施制裁的重要法案，并将其提交给美国总统特朗普签署。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697971.shtml"
+        },
+        {
           "date": "2026-09-16",
-          "title": "肯尼迪中心董事会决定立即关闭该中心 特朗普发声",
-          "summary": "中新网9月16日电 据美国全国公共广播电台(NPR)报道，美国肯尼迪表演艺术中心董事会当地时间15日投票决定立即关闭该中心进行翻修。投票前不久，一名联邦法官发布命令，驳回肯尼迪中心董事会将美国总统特朗普的名字再次添加到中心大楼外墙上的提议。",
+          "title": "美国众议院投票认定爱泼斯坦商业伙伴布莱克藐视国会",
+          "summary": "中新网9月17日电 据英国广播公司(BBC)16日报道，美国国会众议院投票表决，认定亿万富翁莱昂·布莱克藐视国会，因其无视与爱泼斯坦案调查相关的国会传票。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697966.shtml"
         },
         {
-          "date": "2026-09-15",
-          "title": "特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”",
-          "summary": "特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸” | 国际早察",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml"
-        },
-        {
-          "date": "2026-09-15",
-          "title": "南非确定首批绿色氢能项目 明年启动建设",
-          "summary": "中新社约翰内斯堡9月15日电 (记者 孙翔)南非15日在非洲绿色氢能峰会期间宣布，该国已确定首批6个绿色氢能优先项目。其中，电制可持续航空燃料项目计划于2027年第一季度开工建设。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml"
-        },
-        {
-          "date": "2026-09-15",
-          "title": "俄外交部：日本应铭记九一八历史 “再军事化”必蹈覆辙",
-          "summary": "中新社莫斯科9月15日电 在九一八事变爆发95周年之际，俄罗斯外交部发言人扎哈罗娃15日表示，这段历史不仅我们要铭记，日本人自己更应该铭记。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml"
-        },
-        {
-          "date": "2026-09-15",
-          "title": "新一代通信网，带来哪些智能时代新体验？",
-          "summary": "“‘六张网’建设刷新‘进度条’”系列报道之四",
+          "date": "2026-09-16",
+          "title": "AI“劫持”网站并偷建“地下论坛” 国安部披露细节",
+          "summary": "“劫持”网站并偷建“地下论坛”，竟然是AI干的！",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-16/10697152.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-17/10697964.shtml"
+        },
+        {
+          "date": "2026-09-16",
+          "title": "特朗普签署备忘录要求将加拿大产品排除出美政府采购计划",
+          "summary": "中新网9月17日电 据加拿大广播公司报道，白宫方面表示，美国总统特朗普当地时间16日签署了一份总统备忘录，要求识别联邦政府民用采购中原产于加拿大的产品，并采取措施将其移除。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697959.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-15",
-          "title": "Five takeaways from Canada's push to woo the world's richest investors",
-          "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
+          "date": "2026-09-17",
+          "title": "US interest rates raised for first time in three years",
+          "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-15",
-          "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-          "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+          "date": "2026-09-17",
+          "title": "EU chief backs plan for Canada to become 'associate member'",
+          "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-15",
-          "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-          "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+          "date": "2026-09-16",
+          "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+          "summary": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-15",
-          "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
-          "summary": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
+          "date": "2026-09-16",
+          "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
+          "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-15",
-          "title": "South African president vows justice as more women's bodies found near Johannesburg",
-          "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
+          "date": "2026-09-16",
+          "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+          "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Chuloo/mural（⭐ 1045）",
+          "title": "ai-sucks-butt/ai-sucks-butt（⭐ 1808）",
+          "summary": "If you think AI sucks, star the repo.",
+          "source": "GitHub",
+          "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Chuloo/mural（⭐ 1256）",
           "summary": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
           "source": "GitHub",
           "url": "https://github.com/Chuloo/mural"
         },
         {
           "date": "GitHub Trending",
-          "title": "sumimakito/Mac-Duo（⭐ 912）",
-          "summary": "Wish you could bring the iPhone Duo effect to your MacBook?",
-          "source": "GitHub",
-          "url": "https://github.com/sumimakito/Mac-Duo"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "yifanzhang-pro/recurrent-looped-tranformer（⭐ 825）",
+          "title": "yifanzhang-pro/recurrent-looped-tranformer（⭐ 859）",
           "summary": "Official Project Page for Recurrent Looped Transformer (RLT)",
           "source": "GitHub",
           "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
         },
         {
           "date": "GitHub Trending",
-          "title": "kruzovic7/ai-data-extractor（⭐ 822）",
+          "title": "kruzovic7/ai-data-extractor（⭐ 826）",
           "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
           "source": "GitHub",
           "url": "https://github.com/kruzovic7/ai-data-extractor"
         },
         {
           "date": "GitHub Trending",
-          "title": "ai-sucks-butt/ai-sucks-butt（⭐ 728）",
-          "summary": "If you think AI sucks, star the repo.",
+          "title": "zjwzcx/Awesome-Astra-Embodied-AI（⭐ 765）",
+          "summary": "GPT-6 Astra for embodied AI and robotics.",
           "source": "GitHub",
-          "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+          "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
         }
       ]
     }
