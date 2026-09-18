@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-17",
-  "generatedAt": "2026-09-17T00:57:59.720Z",
+  "issueDate": "2026-09-18",
+  "generatedAt": "2026-09-18T00:54:08.069Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?\n【金融新闻】夏粮收购接近尾声 秋粮收购准备基本就绪\n【中国新闻】美联储时隔三年多重启加息\n【世界新闻】US interest rates raised for first time in three years"
+    "body": "【AI 最新信息】Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;\n【金融新闻】德国凯傲高级副总裁：中国为物理人工智能应用提供重要支持\n【中国新闻】勿忘今日，勿忘九一八！\n【世界新闻】This Olympic river has 500 crocodiles in it - but that's not the main concern"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-16",
-          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-          "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversig",
+          "date": "2026-09-17",
+          "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
+          "summary": "The round values the data center giant at $30.9 billion.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
         },
         {
-          "date": "2026-09-16",
-          "title": "After accusations of selling &#8216;perv glasses,&#8217; Meta prepares to sell a pair without a camera",
-          "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+          "date": "2026-09-17",
+          "title": "Google DeepMind launches institute to widen the AGI debate",
+          "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always a",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
+          "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
         },
         {
-          "date": "2026-09-16",
-          "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-          "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+          "date": "2026-09-17",
+          "title": "PrismML hopes its tiny LLM will change how we all use AI",
+          "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
+          "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
         },
         {
-          "date": "2026-09-16",
-          "title": "Your AI agents can now control your Google Home devices",
-          "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review c",
+          "date": "2026-09-17",
+          "title": "The FAA&#8217;s plan to fix air traffic? $875M worth of AI",
+          "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
         },
         {
-          "date": "2026-09-16",
-          "title": "Anthropic merges Claude chat and Cowork in one interface",
-          "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+          "date": "2026-09-17",
+          "title": "The fix for rogue AI agents could be more AI",
+          "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volu",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+          "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-17",
-          "title": "夏粮收购接近尾声 秋粮收购准备基本就绪",
-          "summary": "人民网北京9月16日电 (记者李栋)国家粮食和物资储备局最新发布数据，目前，夏粮旺季收购接近尾声，秋粮收购各项准备工作已基本就绪。",
+          "date": "2026-09-18",
+          "title": "德国凯傲高级副总裁：中国为物理人工智能应用提供重要支持",
+          "summary": "中新社柏林9月17日电 (记者 马秀秀)德国凯傲(KION)集团软件与数字化高级副总裁史蒂夫·本特利(Steve Bentley)近日在柏林一场活动中对记者表示，中国丰富、活跃且发展迅速的产业生态，为物理人工智能在物流行业的应用提供了重要支持。扩大在中国的布局，是凯傲战略的一部分。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697980.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698634.shtml"
         },
         {
           "date": "2026-09-17",
-          "title": "要脱保的新能源车，换电池还是换车？专家分析",
-          "summary": "纯电车型动力电池单件零整比均值为44.17%——",
+          "title": "上合组织绿色产业发展合作区6个项目签约超29亿元",
+          "summary": "中新网天津9月17日电 (记者 周亚强)中国—上海合作组织绿色产业发展合作区6个重点项目16日在天津签约，总金额超29亿元。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10697973.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698591.shtml"
         },
         {
-          "date": "2026-09-16",
-          "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html"
+          "date": "2026-09-17",
+          "title": "2026北京民营企业百强系列榜单发布",
+          "summary": "中新社北京9月17日电 (记者 杜燕)2026北京民营企业百强系列榜单17日揭晓，包括“北京民营企业百强”一个主榜单，以及科技创新百强、文化产业百强、专精特新百强3个分榜单，并首次发布未来产业先锋榜。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698600.shtml"
         },
         {
-          "date": "2026-09-16",
-          "title": "中国四部门：2030年农业保险体系总体达到国际先进水平",
-          "summary": "中新社北京9月16日电 (记者 赵建华)中国财政部、农业农村部、国家金融监管总局、国家林草局等四部门近日联合印发《关于加快农业保险高质量发展的实施方案》(下称方案)。方案明确：到2030年，基本建成与农户风险保障需求相契合、与现代农业发展相适应、中央与地方分工负责的多层次农业保险体系，总体达到国际先进水平。",
+          "date": "2026-09-17",
+          "title": "第四届中国航协（CATA）航空大会在北京开幕",
+          "summary": "中新网北京9月17日电 (记者 刘文文)第四届中国航协(CATA)航空大会17日在北京开幕。大会为期3天，以“人工智能与民航融合发展”为年度主题，首次将人工智能作为主线贯穿开幕式、行业论坛和专业展览三大单元。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697945.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698584.shtml"
         },
         {
-          "date": "2026-09-16",
-          "title": "中方在世贸组织公共论坛深入探讨产业政策作用与影响",
-          "summary": "中新社日内瓦9月16日电 世界贸易组织2026年公共论坛正在日内瓦举行，中方16日举办“产业政策与全球经贸治理协同”专题研讨会，深入探讨产业政策的作用和影响，分析全球产业政策发展新趋势及新挑战，并就如何推进产业政策规则全球协同提出意见建议。",
+          "date": "2026-09-17",
+          "title": "浙江省涉外营商环境评价报告在杭州发布",
+          "summary": "中新网杭州9月17日电(蓝伊旎)9月17日，《浙江省涉外营商环境评价报告2025/2026》(下称“报告”)发布解读活动在杭州举办。报告显示，受访的在浙外资企业对12项涉外营商环境评价指标的整体满意度达4.45分(5分制)，较上年度提升了0.22分。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697944.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698582.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-17",
-          "title": "美联储时隔三年多重启加息",
-          "summary": "中新社纽约9月16日电 (记者 王帆)美国联邦储备委员会16日宣布，将联邦基金利率目标区间上调25个基点到3.75%至4%之间的水平。这是美联储自2023年7月以来首次加息，符合市场普遍预期。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697967.shtml"
-        },
-        {
-          "date": "2026-09-17",
-          "title": "美众议院通过一项针对俄罗斯和伊朗的制裁法案",
-          "summary": "中新网9月17日电 据美国全国广播公司(NBC)报道，美国国会众议院当地时间16日投票通过了一项旨在对俄罗斯和伊朗实施制裁的重要法案，并将其提交给美国总统特朗普签署。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697971.shtml"
-        },
-        {
-          "date": "2026-09-16",
-          "title": "美国众议院投票认定爱泼斯坦商业伙伴布莱克藐视国会",
-          "summary": "中新网9月17日电 据英国广播公司(BBC)16日报道，美国国会众议院投票表决，认定亿万富翁莱昂·布莱克藐视国会，因其无视与爱泼斯坦案调查相关的国会传票。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697966.shtml"
-        },
-        {
-          "date": "2026-09-16",
-          "title": "AI“劫持”网站并偷建“地下论坛” 国安部披露细节",
-          "summary": "“劫持”网站并偷建“地下论坛”，竟然是AI干的！",
+          "date": "2026-09-18",
+          "title": "勿忘今日，勿忘九一八！",
+          "summary": "1931年9月18日",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-17/10697964.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-18/10698647.shtml"
         },
         {
-          "date": "2026-09-16",
-          "title": "特朗普签署备忘录要求将加拿大产品排除出美政府采购计划",
-          "summary": "中新网9月17日电 据加拿大广播公司报道，白宫方面表示，美国总统特朗普当地时间16日签署了一份总统备忘录，要求识别联邦政府民用采购中原产于加拿大的产品，并采取措施将其移除。",
+          "date": "2026-09-18",
+          "title": "人类数学遭遇至暗时刻？",
+          "summary": "中国新闻周刊记者：周游",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-17/10697959.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698641.shtml"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手",
+          "summary": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手|国际早察",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698637.shtml"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "高市内阁人事“洗牌”，政治加速右转，日本民众开始担忧“发动战争的可能性增加”",
+          "summary": "中新网9月18日电(管娜)一连两日，日本首相、自民党总裁高市早苗接连对自民党高层进行人事调整并改组内阁。舆论认为，此次人事洗牌，暗藏深层政治考量。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698636.shtml"
+        },
+        {
+          "date": "2026-09-17",
+          "title": "沙特称拦截一架胡塞武装发射的无人机 碎片坠落致1死2伤",
+          "summary": "中新网9月18日电 据美联社报道，沙特阿拉伯民防总局当地时间17日称，也门胡塞武装发射的一架无人机在沙特西部城市塔伊夫被拦截并摧毁，产生的碎片坠落造成1人死亡、2人受伤。声明没有说明此事发生的具体时间。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698633.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-09-17",
-          "title": "US interest rates raised for first time in three years",
-          "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+          "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+          "summary": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-09-17",
-          "title": "EU chief backs plan for Canada to become 'associate member'",
-          "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+          "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+          "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-16",
-          "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-          "summary": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+          "date": "2026-09-17",
+          "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+          "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-16",
-          "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
-          "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+          "date": "2026-09-17",
+          "title": "Canadians welcome closer ties with Europe as tensions simmer with US",
+          "summary": "Toronto residents tell the BBC they are excited by the possibility of working and studying in the EU.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-16",
-          "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
-          "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
+          "date": "2026-09-17",
+          "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+          "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "ai-sucks-butt/ai-sucks-butt（⭐ 1808）",
-          "summary": "If you think AI sucks, star the repo.",
+          "title": "browser-use/jev-ultrafast（⭐ 2102）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+          "url": "https://github.com/browser-use/jev-ultrafast"
         },
         {
           "date": "GitHub Trending",
-          "title": "Chuloo/mural（⭐ 1256）",
+          "title": "Chuloo/mural（⭐ 1317）",
           "summary": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
           "source": "GitHub",
           "url": "https://github.com/Chuloo/mural"
         },
         {
           "date": "GitHub Trending",
-          "title": "yifanzhang-pro/recurrent-looped-tranformer（⭐ 859）",
+          "title": "yifanzhang-pro/recurrent-looped-tranformer（⭐ 870）",
           "summary": "Official Project Page for Recurrent Looped Transformer (RLT)",
           "source": "GitHub",
           "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
         },
         {
           "date": "GitHub Trending",
-          "title": "kruzovic7/ai-data-extractor（⭐ 826）",
-          "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-          "source": "GitHub",
-          "url": "https://github.com/kruzovic7/ai-data-extractor"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "zjwzcx/Awesome-Astra-Embodied-AI（⭐ 765）",
+          "title": "zjwzcx/Awesome-Astra-Embodied-AI（⭐ 825）",
           "summary": "GPT-6 Astra for embodied AI and robotics.",
           "source": "GitHub",
           "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "TheoLeeCJ/openjev（⭐ 784）",
+          "summary": "Can we run something like Jev on a 3090 at home?",
+          "source": "GitHub",
+          "url": "https://github.com/TheoLeeCJ/openjev"
         }
       ]
     }
@@ -215,24 +215,24 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "星宇股份批量劝退应届生之后，被年轻人告到了欧盟，也把一场普通的劳资纠纷变成了全国热点。奔驰、大众等海外客户迅速介入，公司也随即道歉并调整补偿方案。但这件事真正值",
-      "video": "踢到铁板：107名年轻人把中国上市公司告到欧盟，这是中国劳工权益的胜利吗？ | 星宇股份 | 应届毕业生 | 劳动仲裁 | 牛马 | 青年失业 | 内卷  | 企业剥削 | 周晓萍 | 老周横眉",
-      "date": "2026-09-10",
-      "url": "https://www.youtube.com/watch?v=ThW1foByftE"
+      "desc": "和稀泥和纠缠式维权是如何相互滋养的？这期节目不谈男女对立，而是借这件事聊一个更普遍的问题：为什么越会纠缠、越会闹的人，反而越容易得到让步？当基层更在意“有没有后",
+      "video": "长沙4岁男童事件：纠缠式维权惹众怒！中国基层为何总是和稀泥？ | 老周横眉",
+      "date": "2026-09-17",
+      "url": "https://www.youtube.com/watch?v=BEeve_8th_w"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "兩顆原子彈落下、蘇聯突然參戰，日本竟然還沒有決定投降！六巨頭3比3僵持，天皇兩度「聖斷」，最後一夜甚至爆發皇宮政變：如果他們真的搶到了那盤錄音，二戰會不會是另一",
-      "video": "日本投降前9天：明明已無路可走，為何還差點打下去？【文昭思緒飛揚574】",
-      "date": "2026-09-13",
-      "url": "https://www.youtube.com/watch?v=HcOu67kdC60"
+      "desc": "一群十幾歲的年輕人，住百元日租房，幾個人分一頓飯，白天睡覺，晚上卻準時去夜店狂歡。他們為什麼寧願過這種生活，也不願去上班？這一集，我們走進中國「精神小伙、精神小",
+      "video": "白天挨餓、夜裡狂歡：中國底層少女為何不上班，又一代代困在這種生活裡？【文昭思緒飛揚575】",
+      "date": "2026-09-18",
+      "url": "https://www.youtube.com/watch?v=NK4NO7oK1xw"
     },
     {
       "channel": "夸克说",
-      "desc": "#国防动员法 #國防動員法 #国防动员法修订 #國防動員法修訂 #国防动员法10月1日 #國防動員法10月1日 #后备兵员 #後備兵員 #普通人会被征召吗 #普",
-      "video": "国防动员法修订：所有成年男性都可能被征召吗？國防動員法修訂：所有成年男性都可能被徵召嗎？夸克说|誇克说",
-      "date": "2026-09-15",
-      "url": "https://www.youtube.com/watch?v=n_FPjDQFJ14"
+      "desc": "#任正非全家外逃 #任正非全家外逃 #任正非跑路 #任正非跑路傳聞 #任正非失联 #任正非失聯 #任正非出逃 #任正非出逃傳聞 #华为任正非 #華為任正非 #华",
+      "video": "任正非全家外逃？华为最大谣言是怎么编出来的？任正非全家外逃？華為最大謠言是怎麼編出來的？夸克说|誇克说",
+      "date": "2026-09-17",
+      "url": "https://www.youtube.com/watch?v=cIwTFE3IkkY"
     },
     {
       "channel": "May Fit",
@@ -243,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "哈喽大家好，我是盈夏，专注研究如何用最新科技让普通人也能轻松搞钱。  GPT-6 Astra 终于来了。  这次我最关注的，不是它跑分又提高了多少，也不是发布会",
-      "video": "GPT-6 Astra 最强AI王炸来袭！9个真实案例 太疯狂了.... Chatgpt AI赚钱 AI工具 AI教学 AI副业 AI搞钱 AI小白 AI教程 实操 实测 最新教程",
-      "date": "2026-09-11",
-      "url": "https://www.youtube.com/watch?v=yFgdnMVBcdk"
+      "desc": "https://www.flova.ai/?refCode=9QPHW3KX 哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  我只用了不到10",
+      "video": "用AI做广告，竟然一条变现$600+？太疯狂了   完整工作流实测！AI赚钱 AI副业 AI广告 AI工具 AI工作流 教学 AI变现 AI视频 创业 副业 Fiverr 零基础",
+      "date": "2026-09-17",
+      "url": "https://www.youtube.com/watch?v=JTi8UAcfb_M"
     },
     {
       "channel": "李厂长来了",
