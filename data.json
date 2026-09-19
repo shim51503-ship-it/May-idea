@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-18",
-  "generatedAt": "2026-09-18T00:54:08.069Z",
+  "issueDate": "2026-09-19",
+  "generatedAt": "2026-09-19T00:48:35.478Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;\n【金融新闻】德国凯傲高级副总裁：中国为物理人工智能应用提供重要支持\n【中国新闻】勿忘今日，勿忘九一八！\n【世界新闻】This Olympic river has 500 crocodiles in it - but that's not the main concern"
+    "body": "【AI 最新信息】A startup that builds other startups raised $100M, and is all-in on physical AI\n【金融新闻】我国航空物流发展规模持续创新高\n【中国新闻】普京对新版国家武器装备计划提出要求\n【世界新闻】Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-17",
-          "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
-          "summary": "The round values the data center giant at $30.9 billion.",
+          "date": "2026-09-18",
+          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
         },
         {
-          "date": "2026-09-17",
-          "title": "Google DeepMind launches institute to widen the AGI debate",
-          "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always a",
+          "date": "2026-09-18",
+          "title": "Anthropic is operating a lab that conducts biology experiments",
+          "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
         },
         {
-          "date": "2026-09-17",
-          "title": "PrismML hopes its tiny LLM will change how we all use AI",
-          "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+          "date": "2026-09-18",
+          "title": "AI hallucination nearly triggers US military operation",
+          "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
         },
         {
-          "date": "2026-09-17",
-          "title": "The FAA&#8217;s plan to fix air traffic? $875M worth of AI",
-          "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+          "date": "2026-09-18",
+          "title": "Anthropic&#8217;s first embedded evaluator is … Accenture?",
+          "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
         },
         {
-          "date": "2026-09-17",
-          "title": "The fix for rogue AI agents could be more AI",
-          "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volu",
+          "date": "2026-09-18",
+          "title": "World model companies are keeping a lot of secrets",
+          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
+          "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
+          "date": "2026-09-19",
+          "title": "我国航空物流发展规模持续创新高",
+          "summary": "视频丨我国航空物流发展规模持续创新高",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699330.shtml"
+        },
+        {
           "date": "2026-09-18",
-          "title": "德国凯傲高级副总裁：中国为物理人工智能应用提供重要支持",
-          "summary": "中新社柏林9月17日电 (记者 马秀秀)德国凯傲(KION)集团软件与数字化高级副总裁史蒂夫·本特利(Steve Bentley)近日在柏林一场活动中对记者表示，中国丰富、活跃且发展迅速的产业生态，为物理人工智能在物流行业的应用提供了重要支持。扩大在中国的布局，是凯傲战略的一部分。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698634.shtml"
+          "title": "Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/visa-mastercard-1675-million-settlement-could-mean-money-for-atm-users-who-qualifies-174156944.html"
         },
         {
-          "date": "2026-09-17",
-          "title": "上合组织绿色产业发展合作区6个项目签约超29亿元",
-          "summary": "中新网天津9月17日电 (记者 周亚强)中国—上海合作组织绿色产业发展合作区6个重点项目16日在天津签约，总金额超29亿元。",
+          "date": "2026-09-18",
+          "title": "中国今年前8月新设外企超4.2万家",
+          "summary": "中新社北京9月18日电 (记者 尹倩芸)中国商务部18日公布的数据显示，今年1至8月，全国新设立外商投资企业42582家，同比增长0.3%；实际使用外资金额4799.5亿元(人民币，下同)，同比下降5.3%。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698591.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699302.shtml"
         },
         {
-          "date": "2026-09-17",
-          "title": "2026北京民营企业百强系列榜单发布",
-          "summary": "中新社北京9月17日电 (记者 杜燕)2026北京民营企业百强系列榜单17日揭晓，包括“北京民营企业百强”一个主榜单，以及科技创新百强、文化产业百强、专精特新百强3个分榜单，并首次发布未来产业先锋榜。",
+          "date": "2026-09-18",
+          "title": "北京制定专项行动方案发展词元经济",
+          "summary": "中新社北京9月18日电 (记者 吕少威)根据18日发布的《北京市加快词元经济发展的行动方案(2026—2028年)》(下称方案)，北京将率先培育智能经济新形态，以词元(Token)为抓手，发展词元经济新增量。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698600.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml"
         },
         {
-          "date": "2026-09-17",
-          "title": "第四届中国航协（CATA）航空大会在北京开幕",
-          "summary": "中新网北京9月17日电 (记者 刘文文)第四届中国航协(CATA)航空大会17日在北京开幕。大会为期3天，以“人工智能与民航融合发展”为年度主题，首次将人工智能作为主线贯穿开幕式、行业论坛和专业展览三大单元。",
+          "date": "2026-09-18",
+          "title": "福建莆田罗屿迎来第70艘次40万吨级大型船舶",
+          "summary": "中新网莆田9月18日电 (林孟 陈航翔)18日，在莆田出入境边防检查站监护下，中国香港籍40万吨级铁矿船“矿石宁波”轮正停泊罗屿作业区9号泊位卸货。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698584.shtml"
-        },
-        {
-          "date": "2026-09-17",
-          "title": "浙江省涉外营商环境评价报告在杭州发布",
-          "summary": "中新网杭州9月17日电(蓝伊旎)9月17日，《浙江省涉外营商环境评价报告2025/2026》(下称“报告”)发布解读活动在杭州举办。报告显示，受访的在浙外资企业对12项涉外营商环境评价指标的整体满意度达4.45分(5分制)，较上年度提升了0.22分。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698582.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699251.shtml"
         }
       ]
     },
@@ -94,38 +94,38 @@
       "items": [
         {
           "date": "2026-09-18",
-          "title": "勿忘今日，勿忘九一八！",
-          "summary": "1931年9月18日",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-18/10698647.shtml"
+          "title": "普京对新版国家武器装备计划提出要求",
+          "summary": "中新社莫斯科9月18日电 俄罗斯总统普京18日晚主持召开俄军事工业委员会会议，提议讨论新版国家武器装备计划草案和国防工业综合体发展计划。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699326.shtml"
         },
         {
           "date": "2026-09-18",
-          "title": "人类数学遭遇至暗时刻？",
-          "summary": "中国新闻周刊记者：周游",
+          "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
+          "summary": "当地时间9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。(总台记者 张颖哲）",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698641.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699324.shtml"
         },
         {
-          "date": "2026-09-17",
-          "title": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手",
-          "summary": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手|国际早察",
+          "date": "2026-09-18",
+          "title": "特朗普：美国将获得对格陵兰岛安全“永久控制权”",
+          "summary": "当地时间9月18日，美国总统特朗普在社交媒体上发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698637.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699323.shtml"
         },
         {
-          "date": "2026-09-17",
-          "title": "高市内阁人事“洗牌”，政治加速右转，日本民众开始担忧“发动战争的可能性增加”",
-          "summary": "中新网9月18日电(管娜)一连两日，日本首相、自民党总裁高市早苗接连对自民党高层进行人事调整并改组内阁。舆论认为，此次人事洗牌，暗藏深层政治考量。",
+          "date": "2026-09-18",
+          "title": "俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响",
+          "summary": "当地时间9月18日，俄罗斯国家原子能公司通报称，17日，乌军无人机坠落在俄库尔斯克核电站二期1号机组冷却塔上时发生爆炸，造成轻微损坏。机组继续以100%功率运行，本底辐射水平正常、未发生变化。核电站运行安全仍有保障。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698636.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699322.shtml"
         },
         {
-          "date": "2026-09-17",
-          "title": "沙特称拦截一架胡塞武装发射的无人机 碎片坠落致1死2伤",
-          "summary": "中新网9月18日电 据美联社报道，沙特阿拉伯民防总局当地时间17日称，也门胡塞武装发射的一架无人机在沙特西部城市塔伊夫被拦截并摧毁，产生的碎片坠落造成1人死亡、2人受伤。声明没有说明此事发生的具体时间。",
+          "date": "2026-09-18",
+          "title": "俄罗斯对欧盟新一轮制裁采取反制措施",
+          "summary": "中新社莫斯科9月18日电 俄罗斯外交部18日发表声明表示，作为对欧盟新一轮对俄制裁的回应，俄方大幅扩大禁止入境俄罗斯的欧盟国家人员名单。该名单涵盖支持欧盟反俄政策的欧盟相关机构、欧盟成员国及其他欧洲国家的代表。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-18/10698633.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699319.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-17",
-          "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-          "summary": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
+          "date": "2026-09-19",
+          "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+          "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-17",
-          "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-          "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+          "date": "2026-09-18",
+          "title": "Trump says he is banning CNN and Politico from White House",
+          "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-17",
-          "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-          "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+          "date": "2026-09-18",
+          "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+          "summary": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-17",
-          "title": "Canadians welcome closer ties with Europe as tensions simmer with US",
-          "summary": "Toronto residents tell the BBC they are excited by the possibility of working and studying in the EU.",
+          "date": "2026-09-18",
+          "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+          "summary": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-17",
-          "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-          "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+          "date": "2026-09-18",
+          "title": "Grim discoveries of murdered women spark fear in South Africa",
+          "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "browser-use/jev-ultrafast（⭐ 2102）",
-          "summary": "（该仓库未填写描述）",
+          "title": "browser-use/jev-ultrafast（⭐ 5540）",
+          "summary": "i. am. speed.",
           "source": "GitHub",
           "url": "https://github.com/browser-use/jev-ultrafast"
         },
         {
           "date": "GitHub Trending",
-          "title": "Chuloo/mural（⭐ 1317）",
-          "summary": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+          "title": "tamaratran/fast-jev-compaction（⭐ 3242）",
+          "summary": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
           "source": "GitHub",
-          "url": "https://github.com/Chuloo/mural"
+          "url": "https://github.com/tamaratran/fast-jev-compaction"
         },
         {
           "date": "GitHub Trending",
-          "title": "yifanzhang-pro/recurrent-looped-tranformer（⭐ 870）",
-          "summary": "Official Project Page for Recurrent Looped Transformer (RLT)",
+          "title": "TheoLeeCJ/SemIf（⭐ 1590）",
+          "summary": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
           "source": "GitHub",
-          "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+          "url": "https://github.com/TheoLeeCJ/SemIf"
         },
         {
           "date": "GitHub Trending",
-          "title": "zjwzcx/Awesome-Astra-Embodied-AI（⭐ 825）",
-          "summary": "GPT-6 Astra for embodied AI and robotics.",
+          "title": "mcncarl/jianying-headless（⭐ 1028）",
+          "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
           "source": "GitHub",
-          "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+          "url": "https://github.com/mcncarl/jianying-headless"
         },
         {
           "date": "GitHub Trending",
-          "title": "TheoLeeCJ/openjev（⭐ 784）",
-          "summary": "Can we run something like Jev on a 3090 at home?",
+          "title": "vinnylarouge/jevlike（⭐ 891）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/TheoLeeCJ/openjev"
+          "url": "https://github.com/vinnylarouge/jevlike"
         }
       ]
     }
