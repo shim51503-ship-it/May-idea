@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-19",
-  "generatedAt": "2026-09-19T00:48:35.478Z",
+  "issueDate": "2026-09-20",
+  "generatedAt": "2026-09-20T00:30:48.030Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】A startup that builds other startups raised $100M, and is all-in on physical AI\n【金融新闻】我国航空物流发展规模持续创新高\n【中国新闻】普京对新版国家武器装备计划提出要求\n【世界新闻】Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished"
+    "body": "【AI 最新信息】Flock reportedly tries to shrink workforce with employee buyouts\n【金融新闻】中小企业多项效益指标创近年新高\n【中国新闻】“中国入境游”备受阿拉伯国家青睐\n【世界新闻】Houthis say they targeted Saudi capital with ballistic missiles"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-18",
-          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-          "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+          "date": "2026-09-19",
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
         },
         {
-          "date": "2026-09-18",
-          "title": "Anthropic is operating a lab that conducts biology experiments",
-          "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+          "date": "2026-09-19",
+          "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
+          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
         },
         {
-          "date": "2026-09-18",
-          "title": "AI hallucination nearly triggers US military operation",
-          "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+          "date": "2026-09-19",
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
         },
         {
-          "date": "2026-09-18",
-          "title": "Anthropic&#8217;s first embedded evaluator is … Accenture?",
-          "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+          "date": "2026-09-19",
+          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+          "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
         },
         {
-          "date": "2026-09-18",
-          "title": "World model companies are keeping a lot of secrets",
-          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers ",
+          "date": "2026-09-19",
+          "title": "AI safety conversations have gotten unbelievable",
+          "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"
+          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
+          "date": "2026-09-20",
+          "title": "中小企业多项效益指标创近年新高",
+          "summary": "原标题：政策托底、需求回暖、产业升级、企业提效共同作用——中小企业多项效益指标创近年新高",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699768.shtml"
+        },
+        {
           "date": "2026-09-19",
-          "title": "我国航空物流发展规模持续创新高",
-          "summary": "视频丨我国航空物流发展规模持续创新高",
+          "title": "“送学游”走红 如何让开学季“过客”变为城市游“常客”？",
+          "summary": "“送学游”走红背后是越来越多家庭更注重情感仪式",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699330.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699759.shtml"
         },
         {
-          "date": "2026-09-18",
-          "title": "Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/visa-mastercard-1675-million-settlement-could-mean-money-for-atm-users-who-qualifies-174156944.html"
+          "date": "2026-09-19",
+          "title": "外商看好安徽新兴产业投资潜力：\"这里充满活力\"",
+          "summary": "中新社合肥9月19日电 (记者 赵强)“这里充满活力。”谈及对安徽的印象，梅塞尔亚太区首席运营官兼梅塞尔中国首席执行官沃赫德(Marc Wachter)19日说，安徽新兴产业发展速度快、创新力强，合肥等地已形成成功的产业发展样式。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699719.shtml"
         },
         {
-          "date": "2026-09-18",
-          "title": "中国今年前8月新设外企超4.2万家",
-          "summary": "中新社北京9月18日电 (记者 尹倩芸)中国商务部18日公布的数据显示，今年1至8月，全国新设立外商投资企业42582家，同比增长0.3%；实际使用外资金额4799.5亿元(人民币，下同)，同比下降5.3%。",
+          "date": "2026-09-19",
+          "title": "加快构建房地产发展新模式",
+          "summary": "房地产市场进入存量阶段，供求关系发生重大变化",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699302.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699703.shtml"
         },
         {
-          "date": "2026-09-18",
-          "title": "北京制定专项行动方案发展词元经济",
-          "summary": "中新社北京9月18日电 (记者 吕少威)根据18日发布的《北京市加快词元经济发展的行动方案(2026—2028年)》(下称方案)，北京将率先培育智能经济新形态，以词元(Token)为抓手，发展词元经济新增量。",
+          "date": "2026-09-19",
+          "title": "解码广东雷州半岛的“热”力如何煮沸中国果盘？",
+          "summary": "中新网湛江9月19日电 题：解码广东雷州半岛的“热”力如何煮沸中国果盘？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699246.shtml"
-        },
-        {
-          "date": "2026-09-18",
-          "title": "福建莆田罗屿迎来第70艘次40万吨级大型船舶",
-          "summary": "中新网莆田9月18日电 (林孟 陈航翔)18日，在莆田出入境边防检查站监护下，中国香港籍40万吨级铁矿船“矿石宁波”轮正停泊罗屿作业区9号泊位卸货。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699251.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699633.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-18",
-          "title": "普京对新版国家武器装备计划提出要求",
-          "summary": "中新社莫斯科9月18日电 俄罗斯总统普京18日晚主持召开俄军事工业委员会会议，提议讨论新版国家武器装备计划草案和国防工业综合体发展计划。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699326.shtml"
+          "date": "2026-09-20",
+          "title": "“中国入境游”备受阿拉伯国家青睐",
+          "summary": "原标题：中国展团连续3年亮相阿拉伯旅游展——“中国入境游”备受阿拉伯国家青睐",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699766.shtml"
         },
         {
-          "date": "2026-09-18",
-          "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
-          "summary": "当地时间9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。(总台记者 张颖哲）",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699324.shtml"
+          "date": "2026-09-19",
+          "title": "刷新多项纪录！我国硬核科技与重大工程捷报频传",
+          "summary": "本周",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699751.shtml"
         },
         {
-          "date": "2026-09-18",
-          "title": "特朗普：美国将获得对格陵兰岛安全“永久控制权”",
-          "summary": "当地时间9月18日，美国总统特朗普在社交媒体上发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。",
+          "date": "2026-09-19",
+          "title": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
+          "summary": "中新网9月20日电 据卡塔尔半岛电视台报道，当地时间19日，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊接受该媒体采访时，阐述了伊朗的谈判条件，并表示卡塔尔作为调解方已向美国方面转达条件，正等待美国总统特朗普的回应。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699323.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699747.shtml"
         },
         {
-          "date": "2026-09-18",
-          "title": "俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响",
-          "summary": "当地时间9月18日，俄罗斯国家原子能公司通报称，17日，乌军无人机坠落在俄库尔斯克核电站二期1号机组冷却塔上时发生爆炸，造成轻微损坏。机组继续以100%功率运行，本底辐射水平正常、未发生变化。核电站运行安全仍有保障。",
+          "date": "2026-09-19",
+          "title": "伊朗称已向美政府传达7项谈判条件",
+          "summary": "当地时间19日晚，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗已向美国政府传达了开启任何谈判所需的七项条件。伊朗发出的信息明确，即如果美国希望摆脱其一手造成的困境，并避免越陷越深，那么除了接受伊朗的条件外，别无他途。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699322.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699745.shtml"
         },
         {
-          "date": "2026-09-18",
-          "title": "俄罗斯对欧盟新一轮制裁采取反制措施",
-          "summary": "中新社莫斯科9月18日电 俄罗斯外交部18日发表声明表示，作为对欧盟新一轮对俄制裁的回应，俄方大幅扩大禁止入境俄罗斯的欧盟国家人员名单。该名单涵盖支持欧盟反俄政策的欧盟相关机构、欧盟成员国及其他欧洲国家的代表。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-19/10699319.shtml"
+          "date": "2026-09-19",
+          "title": "（台湾写真）《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
+          "summary": "中新社台北9月20日电 题：《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699743.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-09-19",
-          "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
-          "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
+          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+          "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-18",
-          "title": "Trump says he is banning CNN and Politico from White House",
-          "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+          "date": "2026-09-19",
+          "title": "Cultural treasures are being destroyed by war, and people want justice",
+          "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-18",
-          "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
-          "summary": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+          "date": "2026-09-19",
+          "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+          "summary": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-18",
-          "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-          "summary": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+          "date": "2026-09-19",
+          "title": "Not all AI workers think the tech could kill everyone",
+          "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-18",
-          "title": "Grim discoveries of murdered women spark fear in South Africa",
-          "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+          "date": "2026-09-19",
+          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+          "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "browser-use/jev-ultrafast（⭐ 5540）",
+          "title": "browser-use/jev-ultrafast（⭐ 8386）",
           "summary": "i. am. speed.",
           "source": "GitHub",
           "url": "https://github.com/browser-use/jev-ultrafast"
         },
         {
           "date": "GitHub Trending",
-          "title": "tamaratran/fast-jev-compaction（⭐ 3242）",
+          "title": "tamaratran/fast-jev-compaction（⭐ 4223）",
           "summary": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
           "source": "GitHub",
           "url": "https://github.com/tamaratran/fast-jev-compaction"
         },
         {
           "date": "GitHub Trending",
-          "title": "TheoLeeCJ/SemIf（⭐ 1590）",
+          "title": "robbietilton/Compositor（⭐ 2426）",
+          "summary": "The Photoshop alternative for Mac",
+          "source": "GitHub",
+          "url": "https://github.com/robbietilton/Compositor"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "TheoLeeCJ/SemIf（⭐ 1931）",
           "summary": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
           "source": "GitHub",
           "url": "https://github.com/TheoLeeCJ/SemIf"
         },
         {
           "date": "GitHub Trending",
-          "title": "mcncarl/jianying-headless（⭐ 1028）",
+          "title": "mcncarl/jianying-headless（⭐ 1536）",
           "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
           "source": "GitHub",
           "url": "https://github.com/mcncarl/jianying-headless"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "vinnylarouge/jevlike（⭐ 891）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/vinnylarouge/jevlike"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#任正非全家外逃 #任正非全家外逃 #任正非跑路 #任正非跑路傳聞 #任正非失联 #任正非失聯 #任正非出逃 #任正非出逃傳聞 #华为任正非 #華為任正非 #华",
-      "video": "任正非全家外逃？华为最大谣言是怎么编出来的？任正非全家外逃？華為最大謠言是怎麼編出來的？夸克说|誇克说",
-      "date": "2026-09-17",
-      "url": "https://www.youtube.com/watch?v=cIwTFE3IkkY"
+      "desc": "#罗永浩 #羅永浩 #野人先生 #野人先生 #罗永浩吐槽野人先生 #羅永浩吐槽野人先生 #28元冰淇淋 #28元冰淇淋 #野人先生冷处理 #野人先生冷處理 #不",
+      "video": "羅永浩砲轟野人先生：28元冰淇淋，爲什麼讓中國人吵翻天？罗永浩炮轰野人先生：28元冰淇淋，为什么让中国人吵翻天？夸克说|誇克说",
+      "date": "2026-09-19",
+      "url": "https://www.youtube.com/watch?v=BfdpvbJhQ7A"
     },
     {
       "channel": "May Fit",
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔗 GPT-6 vs Fable 5.1 指令詞下载链接：https://join.lichangzhang.ai/vs   📩 免费订阅《李厂长AI周报》",
-      "video": "我對比了GPT-6 Astra 和 Fable 5.1，結果出乎意料！",
-      "date": "2026-09-12",
-      "url": "https://www.youtube.com/watch?v=O664KLj_L9M"
+      "desc": "📩 免费订阅《李厂长AI周报》：https://join.lichangzhang.ai/ 每周帮你筛掉AI噪音，只留下真正值得关注的新闻、工具和工作流，几分",
+      "video": "GPT-6 Astra + Images 2.5: 一句話讓 AI 完成整個工作流！",
+      "date": "2026-09-19",
+      "url": "https://www.youtube.com/watch?v=H7p0stzmojU"
     }
   ]
 }
