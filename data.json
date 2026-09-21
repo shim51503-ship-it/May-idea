@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-20",
-  "generatedAt": "2026-09-20T00:30:48.030Z",
+  "issueDate": "2026-09-21",
+  "generatedAt": "2026-09-21T00:40:35.654Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Flock reportedly tries to shrink workforce with employee buyouts\n【金融新闻】中小企业多项效益指标创近年新高\n【中国新闻】“中国入境游”备受阿拉伯国家青睐\n【世界新闻】Houthis say they targeted Saudi capital with ballistic missiles"
+    "body": "【AI 最新信息】6 days left to save up to $200 to TechCrunch Disrupt 2026\n【金融新闻】新能源加速发展，油气还重要吗？\n【中国新闻】德国两州举行州议会选举 现有执政联盟预计均失去多数\n【世界新闻】Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-19",
-          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-          "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+          "date": "2026-09-20",
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your tic",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
+          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
         },
         {
-          "date": "2026-09-19",
-          "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
-          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+          "date": "2026-09-20",
+          "title": "World model companies are keeping a lot of secrets",
+          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+          "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
         },
         {
-          "date": "2026-09-19",
-          "title": "Google’s Gemini is the latest AI model to hack other companies",
-          "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+          "date": "2026-09-20",
+          "title": "Is the AI industry really ready to slow down?",
+          "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+          "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
         },
         {
-          "date": "2026-09-19",
-          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-          "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though ",
+          "date": "2026-09-20",
+          "title": "Vocci&#8217;s ring adds a new form factor to meeting note-taking",
+          "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+          "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/"
         },
         {
-          "date": "2026-09-19",
-          "title": "AI safety conversations have gotten unbelievable",
-          "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+          "date": "2026-09-20",
+          "title": "ScrollEd wants to turn textbooks into TikTok",
+          "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spous",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
+          "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
+          "date": "2026-09-21",
+          "title": "新能源加速发展，油气还重要吗？",
+          "summary": "国家发展改革委、国家能源局近期印发《石油天然气发展“十五五”规划》(以下简称《规划》)，锚定保障能源安全和绿色低碳发展两大任务，明确提出到2030年逐步建设形成“自主保障能力持续增强、管网输配高效衔接、储备调节充足灵活、生产方式绿色低碳、运行安全平稳高效、加工利用高端高质、科技水平自主突破、国际合作灵活多元”的现代油气",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-21/10700520.shtml"
+        },
+        {
           "date": "2026-09-20",
-          "title": "中小企业多项效益指标创近年新高",
-          "summary": "原标题：政策托底、需求回暖、产业升级、企业提效共同作用——中小企业多项效益指标创近年新高",
+          "title": "“6个半小时花410元”，景区电瓶车租赁为何屡遭吐槽？",
+          "summary": "价格偏高、超时“向上取整”、禁行区域多、还车点不足——",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699768.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-21/10700501.shtml"
         },
         {
-          "date": "2026-09-19",
-          "title": "“送学游”走红 如何让开学季“过客”变为城市游“常客”？",
-          "summary": "“送学游”走红背后是越来越多家庭更注重情感仪式",
+          "date": "2026-09-20",
+          "title": "中美经贸磋商在美国纽约开始举行",
+          "summary": "中新社纽约9月20日电 当地时间9月20日上午，中美两国经贸团队在美国纽约开始举行中美经贸磋商。(完)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-20/10699759.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-21/10700496.shtml"
         },
         {
-          "date": "2026-09-19",
-          "title": "外商看好安徽新兴产业投资潜力：\"这里充满活力\"",
-          "summary": "中新社合肥9月19日电 (记者 赵强)“这里充满活力。”谈及对安徽的印象，梅塞尔亚太区首席运营官兼梅塞尔中国首席执行官沃赫德(Marc Wachter)19日说，安徽新兴产业发展速度快、创新力强，合肥等地已形成成功的产业发展样式。",
+          "date": "2026-09-20",
+          "title": "第五届数贸会探馆：机器人秀绝活 多国展商赴数字之约",
+          "summary": "中新社杭州9月20日电 (奚金燕 蓝伊旎)药房机器人自动分拣药品，智能飞行系统仿真模拟飞行员体验，机器人“灵巧手”尽情“挥毫创作”......第五届全球数字贸易博览会(下称“数贸会”)数字贸易主题展馆20日开放探馆，一系列“黑科技”引人注目。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699719.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700488.shtml"
         },
         {
-          "date": "2026-09-19",
-          "title": "加快构建房地产发展新模式",
-          "summary": "房地产市场进入存量阶段，供求关系发生重大变化",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699703.shtml"
-        },
-        {
-          "date": "2026-09-19",
-          "title": "解码广东雷州半岛的“热”力如何煮沸中国果盘？",
-          "summary": "中新网湛江9月19日电 题：解码广东雷州半岛的“热”力如何煮沸中国果盘？",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699633.shtml"
+          "date": "2026-09-20",
+          "title": "Dollar General CEO raises major red flag about consumers",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
+          "date": "2026-09-21",
+          "title": "德国两州举行州议会选举 现有执政联盟预计均失去多数",
+          "summary": "中新社柏林9月20日电 (记者 马秀秀)当地时间20日，德国梅克伦堡-前波美拉尼亚州(梅前州)和城市州柏林举行州议会选举。根据目前的议席推算，两州现有执政联盟均无法继续获得议会过半席位。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-21/10700526.shtml"
+        },
+        {
+          "date": "2026-09-21",
+          "title": "“沉重打击” 德国基民盟首次无缘州一级议会",
+          "summary": "中新网9月21日电 综合外媒报道，当地时间21日凌晨，德国梅克伦堡-前波美拉尼亚州公布的州议会选举初步计票结果显示，总理默茨所在的基民盟仅获得4.9%选票，未能跨过5%的得票率门槛，在二战后历史上首次无缘州一级议会。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-21/10700521.shtml"
+        },
+        {
           "date": "2026-09-20",
-          "title": "“中国入境游”备受阿拉伯国家青睐",
-          "summary": "原标题：中国展团连续3年亮相阿拉伯旅游展——“中国入境游”备受阿拉伯国家青睐",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699766.shtml"
-        },
-        {
-          "date": "2026-09-19",
-          "title": "刷新多项纪录！我国硬核科技与重大工程捷报频传",
-          "summary": "本周",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699751.shtml"
-        },
-        {
-          "date": "2026-09-19",
-          "title": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
-          "summary": "中新网9月20日电 据卡塔尔半岛电视台报道，当地时间19日，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊接受该媒体采访时，阐述了伊朗的谈判条件，并表示卡塔尔作为调解方已向美国方面转达条件，正等待美国总统特朗普的回应。",
+          "title": "卡塔尔：正与美伊保持沟通 美国希望与伊朗达成协议",
+          "summary": "中新网9月21日电 据伊朗迈赫尔通讯社报道，当地时间20日，卡塔尔外交部发言人马吉德·安萨里表示，卡塔尔正与美国和伊朗保持沟通，推动美伊恢复谈判。他称，多名美国政府官员表示，美方希望达成协议并结束冲突。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699747.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-21/10700510.shtml"
         },
         {
-          "date": "2026-09-19",
-          "title": "伊朗称已向美政府传达7项谈判条件",
-          "summary": "当地时间19日晚，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗已向美国政府传达了开启任何谈判所需的七项条件。伊朗发出的信息明确，即如果美国希望摆脱其一手造成的困境，并避免越陷越深，那么除了接受伊朗的条件外，别无他途。",
+          "date": "2026-09-20",
+          "title": "俄罗斯国家杜马选举投票结束 投票率高于上届",
+          "summary": "中新社莫斯科9月20日电 (记者 田冰)俄罗斯中央选举委员会当地时间20日晚宣布，随着位于加里宁格勒州的最后一批投票站关闭，第九届俄罗斯国家杜马(议会下院)选举投票结束。据俄媒报道，本次选举投票率为56.66%，高于上届国家杜马选举投票率。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699745.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/09-21/10700507.shtml"
         },
         {
-          "date": "2026-09-19",
-          "title": "（台湾写真）《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
-          "summary": "中新社台北9月20日电 题：《黑神话：悟空》音乐会奏响台北 “天命人”随乐西游",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-20/10699743.shtml"
+          "date": "2026-09-20",
+          "title": "伊媒：伊朗外长已离开德黑兰 将前往纽约参加联合国大会",
+          "summary": "中新网9月21日电 据伊朗伊斯兰共和国通讯社(IRNA)等伊朗媒体报道，当地时间20日晚，伊朗外交部长阿拉格齐离开德黑兰，将前往美国纽约参加第81届联合国大会。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-21/10700506.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-19",
-          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-          "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+          "date": "2026-09-20",
+          "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+          "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-19",
-          "title": "Cultural treasures are being destroyed by war, and people want justice",
-          "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+          "date": "2026-09-20",
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-19",
-          "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-          "summary": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
+          "date": "2026-09-20",
+          "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+          "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-19",
-          "title": "Not all AI workers think the tech could kill everyone",
-          "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+          "date": "2026-09-20",
+          "title": "Trump says triumphal arch will be military complex with drones and snipers",
+          "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-19",
-          "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-          "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+          "date": "2026-09-20",
+          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+          "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "browser-use/jev-ultrafast（⭐ 8386）",
+          "title": "browser-use/jev-ultrafast（⭐ 11854）",
           "summary": "i. am. speed.",
           "source": "GitHub",
           "url": "https://github.com/browser-use/jev-ultrafast"
         },
         {
           "date": "GitHub Trending",
-          "title": "tamaratran/fast-jev-compaction（⭐ 4223）",
+          "title": "tamaratran/fast-jev-compaction（⭐ 5169）",
           "summary": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
           "source": "GitHub",
           "url": "https://github.com/tamaratran/fast-jev-compaction"
         },
         {
           "date": "GitHub Trending",
-          "title": "robbietilton/Compositor（⭐ 2426）",
+          "title": "NandhaKishorM/laya（⭐ 4106）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/NandhaKishorM/laya"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "robbietilton/Compositor（⭐ 3668）",
           "summary": "The Photoshop alternative for Mac",
           "source": "GitHub",
           "url": "https://github.com/robbietilton/Compositor"
         },
         {
           "date": "GitHub Trending",
-          "title": "TheoLeeCJ/SemIf（⭐ 1931）",
+          "title": "TheoLeeCJ/SemIf（⭐ 2444）",
           "summary": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
           "source": "GitHub",
           "url": "https://github.com/TheoLeeCJ/SemIf"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "mcncarl/jianying-headless（⭐ 1536）",
-          "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-          "source": "GitHub",
-          "url": "https://github.com/mcncarl/jianying-headless"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "一群十幾歲的年輕人，住百元日租房，幾個人分一頓飯，白天睡覺，晚上卻準時去夜店狂歡。他們為什麼寧願過這種生活，也不願去上班？這一集，我們走進中國「精神小伙、精神小",
-      "video": "白天挨餓、夜裡狂歡：中國底層少女為何不上班，又一代代困在這種生活裡？【文昭思緒飛揚575】",
-      "date": "2026-09-18",
-      "url": "https://www.youtube.com/watch?v=NK4NO7oK1xw"
+      "desc": "曾經市值逼近千億、掌握中國影視圈頂級明星與導演資源的華誼兄弟，如今卻走到債務重整的十字路口。這個曾經坐上「京圈王座」的影視帝國，究竟是哪一步走錯了？",
+      "video": "從市值800億到變身「老賴」：「京圈霸主」稱霸中國電影20年；為何慘崩？【文昭思緒飛揚576】",
+      "date": "2026-09-20",
+      "url": "https://www.youtube.com/watch?v=UNx587AizhU"
     },
     {
       "channel": "夸克说",
