@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-22",
-  "generatedAt": "2026-09-22T01:21:37.232Z",
+  "issueDate": "2026-09-23",
+  "generatedAt": "2026-09-23T01:04:44.270Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping\n【金融新闻】不产羊毛却织出全球生意经——来自广东省东莞市大朗镇的调查\n【中国新闻】警方打掉一网络暴力违法犯罪团伙，抓获涉案人员98名\n【世界新闻】CNN, MS NOW and Politico file lawsuit against Trump's White House ban"
+    "body": "【AI 最新信息】TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4\n【金融新闻】亚洲开发银行略微上调亚太发展中经济体增长预期\n【中国新闻】第48届世界技能大赛在上海隆重开幕 李强出席并宣布开幕\n【世界新闻】Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-21",
-          "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
-          "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+          "date": "2026-09-22",
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
         },
         {
-          "date": "2026-09-21",
-          "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-          "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+          "date": "2026-09-22",
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
         },
         {
-          "date": "2026-09-21",
-          "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-          "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’",
+          "date": "2026-09-22",
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
         },
         {
-          "date": "2026-09-21",
-          "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
-          "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut",
+          "date": "2026-09-22",
+          "title": "Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence",
+          "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and conten",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+          "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
         },
         {
-          "date": "2026-09-21",
-          "title": "Meta&#8217;s AI agent has been blocked from using Amazon.com",
-          "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obliga",
+          "date": "2026-09-22",
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
+          "date": "2026-09-23",
+          "title": "亚洲开发银行略微上调亚太发展中经济体增长预期",
+          "summary": "9月23日，亚洲开发银行发布《2026年亚洲发展展望(9月版)》。报告指出，当前亚太地区发展中经济体的经济增长速度虽较去年有所放缓，但在日益严峻的形势下，该地区经济仍展现出韧性。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701939.shtml"
+        },
+        {
           "date": "2026-09-22",
-          "title": "不产羊毛却织出全球生意经——来自广东省东莞市大朗镇的调查",
-          "summary": "传统产业集群如何破局突围、实现转型升级？广东省东莞市大朗镇，这座不产羊毛的“世界毛织之都”给出了鲜活答案。直面贸易变局、同质化竞争与消费升级的多重压力，老牌毛织小镇破除路径依赖，以科技赋能智能制造、以非遗文化塑造品牌价值，推动传统产业摆脱低端代工的“汗水经济”，向高端化、智能化、品牌化跃迁。",
+          "title": "协助挂号、陪同问诊、代办缴费……陪诊服务真实体验如何？",
+          "summary": "陪诊新业态越来越靠谱",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701223.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701932.shtml"
         },
         {
-          "date": "2026-09-21",
-          "title": "中国机器人从“能用”走向“好用”",
-          "summary": "赛场上跑起来 工厂里干起来",
+          "date": "2026-09-22",
+          "title": "反向海淘兴起，外国游客的“中国购物清单”越来越长",
+          "summary": "在江苏昆山大渔湾的一家大疆门店里，来自美国的音乐经纪人詹姆斯·尹打开背包，向中青报·中青网记者展示刚刚入手的“战利品”：无人机、手持云台、无线麦克风、运动相机配件……",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701212.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701922.shtml"
         },
         {
-          "date": "2026-09-21",
-          "title": "闲置房托管做民宿号称收益翻三倍 “装修返租”暗藏哪些风险？",
-          "summary": "今年以来，全国多地曝出“民宿托管”骗局。一些运营公司以#8204;高额租金返利#8204;为诱饵，诱导房东垫付#8204;大额装修费#8204;，随后公司违约，已有不少业主被骗取装修款几万元至几十万元不等。近日，湖北武汉市公安局江岸区分局成功打掉一个以“民宿托管”为名骗取房主装修费的作案团伙。该团伙通过承诺高租金和短空",
+          "date": "2026-09-22",
+          "title": "全球首列搭载具身智能技术地铁列车在德国柏林发布",
+          "summary": "中新社柏林9月22日电 (记者 马秀秀)一列搭载具身智能技术的绿智融合数字地铁列车22日在德国柏林发布。中国中车方面称，这是全球首次将具身智能技术应用于地铁列车。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701211.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701918.shtml"
         },
         {
-          "date": "2026-09-21",
-          "title": "词元为何能贷款？专家解答",
-          "summary": "词元为何能贷款(有问有答)",
+          "date": "2026-09-22",
+          "title": "50项食品安全国标发布 “舌尖安全防线”有了“硬标尺”",
+          "summary": "早上常吃的酥脆面包、追剧时不离手的油炸零食、家里餐桌上经常出现的凉拌皮蛋，还有给孩子、老人选的牛乳蛋白饮品等等，这些日常食物里，藏着多少过去没被彻底堵上的安全“缺口”？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701206.shtml"
-        },
-        {
-          "date": "2026-09-21",
-          "title": "赛场上跑起来、工厂里干起来 中国机器人从“能用”走向“好用”",
-          "summary": "赛场上跑起来 工厂里干起来",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701202.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-23/10701915.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-22",
-          "title": "警方打掉一网络暴力违法犯罪团伙，抓获涉案人员98名",
-          "summary": "中新网9月22日电 据“公安部网安局”微信公众号消息，公安网安部门持续深化扫黑除恶专项斗争。近日，吉林省吉林市公安网安部门聚焦网络暴力等新型黑恶犯罪，成功打掉一个通过“网罗门徒、分级收费、按级授能、按劳返利”方式实施网络暴力的违法犯罪团伙，抓获涉案人员98名。",
+          "date": "2026-09-23",
+          "title": "第48届世界技能大赛在上海隆重开幕 李强出席并宣布开幕",
+          "summary": "9月22日晚，第48届世界技能大赛在上海隆重开幕。开幕式上宣读了国家主席习近平的贺信。国务院总理李强出席开幕式并宣布开幕。新华社记者 黄敬文 摄 新华社上海9月22日电(记者王永前、安蓓)浦江激扬梦想，技能照亮世界。第48届世界技能大赛22日晚在上海隆重开幕。开幕式上宣读了国家主席习近平的贺信。国务院总理李强出席开幕式",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701217.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-23/10701926.shtml"
+        },
+        {
+          "date": "2026-09-23",
+          "title": "中国法治国际论坛（2026）在深圳开幕 陈文清出席并讲话",
+          "summary": "中新社深圳9月22日电 (记者 索有为)中国法治国际论坛(2026)22日在广东深圳开幕。中共中央政治局委员、中央政法委书记陈文清出席并讲话。中共中央政治局委员、广东省委书记黄坤明出席并致辞。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-23/10701936.shtml"
+        },
+        {
+          "date": "2026-09-23",
+          "title": "美军一架F-16战机在德国坠毁",
+          "summary": "中新网9月23日电 综合德国西南广播公司、路透社22日报道，美军一架F-16战斗机当天下午在位于德国西部的美军施庞达勒姆空军基地坠毁，造成1人受伤。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-23/10701941.shtml"
         },
         {
           "date": "2026-09-22",
-          "title": "警方打掉一个实施网络暴力的违法犯罪团伙",
-          "summary": "原标题：深化扫黑除恶·我们在行动｜警方打掉一个实施网络暴力的违法犯罪团伙",
+          "title": "欧盟宣布：延长涉乌克兰危机制裁措施至2029年",
+          "summary": "中新网9月23日电 综合报道，欧盟理事会22日发表声明宣布，将针对“破坏或威胁乌克兰领土完整、主权和独立”的个人和实体的制裁措施延长36个月，至2029年9月22日。目前相关措施累计制裁个人和实体超3000个。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-23/10701937.shtml"
+        },
+        {
+          "date": "2026-09-22",
+          "title": "50项食品安全新国标发布——全链条守护百姓“舌尖上的安全”",
+          "summary": "光明日报记者 金振娅 光明日报通讯员 蒋于浩",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-22/10701216.shtml"
-        },
-        {
-          "date": "2026-09-21",
-          "title": "英国将向沙特提供“防御性”军事支持 英首相表态",
-          "summary": "中新网9月22日电 据英国广播公司(BBC)报道，英国首相伯纳姆表示，英国将向沙特阿拉伯提供“防御性”空中加油支持，以应对也门胡塞武装近期对沙特发动的袭击。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-22/10701214.shtml"
-        },
-        {
-          "date": "2026-09-21",
-          "title": "谷歌因违反欧盟数据保护条例被罚逾4亿欧元",
-          "summary": "中新社布鲁塞尔9月21日电 (记者 德永健)欧盟21日宣布谷歌违反欧盟《一般数据保护条例》，对谷歌开出逾4亿欧元“罚单”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-22/10701208.shtml"
-        },
-        {
-          "date": "2026-09-21",
-          "title": "朝中社：朝鲜进行新型武器试验 金正恩观摩（图）",
-          "summary": "中新网9月22日电 据朝中社22日报道，朝鲜导弹总局20日成功进行新型武器试验。朝鲜劳动党总书记、国务委员长金正恩观摩了试验。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-22/10701205.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-23/10701933.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
+          "date": "2026-09-23",
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+          "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "date": "2026-09-22",
-          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-          "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+          "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+          "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-21",
-          "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-          "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
+          "date": "2026-09-22",
+          "title": "Watch: Threats, deals and passionate speeches at UNGA event",
+          "summary": "Delegations from across the world attended the United Nations General Assembly in New York.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-21",
-          "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
-          "summary": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs",
+          "date": "2026-09-22",
+          "title": "US to build two military bases in Greenland under new deal with Denmark",
+          "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-21",
-          "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
-          "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
+          "date": "2026-09-22",
+          "title": "How Ceuta, football and Israel are shaping Morocco's election",
+          "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-09-21",
-          "title": "First UK charges brought over 1994 Rwanda genocide",
-          "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "browser-use/jev-ultrafast（⭐ 15801）",
-          "summary": "Fastest and cheapest web agent",
-          "source": "GitHub",
-          "url": "https://github.com/browser-use/jev-ultrafast"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "NandhaKishorM/laya（⭐ 10456）",
+          "title": "NandhaKishorM/laya（⭐ 16614）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/NandhaKishorM/laya"
         },
         {
           "date": "GitHub Trending",
-          "title": "tamaratran/fast-jev-compaction（⭐ 5975）",
+          "title": "tamaratran/fast-jev-compaction（⭐ 6312）",
           "summary": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
           "source": "GitHub",
           "url": "https://github.com/tamaratran/fast-jev-compaction"
         },
         {
           "date": "GitHub Trending",
-          "title": "zai-org/ZCode（⭐ 5639）",
+          "title": "zai-org/ZCode（⭐ 6294）",
           "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
           "source": "GitHub",
           "url": "https://github.com/zai-org/ZCode"
         },
         {
           "date": "GitHub Trending",
-          "title": "robbietilton/Compositor（⭐ 4404）",
-          "summary": "The Photoshop alternative for Mac",
+          "title": "mizorewww/laya-mlx（⭐ 5456）",
+          "summary": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
           "source": "GitHub",
-          "url": "https://github.com/robbietilton/Compositor"
+          "url": "https://github.com/mizorewww/laya-mlx"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "jaredpalmer/kev（⭐ 4270）",
+          "summary": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+          "source": "GitHub",
+          "url": "https://github.com/jaredpalmer/kev"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#罗永浩 #羅永浩 #野人先生 #野人先生 #罗永浩吐槽野人先生 #羅永浩吐槽野人先生 #28元冰淇淋 #28元冰淇淋 #野人先生冷处理 #野人先生冷處理 #不",
-      "video": "羅永浩砲轟野人先生：28元冰淇淋，爲什麼讓中國人吵翻天？罗永浩炮轰野人先生：28元冰淇淋，为什么让中国人吵翻天？夸克说|誇克说",
-      "date": "2026-09-19",
-      "url": "https://www.youtube.com/watch?v=BfdpvbJhQ7A"
+      "desc": "#广州大学城持刀伤人 #廣州大學城持刀傷人 #广州GOGO新天地 #廣州GOGO新天地 #广州大学城砍人案 #廣州大學城砍人案 #广州砍眼事件 #廣州砍眼事件 ",
+      "video": "广州大学城伤人事件：中国人为什么开始恨另一个性别？夸克说|誇克说",
+      "date": "2026-09-22",
+      "url": "https://www.youtube.com/watch?v=CkiCcL9W3iM"
     },
     {
       "channel": "May Fit",
