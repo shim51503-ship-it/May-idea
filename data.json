@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-24",
-  "generatedAt": "2026-09-24T00:58:19.918Z",
+  "issueDate": "2026-09-25",
+  "generatedAt": "2026-09-25T01:01:29.025Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Meta made a Tamagotchi-like wearable for its Muse AI agent\n【金融新闻】收获、烘干、储运、加工……秋收来了AI助手\n【中国新闻】习近平抵达华盛顿对美国进行国事访问\n【世界新闻】OpenAI agent 'infiltrated' Australian government website, PM says"
+    "body": "【AI 最新信息】Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass\n【金融新闻】预售要封顶、定金不超1%……北京楼市新政将带来哪些影响？\n【中国新闻】直播海报：实景赛场 真机上阵 看世赛顶尖技能比拼\n【世界新闻】Netanyahu defends Israeli military action as delegates walk out before UN speech"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-09-24",
-          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-          "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+          "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+          "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+          "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
         },
         {
-          "date": "2026-09-23",
-          "title": "Meta introduces camera-free AI glasses",
-          "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+          "date": "2026-09-24",
+          "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+          "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+          "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
         },
         {
-          "date": "2026-09-23",
-          "title": "Anthropic says its biology lab has already found something big",
-          "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+          "date": "2026-09-24",
+          "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+          "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
+          "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
         },
         {
-          "date": "2026-09-23",
-          "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-          "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+          "date": "2026-09-24",
+          "title": "Meta&#8217;s Muse Charm looks like a Tamagotchi, but it&#8217;s tapping into a much newer trend",
+          "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning ga",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
+          "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
         },
         {
-          "date": "2026-09-23",
-          "title": "ChatGPT mobile app gets voice-based agentic features",
-          "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+          "date": "2026-09-24",
+          "title": "Google Photos &#8216;Clueless&#8217;-inspired virtual closet is now available on Android and iOS",
+          "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
+          "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-24",
-          "title": "收获、烘干、储运、加工……秋收来了AI助手",
-          "summary": "各地在粮食收获、烘干、储运、加工等环节应用智能装备——",
+          "date": "2026-09-25",
+          "title": "预售要封顶、定金不超1%……北京楼市新政将带来哪些影响？",
+          "summary": "为加快构建房地产发展新模式，稳步推进商品住房销售制度改革，北京市多部门联合印发了《本市贯彻落实〈关于完善商品住房销售制度的通知〉的实施意见》。《实施意见》明确了全面加强预售管理、有序实施现房销售、推行主办银行制度、完善商品住房信贷管理、优化土地供应管理、持续做好市场秩序规范和质量监管等六方面政策措施，自2026年9月2",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702746.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703573.shtml"
         },
         {
           "date": "2026-09-24",
-          "title": "2026年“中国农民丰收节”新疆主场活动在阿克苏开幕",
-          "summary": "中新网新疆温宿9月24日电 (张家伟)2026年“中国农民丰收节”新疆主场活动23日在新疆阿克苏地区温宿县开幕。",
+          "title": "宁夏银川发布消费“三新”试点建设成果 数字化消费地图正式上线",
+          "summary": "中新网银川9月24日电 (记者 李佩珊)9月24日晚，宁夏银川市举行消费新业态、新模式、新场景试点建设成果发布会，银川消费“三新”数字化地图同步正式上线，以数字化手段整合城市消费资源，解锁多元消费新场景，助力消费市场提质升级。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702726.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703460.shtml"
         },
         {
           "date": "2026-09-24",
-          "title": "2026年中国农民丰收节西藏主场活动在阿里启幕",
-          "summary": "中新网拉萨9月24日电(记者 贡桑拉姆)9月23日，2026年中国农民丰收节西藏主场活动在阿里地区噶尔县加木村开幕。本次活动以“雪域丰收绘新卷 象雄振兴启新程”为主题，立足阿里高海拔牧区特色与象雄文化底蕴，以农牧民为主体，通过成果展示、农技推广、产销对接、便民服务等系列活动，集中展示西藏高原农牧业发展与乡村振兴成果。",
+          "title": "南京出台50条政策举措 加力推动经济向新向优向好发展",
+          "summary": "中新网南京9月24日电 (记者 徐珊珊)24日，南京市召开新闻发布会，对《南京市关于推动经济持续向新向优向好发展的重点工作举措》(简称“市50条”)进行通报解读。记者从会上获悉，南京市从四个方面推出50条政策举措，切实激发高质量发展动力活力。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702733.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703462.shtml"
         },
         {
           "date": "2026-09-24",
-          "title": "2026云南民企百强榜揭晓 规模有进效益回升",
-          "summary": "中新网昆明9月24日电 (时文枝)23日，云南省工商联(总商会)在昆明发布2026云南省民营企业100强榜单。今年云南百强民营企业入围门槛达11.7亿元，营收总额为4868.79亿元，较上年分别增长2.26%和6.98%。",
+          "title": "海南离岛免税品电子标签新政落地两年 通关免税品超150万件",
+          "summary": "中新网海口9月24日电 (陈怡君 刘瀚远)据海口海关24日统计，全国首创的试点离岛免税化妆品电子标签管理政策正式实施2年以来，截至2026年8月底，应用“电子标签”通关的免税品超150万件，货值近6亿元。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702730.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703456.shtml"
         },
         {
           "date": "2026-09-24",
-          "title": "秘鲁驻华大使：自由贸易是实现经济社会发展的重要“引擎”",
-          "summary": "中新网北京9月24日电 (记者 官逸伦)“我们不认为贸易、合作是零和博弈。”秘鲁驻华大使卡洛斯·巴斯克斯23日在北京发表演讲并接受媒体采访，称实践证明，对秘鲁等新兴经济体而言，“自由贸易是实现经济社会发展最为重要的引擎之一”。",
+          "title": "2026岳麓大会开幕 湖南“人工智能+”赋能产业向新而行",
+          "summary": "中新网长沙9月24日电 (刘曼)9月24日，以“智汇潇湘 赋能未来”为主题的2026岳麓大会在长沙开幕，人工智能企业代表、行业专家、投资机构代表等数百位嘉宾齐聚一堂，从技术前沿、产业落地、商业化路径等不同维度，共话智能时代新机遇。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702735.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703455.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-24",
-          "title": "习近平抵达华盛顿对美国进行国事访问",
-          "summary": "中新社华盛顿9月23日电 (记者 郭金超 黄钰钦 郭超凯)当地时间9月23日下午，中国国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+          "date": "2026-09-25",
+          "title": "直播海报：实景赛场 真机上阵 看世赛顶尖技能比拼",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702748.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703572.shtml"
+        },
+        {
+          "date": "2026-09-25",
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
+          "summary": "新华社华盛顿9月24日电 当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎宴会。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703556.shtml"
         },
         {
           "date": "2026-09-24",
-          "title": "从“书斋”走进“生活” 海南推进社科成果转化和普及",
-          "summary": "中新网海口9月24日电 (记者 张茜翼)哲学社会科学如何从“书斋”走向“生活”？记者23日从海南省新闻办公室举办的“开局起步‘十五五’”系列主题新闻发布会获悉，海南将通过打造哲学社会科学名报名刊名栏、推进社科成果转化应用、完善哲学社会科学普及网络，让社科成果更好服务决策、惠及大众。",
+          "title": "习近平出席美国总统特朗普举行的欢迎宴会",
+          "summary": "新华社快讯：当地时间9月24日晚，国家主席习近平在白宫出席美国总统特朗普举行的欢迎宴会。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702737.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703551.shtml"
         },
         {
           "date": "2026-09-24",
-          "title": "太空互联网离我们还有多远？“在轨AI”把算力搬上天",
-          "summary": "太空算力，“联”是关键",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702744.shtml"
+          "title": "马克龙：法国正在尽一切努力避免燃油短缺",
+          "summary": "中新社巴黎9月24日电 (记者 李洋)法国总统马克龙当地时间24日晚表示，法国正在尽一切努力避免燃油短缺。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-25/10703549.shtml"
         },
         {
           "date": "2026-09-24",
-          "title": "中方将在非洲和上合组织成员国分别再建10个鲁班工坊",
-          "summary": "中新社北京9月23日电 (记者 曾玥)中国国务院新闻办公室23日在北京举行“开局起步‘十五五’”系列主题新闻发布会。中国教育部新闻发言人、副部长王光彦在会上介绍，中方将在非洲和上合组织成员国分别再建设10个鲁班工坊，推动鲁班工坊提质升级。",
+          "title": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
+          "summary": "中新社华盛顿9月24日电 当地时间9月24日中午，中国国家主席习近平夫人彭丽媛在华盛顿同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702742.shtml"
-        },
-        {
-          "date": "2026-09-24",
-          "title": "新华图讯丨习近平抵达华盛顿对美国进行国事访问",
-          "summary": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-24/10702721.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-25/10703548.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
+          "date": "2026-09-25",
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "date": "2026-09-24",
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+          "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+          "summary": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-23",
-          "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
-          "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+          "date": "2026-09-24",
+          "title": "Hundreds of thousands expected in Paris for Pope's visit",
+          "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-23",
-          "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-          "summary": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
+          "date": "2026-09-24",
+          "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+          "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-23",
-          "title": "Indians are discovering the thrill of shopping without paying",
-          "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+          "date": "2026-09-24",
+          "title": "Priest killed and four injured in knife attack at Polish abbey",
+          "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-09-23",
-          "title": "A red carpet and military flyover - How Trump welcomed Xi",
-          "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "NandhaKishorM/laya（⭐ 20469）",
-          "summary": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-          "source": "GitHub",
-          "url": "https://github.com/NandhaKishorM/laya"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "zai-org/ZCode（⭐ 6536）",
+          "title": "zai-org/ZCode（⭐ 6713）",
           "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
           "source": "GitHub",
           "url": "https://github.com/zai-org/ZCode"
         },
         {
           "date": "GitHub Trending",
-          "title": "mizorewww/laya-mlx（⭐ 5957）",
+          "title": "mizorewww/laya-mlx（⭐ 6225）",
           "summary": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
           "source": "GitHub",
           "url": "https://github.com/mizorewww/laya-mlx"
         },
         {
           "date": "GitHub Trending",
-          "title": "jev-chat/jev-chat-jarvis（⭐ 5250）",
-          "summary": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+          "title": "jev-chat/jev-chat-jarvis（⭐ 6079）",
+          "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
           "source": "GitHub",
           "url": "https://github.com/jev-chat/jev-chat-jarvis"
         },
         {
           "date": "GitHub Trending",
-          "title": "unreallabsai/unreal-agent（⭐ 1719）",
+          "title": "unreallabsai/unreal-agent（⭐ 1878）",
           "summary": "Async-first agent harness",
           "source": "GitHub",
           "url": "https://github.com/unreallabsai/unreal-agent"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "mizorewww/laya-coreml（⭐ 1439）",
+          "summary": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+          "source": "GitHub",
+          "url": "https://github.com/mizorewww/laya-coreml"
         }
       ]
     }
@@ -215,24 +215,24 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "和稀泥和纠缠式维权是如何相互滋养的？这期节目不谈男女对立，而是借这件事聊一个更普遍的问题：为什么越会纠缠、越会闹的人，反而越容易得到让步？当基层更在意“有没有后",
-      "video": "长沙4岁男童事件：纠缠式维权惹众怒！中国基层为何总是和稀泥？ | 老周横眉",
-      "date": "2026-09-17",
-      "url": "https://www.youtube.com/watch?v=BEeve_8th_w"
+      "desc": "最近，AI agents开始合作、欺骗、绕过限制，甚至入侵真实世界的网络系统。多位AI行业领军人物公开警告超级智能可能给人类社会带来巨大的灾难，呼吁放缓发展、加",
+      "video": "AI失控事件频发、专家呼吁放缓：超级智能真的会毁灭人类吗？ | AI末日论 | 达里奥 | OpenAI | Anthropic | 超级智能 | Hugging Face | 老周横眉",
+      "date": "2026-09-24",
+      "url": "https://www.youtube.com/watch?v=K3MTewFUBDo"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "曾經市值逼近千億、掌握中國影視圈頂級明星與導演資源的華誼兄弟，如今卻走到債務重整的十字路口。這個曾經坐上「京圈王座」的影視帝國，究竟是哪一步走錯了？",
-      "video": "從市值800億到變身「老賴」：「京圈霸主」稱霸中國電影20年；為何慘崩？【文昭思緒飛揚576】",
-      "date": "2026-09-20",
-      "url": "https://www.youtube.com/watch?v=UNx587AizhU"
+      "desc": "明朝大軍幾個月橫掃安南，消失400多年的「交趾」重新回到版圖，然而僅僅20年後，明朝卻選擇全面撤軍。越南究竟憑什麼一次次擋住中原王朝？一個國家真正獨立的秘密，竟",
+      "video": "越南從中國「熬」出獨立：幾次被收復，中國為何最後還是沒守住？【文昭思緒飛揚577】",
+      "date": "2026-09-25",
+      "url": "https://www.youtube.com/watch?v=DOsJvCoetWI"
     },
     {
       "channel": "夸克说",
-      "desc": "#广州大学城持刀伤人 #廣州大學城持刀傷人 #广州GOGO新天地 #廣州GOGO新天地 #广州大学城砍人案 #廣州大學城砍人案 #广州砍眼事件 #廣州砍眼事件 ",
-      "video": "广州大学城伤人事件：中国人为什么开始恨另一个性别？夸克说|誇克说",
-      "date": "2026-09-22",
-      "url": "https://www.youtube.com/watch?v=CkiCcL9W3iM"
+      "desc": "#比亚迪 #比亞迪 #比亚迪利润奖 #比亞迪利潤獎 #比亚迪利润奖风波 #比亞迪利潤獎風波 #比亚迪财报 #比亞迪財報 #比亚迪2026年半年报 #比亞迪202",
+      "video": "比亚迪利润奖风波：它会成为下一个恒大吗？比亞迪利潤獎風波：它會成為下一個恆大嗎？夸克说|誇克說",
+      "date": "2026-09-24",
+      "url": "https://www.youtube.com/watch?v=etK_HHbtt9c"
     },
     {
       "channel": "May Fit",
