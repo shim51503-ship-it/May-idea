@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-26",
-  "generatedAt": "2026-09-26T01:04:09.481Z",
+  "issueDate": "2026-09-27",
+  "generatedAt": "2026-09-27T01:01:28.151Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Crusoe abandons $1.25B plan to use Boom turbines at AI data centers\n【金融新闻】【数说经济】一轮明月照见消费新空间\n【中国新闻】韩正会见加纳总统马哈马\n【世界新闻】OpenAI investigating 'dozens' of instances of agents acting improperly"
+    "body": "【AI 最新信息】Insurers claim AI is already increasing healthcare costs\n【金融新闻】“百元一日聚”走红，戳中了什么\n【中国新闻】南部战区位黄岩岛周边海空域组织海空联合演训\n【世界新闻】Trump rejects Iran deal to reopen Strait of Hormuz in seven days"
   },
   "categories": [
     {
@@ -11,9 +11,30 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-09-26",
+          "title": "Insurers claim AI is already increasing healthcare costs",
+          "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "I created an interactive digital avatar of myself — and you can talk to it",
+          "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
+          "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+        },
+        {
           "date": "2026-09-25",
           "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-          "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+          "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
         },
@@ -23,27 +44,6 @@
           "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
-        },
-        {
-          "date": "2026-09-25",
-          "title": "Meta opens early access program for new Muse features",
-          "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
-        },
-        {
-          "date": "2026-09-25",
-          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-          "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual a",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
-        },
-        {
-          "date": "2026-09-25",
-          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-          "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-25",
-          "title": "【数说经济】一轮明月照见消费新空间",
-          "summary": "年年月色依旧，岁岁消费常新。今年中秋与国庆仅隔3个工作日，“请3休13”的拼假方案在社交平台刷屏。中秋的团圆寓意与国庆的出行热情叠加，“月亮”这个穿越古今的文化意象，成为串联多业态消费的超级入口。",
+          "date": "2026-09-27",
+          "title": "“百元一日聚”走红，戳中了什么",
+          "summary": "“百元一日聚”戳中了什么",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703929.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704319.shtml"
         },
         {
-          "date": "2026-09-25",
-          "title": "从“看景”到“入景”，中秋消费“新”意盎然",
-          "summary": "新华社成都9月25日电(记者董小红)中秋月圆，蓉城生辉。以文化IP激活夜间经济，以沉浸体验焕新文博消费，以“家门口”场景拓展日常运动消费……记者走访发现，今年成都中秋消费“新”意盎然、活力涌动。",
+          "date": "2026-09-26",
+          "title": "AI时代，为啥还要拼技能？世赛现场即答案",
+          "summary": "一生只能参与一次，全球青年同台竞技——",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703927.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml"
         },
         {
-          "date": "2026-09-25",
-          "title": "从“她力量”到“她生态”：AI+家庭服务改写万亿市场",
-          "summary": "中新网杭州9月25日电(张煜欢)“算法可以实现供需双向精准匹配，而智能硬件的持续加入，会把家庭服务的各个环节重新整合、重新标准化。我认为当前产业赛道仍处在0到1的萌芽期，远未进入1到100的爆发阶段，还需更多企业入局深耕。”在全球数贸会上的2026“AI+家庭服务”科企面对面活动现场，巾帼西丽生活科技集团董事长郭昱辰道",
+          "date": "2026-09-26",
+          "title": "4条高铁将同日开通 多地迈入高铁时代",
+          "summary": "本报北京9月26日电(记者刘静)记者今天从中国国家铁路集团有限公司获悉，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁将于9月28日集中开通运营。4条线路横跨南北、纵贯东西，覆盖华北、东北、西北、华中四大区域，以350公里、250公里不同时速等级的钢铁动脉，打破地域时空壁垒，让多地正式迈入",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703849.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml"
         },
         {
-          "date": "2026-09-25",
-          "title": "中秋遇上数贸会 科技风潮点亮假日新生活",
-          "summary": "中新网杭州9月25日电(奚金燕)近距离感受灵巧手的精密操控、与陪伴机器人实时对话、在朱雀三号运载火箭模型前打卡留念……25日，中秋假期首日，第五届全球数字贸易博览会迎来观展高峰。",
+          "date": "2026-09-26",
+          "title": "全球媒体聚焦 | 全球发展倡议5周年 切实助力世界可持续发展",
+          "summary": "当地时间9月25日，全球发展倡议5周年高级别对话会在纽约联合国总部举行。多国媒体报道称，此次会议回顾了全球发展倡议过去5年取得的丰硕成果，凸显了中国在国际发展和全球减贫事业中日益重要的作用，也彰显了各方共建更加繁荣、公平世界的共同承诺。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703850.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704296.shtml"
         },
         {
-          "date": "2026-09-25",
-          "title": "中国信通院王志勤：推动“人工智能+软件”深度融合",
-          "summary": "中新网北京9月25日电 (记者 刘亮)工业和信息化部近日出台《“人工智能+软件”专项行动实施方案》(以下简称《实施方案》)。中国信息通信研究院副院长王志勤向记者介绍，《实施方案》出台，标志着我国人工智能与软件融合发展进入战略牵引、科学布局的新阶段。",
+          "date": "2026-09-26",
+          "title": "尺子量精度、眼睛看创意 世界技能大赛评分标准揭秘",
+          "summary": "第48届世界技能大赛正在上海举行。世赛赛场上，有的项目科技感满满，有的项目香气扑鼻，还有一些项目是看不见的“隐形”较量。选手坐在电脑前，较量发生在逻辑、数据和系统之间，考验着一个人解决复杂问题的本领。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703855.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704294.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-26",
-          "title": "韩正会见加纳总统马哈马",
-          "summary": "中新社纽约9月25日电 当地时间9月25日，中国国家副主席韩正在纽约出席联合国大会期间会见加纳总统马哈马。",
+          "date": "2026-09-27",
+          "title": "南部战区位黄岩岛周边海空域组织海空联合演训",
+          "summary": "中新网9月27日电 据“南部战区”微信公众号消息，9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训，这是针对当前个别国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战能力。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703990.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704317.shtml"
         },
         {
           "date": "2026-09-26",
-          "title": "韩正会见塞浦路斯总统赫里斯托祖利季斯",
-          "summary": "中新社纽约9月25日电 当地时间9月25日，中国国家副主席韩正在纽约出席联合国大会期间会见塞浦路斯总统赫里斯托祖利季斯。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703989.shtml"
+          "title": "欧盟承诺向撒哈拉以南非洲及巴勒斯坦等国提供逾7亿欧元援助",
+          "summary": "中新社布鲁塞尔9月26日电 (记者 德永健)欧盟26日宣布一揽子援助计划，承诺向撒哈拉以南非洲地区及巴勒斯坦、黎巴嫩等国提供逾7亿欧元援助。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704315.shtml"
         },
         {
           "date": "2026-09-26",
-          "title": "技能让文化交融交流（走进世界技能大赛）",
-          "summary": "中秋佳节，国家会展中心(上海)5.2号馆人气正旺。第48届世界技能大赛举办期间，世界技能博览会同步开展。这是本届世赛的创新之举，把匠人切磋技艺、技能文化交融的“技能博物馆”搬到比赛现场，让观众在观赛之余沉浸式体验各国技能文化。",
+          "title": "大熊猫“平平”“福双”已启程赴美",
+          "summary": "2026年9月27日2时55分，大熊猫“平平”“福双”从成都双流机场搭乘包机前往亚特兰大动物园，开启为期十年的旅居生活。启程前，成都大熊猫繁育研究基地为两只大熊猫举办了欢送仪式。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703992.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-27/10704316.shtml"
         },
         {
           "date": "2026-09-26",
-          "title": "碧波渔影绘同心：查干湖畔各族共唱致富“渔光曲”",
-          "summary": "中新网松原9月26日电 (高龙安 李彦国)渔船缓缓靠岸，网内银鳞翻腾，一众渔工立刻忙活起来。热闹的场景，汇成一首查干湖畔“渔光曲”。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703991.shtml"
+          "title": "特朗普称美国和古巴会达成协议",
+          "summary": "美国总统特朗普26日称，他认为美国和古巴会达成协议，美方“不需要动用军队”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml"
         },
         {
-          "date": "2026-09-25",
-          "title": "韩正会见加纳总统马哈马",
-          "summary": "新华社纽约9月25日电(记者吴晓凌 徐静)当地时间2026年9月25日，国家副主席韩正在纽约出席联合国大会期间会见加纳总统马哈马。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-26/10703985.shtml"
+          "date": "2026-09-26",
+          "title": "柬埔寨设立首个暹罗鳄遗传保护区",
+          "summary": "中新社金边9月26日电 (杨强 张堰林)柬埔寨官方当地时间26日在一份联合新闻稿中宣布，该国在豆蔻山脉的奥索姆地区正式设立了首个暹罗鳄遗传保护区。这是一个旨在保护世界上最稀有爬行动物之一、极度濒危的暹罗鳄自然遗传多样性的指定区域。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704308.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-09-26",
-          "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-          "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed sec",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-09-25",
-          "title": "Are Ethiopians marching back to war in Tigray?",
-          "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-09-25",
-          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-          "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+          "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-25",
-          "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-          "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+          "date": "2026-09-26",
+          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+          "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-25",
-          "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-          "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+          "date": "2026-09-26",
+          "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+          "summary": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Republic of Ireland to wear black armbands for Israel game",
+          "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+          "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "zai-org/ZCode（⭐ 6773）",
-          "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-          "source": "GitHub",
-          "url": "https://github.com/zai-org/ZCode"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "jev-chat/jev-chat-jarvis（⭐ 6510）",
+          "title": "jev-chat/jev-chat-jarvis（⭐ 6673）",
           "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
           "source": "GitHub",
           "url": "https://github.com/jev-chat/jev-chat-jarvis"
         },
         {
           "date": "GitHub Trending",
-          "title": "unreallabsai/unreal-agent（⭐ 1940）",
+          "title": "unreallabsai/unreal-agent（⭐ 1965）",
           "summary": "Async-first agent harness",
           "source": "GitHub",
           "url": "https://github.com/unreallabsai/unreal-agent"
         },
         {
           "date": "GitHub Trending",
-          "title": "driceroland/Search（⭐ 1818）",
-          "summary": "A small, fast WebKit browser for macOS, by Office Commun.",
-          "source": "GitHub",
-          "url": "https://github.com/driceroland/Search"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Contrastive-LM/CLM（⭐ 1270）",
+          "title": "Contrastive-LM/CLM（⭐ 1592）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/Contrastive-LM/CLM"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "tobi/disktree（⭐ 1292）",
+          "summary": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+          "source": "GitHub",
+          "url": "https://github.com/tobi/disktree"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "JohnHeibel/PDoomVideo（⭐ 1047）",
+          "summary": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+          "source": "GitHub",
+          "url": "https://github.com/JohnHeibel/PDoomVideo"
         }
       ]
     }
@@ -223,7 +223,7 @@
     {
       "channel": "文昭思绪飞扬",
       "desc": "明朝大軍幾個月橫掃安南，消失400多年的「交趾」重新回到版圖，然而僅僅20年後，明朝卻選擇全面撤軍。越南究竟憑什麼一次次擋住中原王朝？一個國家真正獨立的秘密，竟",
-      "video": "那一年，中國攻下了越南，連政府都設立好了，為何最後還是撤了？【文昭思緒飛揚577】",
+      "video": "那一年，越南差點併入中國，連政府都設立好了，為何中國最後還是撤了？【文昭思緒飛揚577】",
       "date": "2026-09-25",
       "url": "https://www.youtube.com/watch?v=DOsJvCoetWI"
     },
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "Filmora，一站式 AI 內容創作工具，從 AI 影片生成到剪輯一次完成。 https://filmora.go.link/kQBSY *支援 Veo、Se",
-      "video": "GPT-6 Astra + Images 2.5: 一句話讓 AI 完成整個工作流！",
-      "date": "2026-09-19",
-      "url": "https://www.youtube.com/watch?v=H7p0stzmojU"
+      "desc": "📩 免费订阅《李厂长AI周报》：https://join.lichangzhang.ai/ 每周帮你筛掉AI噪音，只留下真正值得关注的新闻、工具和工作流，几分",
+      "video": "我給自己招了4個AI員工，每週省下8小時！",
+      "date": "2026-09-26",
+      "url": "https://www.youtube.com/watch?v=0X5CVapfqPQ"
     }
   ]
 }
