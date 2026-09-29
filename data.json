@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-28",
-  "generatedAt": "2026-09-28T01:19:09.368Z",
+  "issueDate": "2026-09-29",
+  "generatedAt": "2026-09-29T02:25:11.719Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Anthropic’s CEO is about to have dinner with President Trump\n【金融新闻】商务部美大司负责人解读第八轮中美经贸磋商成果\n【中国新闻】台湾人士吁民进党当局通过对话、谈判找出路\n【世界新闻】One dead as nor'easter storm pummels New York and New Jersey"
+    "body": "【AI 最新信息】Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort\n【金融新闻】广东891项省级涉企审批事项达到全国最优水平\n【中国新闻】大熊猫来啦！美国人喜悦之情溢于言表！\n【世界新闻】OpenAI scraps rollout of new model over safety concerns"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-27",
-          "title": "Anthropic’s CEO is about to have dinner with President Trump",
-          "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+          "date": "2026-09-29",
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
         },
         {
-          "date": "2026-09-27",
-          "title": "Can Muse overcome Meta’s trust issues?",
-          "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "date": "2026-09-28",
+          "title": "OpenAI reportedly ditches model over safety concerns",
+          "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+          "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
         },
         {
-          "date": "2026-09-27",
-          "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-          "summary": "\"AI is the devil and I its maker.\"",
+          "date": "2026-09-28",
+          "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+          "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+          "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
         },
         {
-          "date": "2026-09-27",
-          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-          "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+          "date": "2026-09-28",
+          "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
+          "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
         },
         {
-          "date": "2026-09-26",
-          "title": "Insurers claim AI is already increasing healthcare costs",
-          "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+          "date": "2026-09-28",
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+          "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-28",
-          "title": "商务部美大司负责人解读第八轮中美经贸磋商成果",
-          "summary": "9月20日至23日，中美经贸团队在美国纽约和华盛顿举行经贸磋商，取得积极共识，为两国元首会晤贡献了经贸领域的成果。商务部美大司负责人就有关经贸磋商成果进行解读。",
+          "date": "2026-09-29",
+          "title": "广东891项省级涉企审批事项达到全国最优水平",
+          "summary": "中新网广州9月29日电 (记者 程景伟)广东省十四届人大常委会第二十七次会议28日在广州召开。会议听取广东省人大常委会执法检查组关于检查《广东省优化营商环境条例》(以下简称《条例》)实施情况的报告。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704683.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705261.shtml"
         },
         {
-          "date": "2026-09-28",
-          "title": "年内外资调研A股公司近6000次",
-          "summary": "本报记者 毛艺融",
+          "date": "2026-09-29",
+          "title": "金上—湖北±800千伏特高压直流输电工程首次年度检修收官",
+          "summary": "中新网成都9月29日电(记者 刘忠俊)9月28日，随着卡麦、帮果两座换流站双极解锁成功，金上—湖北±800千伏特高压直流输电工程(以下简称“金上—湖北工程”)首次年度检修顺利收官。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704670.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705262.shtml"
         },
         {
-          "date": "2026-09-28",
-          "title": "金价回落叠加节日促销 黄金零售市场迎来消费旺季",
-          "summary": "本报记者 孟 珂",
+          "date": "2026-09-29",
+          "title": "投资结构优化 新旧动能接续转换",
+          "summary": "编者按： 当前，海内外高度关注中国投资走势。如何看待当前投资形势，投资底层逻辑又有哪些深刻变化？三里河推出权威专家系列解读，把脉投资大势，回应市场关切。今日刊发国家信息中心副主任、研究员盛磊的署名文章《投资加速交接棒》。 今年以来，面对复杂严峻的外部环境和国内有效需求不足等多重挑战，我国经济运行保持在合理区间，呈现动能",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704669.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705310.shtml"
         },
         {
-          "date": "2026-09-28",
-          "title": "读懂央行汇率表述的变与不变",
-          "summary": "刘 琪",
+          "date": "2026-09-29",
+          "title": "湖北咸宁：一朵桂花激活全域“美丽经济”",
+          "summary": "中新网咸宁9月29日电 题：湖北咸宁：一朵桂花激活全域“美丽经济”",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704667.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705325.shtml"
         },
         {
-          "date": "2026-09-28",
-          "title": "去景点化、重体验感、全域漫游 进阶的“中国游”全球圈粉",
-          "summary": "证券日报记者 丁 蓉",
+          "date": "2026-09-29",
+          "title": "今年我国粮食丰收在望",
+          "summary": "新华社北京9月29日电 农业农村部9月29日在国新办举行的新闻发布会上发布信息显示，今年我国夏粮产量首次突破3000亿斤，早稻产量连续6年稳定在560亿斤以上，秋粮正在大面积收获，全年粮食丰收在望。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704665.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705323.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-28",
-          "title": "台湾人士吁民进党当局通过对话、谈判找出路",
-          "summary": "中新社台北9月27日电 (记者 朱贺)当地时间9月23日至25日，中国国家主席习近平对美国进行国事访问，其间，两国元首达成八点成果共识。多位台湾人士27日受访表示，此访传递了中美相向而行、和平共处、互利共赢的积极信号，民进党当局应放弃对抗思维，通过两岸对话与和平谈判寻找出路。",
+          "date": "2026-09-29",
+          "title": "大熊猫来啦！美国人喜悦之情溢于言表！",
+          "summary": "当地时间9月27日，大熊猫“平平”“福双”抵达美国亚特兰大动物园。根据中美双方安排，这对大熊猫将在亚特兰大动物园开启为期10年的旅居生活。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/09-29/10705345.shtml"
+        },
+        {
+          "date": "2026-09-29",
+          "title": "闪电评论｜从孔子出发，抵达的应是整片星空",
+          "summary": "九月的曲阜，空气里浮动着桂花与古柏混合的气息。尼山脚下，孔子文化节与尼山世界文明论坛，一个侧重体验，一个侧重思想，将接续登场，像一条河的上游与下游——上游是礼乐仪轨的庄重呈现，下游是文明命题的深层叩问。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-28/10704657.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705339.shtml"
         },
         {
-          "date": "2026-09-28",
-          "title": "卸任总统，将竞选总理，武契奇的求变之路",
-          "summary": "中新网9月28日电(郑云天)当地时间9月27日晚，塞尔维亚总统武契奇向民众发表讲话，宣布辞职。随后，武契奇签署辞呈，正式辞去塞尔维亚总统职务，提前结束其第二个总统任期。根据此前宣布，他将竞选下届政府总理。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704681.shtml"
+          "date": "2026-09-29",
+          "title": "入境旅行商齐聚山东曲阜 共探以孔子文化架起中外文旅互通桥梁",
+          "summary": "中新网山东曲阜9月29日电(周艺伟)“孔子家乡 好客山东”跟着孔子研学游入境旅行商推广大会28日在山东曲阜举行。来自25个国家和地区的文旅机构、青年汉学家、网络达人、旅行商，以及中国重点文旅企业、研学基地等代表近120人与会，共探以孔子文化架起中外文旅互通桥梁。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705332.shtml"
         },
         {
-          "date": "2026-09-28",
-          "title": "大熊猫“平平”“福双”抵达美国亚特兰大",
-          "summary": "中新社华盛顿9月27日电 中国大熊猫“平平”“福双”搭乘包机于当地时间27日抵达美国亚特兰大，将开启为期10年的旅居生活。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704649.shtml"
+          "date": "2026-09-29",
+          "title": "闽宁山海同心研究院在厦门大学揭牌成立",
+          "summary": "中新网厦门9月29日电 (李思源 杨康)28日，闽宁山海同心研究院共建启动活动在厦门大学举行。闽宁山海同心研究院由厦门大学、宁夏大学共同发起主办。福建省和宁夏回族自治区、两校有关领导、专家学者共60余人参加活动。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705321.shtml"
         },
         {
-          "date": "2026-09-28",
-          "title": "新一轮洪灾致柬埔寨数万户家庭受影响",
-          "summary": "中新社金边9月27日电(杨强 张堰林)受连日暴雨引发的洪涝灾害影响，9月26日至27日，柬埔寨马德望省多条公路采取临时封路措施。当地交通运输部门官员27日表示，当前洪水水位仍在持续上涨，一些桥梁被完全淹没，部分路段被洪水直接冲毁。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704648.shtml"
-        },
-        {
-          "date": "2026-09-28",
-          "title": "法国极右翼将首次在参议院组建党团",
-          "summary": "中新网9月28日电 综合外媒报道，法国参议院27日对其约半数席位进行改选。根据各选区陆续公布的结果，法国极右翼首次得以组建参议院党团。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-28/10704668.shtml"
+          "date": "2026-09-29",
+          "title": "中外青年共赴文明互鉴之旅 在行走与对话中读懂中国",
+          "summary": "中新网济宁9月29日电(周艺伟 祁建月)9月25日至28日，由教育部中外人文交流中心、山东省教育厅、济宁市人民政府主办的2026中外青年学生孔子文化周(简称“孔子文化周”)在山东济宁举办。为期四天的活动中，来自49个国家和地区的170余名青年师生从尼山圣境到机器人产业园，从匹克球场到孔庙，在行走与对话中完成一次文明互鉴",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/09-29/10705330.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-27",
-          "title": "One dead as nor'easter storm pummels New York and New Jersey",
-          "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+          "date": "2026-09-29",
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "summary": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-27",
-          "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
-          "summary": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+          "date": "2026-09-29",
+          "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
+          "summary": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-27",
-          "title": "Why some Indian civil servants become heroes for doing their jobs",
-          "summary": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
+          "date": "2026-09-29",
+          "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+          "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-27",
-          "title": "Inside Yemen's front-line city as Houthis battle for control",
-          "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+          "date": "2026-09-28",
+          "title": "Journalist to be crowned king in Uganda after bitter succession dispute",
+          "summary": "Kijanangoma is being crowned amid a dispute over a young heir whom the royal clan does not recognise.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-27",
-          "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
-          "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+          "date": "2026-09-28",
+          "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+          "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Contrastive-LM/CLM（⭐ 1921）",
+          "title": "Contrastive-LM/CLM（⭐ 2296）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/Contrastive-LM/CLM"
         },
         {
           "date": "GitHub Trending",
-          "title": "tobi/disktree（⭐ 1607）",
+          "title": "tobi/disktree（⭐ 1819）",
           "summary": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
           "source": "GitHub",
           "url": "https://github.com/tobi/disktree"
         },
         {
           "date": "GitHub Trending",
-          "title": "yetone/magpie（⭐ 1255）",
+          "title": "mexicat/pdoom-video（⭐ 1785）",
+          "summary": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+          "source": "GitHub",
+          "url": "https://github.com/mexicat/pdoom-video"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "yetone/magpie（⭐ 1626）",
           "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
           "source": "GitHub",
           "url": "https://github.com/yetone/magpie"
         },
         {
           "date": "GitHub Trending",
-          "title": "JohnHeibel/PDoomVideo（⭐ 1249）",
-          "summary": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+          "title": "dzhng/jevgrep（⭐ 1462）",
+          "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
           "source": "GitHub",
-          "url": "https://github.com/JohnHeibel/PDoomVideo"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "mexicat/pdoom-video（⭐ 1142）",
-          "summary": "Code-rendered music video for \"I'm Upping My P(doom)\"",
-          "source": "GitHub",
-          "url": "https://github.com/mexicat/pdoom-video"
+          "url": "https://github.com/dzhng/jevgrep"
         }
       ]
     }
@@ -223,16 +223,16 @@
     {
       "channel": "文昭思绪飞扬",
       "desc": "邵逸夫去世後，留下超過200億港元財富，為什麼四名子女幾乎沒有繼承？陪伴他45年的方逸華，又究竟在這場豪門家族裂變中扮演了什麼角色？",
-      "video": "邵逸夫留下200多億港元，4子女卻被傳拒領：90歲再婚的他，有怎樣另類的豪門恩怨？【文昭思緒飛揚578】",
+      "video": "邵逸夫留下200多億港元，卻傳出4子女拒絕繼承：90歲再婚的他，有怎樣另類的豪門恩怨？【文昭思緒飛揚578】",
       "date": "2026-09-28",
       "url": "https://www.youtube.com/watch?v=FSIM6MXrP1c"
     },
     {
       "channel": "夸克说",
-      "desc": "#比亚迪 #比亞迪 #比亚迪利润奖 #比亞迪利潤獎 #比亚迪利润奖风波 #比亞迪利潤獎風波 #比亚迪财报 #比亞迪財報 #比亚迪2026年半年报 #比亞迪202",
-      "video": "比亚迪利润奖风波：它会成为下一个恒大吗？比亞迪利潤獎風波：它會成為下一個恆大嗎？夸克说|誇克說",
-      "date": "2026-09-24",
-      "url": "https://www.youtube.com/watch?v=etK_HHbtt9c"
+      "desc": "#财富自由 #財富自由 #普通人如何实现财富自由 #普通人如何實現財富自由 #财务自由 #財務自由 #普通人理财 #普通人理財 #普通人投资 #普通人投資 #美",
+      "video": "普通人如何实现财富自由？别再把人生押在工资上！普通人如何實現財富自由？別再把人生押在工資上！夸克说|誇克说",
+      "date": "2026-09-28",
+      "url": "https://www.youtube.com/watch?v=DI0RxW-WbqE"
     },
     {
       "channel": "May Fit",
