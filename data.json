@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-09-30",
-  "generatedAt": "2026-09-30T01:45:17.215Z",
+  "issueDate": "2026-10-01",
+  "generatedAt": "2026-10-01T01:42:40.018Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch\n【金融新闻】今年我国快递业务量已超1500亿件\n【中国新闻】外交部：再次敦促日本当政者切实反思纠错\n【世界新闻】Ukraine's prized steel industry left in ruins by Russian missile campaign"
+    "body": "【AI 最新信息】Google releases Gemini 4 Argon, called its most powerful model yet\n【金融新闻】买房“国补”上线！最高节省利息近5万元\n【中国新闻】特朗普：美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭\n【世界新闻】California bans child marriage, a practice still legal in 32 US states"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-29",
-          "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
-          "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+          "date": "2026-09-30",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
         },
         {
-          "date": "2026-09-29",
-          "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
-          "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatb",
+          "date": "2026-09-30",
+          "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+          "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+          "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
         },
         {
-          "date": "2026-09-29",
-          "title": "OpenAI&#8217;s latest features take direct aim at the app store model",
-          "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used b",
+          "date": "2026-09-30",
+          "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
+          "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+          "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
         },
         {
-          "date": "2026-09-29",
-          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+          "date": "2026-09-30",
+          "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+          "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+          "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
         },
         {
-          "date": "2026-09-29",
-          "title": "Here&#8217;s why OpenAI is absent from Nvidia&#8217;s industry-wide effort to end rogue AI agents",
-          "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+          "date": "2026-09-30",
+          "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+          "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
         }
       ]
     },
@@ -53,38 +53,38 @@
       "items": [
         {
           "date": "2026-09-30",
-          "title": "今年我国快递业务量已超1500亿件",
-          "summary": "中新网9月30日电 据国家邮政局网站消息，国家邮政局监测数据显示，9月29日，我国2026年快递业务量已超1500亿件，较2025年提前了12天。1500亿件包裹加速流动，折射出我国经济的强劲韧性与蓬勃活力。",
+          "title": "买房“国补”上线！最高节省利息近5万元",
+          "summary": "今日起，居民使用新发放商业性个人住房贷款买房，符合条件的可以享受贷款贴息。这是国家层面首次为个人房贷贴息。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705989.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706580.shtml"
         },
         {
           "date": "2026-09-30",
-          "title": "特色资源激发县域消费新动能",
-          "summary": "新华社北京9月29日电 题：特色资源激发县域消费新动能",
+          "title": "机制化的确定性正在重塑中美经贸关系",
+          "summary": "中新网北京9月30日电 近年来，个别经济体把所谓“对等关税”当作单边施压的常规工具，全球贸易政策的不确定性随之上升，产业链供应链的调整也在被动加速。然而经济学的分析早已表明，关税所产生的额外成本大部分并非由出口国承担，而是由征税国的消费者与下游企业消化，保护主义并未让施压者真正受益。经贸摩擦更深层的代价，还在于政策不确",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705991.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706558.shtml"
         },
         {
           "date": "2026-09-30",
-          "title": "“剧中人”成为“流量密码” NPC怎么就火成了景区“新顶流”？",
-          "summary": "“李白”“苏东坡”“古风侠客”来到游客身边——",
+          "title": "《中国发展报告2026》在北京首发",
+          "summary": "中新网北京9月30日电 9月30日，由国务院发展研究中心编写的《中国发展报告2026》中英文版首发仪式在北京举行。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705985.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706565.shtml"
         },
         {
           "date": "2026-09-30",
-          "title": "今年我国快递业务量已超1500亿件",
-          "summary": "原标题：新华社权威快报|今年我国快递业务量已超1500亿件",
+          "title": "三峡枢纽新通道先行开挖区完成爆破开挖",
+          "summary": "中新网宜昌9月30日电 (郭晓莹 董晓斌 秦明硕)随着“最后一爆”顺利启动，作为施工准备试验工程的三峡枢纽新通道先行开挖区30日完成全部爆破开挖作业，为后续高压输电线路迁改、船闸主体工程全面施工创造有利条件。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705984.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706563.shtml"
         },
         {
           "date": "2026-09-30",
-          "title": "欧盟相关成员国推动欧委会打造欧版“301”工具 中国商务部回应",
-          "summary": "中新社北京9月30日电 就欧盟相关成员国推动欧委会打造欧版“301”工具，中国商务部新闻发言人9月29日晚间表示，如欧方执意出台对中国企业或产品的歧视性限制措施，中方必将坚决予以回应。",
+          "title": "浙江首次国际航行船舶三船三燃料加注作业在宁波舟山港完成",
+          "summary": "中新网杭州9月30日电(记者 王逸飞 通讯员 张婷婷 连林怡)9月30日，“海洋石油302”LNG加注船、“中燃绿能85”甲醇加注船、“思杰21”B24生物燃料油加注船分别在宁波舟山港穿山港区、梅山港区、大榭港区码头完成约7400立方米LNG、7500吨绿色甲醇和3000吨B24生物燃料油加注作业。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10705983.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706553.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-09-30",
-          "title": "外交部：再次敦促日本当政者切实反思纠错",
-          "summary": "9月29日是《中日联合声明》发表54周年纪念日。外交部发言人郭嘉昆29日在例行记者会上答问时说，54年前的今天，中日两国老一辈领导人以非凡的政治远见和勇气签署并发表联合声明，实现中日邦交正常化。在今天这一具有重要历史意义的日子，我们再次敦促日本当政者切实反思纠错，以实际行动回归四个政治文件的初心和原点。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-30/10706017.shtml"
-        },
-        {
-          "date": "2026-09-30",
-          "title": "日本冲击战后和平体制 加剧地区安全困境",
-          "summary": "日本政府旨在强化情报能力的专家会议28日召开首次会议。高市政府借所谓安全议题加紧完善国家级情报顶层设计，持续突破战后安保约束，相关动向引人担忧。",
+          "date": "2026-10-01",
+          "title": "特朗普：美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭",
+          "summary": "中新网10月1日电 综合报道，美国总统特朗普当地时间9月30日在社交媒体发文称，美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-30/10706015.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706596.shtml"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "习言道｜让老百姓过上更好的日子",
+          "summary": "10月1日出版的《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706590.shtml"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "庆祝祖国77周年华诞：“77”的回答",
+          "summary": "“77”的回答",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706593.shtml"
         },
         {
           "date": "2026-09-30",
-          "title": "西班牙与奥地利宣布对能源价格实施干预",
-          "summary": "近期，受中东局势影响，欧洲多国能源价格持续高企。西班牙与奥地利已宣布对能源价格实施干预。同时，多家油企已经在意大利采取限价措施。",
+          "title": "俄外交部发言人用中文祝中国人民国庆节快乐",
+          "summary": "中新社莫斯科9月30日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃9月30日在例行记者会上用中文祝中国人民“国庆节快乐”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/09-30/10705999.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706588.shtml"
         },
         {
           "date": "2026-09-30",
-          "title": "中国第16次北冰洋考察取得多项重要进展",
-          "summary": "9月29日，执行中国第16次北冰洋考察任务的“雪龙”号、“雪龙2”号船返回上海。本次考察取得多项重要进展。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-30/10705992.shtml"
-        },
-        {
-          "date": "2026-09-30",
-          "title": "自然资源部：全国烈士陵园不动产全部完成确权登记发证",
-          "summary": "中新网9月30日电 据自然资源部微信公众号消息，自2025年起，自然资源部和退役军人事务部组织集中攻坚开展烈士陵园不动产登记专项工作(以下简称“专项工作”)。经过一年多的努力，全国5439处烈士陵园(含烈士集中安葬墓区、烈士骨灰堂)全部完成登记发证，圆满实现“园园有证、权属清晰、四至明确”的目标。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/09-30/10705982.shtml"
+          "title": "法国纪念印象派绘画大师莫奈逝世100周年",
+          "summary": "中新社巴黎9月30日电 (记者 李洋)法国近日举办多个展览，纪念印象派绘画大师克劳德·莫奈逝世100周年。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706589.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-09-29",
-          "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-          "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+          "date": "2026-10-01",
+          "title": "California bans child marriage, a practice still legal in 32 US states",
+          "summary": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-29",
-          "title": "Chinese AI tool told researchers how to make bioweapons",
-          "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+          "date": "2026-10-01",
+          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+          "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-29",
-          "title": "South Africa to clean up high-risk areas after 12 women killed",
-          "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
+          "date": "2026-10-01",
+          "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+          "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-29",
-          "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
-          "summary": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
+          "date": "2026-09-30",
+          "title": "The children dying in India's remote tribal heartland",
+          "summary": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-29",
-          "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-          "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
+          "date": "2026-09-30",
+          "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+          "summary": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "KKKKhazix/AIHOT（⭐ 3221）",
+          "title": "KKKKhazix/AIHOT（⭐ 4107）",
           "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
           "source": "GitHub",
           "url": "https://github.com/KKKKhazix/AIHOT"
         },
         {
           "date": "GitHub Trending",
-          "title": "mexicat/pdoom-video（⭐ 1982）",
-          "summary": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+          "title": "feder-cr/dots（⭐ 1934）",
+          "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
           "source": "GitHub",
-          "url": "https://github.com/mexicat/pdoom-video"
+          "url": "https://github.com/feder-cr/dots"
         },
         {
           "date": "GitHub Trending",
-          "title": "tobi/disktree（⭐ 1915）",
-          "summary": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
-          "source": "GitHub",
-          "url": "https://github.com/tobi/disktree"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Niko1221/Strata（⭐ 1783）",
-          "summary": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-          "source": "GitHub",
-          "url": "https://github.com/Niko1221/Strata"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "dzhng/jevgrep（⭐ 1778）",
+          "title": "dzhng/jevgrep（⭐ 1907）",
           "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
           "source": "GitHub",
           "url": "https://github.com/dzhng/jevgrep"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Louis-CFM/coucou（⭐ 1340）",
+          "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+          "source": "GitHub",
+          "url": "https://github.com/Louis-CFM/coucou"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "firelex/jeff（⭐ 1196）",
+          "summary": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+          "source": "GitHub",
+          "url": "https://github.com/firelex/jeff"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#财富自由 #財富自由 #普通人如何实现财富自由 #普通人如何實現財富自由 #财务自由 #財務自由 #普通人理财 #普通人理財 #普通人投资 #普通人投資 #美",
-      "video": "普通人如何实现财富自由？别再把人生押在工资上！普通人如何實現財富自由？別再把人生押在工資上！夸克说|誇克说",
-      "date": "2026-09-28",
-      "url": "https://www.youtube.com/watch?v=DI0RxW-WbqE"
+      "desc": "#刘欢去世 #劉歡去世 #刘欢病逝 #劉歡病逝 #刘欢讣告 #劉歡訃告 #刘欢享年63岁 #劉歡享年63歲 #刘欢去世 #劉歡去世 #刘欢歌曲 #劉歡歌曲 #刘",
+      "video": "刘欢去世：他算主旋律歌手吗？为什么中共官方那么爱用他？劉歡去世：他算主旋律歌手嗎？爲什麼中共官方那麼愛用他？夸克说|誇克说",
+      "date": "2026-09-30",
+      "url": "https://www.youtube.com/watch?v=CPEG3fy_LTI"
     },
     {
       "channel": "May Fit",
