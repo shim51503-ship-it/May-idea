@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-01",
-  "generatedAt": "2026-10-01T01:42:40.018Z",
+  "issueDate": "2026-10-02",
+  "generatedAt": "2026-10-02T01:53:29.356Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Google releases Gemini 4 Argon, called its most powerful model yet\n【金融新闻】买房“国补”上线！最高节省利息近5万元\n【中国新闻】特朗普：美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭\n【世界新闻】California bans child marriage, a practice still legal in 32 US states"
+    "body": "【AI 最新信息】Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president\n【金融新闻】三峡工程2026年前三季度运行情况良好\n【中国新闻】菲律宾举办“乱世中的勇气”图片展 呼吁铭记“慰安妇”历史\n【世界新闻】What happened in the failed execution of Christa Pike - and what next?"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-09-30",
-          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-          "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+          "date": "2026-10-01",
+          "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
+          "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+          "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
         },
         {
-          "date": "2026-09-30",
-          "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-          "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+          "date": "2026-10-01",
+          "title": "ChatGPT can now virtually try on clothes for you",
+          "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they l",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+          "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
         },
         {
-          "date": "2026-09-30",
-          "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
-          "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+          "date": "2026-10-01",
+          "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
+          "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+          "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
         },
         {
-          "date": "2026-09-30",
-          "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-          "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+          "date": "2026-10-01",
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+          "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
         },
         {
-          "date": "2026-09-30",
-          "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-          "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+          "date": "2026-10-01",
+          "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
+          "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+          "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-09-30",
-          "title": "买房“国补”上线！最高节省利息近5万元",
-          "summary": "今日起，居民使用新发放商业性个人住房贷款买房，符合条件的可以享受贷款贴息。这是国家层面首次为个人房贷贴息。",
+          "date": "2026-10-02",
+          "title": "三峡工程2026年前三季度运行情况良好",
+          "summary": "中新网宜昌10月2日电 据三峡集团10月1日消息，2026年前三季度，三峡工程运行情况良好，防洪、发电、供水、航运、生态等综合效益得到充分发挥。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706580.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707004.shtml"
         },
         {
-          "date": "2026-09-30",
-          "title": "机制化的确定性正在重塑中美经贸关系",
-          "summary": "中新网北京9月30日电 近年来，个别经济体把所谓“对等关税”当作单边施压的常规工具，全球贸易政策的不确定性随之上升，产业链供应链的调整也在被动加速。然而经济学的分析早已表明，关税所产生的额外成本大部分并非由出口国承担，而是由征税国的消费者与下游企业消化，保护主义并未让施压者真正受益。经贸摩擦更深层的代价，还在于政策不确",
+          "date": "2026-10-02",
+          "title": "让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+          "summary": "中新网北京10月2日电 题：让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706558.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707009.shtml"
         },
         {
-          "date": "2026-09-30",
-          "title": "《中国发展报告2026》在北京首发",
-          "summary": "中新网北京9月30日电 9月30日，由国务院发展研究中心编写的《中国发展报告2026》中英文版首发仪式在北京举行。",
+          "date": "2026-10-01",
+          "title": "21.3亿、268%！数说流动中国的假日新活力",
+          "summary": "国庆假期，全社会跨区域人员流动量预计达到21.3亿人次。有人奔向远方，有人回到故乡，而让每一次出发都能顺利抵达的，是一条条正在变得更便捷、更有温度的路。流动的中国，因此始终向前。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706565.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml"
         },
         {
-          "date": "2026-09-30",
-          "title": "三峡枢纽新通道先行开挖区完成爆破开挖",
-          "summary": "中新网宜昌9月30日电 (郭晓莹 董晓斌 秦明硕)随着“最后一爆”顺利启动，作为施工准备试验工程的三峡枢纽新通道先行开挖区30日完成全部爆破开挖作业，为后续高压输电线路迁改、船闸主体工程全面施工创造有利条件。",
+          "date": "2026-10-01",
+          "title": "品类更多、品牌更强！国货出海有新变化",
+          "summary": "国庆假期，别人忙着出游，这里忙着“出货”！灯具、服装、鞋子等一批批国货完成查验、装进集装箱，从深圳盐田港出发，奔向美国、墨西哥、荷兰等全球市场。眼下正值出口旺季，盐田港开启“国庆假期不停运”模式，为国货出海按下“加速键”。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706563.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml"
         },
         {
-          "date": "2026-09-30",
-          "title": "浙江首次国际航行船舶三船三燃料加注作业在宁波舟山港完成",
-          "summary": "中新网杭州9月30日电(记者 王逸飞 通讯员 张婷婷 连林怡)9月30日，“海洋石油302”LNG加注船、“中燃绿能85”甲醇加注船、“思杰21”B24生物燃料油加注船分别在宁波舟山港穿山港区、梅山港区、大榭港区码头完成约7400立方米LNG、7500吨绿色甲醇和3000吨B24生物燃料油加注作业。",
+          "date": "2026-10-01",
+          "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
+          "summary": "中新网安徽休宁10月1日电(江婉琪)“以前米酒论斤卖，现在卖的不只是一杯酒，更是一种生活方式。”安徽省级非物质文化遗产代表性项目五城米酒酿制技艺黄山市级代表性传承人李爱华说。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706553.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-01",
-          "title": "特朗普：美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭",
-          "summary": "中新网10月1日电 综合报道，美国总统特朗普当地时间9月30日在社交媒体发文称，美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭。",
+          "date": "2026-10-02",
+          "title": "菲律宾举办“乱世中的勇气”图片展 呼吁铭记“慰安妇”历史",
+          "summary": "中新社马尼拉10月2日电(记者 周璟)《乱世中的勇气：女性与战争——向菲律宾战争幸存者致敬》图片展1日在马尼拉市政厅开幕，展出反映二战期间菲律宾女性悲惨遭遇的图片及艺术作品，呼吁铭记历史、反对战争暴行、珍视和平。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706596.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706995.shtml"
         },
         {
-          "date": "2026-10-01",
-          "title": "习言道｜让老百姓过上更好的日子",
-          "summary": "10月1日出版的《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。",
+          "date": "2026-10-02",
+          "title": "秋收见闻：大型农机成为秋收“主角” “收、耕、种、管”一气呵成",
+          "summary": "中新网聊城10月2日电 题：大型农机成为秋收“主角”“收、耕、种、管”一气呵成",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706590.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707005.shtml"
         },
         {
           "date": "2026-10-01",
-          "title": "庆祝祖国77周年华诞：“77”的回答",
-          "summary": "“77”的回答",
+          "title": "法国政府公布2027年预算草案 确认540亿欧元节支计划",
+          "summary": "中新社巴黎10月1日电 (记者 李洋)法国政府当地时间1日公布2027年预算草案，确认540亿欧元节支计划，旨在努力减少财政赤字。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706991.shtml"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "泰国全国灾害保险体系正式实施",
+          "summary": "中新社曼谷10月1日电 (王茜 李映民)泰国总理府公共关系部1日发布消息称，泰国全国灾害保险体系当天正式实施，覆盖洪灾、风灾和地震，约3000万户住宅纳入保障。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "中方代表28国呼吁国际社会遏止单边强制措施",
+          "summary": "中新社联合国10月1日电 当地时间10月1日，中国常驻联合国代表傅聪代表28个观点相近国家在联大第三委员会就单边强制措施作共同发言，呼吁国际社会坚决遏止这一非法行径。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-01/10706593.shtml"
-        },
-        {
-          "date": "2026-09-30",
-          "title": "俄外交部发言人用中文祝中国人民国庆节快乐",
-          "summary": "中新社莫斯科9月30日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃9月30日在例行记者会上用中文祝中国人民“国庆节快乐”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706588.shtml"
-        },
-        {
-          "date": "2026-09-30",
-          "title": "法国纪念印象派绘画大师莫奈逝世100周年",
-          "summary": "中新社巴黎9月30日电 (记者 李洋)法国近日举办多个展览，纪念印象派绘画大师克劳德·莫奈逝世100周年。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-01/10706589.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-10-01",
-          "title": "California bans child marriage, a practice still legal in 32 US states",
-          "summary": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
+          "title": "What happened in the failed execution of Christa Pike - and what next?",
+          "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-01",
-          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-          "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+          "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-01",
-          "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-          "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+          "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+          "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-30",
-          "title": "The children dying in India's remote tribal heartland",
-          "summary": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
+          "date": "2026-10-01",
+          "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+          "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-09-30",
-          "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-          "summary": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
+          "date": "2026-10-01",
+          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+          "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "KKKKhazix/AIHOT（⭐ 4107）",
+          "title": "KKKKhazix/AIHOT（⭐ 4664）",
           "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
           "source": "GitHub",
           "url": "https://github.com/KKKKhazix/AIHOT"
         },
         {
           "date": "GitHub Trending",
-          "title": "feder-cr/dots（⭐ 1934）",
+          "title": "Louis-CFM/coucou（⭐ 2481）",
+          "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+          "source": "GitHub",
+          "url": "https://github.com/Louis-CFM/coucou"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "feder-cr/dots（⭐ 2385）",
           "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
           "source": "GitHub",
           "url": "https://github.com/feder-cr/dots"
         },
         {
           "date": "GitHub Trending",
-          "title": "dzhng/jevgrep（⭐ 1907）",
+          "title": "dzhng/jevgrep（⭐ 2002）",
           "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
           "source": "GitHub",
           "url": "https://github.com/dzhng/jevgrep"
         },
         {
           "date": "GitHub Trending",
-          "title": "Louis-CFM/coucou（⭐ 1340）",
-          "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+          "title": "rehan-remade/universal-modder（⭐ 1578）",
+          "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
           "source": "GitHub",
-          "url": "https://github.com/Louis-CFM/coucou"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "firelex/jeff（⭐ 1196）",
-          "summary": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
-          "source": "GitHub",
-          "url": "https://github.com/firelex/jeff"
+          "url": "https://github.com/rehan-remade/universal-modder"
         }
       ]
     }
@@ -215,17 +215,17 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "最近，AI agents开始合作、欺骗、绕过限制，甚至入侵真实世界的网络系统。多位AI行业领军人物公开警告超级智能可能给人类社会带来巨大的灾难，呼吁放缓发展、加",
-      "video": "AI失控事件频发、专家呼吁放缓：超级智能真的会毁灭人类吗？ | AI末日论 | 达里奥 | OpenAI | Anthropic | 超级智能 | Hugging Face | 老周横眉",
-      "date": "2026-09-24",
-      "url": "https://www.youtube.com/watch?v=K3MTewFUBDo"
+      "desc": "本期《财富心理学》系列，我们从比尔·盖茨、格雷厄姆、扎克伯格到麦道夫，聊聊成功、运气、风险与投资判断之间最容易被忽略的关系。真正成熟的财富思维，不是相信自己永远",
+      "video": "从比尔盖茨到麦道夫：为什么我们总相信错误的财富故事？普通人必看的财富真相 | 财富心理学 III | 投资理财 | 财富自由 | 价值投资 | 成功学 | 投资思维 | 老周横眉",
+      "date": "2026-10-01",
+      "url": "https://www.youtube.com/watch?v=1Q5tY2Uea88"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "邵逸夫去世後，留下超過200億港元財富，為什麼四名子女幾乎沒有繼承？陪伴他45年的方逸華，又究竟在這場豪門家族裂變中扮演了什麼角色？",
-      "video": "邵逸夫留下200多億港元，卻傳出4子女拒絕繼承：90歲再婚的他，有怎樣另類的豪門恩怨？【文昭思緒飛揚578】",
-      "date": "2026-09-28",
-      "url": "https://www.youtube.com/watch?v=FSIM6MXrP1c"
+      "desc": "一家9口準備十年，只等一場暴風夜。破舊木船駛入大海，他們能否穿過封鎖，抵達自由彼岸？",
+      "video": "逃出朝鮮到底有多難？一家九口準備十多年，為何選在最危險的暴風雨之夜？【文昭思緒飛揚579】",
+      "date": "2026-10-02",
+      "url": "https://www.youtube.com/watch?v=AQt5J_8osq0"
     },
     {
       "channel": "夸克说",
