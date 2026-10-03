@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-02",
-  "generatedAt": "2026-10-02T01:53:29.356Z",
+  "issueDate": "2026-10-03",
+  "generatedAt": "2026-10-03T01:34:53.613Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president\n【金融新闻】三峡工程2026年前三季度运行情况良好\n【中国新闻】菲律宾举办“乱世中的勇气”图片展 呼吁铭记“慰安妇”历史\n【世界新闻】What happened in the failed execution of Christa Pike - and what next?"
+    "body": "【AI 最新信息】Meta wants your next gadget to be Muse-infused\n【金融新闻】词元经济离大众消费还有多远\n【中国新闻】杭州有个机器人学校 首批30名“新生”已入学\n【世界新闻】The South African men trying to end violence against women: 'Every man needs to play a part'"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-10-01",
-          "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
-          "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+          "date": "2026-10-03",
+          "title": "Meta wants your next gadget to be Muse-infused",
+          "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
+          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
         },
         {
-          "date": "2026-10-01",
-          "title": "ChatGPT can now virtually try on clothes for you",
-          "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they l",
+          "date": "2026-10-02",
+          "title": "Sean Parker is rebuilding Stability AI around music",
+          "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+          "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
         },
         {
-          "date": "2026-10-01",
-          "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
-          "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+          "date": "2026-10-02",
+          "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+          "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+          "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
         },
         {
-          "date": "2026-10-01",
-          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-          "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+          "date": "2026-10-02",
+          "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
+          "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, m",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
         },
         {
-          "date": "2026-10-01",
-          "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
-          "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+          "date": "2026-10-02",
+          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+          "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to si",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
+          "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-02",
-          "title": "三峡工程2026年前三季度运行情况良好",
-          "summary": "中新网宜昌10月2日电 据三峡集团10月1日消息，2026年前三季度，三峡工程运行情况良好，防洪、发电、供水、航运、生态等综合效益得到充分发挥。",
+          "date": "2026-10-03",
+          "title": "词元经济离大众消费还有多远",
+          "summary": "运营商词元(Token)套餐推出数月，市场反馈如何？今年5月，移动、联通、电信集中上线词元套餐，将人工智能(AI)算力打包成可订购、可计费的标准化产品，一时间引发市场广泛关注。但热度之下，真正形成持续付费习惯的用户规模仍然有限，多数消费者还停留在尝鲜体验或者持币观望的阶段，运营商词元套餐的规模化普及尚需时日。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707004.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707372.shtml"
+        },
+        {
+          "date": "2026-10-03",
+          "title": "国庆假期第二天广东4A级及以上景区接待游客451.7万人次",
+          "summary": "中新网广州10月3日电 (记者 程景伟)广东省文旅厅2日通报，据初步测算，2026年国庆假期第二天(10月2日)，全省4A级及以上景区接待游客451.7万人次，同比增长4.9%。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707361.shtml"
         },
         {
           "date": "2026-10-02",
-          "title": "让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
-          "summary": "中新网北京10月2日电 题：让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+          "title": "“99元租豪车”靠谱吗？假期租车自驾避坑指南请收",
+          "summary": "真相来了丨“99元租豪车”靠谱吗？假期租车自驾避坑指南请收好",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707009.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml"
         },
         {
-          "date": "2026-10-01",
-          "title": "21.3亿、268%！数说流动中国的假日新活力",
-          "summary": "国庆假期，全社会跨区域人员流动量预计达到21.3亿人次。有人奔向远方，有人回到故乡，而让每一次出发都能顺利抵达的，是一条条正在变得更便捷、更有温度的路。流动的中国，因此始终向前。",
+          "date": "2026-10-02",
+          "title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
+          "summary": "今天(3日)是国庆假期第三天，各地出行需求旺盛。而在昨天，也就是国庆假期第二天，全社会跨区域人员流动量预计超3亿人次，中短途出行增长明显。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml"
         },
         {
-          "date": "2026-10-01",
-          "title": "品类更多、品牌更强！国货出海有新变化",
-          "summary": "国庆假期，别人忙着出游，这里忙着“出货”！灯具、服装、鞋子等一批批国货完成查验、装进集装箱，从深圳盐田港出发，奔向美国、墨西哥、荷兰等全球市场。眼下正值出口旺季，盐田港开启“国庆假期不停运”模式，为国货出海按下“加速键”。",
+          "date": "2026-10-02",
+          "title": "万亿级车轮经济跑出新动能",
+          "summary": "日均3亿人次在路上！",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml"
-        },
-        {
-          "date": "2026-10-01",
-          "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
-          "summary": "中新网安徽休宁10月1日电(江婉琪)“以前米酒论斤卖，现在卖的不只是一杯酒，更是一种生活方式。”安徽省级非物质文化遗产代表性项目五城米酒酿制技艺黄山市级代表性传承人李爱华说。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707331.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-02",
-          "title": "菲律宾举办“乱世中的勇气”图片展 呼吁铭记“慰安妇”历史",
-          "summary": "中新社马尼拉10月2日电(记者 周璟)《乱世中的勇气：女性与战争——向菲律宾战争幸存者致敬》图片展1日在马尼拉市政厅开幕，展出反映二战期间菲律宾女性悲惨遭遇的图片及艺术作品，呼吁铭记历史、反对战争暴行、珍视和平。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706995.shtml"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "秋收见闻：大型农机成为秋收“主角” “收、耕、种、管”一气呵成",
-          "summary": "中新网聊城10月2日电 题：大型农机成为秋收“主角”“收、耕、种、管”一气呵成",
+          "date": "2026-10-03",
+          "title": "杭州有个机器人学校 首批30名“新生”已入学",
+          "summary": "首批30名“新生”分科实训，持证上岗——",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-02/10707005.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707371.shtml"
         },
         {
-          "date": "2026-10-01",
-          "title": "法国政府公布2027年预算草案 确认540亿欧元节支计划",
-          "summary": "中新社巴黎10月1日电 (记者 李洋)法国政府当地时间1日公布2027年预算草案，确认540亿欧元节支计划，旨在努力减少财政赤字。",
+          "date": "2026-10-03",
+          "title": "澳大利亚发生汽车冲撞人群事件 致数人受伤",
+          "summary": "中新网10月3日电 据澳大利亚广播公司(ABC)报道，澳大利亚新南威尔士州救护车服务中心证实，当地时间3日，纽卡斯尔市发生一起汽车冲撞人群事件，导致数人受伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706991.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707358.shtml"
         },
         {
-          "date": "2026-10-01",
-          "title": "泰国全国灾害保险体系正式实施",
-          "summary": "中新社曼谷10月1日电 (王茜 李映民)泰国总理府公共关系部1日发布消息称，泰国全国灾害保险体系当天正式实施，覆盖洪灾、风灾和地震，约3000万户住宅纳入保障。",
+          "date": "2026-10-03",
+          "title": "特朗普：与伊朗的战事将“很快结束”",
+          "summary": "美国总统特朗普2日称，与伊朗的战事将“很快结束，伊朗永远不会拥有核武器”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707354.shtml"
         },
         {
-          "date": "2026-10-01",
-          "title": "中方代表28国呼吁国际社会遏止单边强制措施",
-          "summary": "中新社联合国10月1日电 当地时间10月1日，中国常驻联合国代表傅聪代表28个观点相近国家在联大第三委员会就单边强制措施作共同发言，呼吁国际社会坚决遏止这一非法行径。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-02/10706982.shtml"
+          "date": "2026-10-02",
+          "title": "马克龙：七国集团成员国将释放至多1亿桶战略石油储备",
+          "summary": "中新社巴黎10月2日电 (记者 李洋)法国总统马克龙当地时间2日表示，七国集团成员国及其伙伴将立即启动在4个月内释放至多1亿桶战略石油储备。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml"
+        },
+        {
+          "date": "2026-10-02",
+          "title": "美国9月非农就业增加2.9万 失业率4.2%",
+          "summary": "中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-01",
-          "title": "What happened in the failed execution of Christa Pike - and what next?",
-          "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+          "date": "2026-10-02",
+          "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+          "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-01",
-          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-          "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+          "date": "2026-10-02",
+          "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+          "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-01",
-          "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-          "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+          "date": "2026-10-02",
+          "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+          "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-01",
-          "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-          "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+          "date": "2026-10-02",
+          "title": "Women given shorts at Oktoberfest to prevent upskirting",
+          "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-01",
-          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-          "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+          "date": "2026-10-02",
+          "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+          "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "KKKKhazix/AIHOT（⭐ 4664）",
+          "title": "KKKKhazix/AIHOT（⭐ 4965）",
           "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
           "source": "GitHub",
           "url": "https://github.com/KKKKhazix/AIHOT"
         },
         {
           "date": "GitHub Trending",
-          "title": "Louis-CFM/coucou（⭐ 2481）",
-          "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+          "title": "Louis-CFM/coucou（⭐ 2988）",
+          "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
           "source": "GitHub",
           "url": "https://github.com/Louis-CFM/coucou"
         },
         {
           "date": "GitHub Trending",
-          "title": "feder-cr/dots（⭐ 2385）",
+          "title": "feder-cr/dots（⭐ 2490）",
           "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
           "source": "GitHub",
           "url": "https://github.com/feder-cr/dots"
         },
         {
           "date": "GitHub Trending",
-          "title": "dzhng/jevgrep（⭐ 2002）",
-          "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-          "source": "GitHub",
-          "url": "https://github.com/dzhng/jevgrep"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "rehan-remade/universal-modder（⭐ 1578）",
+          "title": "rehan-remade/universal-modder（⭐ 2150）",
           "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
           "source": "GitHub",
           "url": "https://github.com/rehan-remade/universal-modder"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "CopilotKit/OpenDots（⭐ 1488）",
+          "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
+          "source": "GitHub",
+          "url": "https://github.com/CopilotKit/OpenDots"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#刘欢去世 #劉歡去世 #刘欢病逝 #劉歡病逝 #刘欢讣告 #劉歡訃告 #刘欢享年63岁 #劉歡享年63歲 #刘欢去世 #劉歡去世 #刘欢歌曲 #劉歡歌曲 #刘",
-      "video": "刘欢去世：他算主旋律歌手吗？为什么中共官方那么爱用他？劉歡去世：他算主旋律歌手嗎？爲什麼中共官方那麼愛用他？夸克说|誇克说",
-      "date": "2026-09-30",
-      "url": "https://www.youtube.com/watch?v=CPEG3fy_LTI"
+      "desc": "#2026爱知名古屋亚运会 #2026愛知名古屋亞運會 #爱知名古屋亚运会 #愛知名古屋亞運會 #亚运会 #亞運會 #吴艳妮 #吳艷妮 #吴艳妮100米栏 #吳",
+      "video": "从苏炳添到吴艳妮：中国体育赢学是如何炼成的？從蘇炳添到吳艷妮：中國體育贏學是如何煉成的？ 夸克说|誇克说",
+      "date": "2026-10-02",
+      "url": "https://www.youtube.com/watch?v=Sh-bOQ39gIc"
     },
     {
       "channel": "May Fit",
@@ -243,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  很多人对 Gemini 的印象，还停留在“Google 版 ChatGPT”。  但真正用下来",
-      "video": "Google Gemini 3 全能使用手册！9大核心用法+17个最强功能实测 免费使用 分析Youtube 智能体 谷歌全家桶 报告ppt 小白零基础一个视频全学会！AI工具 AI赚钱 AI副业",
-      "date": "2026-09-25",
-      "url": "https://www.youtube.com/watch?v=RBbvc1Ap9gk"
+      "desc": "哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  你是不是也有这种感觉：  AI教程收藏了一大堆， 工具听过很多， 赚钱攻略也保存了不少， 但真",
+      "video": "Gemini合并NotebookLM最核心5个赚钱商机！全自动化赚钱 搞钱必看 快速进入新领域 商业洞察 知识变现 AI分身 不露脸做Youtube AI赚钱 AI创业 AI副业 一人公司",
+      "date": "2026-10-02",
+      "url": "https://www.youtube.com/watch?v=oqSoetslbdA"
     },
     {
       "channel": "李厂长来了",
