@@ -1,15 +1,36 @@
 {
-  "issueDate": "2026-10-03",
-  "generatedAt": "2026-10-03T01:34:53.613Z",
+  "issueDate": "2026-10-04",
+  "generatedAt": "2026-10-04T02:16:04.383Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Meta wants your next gadget to be Muse-infused\n【金融新闻】词元经济离大众消费还有多远\n【中国新闻】杭州有个机器人学校 首批30名“新生”已入学\n【世界新闻】The South African men trying to end violence against women: 'Every man needs to play a part'"
+    "body": "【AI 最新信息】Amazon responds to data center backlash, says it no longer uses NDAs\n【金融新闻】全球媒体聚焦 | 中国国庆假期激发文旅消费活力\n【中国新闻】日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕\n【世界新闻】'Anger in the streets': Tens of thousands protest in Spain over housing crisis"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-10-03",
+          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+        },
+        {
+          "date": "2026-10-03",
+          "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+          "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+        },
+        {
+          "date": "2026-10-03",
+          "title": "All the AI agents that can live in your text messages",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        },
         {
           "date": "2026-10-03",
           "title": "Meta wants your next gadget to be Muse-infused",
@@ -23,27 +44,6 @@
           "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-          "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
-          "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, m",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-          "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to si",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-03",
-          "title": "词元经济离大众消费还有多远",
-          "summary": "运营商词元(Token)套餐推出数月，市场反馈如何？今年5月，移动、联通、电信集中上线词元套餐，将人工智能(AI)算力打包成可订购、可计费的标准化产品，一时间引发市场广泛关注。但热度之下，真正形成持续付费习惯的用户规模仍然有限，多数消费者还停留在尝鲜体验或者持币观望的阶段，运营商词元套餐的规模化普及尚需时日。",
+          "date": "2026-10-04",
+          "title": "全球媒体聚焦 | 中国国庆假期激发文旅消费活力",
+          "summary": "今年国庆假期，全国各地假日文化和旅游消费持续升温，引发外媒关注。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707372.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707699.shtml"
+        },
+        {
+          "date": "2026-10-04",
+          "title": "哈啰顺风车携手百度地图：双边开放重构顺风出行生态",
+          "summary": "近日，哈啰顺风车和百度地图宣布达成合作。双方将围绕“地图+出行”的核心场景，共同探索更便捷、更高效的顺路合乘服务体验。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707678.shtml"
         },
         {
           "date": "2026-10-03",
-          "title": "国庆假期第二天广东4A级及以上景区接待游客451.7万人次",
-          "summary": "中新网广州10月3日电 (记者 程景伟)广东省文旅厅2日通报，据初步测算，2026年国庆假期第二天(10月2日)，全省4A级及以上景区接待游客451.7万人次，同比增长4.9%。",
+          "title": "工业母机产业链如何高质量发展？院士专家共议新路径",
+          "summary": "中新网嘉兴10月3日电 (钟余)工业母机产业如何实现开道超车、跨越发展？中国机械工程学会荣誉理事长、中国工程院院士周济日前指出，以新一代智能制造为主攻方向，用新一代人工智能赋能数控机床，是我国工业母机创新发展要走的技术路线。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707361.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707667.shtml"
         },
         {
-          "date": "2026-10-02",
-          "title": "“99元租豪车”靠谱吗？假期租车自驾避坑指南请收",
-          "summary": "真相来了丨“99元租豪车”靠谱吗？假期租车自驾避坑指南请收好",
+          "date": "2026-10-03",
+          "title": "国际能源署：已释放约3.25亿桶战略石油储备",
+          "summary": "国际能源署日前发布公告显示，该机构今年3月宣布计划释放的4亿桶战略石油储备中，目前已释放约3.25亿桶。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707668.shtml"
         },
         {
-          "date": "2026-10-02",
-          "title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
-          "summary": "今天(3日)是国庆假期第三天，各地出行需求旺盛。而在昨天，也就是国庆假期第二天，全社会跨区域人员流动量预计超3亿人次，中短途出行增长明显。",
+          "date": "2026-10-03",
+          "title": "改革激活创新源力 产业集聚硬核势能 陕西培育壮大新质生产力",
+          "summary": "教育科技人才体制机制一体改革，是激活硬科技、培育新质生产力的关键抓手。立足秦创原创新驱动平台总窗口优势，陕西聚力发展光子、高端科学仪器、新能源装备等硬科技产业。高校厚植学科根基，科研团队聚力攻坚技术难题，大批工程技术人才持续输送至产业一线，创新链、产业链、人才链深度咬合。实验室科研成果加速落地转化，迭代打磨成为硬核产品",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "万亿级车轮经济跑出新动能",
-          "summary": "日均3亿人次在路上！",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707331.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707665.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-03",
-          "title": "杭州有个机器人学校 首批30名“新生”已入学",
-          "summary": "首批30名“新生”分科实训，持证上岗——",
+          "date": "2026-10-04",
+          "title": "日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕",
+          "summary": "中新网10月4日电 据日媒4日报道，3日那霸市一家酒店发生了一起女性遇害、随身物品被抢走的案件。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707718.shtml"
+        },
+        {
+          "date": "2026-10-04",
+          "title": "日本民间团体展示侵略战争史料 呼吁日本社会坚守和平",
+          "summary": "日本多个民间团体3日在东京江户川区联合举办“战争展”，展示日本在二战期间发动侵略战争的历史资料，呼吁日本社会坚守和平，反对高市政府扩军修宪动向。主办方表示，希望这些展示，能够让日本民众正确了解历史，阻止日本再次走上战争道路。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-03/10707371.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707705.shtml"
         },
         {
-          "date": "2026-10-03",
-          "title": "澳大利亚发生汽车冲撞人群事件 致数人受伤",
-          "summary": "中新网10月3日电 据澳大利亚广播公司(ABC)报道，澳大利亚新南威尔士州救护车服务中心证实，当地时间3日，纽卡斯尔市发生一起汽车冲撞人群事件，导致数人受伤。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707358.shtml"
+          "date": "2026-10-04",
+          "title": "“完善全球治理和推动多极化的重要力量”",
+          "summary": "“完善全球治理和推动多极化的重要力量”",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707704.shtml"
         },
         {
-          "date": "2026-10-03",
-          "title": "特朗普：与伊朗的战事将“很快结束”",
-          "summary": "美国总统特朗普2日称，与伊朗的战事将“很快结束，伊朗永远不会拥有核武器”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707354.shtml"
+          "date": "2026-10-04",
+          "title": "学习新语·家国同心丨总书记心中的“家”与“国”",
+          "summary": "家是最小国，国是千万家。修齐治平、兴亡有责的家国情怀是中华优秀传统文化的重要元素。习近平总书记始终高度重视家国情怀的传承和弘扬，在多个场合深刻阐述“家”“国”关系。一起重温这些深情话语，感悟总书记心中的“家”与“国”。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707687.shtml"
         },
         {
-          "date": "2026-10-02",
-          "title": "马克龙：七国集团成员国将释放至多1亿桶战略石油储备",
-          "summary": "中新社巴黎10月2日电 (记者 李洋)法国总统马克龙当地时间2日表示，七国集团成员国及其伙伴将立即启动在4个月内释放至多1亿桶战略石油储备。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "美国9月非农就业增加2.9万 失业率4.2%",
-          "summary": "中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml"
+          "date": "2026-10-04",
+          "title": "微视频｜因为国 所以潮",
+          "summary": "有些浪漫，跨越千年，依旧温柔；有些风韵，历经岁月，熠熠如新。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707680.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-02",
-          "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
-          "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+          "date": "2026-10-04",
+          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+          "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-02",
-          "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-          "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+          "date": "2026-10-04",
+          "title": "Cornell president says university 'must do better' after frat house rape allegations",
+          "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-02",
-          "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-          "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+          "date": "2026-10-03",
+          "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+          "summary": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-02",
-          "title": "Women given shorts at Oktoberfest to prevent upskirting",
-          "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+          "date": "2026-10-03",
+          "title": "Why Canada is preparing for a (long shot) US invasion",
+          "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-02",
-          "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-          "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+          "date": "2026-10-03",
+          "title": "Medical plane with 6 on board missing off Massachusetts coast",
+          "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "KKKKhazix/AIHOT（⭐ 4965）",
+          "title": "KKKKhazix/AIHOT（⭐ 5433）",
           "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
           "source": "GitHub",
           "url": "https://github.com/KKKKhazix/AIHOT"
         },
         {
           "date": "GitHub Trending",
-          "title": "Louis-CFM/coucou（⭐ 2988）",
-          "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-          "source": "GitHub",
-          "url": "https://github.com/Louis-CFM/coucou"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "feder-cr/dots（⭐ 2490）",
-          "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-          "source": "GitHub",
-          "url": "https://github.com/feder-cr/dots"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "rehan-remade/universal-modder（⭐ 2150）",
+          "title": "rehan-remade/universal-modder（⭐ 2644）",
           "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
           "source": "GitHub",
           "url": "https://github.com/rehan-remade/universal-modder"
         },
         {
           "date": "GitHub Trending",
-          "title": "CopilotKit/OpenDots（⭐ 1488）",
+          "title": "feder-cr/dots（⭐ 2574）",
+          "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+          "source": "GitHub",
+          "url": "https://github.com/feder-cr/dots"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "CopilotKit/OpenDots（⭐ 2557）",
           "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
           "source": "GitHub",
           "url": "https://github.com/CopilotKit/OpenDots"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "wy51ai/floorplan-3d（⭐ 1362）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/wy51ai/floorplan-3d"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "一家9口準備十年，只等一場暴風夜。破舊木船駛入大海，他們能否穿過封鎖，抵達自由彼岸？",
-      "video": "逃出朝鮮到底有多難？一家九口準備十多年，為何選在最危險的暴風雨之夜？【文昭思緒飛揚579】",
-      "date": "2026-10-02",
-      "url": "https://www.youtube.com/watch?v=AQt5J_8osq0"
+      "desc": "神秘信號跨越七年反覆出現，GPS與北斗同時失靈數秒。科學家追查後，線索竟指向這裏。。。",
+      "video": "隱藏7年的秘密被揭開：中國版GPS導航突然失靈，誰幹的？【文昭思緒飛揚580】",
+      "date": "2026-10-04",
+      "url": "https://www.youtube.com/watch?v=T16gcqcGfvI"
     },
     {
       "channel": "夸克说",
@@ -244,16 +244,16 @@
     {
       "channel": "盈夏AI轻创业",
       "desc": "哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  你是不是也有这种感觉：  AI教程收藏了一大堆， 工具听过很多， 赚钱攻略也保存了不少， 但真",
-      "video": "Gemini合并NotebookLM最核心5个赚钱商机！全自动化赚钱 搞钱必看 快速进入新领域 商业洞察 知识变现 AI分身 不露脸做Youtube AI赚钱 AI创业 AI副业 一人公司",
+      "video": "Gemini+NotebookLM最核心5个赚钱商机！全自动化赚钱 搞钱必看 快速进入新领域 商业洞察 知识变现 AI分身 不露脸做Youtube AI赚钱 AI创业 AI副业 一人公司",
       "date": "2026-10-02",
       "url": "https://www.youtube.com/watch?v=oqSoetslbdA"
     },
     {
       "channel": "李厂长来了",
-      "desc": "📩 免费订阅《李厂长AI周报》：https://join.lichangzhang.ai/ 每周帮你筛掉AI噪音，只留下真正值得关注的新闻、工具和工作流，几分",
-      "video": "我給自己招了4個AI員工，每週省下8小時！",
-      "date": "2026-09-26",
-      "url": "https://www.youtube.com/watch?v=0X5CVapfqPQ"
+      "desc": "🔥 Opus 5.5 不止是性能變強，而是用法也變了！Anthropic 官方最近公布了一份 Opus 5.5 使用指南，我幫你整理了 13 個最值得學的實用",
+      "video": "Anthropic 公布了掌握 Opus 5.5 的13條秘訣！",
+      "date": "2026-10-03",
+      "url": "https://www.youtube.com/watch?v=iWL-quhw9g4"
     }
   ]
 }
