@@ -1,15 +1,36 @@
 {
-  "issueDate": "2026-10-04",
-  "generatedAt": "2026-10-04T02:16:04.383Z",
+  "issueDate": "2026-10-05",
+  "generatedAt": "2026-10-05T01:25:26.132Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Amazon responds to data center backlash, says it no longer uses NDAs\n【金融新闻】全球媒体聚焦 | 中国国庆假期激发文旅消费活力\n【中国新闻】日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕\n【世界新闻】'Anger in the streets': Tens of thousands protest in Spain over housing crisis"
+    "body": "【AI 最新信息】Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions\n【金融新闻】人均带三个空箱来华购物的“China Haul”火了\n【中国新闻】也门战事升级，沙伊博弈再添变数：地区局势会否进一步升温？\n【世界新闻】Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-10-04",
+          "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+          "summary": "AI slop seems to be overwhelming bug bounty programs.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+        },
+        {
+          "date": "2026-10-04",
+          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+          "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+        },
+        {
+          "date": "2026-10-04",
+          "title": "Trump unveils his new Super Intelligence Force",
+          "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+        },
         {
           "date": "2026-10-03",
           "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -23,27 +44,6 @@
           "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
-        },
-        {
-          "date": "2026-10-03",
-          "title": "All the AI agents that can live in your text messages",
-          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
-        },
-        {
-          "date": "2026-10-03",
-          "title": "Meta wants your next gadget to be Muse-infused",
-          "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "Sean Parker is rebuilding Stability AI around music",
-          "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
         }
       ]
     },
@@ -53,38 +53,38 @@
       "items": [
         {
           "date": "2026-10-04",
-          "title": "全球媒体聚焦 | 中国国庆假期激发文旅消费活力",
-          "summary": "今年国庆假期，全国各地假日文化和旅游消费持续升温，引发外媒关注。",
+          "title": "人均带三个空箱来华购物的“China Haul”火了",
+          "summary": "在海外社交媒体上，又有一条关于中国的话题词“China Haul”悄然兴起。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707699.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707978.shtml"
         },
         {
           "date": "2026-10-04",
-          "title": "哈啰顺风车携手百度地图：双边开放重构顺风出行生态",
-          "summary": "近日，哈啰顺风车和百度地图宣布达成合作。双方将围绕“地图+出行”的核心场景，共同探索更便捷、更高效的顺路合乘服务体验。",
+          "title": "商务部：国庆假期前四天全国消费市场平稳有序",
+          "summary": "记者从商务部了解到，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707678.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707975.shtml"
         },
         {
-          "date": "2026-10-03",
-          "title": "工业母机产业链如何高质量发展？院士专家共议新路径",
-          "summary": "中新网嘉兴10月3日电 (钟余)工业母机产业如何实现开道超车、跨越发展？中国机械工程学会荣誉理事长、中国工程院院士周济日前指出，以新一代智能制造为主攻方向，用新一代人工智能赋能数控机床，是我国工业母机创新发展要走的技术路线。",
+          "date": "2026-10-04",
+          "title": "“心价比”崛起：情绪消费成国庆消费新主角",
+          "summary": "原标题：开局之年看中国·潮涌荆楚丨“心价比”崛起：情绪消费成国庆消费新主角",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707667.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707972.shtml"
         },
         {
-          "date": "2026-10-03",
-          "title": "国际能源署：已释放约3.25亿桶战略石油储备",
-          "summary": "国际能源署日前发布公告显示，该机构今年3月宣布计划释放的4亿桶战略石油储备中，目前已释放约3.25亿桶。",
+          "date": "2026-10-04",
+          "title": "湖北重点城市和景区旅游接待创新高",
+          "summary": "中新网武汉10月4日电 (记者 梁婷)记者4日从湖北省文旅厅获悉，该省重点旅游城市和景区迎来国庆假期第二波游客高峰，文旅市场供需两旺、热度攀升。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707668.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707969.shtml"
         },
         {
-          "date": "2026-10-03",
-          "title": "改革激活创新源力 产业集聚硬核势能 陕西培育壮大新质生产力",
-          "summary": "教育科技人才体制机制一体改革，是激活硬科技、培育新质生产力的关键抓手。立足秦创原创新驱动平台总窗口优势，陕西聚力发展光子、高端科学仪器、新能源装备等硬科技产业。高校厚植学科根基，科研团队聚力攻坚技术难题，大批工程技术人才持续输送至产业一线，创新链、产业链、人才链深度咬合。实验室科研成果加速落地转化，迭代打磨成为硬核产品",
+          "date": "2026-10-04",
+          "title": "从“看一眼”到“买一单” 外国游客走进中国日常",
+          "summary": "中新社北京10月4日电 (记者 应妮)2026年国庆黄金周，中国的城市街头和机场不时可见：外国游客拖着空行李箱落地，离境时塞满了无人机、运动相机、国潮服饰、中医艾灸盒......甚至额外再买几个新箱子装“战利品”。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707665.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707968.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-04",
-          "title": "日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕",
-          "summary": "中新网10月4日电 据日媒4日报道，3日那霸市一家酒店发生了一起女性遇害、随身物品被抢走的案件。",
+          "date": "2026-10-05",
+          "title": "也门战事升级，沙伊博弈再添变数：地区局势会否进一步升温？",
+          "summary": "中新网10月5日电 日前，受美以伊冲突外溢影响，也门胡塞武装与沙特方面互袭不断，地区局势再起波澜。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-04/10707718.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708014.shtml"
+        },
+        {
+          "date": "2026-10-05",
+          "title": "巴西总统选举首轮投票无人胜出 将进行第二轮角逐",
+          "summary": "新华社快讯：巴西高等选举法院4日晚公布巴西总统选举首轮投票计票结果，由于无人胜出，得票最多的前总统雅伊尔·博索纳罗之子、自由党候选人弗拉维奥·博索纳罗和巴西现任总统、劳工党候选人卢拉将于10月25日进行第二轮角逐。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708007.shtml"
         },
         {
           "date": "2026-10-04",
-          "title": "日本民间团体展示侵略战争史料 呼吁日本社会坚守和平",
-          "summary": "日本多个民间团体3日在东京江户川区联合举办“战争展”，展示日本在二战期间发动侵略战争的历史资料，呼吁日本社会坚守和平，反对高市政府扩军修宪动向。主办方表示，希望这些展示，能够让日本民众正确了解历史，阻止日本再次走上战争道路。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707705.shtml"
+          "title": "泰国洪灾持续 政府启动大范围救助",
+          "summary": "中新社曼谷10月4日电 (李映民 王茜)泰国防灾减灾厅10月4日公布的数据显示，截至4日6时，泰国首都曼谷及27个府仍持续受到洪灾影响，约117.1万个家庭、326.3万人被波及。泰国政府正加紧开展灾害救助，并部署应对未来数日可能出现的强降雨。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-05/10707997.shtml"
         },
         {
           "date": "2026-10-04",
-          "title": "“完善全球治理和推动多极化的重要力量”",
-          "summary": "“完善全球治理和推动多极化的重要力量”",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707704.shtml"
+          "title": "巴西总统选举开启首轮投票",
+          "summary": "中新社圣保罗10月4日电 (记者 林春茵)巴西利亚时间4日8时，巴西2026年总统选举开启首轮投票。首轮结果预计在当天投票结束后的数小时内揭晓。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-05/10707998.shtml"
         },
         {
           "date": "2026-10-04",
-          "title": "学习新语·家国同心丨总书记心中的“家”与“国”",
-          "summary": "家是最小国，国是千万家。修齐治平、兴亡有责的家国情怀是中华优秀传统文化的重要元素。习近平总书记始终高度重视家国情怀的传承和弘扬，在多个场合深刻阐述“家”“国”关系。一起重温这些深情话语，感悟总书记心中的“家”与“国”。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707687.shtml"
-        },
-        {
-          "date": "2026-10-04",
-          "title": "微视频｜因为国 所以潮",
-          "summary": "有些浪漫，跨越千年，依旧温柔；有些风韵，历经岁月，熠熠如新。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-04/10707680.shtml"
+          "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
+          "summary": "当地时间10月4日，沙特阿拉伯主导的多国联军司令部发表声明称，联军将继续向也门政府及其武装部队提供全面作战支持，以“恢复国家”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-05/10708002.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-04",
-          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-          "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+          "date": "2026-10-05",
+          "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+          "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-04",
-          "title": "Cornell president says university 'must do better' after frat house rape allegations",
-          "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-03",
-          "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-          "summary": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-03",
-          "title": "Why Canada is preparing for a (long shot) US invasion",
-          "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-03",
-          "title": "Medical plane with 6 on board missing off Massachusetts coast",
+          "title": "Rescuers suspend search for survivors after plane went missing off US coast",
           "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-10-04",
+          "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+          "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-10-04",
+          "title": "Indian police accused of sexually harassing journalists at protest",
+          "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-10-04",
+          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "KKKKhazix/AIHOT（⭐ 5433）",
-          "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-          "source": "GitHub",
-          "url": "https://github.com/KKKKhazix/AIHOT"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "rehan-remade/universal-modder（⭐ 2644）",
-          "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-          "source": "GitHub",
-          "url": "https://github.com/rehan-remade/universal-modder"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "feder-cr/dots（⭐ 2574）",
-          "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-          "source": "GitHub",
-          "url": "https://github.com/feder-cr/dots"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "CopilotKit/OpenDots（⭐ 2557）",
+          "title": "CopilotKit/OpenDots（⭐ 3210）",
           "summary": "Your always-on AI coworkers that move between text, calls, and Slack.",
           "source": "GitHub",
           "url": "https://github.com/CopilotKit/OpenDots"
         },
         {
           "date": "GitHub Trending",
-          "title": "wy51ai/floorplan-3d（⭐ 1362）",
+          "title": "rehan-remade/universal-modder（⭐ 3210）",
+          "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+          "source": "GitHub",
+          "url": "https://github.com/rehan-remade/universal-modder"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "feder-cr/dots（⭐ 2603）",
+          "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+          "source": "GitHub",
+          "url": "https://github.com/feder-cr/dots"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "nanaism/yomiyasu（⭐ 1397）",
+          "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+          "source": "GitHub",
+          "url": "https://github.com/nanaism/yomiyasu"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "wy51ai/floorplan-3d（⭐ 1388）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/wy51ai/floorplan-3d"
