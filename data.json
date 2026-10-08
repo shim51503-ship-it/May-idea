@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-07",
-  "generatedAt": "2026-10-07T01:54:23.916Z",
+  "issueDate": "2026-10-08",
+  "generatedAt": "2026-10-08T02:22:10.304Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product\n【金融新闻】一种很新的婚礼火了！超10亿元大生意→\n【中国新闻】驻冲绳美军最高负责人下令：对所有驻冲绳美军实施外出限制\n【世界新闻】US death row inmate Christa Pike awake and speaking after failed execution, lawyers say"
+    "body": "【AI 最新信息】Nous Research confirms it hit $1.5B valuation, launches AI agents for business users\n【金融新闻】从先行区到中试基地 浙江如何构筑“AI+文旅”制度底座？\n【中国新闻】最高人民法院、全国工商联联合发布典型案例，聚焦解决拖欠企业账款纠纷\n【世界新闻】Japan beer giants raided over alleged price-fixing cartel"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-10-06",
-          "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-          "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+          "date": "2026-10-07",
+          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+          "summary": "The developer of Hermes Agent raised a $90 million Series B.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
         },
         {
-          "date": "2026-10-06",
-          "title": "How AI decision models could change content moderation",
-          "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+          "date": "2026-10-07",
+          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+          "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
+          "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
         },
         {
-          "date": "2026-10-06",
-          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-          "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+          "date": "2026-10-07",
+          "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
+          "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+          "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
         },
         {
-          "date": "2026-10-06",
-          "title": "The next hurdle for AI agents: getting websites to let them in",
-          "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving con",
+          "date": "2026-10-07",
+          "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+          "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentiall",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
         },
         {
-          "date": "2026-10-06",
-          "title": "Hark releases an AI personal assistant with a focus on privacy",
-          "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+          "date": "2026-10-07",
+          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+          "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-07",
-          "title": "一种很新的婚礼火了！超10亿元大生意→",
-          "summary": "国庆假期，云南丽江古城、玉龙雪山等景点，迎来婚拍旅拍旺季。与传统酒店婚礼不同，越来越多年轻人选择“目的地婚礼”——把领证、仪式、旅拍、蜜月“打包”到同一座城市完成，为当地文旅产业注入新动能。",
+          "date": "2026-10-08",
+          "title": "从先行区到中试基地 浙江如何构筑“AI+文旅”制度底座？",
+          "summary": "中新网杭州10月8日电 题：从先行区到中试基地 浙江如何构筑“AI+文旅”制度底座？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708580.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708891.shtml"
         },
         {
-          "date": "2026-10-06",
-          "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
-          "summary": "中新社合肥10月6日电 题：安徽“千年矾都”工业遗产蝶变文旅新地标",
+          "date": "2026-10-08",
+          "title": "山区如何“长出”智慧工厂？解码浙江丽水经开区制造业蝶变",
+          "summary": "中新网丽水10月8日电(蓝伊旎)国庆假期，在浙江丽水经济技术开发区(下称“丽水经开区”)，延锋安道拓方德电机有限公司的“黑灯仓库”高效运转，依托智能物流机器人、信息化系统全自动完成物料流转、仓储调度等流程。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708545.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708885.shtml"
         },
         {
-          "date": "2026-10-06",
-          "title": "中国商务部回应法德要求欧盟强化贸易防御等保护主义工具",
-          "summary": "中新社北京10月6日电 就法德要求欧盟强化贸易防御等保护主义工具，中国商务部新闻发言人6日表示，保护主义提升不了竞争力，“脱钩断链”只会损人不利己。",
+          "date": "2026-10-08",
+          "title": "A股三大指数集体火速翻红，超4200只个股上涨",
+          "summary": "8日，A股三大指数开盘涨跌不一，随后集体翻红。截至发稿，沪指涨0.36%，深证成指涨0.56%，创业板指涨0.80%。全市超4200只个股上涨。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708543.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708895.shtml"
         },
         {
-          "date": "2026-10-06",
-          "title": "第37届上海旅游节闭幕 “一节两季”激发消费新活力",
-          "summary": "中新网上海10月6日电 (记者 李佳佳)6日，以“走进美好与欢乐”为主题的第37届上海旅游节圆满落幕。自7月8日以来，本届上海旅游节持续升级暑期旅游季+经典活动季的“一节两季”办节模式，焕新推出340余项重点文旅活动，将夏秋两季有机衔接，激活消费新活力。",
+          "date": "2026-10-08",
+          "title": "房贷贴息政策实施满一周 多地成功落地首笔业务",
+          "summary": "9月29日，财政部会同中国人民银行、金融监管总局印发《关于实施居民购房贷款贴息政策的通知》(以下简称《通知》)，明确自今年10月1日起在全国范围内实施居民购房贷款贴息政策，减轻新购买首套住房家庭的商业性个人住房贷款利息负担。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708531.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708873.shtml"
         },
         {
-          "date": "2026-10-06",
-          "title": "商务部就法德要求欧盟强化贸易防御等保护主义工具答记者问",
-          "summary": "中新网10月6日电 据商务部网站消息，商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问。",
+          "date": "2026-10-08",
+          "title": "黄金储备“23连增” 背后的深意",
+          "summary": "央行连续增持黄金，背后有何深意？央行最新数据显示，截至2026年9月末，我国黄金储备为7747万盎司，较8月末的7673万盎司增加74万盎司，已实现连续23个月增持。在全球经济不确定性加剧、国际货币体系深度调整的背景下，中国央行连续增持黄金，并非跟随市场行情的短期投机行为，而是立足国家金融安全、主动优化国际储备资产结构",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708519.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708871.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-07",
-          "title": "驻冲绳美军最高负责人下令：对所有驻冲绳美军实施外出限制",
-          "summary": "中新网10月7日电 综合日媒报道，一名驻冲绳美军士兵因涉嫌抢劫杀人被捕后，驻冲绳美军最高负责人、冲绳地区协调官沃森当地时间6日下令，对驻冲绳美军实施外出限制。",
+          "date": "2026-10-08",
+          "title": "最高人民法院、全国工商联联合发布典型案例，聚焦解决拖欠企业账款纠纷",
+          "summary": "为贯彻落实党中央、国务院关于清理拖欠企业账款问题的重要部署，落实民营经济促进法对保障民营经济组织账款权益的有关规定，充分发挥调解在解决企业账款拖欠问题中的重要作用，引导民营企业通过自愿和合法原则进行调解，今日，最高人民法院与全国工商联联合发布第二批民营经济领域纠纷多元化解典型案例。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708908.shtml"
+        },
+        {
+          "date": "2026-10-08",
+          "title": "中国船舶集团有限公司第七一一研究所规划与产业发展部专务陈勇进接受审查调查",
+          "summary": "中新网10月8日电 据“福建纪检监察”微信公众号消息，中国船舶集团有限公司第七一一研究所规划与产业发展部专务陈勇进涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国船舶集团有限公司纪检监察组纪律审查和福建省福州市监察委员会监察调查。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708872.shtml"
+        },
+        {
+          "date": "2026-10-08",
+          "title": "深夜，德黑兰放话：必要时我们可能先动手",
+          "summary": "深夜，德黑兰放话：必要时我们可能先动手|国际早察",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708593.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708870.shtml"
+        },
+        {
+          "date": "2026-10-08",
+          "title": "中方代表“全球治理之友小组”就维护国际法治提四点建议",
+          "summary": "中新社联合国10月7日电 中国常驻联合国副代表孙磊7日代表“全球治理之友小组”在联大第六委员会(法律委员会)作共同发言，就维护国际法治、加强全球治理提出四点建议。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708860.shtml"
         },
         {
           "date": "2026-10-07",
-          "title": "朝中社：金正恩向普京致生日贺电",
-          "summary": "中新网10月7日电 据朝中社7日报道，朝鲜最高领导人金正恩在俄罗斯总统普京10月7日生日之际致贺电，向他致以亲切的祝贺和问候。",
+          "title": "鲁比奥：伊朗完全失去对霍尔木兹海峡控制 伊朗：将关闭“非法航道”",
+          "summary": "中新网10月8日电 综合外媒报道，当地时间7日，美国国务卿鲁比奥表示，伊朗已经“完全失去对霍尔木兹海峡的控制”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708574.shtml"
-        },
-        {
-          "date": "2026-10-06",
-          "title": "世界银行下调柬埔寨2026年经济增长预期至3.5%",
-          "summary": "中新社金边10月6日电 (杨强 张堰林)世界银行10月6日发布最新报告，将柬埔寨2026年经济增长预期下调至3.5%。从中期来看，该报告预测柬埔寨经济增长将在2027年反弹至4.0%，并在2028年达到5.0%。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708566.shtml"
-        },
-        {
-          "date": "2026-10-06",
-          "title": "德国8月工业新订单环比大幅下降",
-          "summary": "中新社柏林10月6日电 (记者 马秀秀)德国联邦统计局6日公布的数据显示，经季节和日历调整后，德国8月工业新订单环比下降10.6%，创下今年年初以来最大降幅。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708565.shtml"
-        },
-        {
-          "date": "2026-10-06",
-          "title": "德国选择党成员首次担任联邦州议会议长",
-          "summary": "中新社柏林10月6日电 德国萨克森-安哈尔特州(萨安州)新一届议会6日在州首府马格德堡举行首次会议。德国极右翼政党德国选择党议员托比亚斯·劳施当选为议会议长。这是德国首次由选择党成员担任联邦州议会议长。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-07/10708564.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708853.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
+          "date": "2026-10-08",
+          "title": "Japan beer giants raided over alleged price-fixing cartel",
+          "summary": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-10-08",
+          "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+          "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "date": "2026-10-07",
-          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-          "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+          "title": "Chinese runner dropped by sponsor after riding bike during marathon",
+          "summary": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-06",
-          "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-          "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+          "date": "2026-10-07",
+          "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+          "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-06",
-          "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-          "summary": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+          "date": "2026-10-07",
+          "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+          "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-06",
-          "title": "Watch: Riot police clash with school protesters and use tear gas in France",
-          "summary": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-06",
-          "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-          "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "openai/math（⭐ 2321）",
+          "title": "openai/math（⭐ 9765）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/openai/math"
         },
         {
           "date": "GitHub Trending",
-          "title": "QingYunA/answer-me-with-html（⭐ 1795）",
+          "title": "QingYunA/answer-me-with-html（⭐ 2082）",
           "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
           "source": "GitHub",
           "url": "https://github.com/QingYunA/answer-me-with-html"
         },
         {
           "date": "GitHub Trending",
-          "title": "kargulstudio/sales-crm（⭐ 1586）",
-          "summary": "（该仓库未填写描述）",
+          "title": "alchaincyf/huashu-art-motion（⭐ 1725）",
+          "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
           "source": "GitHub",
-          "url": "https://github.com/kargulstudio/sales-crm"
+          "url": "https://github.com/alchaincyf/huashu-art-motion"
         },
         {
           "date": "GitHub Trending",
-          "title": "facebookincubator/muse-gadget-sdk（⭐ 1554）",
+          "title": "facebookincubator/muse-gadget-sdk（⭐ 1667）",
           "summary": "Open source SDK to build Muse gadgets",
           "source": "GitHub",
           "url": "https://github.com/facebookincubator/muse-gadget-sdk"
         },
         {
           "date": "GitHub Trending",
-          "title": "deadinside28/bloodborne_pc（⭐ 1267）",
+          "title": "kargulstudio/sales-crm（⭐ 1637）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/deadinside28/bloodborne_pc"
+          "url": "https://github.com/kargulstudio/sales-crm"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "#2026爱知名古屋亚运会 #2026愛知名古屋亞運會 #爱知名古屋亚运会 #愛知名古屋亞運會 #亚运会 #亞運會 #吴艳妮 #吳艷妮 #吴艳妮100米栏 #吳",
-      "video": "从苏炳添到吴艳妮：中国体育赢学是如何炼成的？從蘇炳添到吳艷妮：中國體育贏學是如何煉成的？ 夸克说|誇克说",
-      "date": "2026-10-02",
-      "url": "https://www.youtube.com/watch?v=Sh-bOQ39gIc"
+      "desc": "蔡康永现身沈伯洋的竞选活动，却遭零跑汽车下架合作内容；蒋万安的回应，又让这场风波出现了另一种反差。一个以会说话著称的人，为何连听听不同意见都可能付出代价？从艺人",
+      "video": "蔡康永惨遭品牌切割：台湾人，也该跟中共国切割了！蔡康永慘遭品牌切割：台灣人，也該跟中共國切割了！夸克说|誇克説",
+      "date": "2026-10-07",
+      "url": "https://www.youtube.com/watch?v=WplsbqlZoEk"
     },
     {
       "channel": "May Fit",
