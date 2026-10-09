@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-08",
-  "generatedAt": "2026-10-08T02:22:10.304Z",
+  "issueDate": "2026-10-09",
+  "generatedAt": "2026-10-09T02:39:47.123Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Nous Research confirms it hit $1.5B valuation, launches AI agents for business users\n【金融新闻】从先行区到中试基地 浙江如何构筑“AI+文旅”制度底座？\n【中国新闻】最高人民法院、全国工商联联合发布典型案例，聚焦解决拖欠企业账款纠纷\n【世界新闻】Japan beer giants raided over alleged price-fixing cartel"
+    "body": "【AI 最新信息】Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website\n【金融新闻】深度游、入境游、以旧换新火热 假日消费“新”意十足\n【中国新闻】中方回应欧洲议会发布欧中政治关系报告：停止煽动对立对抗\n【世界新闻】Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-10-07",
-          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-          "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+          "date": "2026-10-08",
+          "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
+          "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simula",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+          "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
         },
         {
-          "date": "2026-10-07",
-          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-          "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+          "date": "2026-10-08",
+          "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a c",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
         },
         {
-          "date": "2026-10-07",
-          "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
-          "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+          "date": "2026-10-08",
+          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+          "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
+          "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
         },
         {
-          "date": "2026-10-07",
-          "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-          "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentiall",
+          "date": "2026-10-08",
+          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+          "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
+          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
         },
         {
-          "date": "2026-10-07",
-          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-          "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+          "date": "2026-10-08",
+          "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
+          "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-08",
-          "title": "从先行区到中试基地 浙江如何构筑“AI+文旅”制度底座？",
-          "summary": "中新网杭州10月8日电 题：从先行区到中试基地 浙江如何构筑“AI+文旅”制度底座？",
+          "date": "2026-10-09",
+          "title": "深度游、入境游、以旧换新火热 假日消费“新”意十足",
+          "summary": "从国庆假期热门景点、人流走向，以及商务部等有关部门和各大平台数据中发现，假日消费正呈现出新特点、新趋势。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708891.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709498.shtml"
         },
         {
-          "date": "2026-10-08",
-          "title": "山区如何“长出”智慧工厂？解码浙江丽水经开区制造业蝶变",
-          "summary": "中新网丽水10月8日电(蓝伊旎)国庆假期，在浙江丽水经济技术开发区(下称“丽水经开区”)，延锋安道拓方德电机有限公司的“黑灯仓库”高效运转，依托智能物流机器人、信息化系统全自动完成物料流转、仓储调度等流程。",
+          "date": "2026-10-09",
+          "title": "我国加快建立全链条循环经济体系",
+          "summary": "央视网消息(新闻联播)：资源循环利用不仅能推动绿色转型，也蕴藏着广阔的市场机遇。当前，我国正加速打通生产、消费、回收、利用各个环节，加快建立全链条循环经济体系。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708885.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709481.shtml"
         },
         {
-          "date": "2026-10-08",
-          "title": "A股三大指数集体火速翻红，超4200只个股上涨",
-          "summary": "8日，A股三大指数开盘涨跌不一，随后集体翻红。截至发稿，沪指涨0.36%，深证成指涨0.56%，创业板指涨0.80%。全市超4200只个股上涨。",
+          "date": "2026-10-09",
+          "title": "国庆消费“热力图”：服务扩容 智能升级",
+          "summary": "国庆假期收官，一张假日消费“热力图”新鲜出炉：出游热度从大都市向县域小城扩散，“奔县游”相关搜索环比大涨；赛事与假日场景深度绑定，“观赛+度假”成为年轻人安排假期的新方式；此外，消费品以旧换新政策效应持续释放，AI智能消费加速从尝鲜走向标配。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708895.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709477.shtml"
         },
         {
-          "date": "2026-10-08",
-          "title": "房贷贴息政策实施满一周 多地成功落地首笔业务",
-          "summary": "9月29日，财政部会同中国人民银行、金融监管总局印发《关于实施居民购房贷款贴息政策的通知》(以下简称《通知》)，明确自今年10月1日起在全国范围内实施居民购房贷款贴息政策，减轻新购买首套住房家庭的商业性个人住房贷款利息负担。",
+          "date": "2026-10-09",
+          "title": "国家统计局：9月下旬生猪（外三元）价格环比下降3.7%",
+          "summary": "中新网10月9日电 据国家统计局网站消息，据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年9月下旬与9月中旬相比，22种产品价格上涨，23种下降，5种持平。其中，生猪(外三元)价格为10.3元/千克，环比下降3.7%。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708873.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709474.shtml"
         },
         {
-          "date": "2026-10-08",
-          "title": "黄金储备“23连增” 背后的深意",
-          "summary": "央行连续增持黄金，背后有何深意？央行最新数据显示，截至2026年9月末，我国黄金储备为7747万盎司，较8月末的7673万盎司增加74万盎司，已实现连续23个月增持。在全球经济不确定性加剧、国际货币体系深度调整的背景下，中国央行连续增持黄金，并非跟随市场行情的短期投机行为，而是立足国家金融安全、主动优化国际储备资产结构",
+          "date": "2026-10-09",
+          "title": "10月9日人民币对美元中间价报6.7330 上调37个基点",
+          "summary": "中新网10月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7330元，上调37个基点。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708871.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709469.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-08",
-          "title": "最高人民法院、全国工商联联合发布典型案例，聚焦解决拖欠企业账款纠纷",
-          "summary": "为贯彻落实党中央、国务院关于清理拖欠企业账款问题的重要部署，落实民营经济促进法对保障民营经济组织账款权益的有关规定，充分发挥调解在解决企业账款拖欠问题中的重要作用，引导民营企业通过自愿和合法原则进行调解，今日，最高人民法院与全国工商联联合发布第二批民营经济领域纠纷多元化解典型案例。",
+          "date": "2026-10-09",
+          "title": "中方回应欧洲议会发布欧中政治关系报告：停止煽动对立对抗",
+          "summary": "中新网布鲁塞尔10月9日电 中国驻欧盟使团8日回应欧洲议会发布欧中政治关系报告，敦促欧方切实尊重中方核心利益和重大关切，停止煽动对立对抗。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708908.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709491.shtml"
         },
         {
-          "date": "2026-10-08",
-          "title": "中国船舶集团有限公司第七一一研究所规划与产业发展部专务陈勇进接受审查调查",
-          "summary": "中新网10月8日电 据“福建纪检监察”微信公众号消息，中国船舶集团有限公司第七一一研究所规划与产业发展部专务陈勇进涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国船舶集团有限公司纪检监察组纪律审查和福建省福州市监察委员会监察调查。",
+          "date": "2026-10-09",
+          "title": "青海省海北州委原副书记张爱红被“双开”",
+          "summary": "中新网10月9日电 据青海省纪委监委消息：经中共青海省委批准，青海省纪委监委对青海省海北州委原副书记、政法委原书记张爱红严重违纪违法问题进行了立案审查调查。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-08/10708872.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709484.shtml"
         },
         {
-          "date": "2026-10-08",
-          "title": "深夜，德黑兰放话：必要时我们可能先动手",
-          "summary": "深夜，德黑兰放话：必要时我们可能先动手|国际早察",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708870.shtml"
+          "date": "2026-10-09",
+          "title": "原贵州水城矿业（集团）副总经理张思明被开除党籍",
+          "summary": "中新网10月9日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对原贵州水城矿业(集团)有限责任公司副总经理张思明严重违纪违法问题进行了立案审查调查。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709482.shtml"
         },
         {
-          "date": "2026-10-08",
-          "title": "中方代表“全球治理之友小组”就维护国际法治提四点建议",
-          "summary": "中新社联合国10月7日电 中国常驻联合国副代表孙磊7日代表“全球治理之友小组”在联大第六委员会(法律委员会)作共同发言，就维护国际法治、加强全球治理提出四点建议。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708860.shtml"
+          "date": "2026-10-09",
+          "title": "贵州省自然资源厅原副厅长杨兵被“双开”",
+          "summary": "中新网10月9日电 据贵州省纪委监委消息，经贵州省委批准，贵州省纪委监委对贵州省自然资源厅原党委委员、副厅长杨兵严重违纪违法问题进行了立案审查调查。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709479.shtml"
         },
         {
-          "date": "2026-10-07",
-          "title": "鲁比奥：伊朗完全失去对霍尔木兹海峡控制 伊朗：将关闭“非法航道”",
-          "summary": "中新网10月8日电 综合外媒报道，当地时间7日，美国国务卿鲁比奥表示，伊朗已经“完全失去对霍尔木兹海峡的控制”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-08/10708853.shtml"
+          "date": "2026-10-09",
+          "title": "安徽检察机关依法对陈伟俊涉嫌受贿案提起公诉",
+          "summary": "中新网10月9日电 据最高人民检察院官方微博消息，新疆维吾尔自治区党委原常委、自治区政府原副主席陈伟俊涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对陈伟俊作出逮捕决定，并指定由安徽省滁州市人民检察院审查起诉。近日，滁州市人民检察院已向滁州市中级人民法院提起公诉。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709480.shtml"
         }
       ]
     },
@@ -134,98 +134,62 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-08",
-          "title": "Japan beer giants raided over alleged price-fixing cartel",
-          "summary": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
+          "date": "2026-10-09",
+          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-08",
-          "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-          "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+          "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+          "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-07",
-          "title": "Chinese runner dropped by sponsor after riding bike during marathon",
-          "summary": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
+          "date": "2026-10-08",
+          "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+          "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-07",
-          "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-          "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+          "date": "2026-10-08",
+          "title": "What Americans think about the death penalty",
+          "summary": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-07",
-          "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-          "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+          "date": "2026-10-08",
+          "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+          "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "github",
       "name": "GitHub / 开源项目",
-      "items": [
-        {
-          "date": "GitHub Trending",
-          "title": "openai/math（⭐ 9765）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/openai/math"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "QingYunA/answer-me-with-html（⭐ 2082）",
-          "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-          "source": "GitHub",
-          "url": "https://github.com/QingYunA/answer-me-with-html"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "alchaincyf/huashu-art-motion（⭐ 1725）",
-          "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-          "source": "GitHub",
-          "url": "https://github.com/alchaincyf/huashu-art-motion"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "facebookincubator/muse-gadget-sdk（⭐ 1667）",
-          "summary": "Open source SDK to build Muse gadgets",
-          "source": "GitHub",
-          "url": "https://github.com/facebookincubator/muse-gadget-sdk"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "kargulstudio/sales-crm（⭐ 1637）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/kargulstudio/sales-crm"
-        }
-      ]
+      "items": []
     }
   ],
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "本期《财富心理学》系列，我们从比尔·盖茨、格雷厄姆、扎克伯格到麦道夫，聊聊成功、运气、风险与投资判断之间最容易被忽略的关系。真正成熟的财富思维，不是相信自己永远",
-      "video": "从比尔盖茨到麦道夫：为什么我们总相信错误的财富故事？普通人必看的财富真相 | 财富心理学 III | 投资理财 | 财富自由 | 价值投资 | 成功学 | 投资思维 | 老周横眉",
-      "date": "2026-10-01",
-      "url": "https://www.youtube.com/watch?v=1Q5tY2Uea88"
+      "desc": "户晨风被封杀一年后，开始在成都寻找月薪5—8万的工作，他还有翻身的可能吗？本期快评，我从户子的求职消息出发，聊聊中国人对言论自由的误解：市场抵制与公权力封杀，究",
+      "video": "户晨风找月薪5—8万工作：从中共封杀，谈中国人对言论自由的误解  | 户子 | 安卓苹果论 | 安卓人 | 苹果人 | 网信办 | 老周横眉",
+      "date": "2026-10-08",
+      "url": "https://www.youtube.com/watch?v=xTXaqzrk7ag"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "神秘信號跨越七年反覆出現，GPS與北斗同時失靈數秒。科學家追查後，線索竟指向這裏。。。",
-      "video": "隱藏7年的秘密被揭開：中國版GPS導航突然失靈，誰幹的？【文昭思緒飛揚580】",
-      "date": "2026-10-04",
-      "url": "https://www.youtube.com/watch?v=T16gcqcGfvI"
+      "desc": "從加拿大北電神秘失竊、思科代碼爭議，到T-Mobile機器人事件，20多年官司背後，究竟藏著怎樣的秘密？2026年紐約法庭上的關鍵證據，能否揭開真相？",
+      "video": "華為最怕被揭開的往事：鮮為人知的大量內幕曝光，為何這次要算20年的總帳？【文昭思緒飛揚581】",
+      "date": "2026-10-09",
+      "url": "https://www.youtube.com/watch?v=OQf2F-aDfVg"
     },
     {
       "channel": "夸克说",
