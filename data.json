@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-09",
-  "generatedAt": "2026-10-09T02:39:47.123Z",
+  "issueDate": "2026-10-10",
+  "generatedAt": "2026-10-10T01:59:45.718Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website\n【金融新闻】深度游、入境游、以旧换新火热 假日消费“新”意十足\n【中国新闻】中方回应欧洲议会发布欧中政治关系报告：停止煽动对立对抗\n【世界新闻】Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says"
+    "body": "【AI 最新信息】Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead\n【金融新闻】广州白云机场口岸今年出入境客货航班超10万架次\n【中国新闻】美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对\n【世界新闻】Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-10-08",
-          "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
-          "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simula",
+          "date": "2026-10-10",
+          "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
         },
         {
-          "date": "2026-10-08",
-          "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-          "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a c",
+          "date": "2026-10-09",
+          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
         },
         {
-          "date": "2026-10-08",
-          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-          "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to",
+          "date": "2026-10-09",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
         },
         {
-          "date": "2026-10-08",
-          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-          "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such",
+          "date": "2026-10-09",
+          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+          "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+          "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
         },
         {
-          "date": "2026-10-08",
-          "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
-          "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+          "date": "2026-10-09",
+          "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+          "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+          "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-09",
-          "title": "深度游、入境游、以旧换新火热 假日消费“新”意十足",
-          "summary": "从国庆假期热门景点、人流走向，以及商务部等有关部门和各大平台数据中发现，假日消费正呈现出新特点、新趋势。",
+          "date": "2026-10-10",
+          "title": "广州白云机场口岸今年出入境客货航班超10万架次",
+          "summary": "中新网广州10月10日电 (方伟彬 林圣敏)记者9日从广州白云边检站获悉，截至当天，白云机场口岸今年以来查验出入境客货航班超10万架次，同比增长12.3%，刷新历史最快纪录。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709498.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710021.shtml"
         },
         {
-          "date": "2026-10-09",
-          "title": "我国加快建立全链条循环经济体系",
-          "summary": "央视网消息(新闻联播)：资源循环利用不仅能推动绿色转型，也蕴藏着广阔的市场机遇。当前，我国正加速打通生产、消费、回收、利用各个环节，加快建立全链条循环经济体系。",
+          "date": "2026-10-10",
+          "title": "中国商务部：反对个别国家以所谓“产能过剩”为名行保护主义之实",
+          "summary": "中新社北京10月10日电 (记者 尹倩芸)中国商务部新闻发言人9日晚间表示，中方反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实。如果未来有关经济体以此为借口，采取损害中方利益的措施，中方将作出必要回应。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709481.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710016.shtml"
         },
         {
-          "date": "2026-10-09",
-          "title": "国庆消费“热力图”：服务扩容 智能升级",
-          "summary": "国庆假期收官，一张假日消费“热力图”新鲜出炉：出游热度从大都市向县域小城扩散，“奔县游”相关搜索环比大涨；赛事与假日场景深度绑定，“观赛+度假”成为年轻人安排假期的新方式；此外，消费品以旧换新政策效应持续释放，AI智能消费加速从尝鲜走向标配。",
+          "date": "2026-10-10",
+          "title": "今年第七期和第八期凭证式国债今天开售",
+          "summary": "今天(10日)起，2026年第七期储蓄国债(凭证式)和2026年第八期储蓄国债(凭证式)开始发行，单一个人购买单期储蓄国债(凭证式)金额最高为50万元。这两期国债均为固定利率、固定期限品种。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709477.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710030.shtml"
         },
         {
-          "date": "2026-10-09",
-          "title": "国家统计局：9月下旬生猪（外三元）价格环比下降3.7%",
-          "summary": "中新网10月9日电 据国家统计局网站消息，据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年9月下旬与9月中旬相比，22种产品价格上涨，23种下降，5种持平。其中，生猪(外三元)价格为10.3元/千克，环比下降3.7%。",
+          "date": "2026-10-10",
+          "title": "央行10月10日7天期逆回购操作量为零",
+          "summary": "中新网10月10日电 据央行网站消息，根据公开市场业务一级交易商的需求，2026年10月10日7天期逆回购操作量为零。具体情况如下：",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709474.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710027.shtml"
         },
         {
-          "date": "2026-10-09",
-          "title": "10月9日人民币对美元中间价报6.7330 上调37个基点",
-          "summary": "中新网10月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7330元，上调37个基点。",
+          "date": "2026-10-10",
+          "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》",
+          "summary": "中新网10月10日电 据国家金融监管总局微信公众号消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展。近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》(以下简称《规定》)。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709469.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710005.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-09",
-          "title": "中方回应欧洲议会发布欧中政治关系报告：停止煽动对立对抗",
-          "summary": "中新网布鲁塞尔10月9日电 中国驻欧盟使团8日回应欧洲议会发布欧中政治关系报告，敦促欧方切实尊重中方核心利益和重大关切，停止煽动对立对抗。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709491.shtml"
+          "date": "2026-10-10",
+          "title": "美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对",
+          "summary": "中新网10月10日电 综合外媒报道，联合国秘书长古特雷斯9日通过发言人发表声明，谴责美国宣布“对国际刑事法院整个机构实施制裁”，指出这一决定将对国际刑事司法正义构成严重打击，并对制裁可能影响国际刑事法院继续履行职责表示严重关切。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710034.shtml"
         },
         {
-          "date": "2026-10-09",
-          "title": "青海省海北州委原副书记张爱红被“双开”",
-          "summary": "中新网10月9日电 据青海省纪委监委消息：经中共青海省委批准，青海省纪委监委对青海省海北州委原副书记、政法委原书记张爱红严重违纪违法问题进行了立案审查调查。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709484.shtml"
+          "date": "2026-10-10",
+          "title": "《天地相和：海外专家谈狮子林》中英文对照版图书在法兰克福书展发布",
+          "summary": "中新网柏林10月10日电 法兰克福消息：当地时间9日，《天地相和：海外专家谈狮子林》中英文对照版图书在法兰克福书展发布。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710020.shtml"
         },
         {
-          "date": "2026-10-09",
-          "title": "原贵州水城矿业（集团）副总经理张思明被开除党籍",
-          "summary": "中新网10月9日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对原贵州水城矿业(集团)有限责任公司副总经理张思明严重违纪违法问题进行了立案审查调查。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709482.shtml"
+          "date": "2026-10-10",
+          "title": "“云津艺渡·上海非物质文化遗产展” 在英国举行",
+          "summary": "中新网伦敦10月10日电 (记者 欧阳开宇)10月9日，中国驻曼彻斯特总领事唐锐出席“中国传统艺术国际巡展·利物浦站——云津艺渡·上海非物质文化遗产展”开幕仪式，利物浦主管经济事务的副议长尼克·斯默尔议员、上海艺术品博物馆理事长胡木清，当地各界友好人士100余人参加。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710019.shtml"
         },
         {
-          "date": "2026-10-09",
-          "title": "贵州省自然资源厅原副厅长杨兵被“双开”",
-          "summary": "中新网10月9日电 据贵州省纪委监委消息，经贵州省委批准，贵州省纪委监委对贵州省自然资源厅原党委委员、副厅长杨兵严重违纪违法问题进行了立案审查调查。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709479.shtml"
+          "date": "2026-10-10",
+          "title": "英国拟未来四年投入10亿英镑扶持创新集群",
+          "summary": "中新网伦敦10月10日电 (记者 欧阳开宇)英国政府9日发布消息称，未来四年将投入10亿英镑专项资金，扶持英国各地创新集群，以此优化产业布局、提振整体经济活力。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710018.shtml"
         },
         {
-          "date": "2026-10-09",
-          "title": "安徽检察机关依法对陈伟俊涉嫌受贿案提起公诉",
-          "summary": "中新网10月9日电 据最高人民检察院官方微博消息，新疆维吾尔自治区党委原常委、自治区政府原副主席陈伟俊涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对陈伟俊作出逮捕决定，并指定由安徽省滁州市人民检察院审查起诉。近日，滁州市人民检察院已向滁州市中级人民法院提起公诉。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709480.shtml"
+          "date": "2026-10-10",
+          "title": "中国驻贝尔法斯特总领馆在奥斯特大学举办“领保进校园”活动",
+          "summary": "中新网伦敦10月10日电 (记者 欧阳开宇)中国驻贝尔法斯特总领馆日前与奥斯特大学、北爱警方联合举办“领保进校园”活动。李南总领事出席并致辞。该校中国留学生约50人参加。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710017.shtml"
         }
       ]
     },
@@ -134,46 +134,82 @@
       "name": "世界新闻",
       "items": [
         {
+          "date": "2026-10-10",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-10-10",
+          "title": "US immigration officials defend ICE agents who shot man in same car as child",
+          "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-10-10",
+          "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+          "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "date": "2026-10-09",
-          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-          "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+          "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+          "summary": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-08",
-          "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-          "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+          "date": "2026-10-09",
+          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-08",
-          "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
-          "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-08",
-          "title": "What Americans think about the death penalty",
-          "summary": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-08",
-          "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-          "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "github",
       "name": "GitHub / 开源项目",
-      "items": []
+      "items": [
+        {
+          "date": "GitHub Trending",
+          "title": "openai/math（⭐ 13112）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/openai/math"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "alchaincyf/huashu-art-motion（⭐ 2898）",
+          "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+          "source": "GitHub",
+          "url": "https://github.com/alchaincyf/huashu-art-motion"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "mhtsec/ARTEX（⭐ 2239）",
+          "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+          "source": "GitHub",
+          "url": "https://github.com/mhtsec/ARTEX"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "storytold/wordcraft（⭐ 1917）",
+          "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+          "source": "GitHub",
+          "url": "https://github.com/storytold/wordcraft"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "nullmoth/nvidia-macos-driver（⭐ 1889）",
+          "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+          "source": "GitHub",
+          "url": "https://github.com/nullmoth/nvidia-macos-driver"
+        }
+      ]
     }
   ],
   "youtube": [
@@ -193,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "蔡康永现身沈伯洋的竞选活动，却遭零跑汽车下架合作内容；蒋万安的回应，又让这场风波出现了另一种反差。一个以会说话著称的人，为何连听听不同意见都可能付出代价？从艺人",
-      "video": "蔡康永惨遭品牌切割：台湾人，也该跟中共国切割了！蔡康永慘遭品牌切割：台灣人，也該跟中共國切割了！夸克说|誇克説",
-      "date": "2026-10-07",
-      "url": "https://www.youtube.com/watch?v=WplsbqlZoEk"
+      "desc": "感谢本期赞助商SWAG：亞洲最大娛樂社交平台 台日韓歐美主播隨時在線，下達指令、遠端互動，隱私保障、支付安全 ➡️ 傳送門：https://sw-move.co",
+      "video": "中国为什么这么爱扫黄？真的是为了抢夺穷人的性资源吗？中國爲什麼這麼愛掃黃？真的是爲了搶奪窮人的性資源嗎？夸克说|誇克説",
+      "date": "2026-10-09",
+      "url": "https://www.youtube.com/watch?v=HyjEOCxZRTY"
     },
     {
       "channel": "May Fit",
