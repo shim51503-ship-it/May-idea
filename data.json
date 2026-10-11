@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-10",
-  "generatedAt": "2026-10-10T01:59:45.718Z",
+  "issueDate": "2026-10-11",
+  "generatedAt": "2026-10-11T01:25:15.290Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead\n【金融新闻】广州白云机场口岸今年出入境客货航班超10万架次\n【中国新闻】美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对\n【世界新闻】Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin"
+    "body": "【AI 最新信息】Microsoft’s Satya Nadella says AI models need an ‘emergency brake’\n【金融新闻】同城景区“冷热不均”，文旅竞争从“拼资源”迈向“拼内容”\n【中国新闻】特朗普：乌克兰该换个新总统了\n【世界新闻】Twelve killed in attack on airport in Saudi capital Riyadh"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-10-10",
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+        },
+        {
+          "date": "2026-10-10",
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+        },
+        {
+          "date": "2026-10-10",
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers a",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
+        },
+        {
+          "date": "2026-10-10",
+          "title": "Here are the top AI agents that can live in your text messages",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        },
+        {
+          "date": "2026-10-10",
           "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
           "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
-        },
-        {
-          "date": "2026-10-09",
-          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-          "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-        },
-        {
-          "date": "2026-10-09",
-          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
-        },
-        {
-          "date": "2026-10-09",
-          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-          "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
-        },
-        {
-          "date": "2026-10-09",
-          "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-          "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-10",
-          "title": "广州白云机场口岸今年出入境客货航班超10万架次",
-          "summary": "中新网广州10月10日电 (方伟彬 林圣敏)记者9日从广州白云边检站获悉，截至当天，白云机场口岸今年以来查验出入境客货航班超10万架次，同比增长12.3%，刷新历史最快纪录。",
+          "date": "2026-10-11",
+          "title": "同城景区“冷热不均”，文旅竞争从“拼资源”迈向“拼内容”",
+          "summary": "同为古镇，有的人气爆棚，有的冷冷清清；同一城市的5A级景区，客流量差距甚大",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710021.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710886.shtml"
+        },
+        {
+          "date": "2026-10-11",
+          "title": "证书年检、定期换证不得重复申报个税专项附加扣除",
+          "summary": "本报北京10月10日电(中青报·中青网记者 张均斌)在个人所得税综合所得年度汇算过程中，职业资格继续教育专项附加扣除的政策适用问题，一直是很多纳税人关注的热点。今天，税务部门对此作出提示，准确把握政策边界，方能精准享受税收优惠，避免产生涉税风险。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710882.shtml"
+        },
+        {
+          "date": "2026-10-11",
+          "title": "高频数据显示 三季度居民消费意愿稳步回暖",
+          "summary": "本报北京10月10日电 (记者刘志强)国家发展改革委国家信息中心发布的高频数据显示：三季度，存量政策、增量政策协同发力、集成显效，推动经济保持稳中有进、稳中向优态势，增长动能持续积蓄。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710879.shtml"
+        },
+        {
+          "date": "2026-10-11",
+          "title": "目标占比35%！我国加速壮大技能劳动者队伍",
+          "summary": "10月10日，国新办“开局起步‘十五五’”系列主题发布会披露，今年1至9月，我国城镇新增就业1052万人，完成全年目标的87.7%，前8个月城镇调查失业率均值5.2%，整体就业形势保持稳定。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710873.shtml"
         },
         {
           "date": "2026-10-10",
-          "title": "中国商务部：反对个别国家以所谓“产能过剩”为名行保护主义之实",
-          "summary": "中新社北京10月10日电 (记者 尹倩芸)中国商务部新闻发言人9日晚间表示，中方反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实。如果未来有关经济体以此为借口，采取损害中方利益的措施，中方将作出必要回应。",
+          "title": "政企面对面恳谈 杭州助新兴赛道企业破解“成长的烦恼”",
+          "summary": "中新网杭州10月10日电(蓝伊旎)10月10日，杭州市民营经济发展联席会议召开2026年第三期政企恳谈会。来自具身智能、生物医药等领域的杭企代表与杭州市发改委、金融办、经信局、市场监管局等职能部门的负责人围坐一堂，共同探讨发展的难点堵点与化解路径。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710016.shtml"
-        },
-        {
-          "date": "2026-10-10",
-          "title": "今年第七期和第八期凭证式国债今天开售",
-          "summary": "今天(10日)起，2026年第七期储蓄国债(凭证式)和2026年第八期储蓄国债(凭证式)开始发行，单一个人购买单期储蓄国债(凭证式)金额最高为50万元。这两期国债均为固定利率、固定期限品种。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710030.shtml"
-        },
-        {
-          "date": "2026-10-10",
-          "title": "央行10月10日7天期逆回购操作量为零",
-          "summary": "中新网10月10日电 据央行网站消息，根据公开市场业务一级交易商的需求，2026年10月10日7天期逆回购操作量为零。具体情况如下：",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710027.shtml"
-        },
-        {
-          "date": "2026-10-10",
-          "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》",
-          "summary": "中新网10月10日电 据国家金融监管总局微信公众号消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展。近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》(以下简称《规定》)。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710005.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710828.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-10",
-          "title": "美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对",
-          "summary": "中新网10月10日电 综合外媒报道，联合国秘书长古特雷斯9日通过发言人发表声明，谴责美国宣布“对国际刑事法院整个机构实施制裁”，指出这一决定将对国际刑事司法正义构成严重打击，并对制裁可能影响国际刑事法院继续履行职责表示严重关切。",
+          "date": "2026-10-11",
+          "title": "特朗普：乌克兰该换个新总统了",
+          "summary": "中新网10月11日电 据英国广播公司(BBC)报道，美国总统特朗普当地时间10日表示，他认为“乌克兰是时候选出一位新总统了”，以此回应乌克兰总统泽连斯基对美俄柴油协议的批评。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710034.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710885.shtml"
         },
         {
-          "date": "2026-10-10",
-          "title": "《天地相和：海外专家谈狮子林》中英文对照版图书在法兰克福书展发布",
-          "summary": "中新网柏林10月10日电 法兰克福消息：当地时间9日，《天地相和：海外专家谈狮子林》中英文对照版图书在法兰克福书展发布。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710020.shtml"
+          "date": "2026-10-11",
+          "title": "全国秋粮收获过半 多要素协同筑牢丰收根基",
+          "summary": "本报北京10月10日电 (记者朱隽、郁静娴)正值“三秋”农业生产关键时节，在黑龙江绥化市北林区，水稻陆续开镰。“今年种的是绥粳306，赶在霜冻前收上来了。”双河镇向阳村种粮大户倪继成种了600亩水稻，采用大棚高台育苗、密植等技术精耕细作，亩产达到570公斤。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710881.shtml"
         },
         {
-          "date": "2026-10-10",
-          "title": "“云津艺渡·上海非物质文化遗产展” 在英国举行",
-          "summary": "中新网伦敦10月10日电 (记者 欧阳开宇)10月9日，中国驻曼彻斯特总领事唐锐出席“中国传统艺术国际巡展·利物浦站——云津艺渡·上海非物质文化遗产展”开幕仪式，利物浦主管经济事务的副议长尼克·斯默尔议员、上海艺术品博物馆理事长胡木清，当地各界友好人士100余人参加。",
+          "date": "2026-10-11",
+          "title": "特朗普：美国可能加入沙特打击胡塞武装的行动",
+          "summary": "中新网10月11日电 据美联社报道，当地时间10日，沙特阿拉伯首都利雅得的国际机场再次遭到袭击，美国#8203;#8203;总统特朗普表示，他正在评估美国是否加入沙特对也门胡塞武装的打击行动，并称“可能会”加入。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710019.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710880.shtml"
         },
         {
-          "date": "2026-10-10",
-          "title": "英国拟未来四年投入10亿英镑扶持创新集群",
-          "summary": "中新网伦敦10月10日电 (记者 欧阳开宇)英国政府9日发布消息称，未来四年将投入10亿英镑专项资金，扶持英国各地创新集群，以此优化产业布局、提振整体经济活力。",
+          "date": "2026-10-11",
+          "title": "多国战机导弹云集沙特，也门胡塞武装将遭围攻？",
+          "summary": "中新网10月11日电(记者 刁炜)据路透社报道，面对也门胡塞武装的攻势，沙特阿拉伯积极寻求外部军事援助，迄今已有英国、法国、土耳其和巴基斯坦予以明确表态或采取行动。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710018.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710867.shtml"
         },
         {
-          "date": "2026-10-10",
-          "title": "中国驻贝尔法斯特总领馆在奥斯特大学举办“领保进校园”活动",
-          "summary": "中新网伦敦10月10日电 (记者 欧阳开宇)中国驻贝尔法斯特总领馆日前与奥斯特大学、北爱警方联合举办“领保进校园”活动。李南总领事出席并致辞。该校中国留学生约50人参加。",
+          "date": "2026-10-11",
+          "title": "沙特利雅得机场遇袭造成12人死亡300多人受伤",
+          "summary": "中新网10月11日电 据卡塔尔半岛电视台报道，沙特阿拉伯民航总局当地时间11日表示，首都利雅得的哈立德国王国际机场10日晚遭到袭击，已造成至少12人死亡、309人受伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-10/10710017.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710877.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-10",
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+          "date": "2026-10-11",
+          "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+          "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-10",
-          "title": "US immigration officials defend ICE agents who shot man in same car as child",
-          "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+          "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+          "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-10",
-          "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-          "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
+          "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+          "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-09",
-          "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-          "summary": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+          "date": "2026-10-10",
+          "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+          "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-09",
-          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-          "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+          "date": "2026-10-10",
+          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+          "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "openai/math（⭐ 13112）",
+          "title": "openai/math（⭐ 13689）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/openai/math"
         },
         {
           "date": "GitHub Trending",
-          "title": "alchaincyf/huashu-art-motion（⭐ 2898）",
+          "title": "alchaincyf/huashu-art-motion（⭐ 3211）",
           "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
           "source": "GitHub",
           "url": "https://github.com/alchaincyf/huashu-art-motion"
         },
         {
           "date": "GitHub Trending",
-          "title": "mhtsec/ARTEX（⭐ 2239）",
-          "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-          "source": "GitHub",
-          "url": "https://github.com/mhtsec/ARTEX"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "storytold/wordcraft（⭐ 1917）",
+          "title": "storytold/wordcraft（⭐ 3198）",
           "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
           "source": "GitHub",
           "url": "https://github.com/storytold/wordcraft"
         },
         {
           "date": "GitHub Trending",
-          "title": "nullmoth/nvidia-macos-driver（⭐ 1889）",
-          "summary": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+          "title": "mhtsec/ARTEX（⭐ 2918）",
+          "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
           "source": "GitHub",
-          "url": "https://github.com/nullmoth/nvidia-macos-driver"
+          "url": "https://github.com/mhtsec/ARTEX"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "zhongerxin/iPhone-use（⭐ 2567）",
+          "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+          "source": "GitHub",
+          "url": "https://github.com/zhongerxin/iPhone-use"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "從加拿大北電神秘失竊、思科代碼爭議，到T-Mobile機器人事件，20多年官司背後，究竟藏著怎樣的秘密？2026年紐約法庭上的關鍵證據，能否揭開真相？",
-      "video": "華為最怕被揭開的往事：鮮為人知的大量內幕曝光，為何這次要算20年的總帳？【文昭思緒飛揚581】",
-      "date": "2026-10-09",
-      "url": "https://www.youtube.com/watch?v=OQf2F-aDfVg"
+      "desc": "從亞洲首富到低調隱身，馬雲的商業帝國為何一夕變天？螞蟻上市遭叫停，千億財富蒸發，背後真正得罪了誰？",
+      "video": "馬雲現在有多落魄？身家縮水2400億，曾經意氣風發的他，為何低調到塵埃裡？【文昭思緒飛揚582】",
+      "date": "2026-10-11",
+      "url": "https://www.youtube.com/watch?v=qkwaK9XNQUQ"
     },
     {
       "channel": "夸克说",
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔥 Opus 5.5 不止是性能變強，而是用法也變了！Anthropic 官方最近公布了一份 Opus 5.5 使用指南，我幫你整理了 13 個最值得學的實用",
-      "video": "Anthropic 公布了掌握 Opus 5.5 的13條秘訣！",
-      "date": "2026-10-03",
-      "url": "https://www.youtube.com/watch?v=iWL-quhw9g4"
+      "desc": "🔥 Gemini Skills終於來了！現在你只要教AI一次，之後它就能按照固定流程，重複幫你完成工作。  🎁 最重要的是，影片中的7個核心Skills我全",
+      "video": "谷歌 Gemini Skills 終於來了！免費贈送7個核心Skills！",
+      "date": "2026-10-10",
+      "url": "https://www.youtube.com/watch?v=CnxQAYniJFs"
     }
   ]
 }
