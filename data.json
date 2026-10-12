@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-11",
-  "generatedAt": "2026-10-11T01:25:15.290Z",
+  "issueDate": "2026-10-12",
+  "generatedAt": "2026-10-12T01:55:17.613Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Microsoft’s Satya Nadella says AI models need an ‘emergency brake’\n【金融新闻】同城景区“冷热不均”，文旅竞争从“拼资源”迈向“拼内容”\n【中国新闻】特朗普：乌克兰该换个新总统了\n【世界新闻】Twelve killed in attack on airport in Saudi capital Riyadh"
+    "body": "【AI 最新信息】Will the HomeView be Apple’s first smart home success?\n【金融新闻】虚实航标“接力”护航 广州港20万吨级航道拓宽工程有序推进\n【中国新闻】全球嘉宾共话亚太未来 通州·全球发展论坛（2026）在北京举行\n【世界新闻】One killed, 11 injured in second Houthi strike on Riyadh airport in two days"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-10-11",
+          "title": "Will the HomeView be Apple’s first smart home success?",
+          "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a lau",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
+        },
+        {
+          "date": "2026-10-11",
+          "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+          "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+        },
+        {
+          "date": "2026-10-11",
+          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+          "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+        },
+        {
+          "date": "2026-10-11",
+          "title": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
+          "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
+        },
+        {
           "date": "2026-10-10",
           "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
           "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
-        },
-        {
-          "date": "2026-10-10",
-          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-          "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
-        },
-        {
-          "date": "2026-10-10",
-          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-          "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers a",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
-        },
-        {
-          "date": "2026-10-10",
-          "title": "Here are the top AI agents that can live in your text messages",
-          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
-        },
-        {
-          "date": "2026-10-10",
-          "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-11",
-          "title": "同城景区“冷热不均”，文旅竞争从“拼资源”迈向“拼内容”",
-          "summary": "同为古镇，有的人气爆棚，有的冷冷清清；同一城市的5A级景区，客流量差距甚大",
+          "date": "2026-10-12",
+          "title": "虚实航标“接力”护航 广州港20万吨级航道拓宽工程有序推进",
+          "summary": "中新网广州10月12日电 (郭军 叶佳炜)记者11日从南海航海保障中心广州航标处获悉，该处结合南沙辖区航标维护保养工作，分阶段开展广州港20万吨级航道工程施工期航标调整，通过实体灯浮标与虚拟AIS航标的动态调整和衔接，既为航道疏浚施工提供必要的作业空间，又保障施工期间航道助航信息的连续性。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710886.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711211.shtml"
         },
         {
-          "date": "2026-10-11",
-          "title": "证书年检、定期换证不得重复申报个税专项附加扣除",
-          "summary": "本报北京10月10日电(中青报·中青网记者 张均斌)在个人所得税综合所得年度汇算过程中，职业资格继续教育专项附加扣除的政策适用问题，一直是很多纳税人关注的热点。今天，税务部门对此作出提示，准确把握政策边界，方能精准享受税收优惠，避免产生涉税风险。",
+          "date": "2026-10-12",
+          "title": "A股周一开盘：超2900只个股飘绿，三大指数集体低开",
+          "summary": "A股周一开盘：超2900只个股飘绿，三大指数集体低开；通信设备、电子元器件、半导体、房地产下跌；贵金属、文化传媒上涨",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710882.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711827.shtml"
         },
         {
-          "date": "2026-10-11",
-          "title": "高频数据显示 三季度居民消费意愿稳步回暖",
-          "summary": "本报北京10月10日电 (记者刘志强)国家发展改革委国家信息中心发布的高频数据显示：三季度，存量政策、增量政策协同发力、集成显效，推动经济保持稳中有进、稳中向优态势，增长动能持续积蓄。",
+          "date": "2026-10-12",
+          "title": "10月12日央行开展500亿元7天期逆回购操作",
+          "summary": "中新网10月12日电 据央行网站消息，2026年10月12日中国人民银行以固定利率、数量招标方式开展了500亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710879.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711818.shtml"
         },
         {
-          "date": "2026-10-11",
-          "title": "目标占比35%！我国加速壮大技能劳动者队伍",
-          "summary": "10月10日，国新办“开局起步‘十五五’”系列主题发布会披露，今年1至9月，我国城镇新增就业1052万人，完成全年目标的87.7%，前8个月城镇调查失业率均值5.2%，整体就业形势保持稳定。",
+          "date": "2026-10-12",
+          "title": "10月12日人民币对美元中间价报6.7313 上调17个基点",
+          "summary": "中新网10月12日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月12日银行间外汇市场人民币汇率中间价为1美元对人民币6.7313元，上调17个基点。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710873.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711815.shtml"
         },
         {
-          "date": "2026-10-10",
-          "title": "政企面对面恳谈 杭州助新兴赛道企业破解“成长的烦恼”",
-          "summary": "中新网杭州10月10日电(蓝伊旎)10月10日，杭州市民营经济发展联席会议召开2026年第三期政企恳谈会。来自具身智能、生物医药等领域的杭企代表与杭州市发改委、金融办、经信局、市场监管局等职能部门的负责人围坐一堂，共同探讨发展的难点堵点与化解路径。",
+          "date": "2026-10-12",
+          "title": "全国统一的数据产权登记制度正式实施 数据流通交易“有证可依”",
+          "summary": "全国统一的数据产权登记制度正式实施",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710828.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711177.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-11",
-          "title": "特朗普：乌克兰该换个新总统了",
-          "summary": "中新网10月11日电 据英国广播公司(BBC)报道，美国总统特朗普当地时间10日表示，他认为“乌克兰是时候选出一位新总统了”，以此回应乌克兰总统泽连斯基对美俄柴油协议的批评。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710885.shtml"
-        },
-        {
-          "date": "2026-10-11",
-          "title": "全国秋粮收获过半 多要素协同筑牢丰收根基",
-          "summary": "本报北京10月10日电 (记者朱隽、郁静娴)正值“三秋”农业生产关键时节，在黑龙江绥化市北林区，水稻陆续开镰。“今年种的是绥粳306，赶在霜冻前收上来了。”双河镇向阳村种粮大户倪继成种了600亩水稻，采用大棚高台育苗、密植等技术精耕细作，亩产达到570公斤。",
+          "date": "2026-10-12",
+          "title": "全球嘉宾共话亚太未来 通州·全球发展论坛（2026）在北京举行",
+          "summary": "中新网北京10月12日电 (刘梦青)通州·全球发展论坛(2026)11日在中国人民大学通州校区举行。本届论坛以“中国发展与亚太共同体”为主题，来自40多个国家的600余名政商学界嘉宾齐聚一堂，共商亚太合作新路径、共绘全球繁荣新图景。论坛提出了加快形成亚太知识共同体的“五点行动建议”，发布系列重磅成果，并启动“全球发展倡",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-11/10710881.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711834.shtml"
         },
         {
-          "date": "2026-10-11",
-          "title": "特朗普：美国可能加入沙特打击胡塞武装的行动",
-          "summary": "中新网10月11日电 据美联社报道，当地时间10日，沙特阿拉伯首都利雅得的国际机场再次遭到袭击，美国#8203;#8203;总统特朗普表示，他正在评估美国是否加入沙特对也门胡塞武装的打击行动，并称“可能会”加入。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710880.shtml"
+          "date": "2026-10-12",
+          "title": "“中国天眼”让我国天文学家站上人类视野最前沿",
+          "summary": "“中国天眼”累计发现一千三百余颗脉冲星，我国天文学家站上人类视野最前沿",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711202.shtml"
         },
         {
-          "date": "2026-10-11",
-          "title": "多国战机导弹云集沙特，也门胡塞武装将遭围攻？",
-          "summary": "中新网10月11日电(记者 刁炜)据路透社报道，面对也门胡塞武装的攻势，沙特阿拉伯积极寻求外部军事援助，迄今已有英国、法国、土耳其和巴基斯坦予以明确表态或采取行动。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710867.shtml"
+          "date": "2026-10-12",
+          "title": "细化展陈、祭扫、寻亲等内容 烈士纪念设施保护新规11月1日起施行",
+          "summary": "记者昨天从退役军人事务部了解到，新修订的《烈士纪念设施保护管理办法》将于今年11月1日起正式施行。新规补齐零散烈士设施管护短板，规范建设行为，同时细化展陈、祭扫、寻亲等内容，让烈士纪念设施得到更全面规范的保护。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711195.shtml"
         },
         {
-          "date": "2026-10-11",
-          "title": "沙特利雅得机场遇袭造成12人死亡300多人受伤",
-          "summary": "中新网10月11日电 据卡塔尔半岛电视台报道，沙特阿拉伯民航总局当地时间11日表示，首都利雅得的哈立德国王国际机场10日晚遭到袭击，已造成至少12人死亡、309人受伤。",
+          "date": "2026-10-12",
+          "title": "特朗普宣布“俄乌能源停火”：双方都同意了，但乌克兰不在桌边",
+          "summary": "特朗普宣布“俄乌能源停火”：双方都同意了，但乌克兰不在桌边|国际早察",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-11/10710877.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711188.shtml"
+        },
+        {
+          "date": "2026-10-12",
+          "title": "特朗普宣布：新任白宫新闻秘书13日举行首次新闻发布会",
+          "summary": "中新网10月12日电 综合报道，美国总统特朗普当地时间11日在社交媒体平台“真实社交”上表示，他很高兴地宣布，凯蒂·扎卡里亚将于12日正式出任白宫新闻秘书，并于13日上午9时30分在白宫新闻简报室举行首次新闻发布会。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711180.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-10-11",
-          "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-          "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-10",
-          "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-          "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+          "date": "2026-10-11",
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-10",
-          "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-          "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+          "date": "2026-10-11",
+          "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+          "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-10",
-          "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-          "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+          "date": "2026-10-11",
+          "title": "Watch: What's behind Trump's energy ceasefire claim?",
+          "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-10",
-          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-          "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+          "date": "2026-10-11",
+          "title": "Orangutans released back into Borneo forest after devastating fires",
+          "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "openai/math（⭐ 13689）",
+          "title": "openai/math（⭐ 14099）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/openai/math"
         },
         {
           "date": "GitHub Trending",
-          "title": "alchaincyf/huashu-art-motion（⭐ 3211）",
-          "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-          "source": "GitHub",
-          "url": "https://github.com/alchaincyf/huashu-art-motion"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "storytold/wordcraft（⭐ 3198）",
+          "title": "storytold/wordcraft（⭐ 6063）",
           "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
           "source": "GitHub",
           "url": "https://github.com/storytold/wordcraft"
         },
         {
           "date": "GitHub Trending",
-          "title": "mhtsec/ARTEX（⭐ 2918）",
-          "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+          "title": "wheresryan22/anatomy（⭐ 3445）",
+          "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
           "source": "GitHub",
-          "url": "https://github.com/mhtsec/ARTEX"
+          "url": "https://github.com/wheresryan22/anatomy"
         },
         {
           "date": "GitHub Trending",
-          "title": "zhongerxin/iPhone-use（⭐ 2567）",
-          "summary": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+          "title": "alchaincyf/huashu-art-motion（⭐ 3396）",
+          "summary": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
           "source": "GitHub",
-          "url": "https://github.com/zhongerxin/iPhone-use"
+          "url": "https://github.com/alchaincyf/huashu-art-motion"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "mhtsec/ARTEX（⭐ 3164）",
+          "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+          "source": "GitHub",
+          "url": "https://github.com/mhtsec/ARTEX"
         }
       ]
     }
@@ -223,16 +223,16 @@
     {
       "channel": "文昭思绪飞扬",
       "desc": "從亞洲首富到低調隱身，馬雲的商業帝國為何一夕變天？螞蟻上市遭叫停，千億財富蒸發，背後真正得罪了誰？",
-      "video": "馬雲現在有多落魄？身家縮水2400億，曾經意氣風發的他，為何低調到塵埃裡？【文昭思緒飛揚582】",
+      "video": "馬雲現在有多慘？身家縮水2400億，從意氣風發到低調度日，真只是因為那20分鐘的放飛自我？【文昭思緒飛揚582】",
       "date": "2026-10-11",
       "url": "https://www.youtube.com/watch?v=qkwaK9XNQUQ"
     },
     {
       "channel": "夸克说",
-      "desc": "感谢本期赞助商SWAG：亞洲最大娛樂社交平台 台日韓歐美主播隨時在線，下達指令、遠端互動，隱私保障、支付安全 ➡️ 傳送門：https://sw-move.co",
-      "video": "中国为什么这么爱扫黄？真的是为了抢夺穷人的性资源吗？中國爲什麼這麼愛掃黃？真的是爲了搶奪窮人的性資源嗎？夸克说|誇克説",
-      "date": "2026-10-09",
-      "url": "https://www.youtube.com/watch?v=HyjEOCxZRTY"
+      "desc": "俄罗斯鼠疫疑云持续发酵：一名防鼠疫研究所工作人员死亡，媒体报道与官方解释却存在分歧。这究竟是一次疾病事件，还是有必要追问实验室安全与信息公开？从苏联留下的秘密研",
+      "video": "俄罗斯鼠疫疑云：从苏联到武汉P4，三战会是生物战吗？俄羅斯鼠疫疑雲：從蘇聯到武漢P4，三戰會是生物戰嗎？夸克说|誇克说",
+      "date": "2026-10-11",
+      "url": "https://www.youtube.com/watch?v=U58UHC4Af4o"
     },
     {
       "channel": "May Fit",
