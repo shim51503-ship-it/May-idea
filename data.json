@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-13",
-  "generatedAt": "2026-10-13T03:16:53.431Z",
+  "issueDate": "2026-10-14",
+  "generatedAt": "2026-10-14T01:28:56.591Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Meta releases its first frontier model, Muse Wonder\n【金融新闻】为人民币汇率发声 央行首次系统阐明政策立场\n【中国新闻】我国一批自研重器将集中亮相珠海航展\n【世界新闻】Saudi minister vows 'serious response' to Houthi attacks on airports"
+    "body": "【AI 最新信息】Science Corporation implants its vision-restoring chip in its first Stargardt disease patient\n【金融新闻】需求有所恢复 9月份中国仓储指数回升\n【中国新闻】中欧就混动汽车、电动汽车磋商达成共识 专家解读→\n【世界新闻】What we know about the man who died falling from a Six Flags rollercoaster"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-10-12",
-          "title": "Meta releases its first frontier model, Muse Wonder",
-          "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchm",
+          "date": "2026-10-13",
+          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path towar",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+          "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
         },
         {
-          "date": "2026-10-12",
-          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-          "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+          "date": "2026-10-13",
+          "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
+          "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and pa",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
         },
         {
-          "date": "2026-10-12",
-          "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-          "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+          "date": "2026-10-13",
+          "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+          "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
         },
         {
-          "date": "2026-10-12",
-          "title": "Microsoft president says UK is best placed to drive AI regulation",
-          "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+          "date": "2026-10-13",
+          "title": "Cerebras CEO pushes back on AI doomsday warnings",
+          "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's f",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
         },
         {
-          "date": "2026-10-12",
-          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-          "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketc",
+          "date": "2026-10-13",
+          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+          "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key fi",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-13",
-          "title": "为人民币汇率发声 央行首次系统阐明政策立场",
-          "summary": "10月8日，《中国人民银行关于人民币汇率的政策立场》(以下简称《立场》)发布，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。这是央行首次系统阐明人民币汇率的政策立场。",
+          "date": "2026-10-14",
+          "title": "需求有所恢复 9月份中国仓储指数回升",
+          "summary": "中国物流与采购联合会今天(14日)公布9月份中国仓储指数。指数较8月有所回升，各主要分项指数升幅在1至6.8个百分点之间。仓储市场需求总体改善，行业运行呈现恢复向好态势。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713581.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714146.shtml"
         },
         {
-          "date": "2026-10-13",
-          "title": "新华社快讯：IMF上调2026年世界经济增长预期至3.1%",
-          "summary": "新华社快讯：国际货币基金组织(IMF)13日小幅上调2026年世界经济增长预期至3.1%，较7月预测值高0.1个百分点。IMF说，人工智能(AI)投资热潮对部分经济体的提振抵消了中东冲突对其他一些经济体的拖累。",
+          "date": "2026-10-14",
+          "title": "红星照耀中国｜长征大剧院为老区经济发展注入新动力",
+          "summary": "中新网10月14日电(记者 宫宏宇)铁索在震颤。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713557.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714142.shtml"
         },
         {
-          "date": "2026-10-13",
-          "title": "商务部就《民用航空领域相关两用物项出口凭证管理办法》（征求意见稿）答记者问",
-          "summary": "中新网10月13日电 据商务部网站消息，近期，商务部就《民用航空领域相关两用物项出口凭证管理办法》(以下简称《办法》)(征求意见稿)面向社会公开公开征求意见。商务部安全与管制局负责人就推动《办法》立法的有关问题回答了记者提问。",
+          "date": "2026-10-14",
+          "title": "红星照耀中国｜长征出发地，一根纱线串起千亿产业",
+          "summary": "江西于都，中央红军长征出发纪念馆里，一台手摇缝纫机的机身黑漆早已斑驳。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713555.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714133.shtml"
         },
         {
-          "date": "2026-10-13",
-          "title": "中国进出口银行今年前三季度投放外贸领域贷款近万亿元",
-          "summary": "今年前三个季度，中国进出口银行新发放外贸领域贷款近万亿元，同比增长9%，其中近40%投向稳外贸主体和稳外贸产业链领域。",
+          "date": "2026-10-14",
+          "title": "年均增速超10%！这一万亿级赛道，与你的安全有关",
+          "summary": "随着防灾减灾能力不断提升，我国安全应急装备产业持续扩容。数据显示，2025年我国安全应急装备重点领域产业规模突破1万亿元，近三年年均增速保持10%以上。《安全应急装备产业发展“十五五”规划》提出，到2030年，安全应急装备重点领域产业规模目标达到1.4万亿元。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713544.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714130.shtml"
         },
         {
-          "date": "2026-10-13",
-          "title": "中小企业发展目标设定，释放哪些信号？",
-          "summary": "到2030年，规模以上中小企业人均营业收入累计增长15%左右——",
+          "date": "2026-10-14",
+          "title": "苹果公司发布搭载人工智能语音助手的家居新品",
+          "summary": "中新社纽约10月13日电 (记者 王帆)美国苹果公司13日在纽约举办“欢迎回家”主题产品体验会，发布搭载人工智能语音助手的HomeView家居中枢等新品，进一步拓展智能家居产品布局。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713541.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714120.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-13",
-          "title": "我国一批自研重器将集中亮相珠海航展",
-          "summary": "10月13日，第十六届中国国际航空航天博览会新闻发布会在北京举行，集中介绍本届航展筹备进展和参展亮点。",
+          "date": "2026-10-14",
+          "title": "中欧就混动汽车、电动汽车磋商达成共识 专家解读→",
+          "summary": "近日，中欧在贸易投资磋商机制下持续对话，双方本着相互尊重、平等协商的原则，就混动汽车、电动汽车贸易进行了密切磋商。专家表示，中欧双方通过对话磋商来解决贸易分歧，就混动汽车、电动汽车贸易达成共识，有利于缓解贸易摩擦，也为当前动荡的全球贸易格局注入了正能量和稳定性。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713598.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-14/10714139.shtml"
         },
         {
-          "date": "2026-10-13",
-          "title": "穿越“风暴”，他们在中国找到“锚点”",
-          "summary": "十国前政要与学者眼中的中国机遇",
+          "date": "2026-10-14",
+          "title": "美国9月成屋销售量同比下降2.2% 房价连续39个月上涨",
+          "summary": "中新社华盛顿10月13日电 (记者 沙晗汀)美国全国房地产经纪商协会(National Association of Realtors)当地时间13日公布数据显示，今年9月美国成屋销售量按年率计算为399万套，环比增长1.5%，同比下降2.2%，略好于市场预期。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713591.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714122.shtml"
         },
         {
-          "date": "2026-10-13",
-          "title": "全国大遗址工作会召开 大地上的遗产迎来更严保护",
-          "summary": "10月13日，全国大遗址工作会在河南郑州召开。会议总结“十四五”期间大遗址工作成绩，部署“十五五”重点任务。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-13/10713588.shtml"
-        },
-        {
-          "date": "2026-10-13",
-          "title": "日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
-          "summary": "本报记者 刘文璋",
+          "date": "2026-10-14",
+          "title": "刚果（金）埃博拉确诊病例超过9000例",
+          "summary": "中新社约翰内斯堡10月13日电 据刚果(金)本迪布焦型埃博拉疫情监测平台13日数据显示，截至10月11日，该国埃博拉确诊病例已突破9000例，累计确诊病例9066例，其中死亡4381例、治愈2389例。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713574.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714121.shtml"
         },
         {
-          "date": "2026-10-13",
-          "title": "地面战斗白热化，胡塞武装围困上万也门政府军",
-          "summary": "中新网10月13日电(记者 刁炜)沙特民航部门发表声明称，该国哈立德国王国际机场10日遭胡塞武装导弹袭击，造成至少12人丧生、309人受伤。",
+          "date": "2026-10-14",
+          "title": "报告称英格兰足球联赛体系面临严峻财务风险",
+          "summary": "中新社伦敦10月13日电 (记者 欧阳开宇)英国独立足球监管机构13日发布最新行业报告警示，英格兰足球联赛体系整体面临严峻财务风险，行业财务结构脆弱，绝大多数俱乐部长期亏损运营、生存高度依赖股东持续注资。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-13/10713559.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714119.shtml"
+        },
+        {
+          "date": "2026-10-14",
+          "title": "俄联邦安全局：一名涉嫌从事间谍活动的日本记者被捕",
+          "summary": "中新社莫斯科10月13日电 俄罗斯联邦安全局13日通报称，一名涉嫌为日本情报机构从事间谍活动的日本公民在俄罗斯被捕。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-14/10714117.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-13",
-          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-          "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+          "date": "2026-10-14",
+          "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+          "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-13",
-          "title": "Breaking Bad actor RJ Mitte dies aged 34",
-          "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-12",
-          "title": "Immigration agents search congresswoman Ilhan Omar's home",
-          "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+          "date": "2026-10-13",
+          "title": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
+          "summary": "One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-12",
-          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-          "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+          "date": "2026-10-13",
+          "title": "Zimbabwean author denies using AI to write award-winning story",
+          "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-12",
-          "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-          "summary": "As election day looms, the president turns his eyes overseas for help with a pressing domestic problem.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "storytold/wordcraft（⭐ 9377）",
-          "summary": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-          "source": "GitHub",
-          "url": "https://github.com/storytold/wordcraft"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "wheresryan22/anatomy（⭐ 6497）",
+          "title": "wheresryan22/anatomy（⭐ 8263）",
           "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
           "source": "GitHub",
           "url": "https://github.com/wheresryan22/anatomy"
         },
         {
           "date": "GitHub Trending",
-          "title": "storytold/gridcraft（⭐ 3902）",
-          "summary": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-          "source": "GitHub",
-          "url": "https://github.com/storytold/gridcraft"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "mhtsec/ARTEX（⭐ 3632）",
+          "title": "mhtsec/ARTEX（⭐ 3875）",
           "summary": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
           "source": "GitHub",
           "url": "https://github.com/mhtsec/ARTEX"
         },
         {
           "date": "GitHub Trending",
-          "title": "storytold/cadcraft（⭐ 3551）",
-          "summary": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+          "title": "t4t5/omdrop-owl（⭐ 2591）",
+          "summary": "airdrop for non-apple devices",
           "source": "GitHub",
-          "url": "https://github.com/storytold/cadcraft"
+          "url": "https://github.com/t4t5/omdrop-owl"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "ARahim3/DigUp（⭐ 2437）",
+          "summary": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+          "source": "GitHub",
+          "url": "https://github.com/ARahim3/DigUp"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "storytold/craft-launcher（⭐ 2315）",
+          "summary": "The Craft App Launcher",
+          "source": "GitHub",
+          "url": "https://github.com/storytold/craft-launcher"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "俄罗斯鼠疫疑云持续发酵：一名防鼠疫研究所工作人员死亡，媒体报道与官方解释却存在分歧。这究竟是一次疾病事件，还是有必要追问实验室安全与信息公开？从苏联留下的秘密研",
-      "video": "俄罗斯鼠疫疑云：从苏联到武汉P4，三战会是生物战吗？俄羅斯鼠疫疑雲：從蘇聯到武漢P4，三戰會是生物戰嗎？夸克说|誇克说",
-      "date": "2026-10-11",
-      "url": "https://www.youtube.com/watch?v=U58UHC4Af4o"
+      "desc": "华为与懂车帝的争议，又从一块刹车踏板烧到了舆论场。尊界V800测试引发质疑，品牌回应为何没能平息争论？从竹知了到这次风波，批评华为的人为什么似乎越来越敢说了？这",
+      "video": "懂车帝硬刚华为：曾经不可说的华为，为什么谁都敢批评了？真是因为后台倒了吗？懂車帝硬剛華爲：曾經不可説的華爲，爲什麼誰都敢批評了？真是因爲後颱倒了嗎？ 夸克说|誇克説",
+      "date": "2026-10-13",
+      "url": "https://www.youtube.com/watch?v=xZ1SgwlxEyw"
     },
     {
       "channel": "May Fit",
