@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-17",
-  "generatedAt": "2026-10-17T00:54:29.892Z",
+  "issueDate": "2026-10-18",
+  "generatedAt": "2026-10-18T00:30:21.381Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Replit is no longer working with Anthropic, CEO says\n【金融新闻】中国清洁能源装备供给能力持续跃升\n【中国新闻】日媒：高市早苗向靖国神社献祭品\n【世界新闻】A thousand slogans echoed here - but it could be the end for iconic Delhi protest site"
+    "body": "【AI 最新信息】Meta removes language that raised scraping and AI training concerns\n【金融新闻】（友城故事）福建拓国际友城务实合作 达成系列合作成果\n【中国新闻】苏丹首都圈地区一军事基地发生爆炸\n【世界新闻】European diplomats attacked by Israeli settlers in West Bank"
   },
   "categories": [
     {
@@ -11,11 +11,25 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-10-16",
-          "title": "Replit is no longer working with Anthropic, CEO says",
-          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never an",
+          "date": "2026-10-17",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
         },
         {
           "date": "2026-10-16",
@@ -30,20 +44,6 @@
           "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-        },
-        {
-          "date": "2026-10-16",
-          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
-        },
-        {
-          "date": "2026-10-16",
-          "title": "Elorian’s first AI model wants to reason with images, not just about them",
-          "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-16",
-          "title": "中国清洁能源装备供给能力持续跃升",
-          "summary": "中新网四川德阳10月17日电 中国机械工业联合会党委书记、会长徐念沙在2026世界清洁能源装备大会上表示，中国清洁能源装备供给能力持续跃升，今年上半年，核发电机组、水轮发电机组、风力发电机组产量同比分别增长92.0%、51.9%、11.5%。",
+          "date": "2026-10-17",
+          "title": "（友城故事）福建拓国际友城务实合作 达成系列合作成果",
+          "summary": "中新社福州10月17日电 (记者 闫旭)“马普托是南部非洲重要滨海港口城市，与福建在海洋产业、临港经济合作潜力巨大。”莫桑比克马普托市市长拉萨克·马尼克17日在福州表示，希望深化与福建友好城市交往，拓展海洋经济务实合作。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716029.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716471.shtml"
         },
         {
-          "date": "2026-10-16",
-          "title": "天津REITs研究院揭牌 金融创新赋能实体经济发展",
-          "summary": "中新网天津10月17日电 (孙翼飞 周亚强)2026天津五大道金融论坛16日在天津大礼堂举行，天津REITs研究院于当日正式揭牌。",
+          "date": "2026-10-17",
+          "title": "当AI开始替人做决定，谁在杀死“租流量”的品牌？",
+          "summary": "很多老板最近都在焦虑：AI越来越聪明，消费者以后买东西是不是直接让AI比价、比参数了？既然AI能自动筛选出“性价比最高”的产品，那品牌是不是就不重要了？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716026.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716410.shtml"
         },
         {
-          "date": "2026-10-16",
-          "title": "黑龙江秋粮收购有序展开 1271亿斤仓容待“秋粮归仓”",
-          "summary": "中新网哈尔滨10月17日电(记者 王妮娜)10月16日是第46个世界粮食日，黑龙江2026年世界粮食日和全国粮食安全宣传周主会场活动在哈尔滨举办。记者从活动上获悉，目前全省粮食收获已过半，全省已准备仓容1271亿斤，农发行准备贷款资金900亿元，交通、铁路等部门全力保障粮食运输，秋粮收购正有序展开。",
+          "date": "2026-10-17",
+          "title": "2026珠江国际贸易论坛举行 聚焦中国企业出海新赛道",
+          "summary": "中新网广州10月17日电 (记者 程景伟)在广交会创办70周年之际，2026珠江国际贸易论坛16日在广州广交会堂举办。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716025.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716459.shtml"
         },
         {
-          "date": "2026-10-16",
-          "title": "广东省退役军人应急救助资金累计发放突破3亿元",
-          "summary": "中新网广州10月17日电 (记者 程景伟)据广东省退役军人事务厅16日消息，截至2026年10月10日，广东省退役军人应急救助资金累计发放金额突破3亿元，覆盖全省各地困难退役军人和其他优抚对象超过1.24万人。",
+          "date": "2026-10-17",
+          "title": "中国首家白俄罗斯产品馆落户黑河 推动中白合作从“握手”走向“携手”",
+          "summary": "中新网黑河10月17日电 (记者 王琳)17日，由白俄罗斯驻华大使馆授权的中国首家白俄罗斯产品馆在黑河大岛国贸城俄品多启幕。场馆定位展示窗口、经贸平台、对外名片三重功能，依托黑河自贸片区的区位优势，打造白俄罗斯商品进入中国的集散枢纽。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716018.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716441.shtml"
         },
         {
-          "date": "2026-10-16",
-          "title": "中国官方确定14个“人工智能+文化和旅游”试点项目",
-          "summary": "中新社北京10月16日电 (记者 应妮)为进一步推进人工智能技术在文化和旅游领域融合应用，中国文化和旅游部16日正式公布“人工智能+文化和旅游”的14个应用试点立项名单。",
+          "date": "2026-10-17",
+          "title": "2026大湾区绿能大会在广东阳江举行",
+          "summary": "中新网阳江10月17日电 (孙秋霞 罗超益)2026大湾区科学论坛绿能产业科技创新分论坛暨大湾区绿能大会16日至17日在阳江举行，本次活动汇聚诺贝尔化学奖得主、中国科学院院士等国内外专家学者，共商绿能产业科技创新与国际化发展路径，为粤港澳大湾区乃至全球绿色低碳发展注入新动能。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716015.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716452.shtml"
         }
       ]
     },
@@ -94,38 +94,38 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "日媒：高市早苗向靖国神社献祭品",
-          "summary": "中新网10月17日电 据日本共同社报道，日本首相高市早苗17日以“内阁总理大臣”名义，向靖国神社供奉名为“真榊”的祭品。",
+          "title": "苏丹首都圈地区一军事基地发生爆炸",
+          "summary": "当地时间10月17日，苏丹武装部队发布声明称，首都喀土穆市北部的北喀土穆市一座军事基地当天发生爆炸。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716482.shtml"
         },
         {
-          "date": "2026-10-16",
-          "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
-          "summary": "新华社哈拉雷10月16日电(记者叶挺)卢萨卡消息：赞比亚政府16日在首都卢萨卡紧急启动口服霍乱疫苗接种工作，以应对近期该国多地暴发的霍乱疫情。据赞比亚卫生部最新通报，本轮疫情已造成25人死亡，确诊病例达966例。",
+          "date": "2026-10-17",
+          "title": "纽约曼哈顿地铁站发生枪击事件致一人死亡",
+          "summary": "新华社纽约10月17日电(记者施春)据当地警方消息，美国纽约曼哈顿一地铁站17日发生枪击事件，造成一名男子死亡。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716481.shtml"
         },
         {
-          "date": "2026-10-16",
-          "title": "苏丹西部城市遭无人机袭击 造成至少30人死亡",
-          "summary": "当地时间10月16日，苏丹快速支援部队发表声明称，苏丹西部南达尔富尔州首府尼亚拉市当天遭遇无人机袭击，造成至少30名平民死亡，另有数十人受伤。",
+          "date": "2026-10-17",
+          "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡",
+          "summary": "也门胡塞武装17日称，沙特阿拉伯当天空袭也门西南部塔伊兹省，造成包括妇女和儿童在内至少9人死亡，另有16人受伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716480.shtml"
         },
         {
-          "date": "2026-10-16",
-          "title": "沙特主导联军称拦截3枚导弹和4架无人机",
-          "summary": "沙特阿拉伯主导的多国联军发言人图尔基·马利基16日在社交媒体上说，联军当天已拦截并摧毁3枚导弹和4架无人机。",
+          "date": "2026-10-17",
+          "title": "孟加拉国度假村火灾已致10人死亡",
+          "summary": "据孟加拉国消防和民防部门最新通报，当地时间17日早晨，该国东南部科克斯巴扎尔地区一度假村餐厅当天发生火灾，已造成10人死亡，多人受伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716048.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml"
         },
         {
-          "date": "2026-10-16",
-          "title": "特朗普称美国可能会对伊朗镐山核设施发动打击",
-          "summary": "美国总统特朗普15日在白宫接受采访时说，美国可能会对伊朗核设施再次发动打击，其中包括镐山的地下核设施。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716047.shtml"
+          "date": "2026-10-17",
+          "title": "冀中能源集团董事会原董事陈亚杰接受审查调查",
+          "summary": "中新网10月17日电 据河北省纪委监委消息，冀中能源集团有限责任公司董事会原董事，峰峰集团有限公司原党委书记、董事长陈亚杰涉嫌严重违纪违法，目前正接受河北省纪委监委纪律审查和监察调查。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-          "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-16",
-          "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-          "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+          "date": "2026-10-17",
+          "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+          "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-16",
-          "title": "Pope pictured for first time since surgery and cancer diagnosis",
-          "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+          "date": "2026-10-17",
+          "title": "How day of protests unfolded as disorder breaks out across France",
+          "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-16",
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-          "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+          "date": "2026-10-17",
+          "title": "Anti-government protesters battle with police in Albania",
+          "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-16",
-          "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-          "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+          "date": "2026-10-17",
+          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+          "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "jhaizhou-ops/d2r-mobile（⭐ 3533）",
+          "title": "jhaizhou-ops/d2r-mobile（⭐ 3707）",
           "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
           "source": "GitHub",
           "url": "https://github.com/jhaizhou-ops/d2r-mobile"
         },
         {
           "date": "GitHub Trending",
-          "title": "onehumanbeing/esp32-iphone-agent（⭐ 2857）",
-          "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-          "source": "GitHub",
-          "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Arekejoker/qwen21-nsfw-pose-skill（⭐ 2518）",
+          "title": "Arekejoker/qwen21-nsfw-pose-skill（⭐ 2636）",
           "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
           "source": "GitHub",
           "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
         },
         {
           "date": "GitHub Trending",
-          "title": "liseami/CCBaga（⭐ 2402）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/liseami/CCBaga"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "HeyPuter/everything（⭐ 1731）",
+          "title": "HeyPuter/everything（⭐ 2052）",
           "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
           "source": "GitHub",
           "url": "https://github.com/HeyPuter/everything"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "ahwootech/BRUTAL（⭐ 1790）",
+          "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+          "source": "GitHub",
+          "url": "https://github.com/ahwootech/BRUTAL"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "deeplethe/solid-glass（⭐ 1706）",
+          "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+          "source": "GitHub",
+          "url": "https://github.com/deeplethe/solid-glass"
         }
       ]
     }
@@ -222,17 +222,17 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "三次驚險撤退，潘石屹如何避開中國房地產崩盤？從海南泡沫到百億資產轉移美國，一段流出的私人聚會錄影，揭開他滯留海外、不敢回國的驚人內幕。任志強的一封信，竟改變了他",
-      "video": "潘石屹：別人風光他挨罵，別人倒下他上岸！三次驚險脫身，這次為何突然高調？【文昭思緒飛揚583】",
-      "date": "2026-10-16",
-      "url": "https://www.youtube.com/watch?v=mX8EU_KfSHA"
+      "desc": "習近平訪美行程為何突然留下5小時空檔？深圳APEC議程又為何傳出大幅縮減？從歷年健康傳聞，到中國缺乏明確接班人的權力難題，再對比美國第25修正案，一起追查哪些是",
+      "video": "主席之病：習近平究竟怎麼了？十多年的健康疑雲，為何這次外交行程接連改動？【文昭思緒飛揚584】",
+      "date": "2026-10-18",
+      "url": "https://www.youtube.com/watch?v=v7ogIW-1JOM"
     },
     {
       "channel": "夸克说",
-      "desc": "华为与懂车帝的争议，又从一块刹车踏板烧到了舆论场。尊界V800测试引发质疑，品牌回应为何没能平息争论？从竹知了到这次风波，批评华为的人为什么似乎越来越敢说了？这",
-      "video": "懂车帝硬刚华为：曾经不可说的华为，为什么谁都敢批评了？真是因为后台倒了吗？懂車帝硬剛華爲：曾經不可説的華爲，爲什麼誰都敢批評了？真是因爲後颱倒了嗎？ 夸克说|誇克説",
-      "date": "2026-10-13",
-      "url": "https://www.youtube.com/watch?v=xZ1SgwlxEyw"
+      "desc": "社保补缴、“数据找人”、延迟退休，最近一连串政策动作，让不少打工人和企业老板开始担心：多年前没缴够的社保，今天究竟要怎么补？缴费年限不断变化，普通人又该如何安排",
+      "video": "社保新规：开始抢钱了？为什么三十年前的旧账都不放过？社保新規：開始搶錢了？爲什麼三十年前的舊賬都不放過？夸克说|誇克说",
+      "date": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=2gth6-WiAzw"
     },
     {
       "channel": "May Fit",
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔥 Gemini Skills終於來了！現在你只要教AI一次，之後它就能按照固定流程，重複幫你完成工作。  🎁 最重要的是，影片中的7個核心Skills我全",
-      "video": "谷歌 Gemini Skills 終於來了！免費贈送7個核心Skills！",
-      "date": "2026-10-10",
-      "url": "https://www.youtube.com/watch?v=CnxQAYniJFs"
+      "desc": "🔥別再只用ChatGPT聊天了！現在只要一句指令，就能讓AI替你完成整套工作流！這支影片我會用 GPT-6 + ChatGPT Work，手把手帶你搭建 3 ",
+      "video": "GPT 6 + ChatGPT Work: 3套AI自動化工作流，直接拿去用！",
+      "date": "2026-10-17",
+      "url": "https://www.youtube.com/watch?v=5uftzRIrhGA"
     }
   ]
 }
