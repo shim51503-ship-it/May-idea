@@ -1,15 +1,29 @@
 {
-  "issueDate": "2026-10-18",
-  "generatedAt": "2026-10-18T00:30:21.381Z",
+  "issueDate": "2026-10-19",
+  "generatedAt": "2026-10-19T00:37:36.338Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Meta removes language that raised scraping and AI training concerns\n【金融新闻】（友城故事）福建拓国际友城务实合作 达成系列合作成果\n【中国新闻】苏丹首都圈地区一军事基地发生爆炸\n【世界新闻】European diplomats attacked by Israeli settlers in West Bank"
+    "body": "【AI 最新信息】Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’\n【金融新闻】一杯奶茶钱的惠民保如何更有吸引力？\n【中国新闻】中央档案馆向社会集中开放5000余件长征专题档案\n【世界新闻】Inside the shadowy world of anti-Putin sabotage from within Russia"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-10-18",
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+          "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+        },
         {
           "date": "2026-10-17",
           "title": "Meta removes language that raised scraping and AI training concerns",
@@ -30,20 +44,6 @@
           "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-        },
-        {
-          "date": "2026-10-16",
-          "title": "India becomes the latest country to report rogue AI agent activity",
-          "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-        },
-        {
-          "date": "2026-10-16",
-          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-17",
-          "title": "（友城故事）福建拓国际友城务实合作 达成系列合作成果",
-          "summary": "中新社福州10月17日电 (记者 闫旭)“马普托是南部非洲重要滨海港口城市，与福建在海洋产业、临港经济合作潜力巨大。”莫桑比克马普托市市长拉萨克·马尼克17日在福州表示，希望深化与福建友好城市交往，拓展海洋经济务实合作。",
+          "date": "2026-10-18",
+          "title": "一杯奶茶钱的惠民保如何更有吸引力？",
+          "summary": "因保费低、带病可保而走红，却也因免赔额高被吐槽小病“够不着”——",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716471.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716928.shtml"
         },
         {
-          "date": "2026-10-17",
-          "title": "当AI开始替人做决定，谁在杀死“租流量”的品牌？",
-          "summary": "很多老板最近都在焦虑：AI越来越聪明，消费者以后买东西是不是直接让AI比价、比参数了？既然AI能自动筛选出“性价比最高”的产品，那品牌是不是就不重要了？",
+          "date": "2026-10-18",
+          "title": "多期限大额存单上新 大额存单缘何重启？",
+          "summary": "大额存单缘何重启(财经深一度)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716410.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716926.shtml"
         },
         {
-          "date": "2026-10-17",
-          "title": "2026珠江国际贸易论坛举行 聚焦中国企业出海新赛道",
-          "summary": "中新网广州10月17日电 (记者 程景伟)在广交会创办70周年之际，2026珠江国际贸易论坛16日在广州广交会堂举办。",
+          "date": "2026-10-18",
+          "title": "科创板多赛道龙头业绩、研发、回购“密集报喜”",
+          "summary": "中新网上海10月18日电 (高志苗)近日，沪市公司密集披露三季度业绩预告、股份回购、股东增持及项目进展等公告。数据显示，截至10月16日收盘，科创板已有20余家上市公司披露2026年前三季度业绩预告，盈利向好成为主流趋势。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716459.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716875.shtml"
         },
         {
-          "date": "2026-10-17",
-          "title": "中国首家白俄罗斯产品馆落户黑河 推动中白合作从“握手”走向“携手”",
-          "summary": "中新网黑河10月17日电 (记者 王琳)17日，由白俄罗斯驻华大使馆授权的中国首家白俄罗斯产品馆在黑河大岛国贸城俄品多启幕。场馆定位展示窗口、经贸平台、对外名片三重功能，依托黑河自贸片区的区位优势，打造白俄罗斯商品进入中国的集散枢纽。",
+          "date": "2026-10-18",
+          "title": "（乡村行·看振兴）浙江义乌：重阳节里赶一场靠山市集",
+          "summary": "中新网义乌10月18日电 题：浙江义乌：重阳节里赶一场靠山市集",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716441.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716874.shtml"
         },
         {
-          "date": "2026-10-17",
-          "title": "2026大湾区绿能大会在广东阳江举行",
-          "summary": "中新网阳江10月17日电 (孙秋霞 罗超益)2026大湾区科学论坛绿能产业科技创新分论坛暨大湾区绿能大会16日至17日在阳江举行，本次活动汇聚诺贝尔化学奖得主、中国科学院院士等国内外专家学者，共商绿能产业科技创新与国际化发展路径，为粤港澳大湾区乃至全球绿色低碳发展注入新动能。",
+          "date": "2026-10-18",
+          "title": "（乡村行·看振兴）“中国扶贫第一村”福鼎赤溪村：畲韵欢歌兴文旅",
+          "summary": "中新网宁德10月18日电 (王婷婷)10月18日，正值重阳节，走进“中国扶贫第一村”福建省福鼎市磻溪镇赤溪村，畲歌方起，竹竿声脆。随着竹阵开合起落，身着凤凰装的畲家阿妹踏着节拍灵巧跃入，衣袂翻飞，引得围观人群一片叫好，一场畲家盛宴也由此开幕。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716452.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716856.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-17",
-          "title": "苏丹首都圈地区一军事基地发生爆炸",
-          "summary": "当地时间10月17日，苏丹武装部队发布声明称，首都喀土穆市北部的北喀土穆市一座军事基地当天发生爆炸。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716482.shtml"
-        },
-        {
-          "date": "2026-10-17",
-          "title": "纽约曼哈顿地铁站发生枪击事件致一人死亡",
-          "summary": "新华社纽约10月17日电(记者施春)据当地警方消息，美国纽约曼哈顿一地铁站17日发生枪击事件，造成一名男子死亡。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716481.shtml"
-        },
-        {
-          "date": "2026-10-17",
-          "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡",
-          "summary": "也门胡塞武装17日称，沙特阿拉伯当天空袭也门西南部塔伊兹省，造成包括妇女和儿童在内至少9人死亡，另有16人受伤。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716480.shtml"
-        },
-        {
-          "date": "2026-10-17",
-          "title": "孟加拉国度假村火灾已致10人死亡",
-          "summary": "据孟加拉国消防和民防部门最新通报，当地时间17日早晨，该国东南部科克斯巴扎尔地区一度假村餐厅当天发生火灾，已造成10人死亡，多人受伤。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml"
-        },
-        {
-          "date": "2026-10-17",
-          "title": "冀中能源集团董事会原董事陈亚杰接受审查调查",
-          "summary": "中新网10月17日电 据河北省纪委监委消息，冀中能源集团有限责任公司董事会原董事，峰峰集团有限公司原党委书记、董事长陈亚杰涉嫌严重违纪违法，目前正接受河北省纪委监委纪律审查和监察调查。",
+          "date": "2026-10-18",
+          "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+          "summary": "为纪念中国工农红军长征胜利90周年，弘扬伟大长征精神，19日，中央档案馆向社会集中开放一批长征专题档案，共计5千余件。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716931.shtml"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
+          "summary": "中新网10月19日电 据日本共同社报道，10月19日，日本首相高市早苗向靖国神社供奉“玉串料”(祭祀费)。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "俄乌“能源停火”未果 美调转矛头对伊施压 伊朗：“7日方案”仍可谈",
+          "summary": "在过去一周，美国在推进俄乌“能源停火”上动作频频，却鲜有成果。就在美方所提的俄乌“能源停火”名存实亡之际，美总统特朗普又在10月15日调转方向，将矛头对准伊朗，威胁打击伊朗的核设施，其中包括他此前已多次威胁打击却从未付诸实践的“镐山”核设施。更有美官员在同日披露称，美方正考虑对伊使用“炸弹之母”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716922.shtml"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "泽连斯基：若乌克兰被要求举行战时选举，他将竞选连任",
+          "summary": "中新网10月19日电 据外媒报道，乌克兰总统泽连斯基当地时间18日接受媒体采访时称，若美国和俄罗斯方面要求乌方在冲突期间举行选举，他将竞选连任总统。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716921.shtml"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理",
+          "summary": "中新网10月19日电 综合外媒报道，当地时间18日，美国总统特朗普在“真实社交”平台发文，公开表示对以色列总理内塔尼亚胡的支持，力挺他在以色列即将举行的大选中竞选连任。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716920.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-17",
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+          "date": "2026-10-19",
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-17",
-          "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-          "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+          "date": "2026-10-18",
+          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+          "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-17",
-          "title": "How day of protests unfolded as disorder breaks out across France",
-          "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+          "date": "2026-10-18",
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-17",
-          "title": "Anti-government protesters battle with police in Albania",
-          "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+          "date": "2026-10-18",
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-17",
-          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-          "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+          "date": "2026-10-18",
+          "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+          "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "jhaizhou-ops/d2r-mobile（⭐ 3707）",
-          "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
-          "source": "GitHub",
-          "url": "https://github.com/jhaizhou-ops/d2r-mobile"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Arekejoker/qwen21-nsfw-pose-skill（⭐ 2636）",
+          "title": "Arekejoker/qwen21-nsfw-pose-skill（⭐ 2751）",
           "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
           "source": "GitHub",
           "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
         },
         {
           "date": "GitHub Trending",
-          "title": "HeyPuter/everything（⭐ 2052）",
+          "title": "feder-cr/git-ai（⭐ 2297）",
+          "summary": "Git designed for AI agents.",
+          "source": "GitHub",
+          "url": "https://github.com/feder-cr/git-ai"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "HeyPuter/everything（⭐ 2218）",
           "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
           "source": "GitHub",
           "url": "https://github.com/HeyPuter/everything"
         },
         {
           "date": "GitHub Trending",
-          "title": "ahwootech/BRUTAL（⭐ 1790）",
-          "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+          "title": "Gathin23/tv-vibehack（⭐ 1965）",
+          "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
           "source": "GitHub",
-          "url": "https://github.com/ahwootech/BRUTAL"
+          "url": "https://github.com/Gathin23/tv-vibehack"
         },
         {
           "date": "GitHub Trending",
-          "title": "deeplethe/solid-glass（⭐ 1706）",
-          "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+          "title": "ahwootech/BRUTAL（⭐ 1898）",
+          "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
           "source": "GitHub",
-          "url": "https://github.com/deeplethe/solid-glass"
+          "url": "https://github.com/ahwootech/BRUTAL"
         }
       ]
     }
