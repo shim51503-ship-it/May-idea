@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-19",
-  "generatedAt": "2026-10-19T00:37:36.338Z",
+  "issueDate": "2026-10-20",
+  "generatedAt": "2026-10-20T01:22:18.521Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’\n【金融新闻】一杯奶茶钱的惠民保如何更有吸引力？\n【中国新闻】中央档案馆向社会集中开放5000余件长征专题档案\n【世界新闻】Inside the shadowy world of anti-Putin sabotage from within Russia"
+    "body": "【AI 最新信息】Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal\n【金融新闻】冰雪经济持续升温 多元业态“花式”上新\n【中国新闻】安理会全票通过防范数字技术侵害冲突中儿童的决议\n【世界新闻】US church on frontline of battle against drug known as 'tranq'"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-10-18",
-          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-          "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+          "date": "2026-10-19",
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+          "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
         },
         {
-          "date": "2026-10-18",
-          "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-          "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so",
+          "date": "2026-10-19",
+          "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
+          "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+          "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
         },
         {
-          "date": "2026-10-17",
-          "title": "Meta removes language that raised scraping and AI training concerns",
-          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "date": "2026-10-19",
+          "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
+          "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
         },
         {
-          "date": "2026-10-17",
-          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "date": "2026-10-19",
+          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+          "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like it",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
         },
         {
-          "date": "2026-10-17",
-          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform",
+          "date": "2026-10-19",
+          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+          "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and s",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-18",
-          "title": "一杯奶茶钱的惠民保如何更有吸引力？",
-          "summary": "因保费低、带病可保而走红，却也因免赔额高被吐槽小病“够不着”——",
+          "date": "2026-10-20",
+          "title": "冰雪经济持续升温 多元业态“花式”上新",
+          "summary": "乘坐热气球看雪景，体验滑翔伞、雪地摩托车……滑雪场上的新业态越来越多。10月16日，在2026国际冬季运动博览会(以下简称“冬博会”)“破界·融合——景区新文旅与冰雪全季运营论坛”现场，北京体育大学体育休闲与旅游学院院长、教授蒋依依分享了她观察到的冰雪消费新变化：上海一家滑雪场推出全国首个室内雪场京剧主题滑雪秀，把京剧",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716928.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717582.shtml"
         },
         {
-          "date": "2026-10-18",
-          "title": "多期限大额存单上新 大额存单缘何重启？",
-          "summary": "大额存单缘何重启(财经深一度)",
+          "date": "2026-10-19",
+          "title": "减脂餐的“洋食材”成土特产",
+          "summary": "减脂餐的“洋食材”成土特产(财米油盐)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-19/10716926.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717566.shtml"
         },
         {
-          "date": "2026-10-18",
-          "title": "科创板多赛道龙头业绩、研发、回购“密集报喜”",
-          "summary": "中新网上海10月18日电 (高志苗)近日，沪市公司密集披露三季度业绩预告、股份回购、股东增持及项目进展等公告。数据显示，截至10月16日收盘，科创板已有20余家上市公司披露2026年前三季度业绩预告，盈利向好成为主流趋势。",
+          "date": "2026-10-19",
+          "title": "“双11”购物节上新 服务消费成亮点",
+          "summary": "“双11”购物节是观察消费市场变化的重要窗口。十月中旬以来，多家电商平台启动“双11”购物节的相关活动。中青报·中青网记者注意到，今年多家电商平台在规则上做减法，取消跨店满减和凑单机制，扩容服务消费品类、提升购物体验成为购物节亮点。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716875.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717561.shtml"
         },
         {
-          "date": "2026-10-18",
-          "title": "（乡村行·看振兴）浙江义乌：重阳节里赶一场靠山市集",
-          "summary": "中新网义乌10月18日电 题：浙江义乌：重阳节里赶一场靠山市集",
+          "date": "2026-10-19",
+          "title": "“浙里出海”报告会开讲 专家为浙企解析全球经贸变局",
+          "summary": "中新网杭州10月19日电(蓝伊旎)10月19日，第三期“浙里出海”宏观形势报告会在杭州举办，来自浙江外向型企业、相关机构的代表共320余人参会。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716874.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717528.shtml"
         },
         {
-          "date": "2026-10-18",
-          "title": "（乡村行·看振兴）“中国扶贫第一村”福鼎赤溪村：畲韵欢歌兴文旅",
-          "summary": "中新网宁德10月18日电 (王婷婷)10月18日，正值重阳节，走进“中国扶贫第一村”福建省福鼎市磻溪镇赤溪村，畲歌方起，竹竿声脆。随着竹阵开合起落，身着凤凰装的畲家阿妹踏着节拍灵巧跃入，衣袂翻飞，引得围观人群一片叫好，一场畲家盛宴也由此开幕。",
+          "date": "2026-10-19",
+          "title": "全国统一大市场下的郑州经开区以何招商？",
+          "summary": "中新网郑州10月19日电 (张楠)在全国统一大市场建设背景下，地方招商引资的税费、土地等优惠空间明显压缩，招商需要靠什么？河南郑州经济技术开发区(下称“郑州经开区”)经济发展部部长张广明19日在郑州市“开局起步‘十五五’”系列新闻发布会经开区专场上表示，项目落地看“有什么”，不看“给多少”。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716856.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717526.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-18",
-          "title": "中央档案馆向社会集中开放5000余件长征专题档案",
-          "summary": "为纪念中国工农红军长征胜利90周年，弘扬伟大长征精神，19日，中央档案馆向社会集中开放一批长征专题档案，共计5千余件。",
+          "date": "2026-10-20",
+          "title": "安理会全票通过防范数字技术侵害冲突中儿童的决议",
+          "summary": "中新社联合国10月19日电 (记者 王帆)当地时间19日，联合国安理会以15票赞成的表决结果一致通过一项旨在防范数字技术侵害冲突中儿童的决议。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717560.shtml"
+        },
+        {
+          "date": "2026-10-20",
+          "title": "美国战略石油储备原油库存降至1982年以来最低",
+          "summary": "中新网10月20日电 据路透社19日报道，美国能源部公布的数据显示，截至上周，美国战略石油储备中的原油库存降至2.827亿桶，创1982年10月以来最低水平。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717571.shtml"
+        },
+        {
+          "date": "2026-10-20",
+          "title": "泽连斯基：美国推迟对乌武器交付等决定“难以解释”",
+          "summary": "中新网10月20日电 据路透社报道，乌克兰总统泽连斯基19日在与美国国会代表团会晤时表示，美国就俄乌战事做出的决定——包括推迟武器交付和限制情报共享——都“难以解释”。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717569.shtml"
+        },
+        {
+          "date": "2026-10-19",
+          "title": "以场带产 产城融合 商业航天发展持续提速",
+          "summary": "活力中国调研行丨以场带产 产城融合 商业航天发展持续提速",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716931.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717567.shtml"
         },
         {
-          "date": "2026-10-18",
-          "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
-          "summary": "中新网10月19日电 据日本共同社报道，10月19日，日本首相高市早苗向靖国神社供奉“玉串料”(祭祀费)。",
+          "date": "2026-10-19",
+          "title": "突发：哥伦比亚一架“黑鹰”坠机 机上15人全部幸存",
+          "summary": "中新网10月20日电 综合外媒报道，哥伦比亚军方19日证实，一架载有15名军人的UH-60型黑鹰直升机当天在该国西南部考卡省发生坠机事故，机上人员全部幸存。根据初步报告，其中4人受伤，其余人员未受伤。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml"
-        },
-        {
-          "date": "2026-10-18",
-          "title": "俄乌“能源停火”未果 美调转矛头对伊施压 伊朗：“7日方案”仍可谈",
-          "summary": "在过去一周，美国在推进俄乌“能源停火”上动作频频，却鲜有成果。就在美方所提的俄乌“能源停火”名存实亡之际，美总统特朗普又在10月15日调转方向，将矛头对准伊朗，威胁打击伊朗的核设施，其中包括他此前已多次威胁打击却从未付诸实践的“镐山”核设施。更有美官员在同日披露称，美方正考虑对伊使用“炸弹之母”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716922.shtml"
-        },
-        {
-          "date": "2026-10-18",
-          "title": "泽连斯基：若乌克兰被要求举行战时选举，他将竞选连任",
-          "summary": "中新网10月19日电 据外媒报道，乌克兰总统泽连斯基当地时间18日接受媒体采访时称，若美国和俄罗斯方面要求乌方在冲突期间举行选举，他将竞选连任总统。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716921.shtml"
-        },
-        {
-          "date": "2026-10-18",
-          "title": "以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理",
-          "summary": "中新网10月19日电 综合外媒报道，当地时间18日，美国总统特朗普在“真实社交”平台发文，公开表示对以色列总理内塔尼亚胡的支持，力挺他在以色列即将举行的大选中竞选连任。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716920.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717559.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
+          "date": "2026-10-20",
+          "title": "US church on frontline of battle against drug known as 'tranq'",
+          "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "date": "2026-10-19",
-          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-          "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+          "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+          "summary": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-18",
-          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-          "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+          "date": "2026-10-19",
+          "title": "Five ways El Niño is affecting the weather around the world",
+          "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at ",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-18",
-          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-          "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+          "date": "2026-10-19",
+          "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+          "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-18",
-          "title": "Major fire at Canada military base leaves four dead, dozens injured",
-          "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+          "date": "2026-10-19",
+          "title": "Clean up begins after French riots but police remain",
+          "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-18",
-          "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-          "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Arekejoker/qwen21-nsfw-pose-skill（⭐ 2751）",
-          "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+          "title": "Gathin23/cleanyourtv（⭐ 5411）",
+          "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
           "source": "GitHub",
-          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+          "url": "https://github.com/Gathin23/cleanyourtv"
         },
         {
           "date": "GitHub Trending",
-          "title": "feder-cr/git-ai（⭐ 2297）",
+          "title": "feder-cr/git-ai（⭐ 2456）",
           "summary": "Git designed for AI agents.",
           "source": "GitHub",
           "url": "https://github.com/feder-cr/git-ai"
         },
         {
           "date": "GitHub Trending",
-          "title": "HeyPuter/everything（⭐ 2218）",
-          "summary": "We're rebuilding and open-sourcing the world’s software from scratch.",
-          "source": "GitHub",
-          "url": "https://github.com/HeyPuter/everything"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Gathin23/tv-vibehack（⭐ 1965）",
-          "summary": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
-          "source": "GitHub",
-          "url": "https://github.com/Gathin23/tv-vibehack"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "ahwootech/BRUTAL（⭐ 1898）",
+          "title": "ahwootech/BRUTAL（⭐ 1993）",
           "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
           "source": "GitHub",
           "url": "https://github.com/ahwootech/BRUTAL"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "chenglou/handwired（⭐ 1813）",
+          "summary": "Turn your regular JavaScript code into a neural net.",
+          "source": "GitHub",
+          "url": "https://github.com/chenglou/handwired"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "ly05010419/MacNativeGames（⭐ 1764）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/ly05010419/MacNativeGames"
         }
       ]
     }
