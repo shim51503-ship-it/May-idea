@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-20",
-  "generatedAt": "2026-10-20T01:22:18.521Z",
+  "issueDate": "2026-10-21",
+  "generatedAt": "2026-10-21T01:08:50.300Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal\n【金融新闻】冰雪经济持续升温 多元业态“花式”上新\n【中国新闻】安理会全票通过防范数字技术侵害冲突中儿童的决议\n【世界新闻】US church on frontline of battle against drug known as 'tranq'"
+    "body": "【AI 最新信息】Anthropic pitches AI safety bill that may block a model if 50+ people could be killed\n【金融新闻】我国将建设一批专精特新赋能中心 助力中小企业创新发展\n【中国新闻】美国联邦航空管理局：波音737 MAX 10机型获得适航认证\n【世界新闻】Borneo burning: Life on the frontline of South East Asia's toxic haze"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-10-19",
-          "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-          "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+          "date": "2026-10-20",
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
         },
         {
-          "date": "2026-10-19",
-          "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
-          "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one",
+          "date": "2026-10-20",
+          "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
+          "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doo",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+          "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
         },
         {
-          "date": "2026-10-19",
-          "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
-          "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+          "date": "2026-10-20",
+          "title": "Anthropic’s cloud partnerships are getting messy",
+          "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
         },
         {
-          "date": "2026-10-19",
-          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-          "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like it",
+          "date": "2026-10-20",
+          "title": "SpaceX&#8217;s AI business is beating expectations",
+          "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
         },
         {
-          "date": "2026-10-19",
-          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-          "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and s",
+          "date": "2026-10-20",
+          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
+          "date": "2026-10-21",
+          "title": "我国将建设一批专精特新赋能中心 助力中小企业创新发展",
+          "summary": "记者从工业和信息化部了解到，今天(10月21日)，《关于开展专精特新赋能中心建设工作的通知》正式印发。“十五五”期间，我国将建设30家左右专精特新赋能中心，搭建全国性服务网络，为中小企业创新发展提供有力支撑。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718253.shtml"
+        },
+        {
+          "date": "2026-10-21",
+          "title": "“营收直接翻倍”！广交会客商“扫货”华强北",
+          "summary": "第140届广交会第一期展会于10月19日圆满落幕，目前正处于换展期，第二期将于10月23日启动。近期，大批并非从事电子产品生意的广交会客商，从广州出发专程来到深圳华强北。有商户表示，10日以后外籍客商的数量持续增长，广交会期间的营收基本上都翻了一倍以上。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718251.shtml"
+        },
+        {
+          "date": "2026-10-21",
+          "title": "56.5%受访者希望住宿预订平台减少“杀熟”",
+          "summary": "56.5%受访者希望住宿预订平台减少“杀熟”",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718245.shtml"
+        },
+        {
           "date": "2026-10-20",
-          "title": "冰雪经济持续升温 多元业态“花式”上新",
-          "summary": "乘坐热气球看雪景，体验滑翔伞、雪地摩托车……滑雪场上的新业态越来越多。10月16日，在2026国际冬季运动博览会(以下简称“冬博会”)“破界·融合——景区新文旅与冰雪全季运营论坛”现场，北京体育大学体育休闲与旅游学院院长、教授蒋依依分享了她观察到的冰雪消费新变化：上海一家滑雪场推出全国首个室内雪场京剧主题滑雪秀，把京剧",
+          "title": "贵≠好用 冲锋衣怎么选、怎么洗？实用参考请收好",
+          "summary": "户外运动走进大众生活，冲锋衣既是户外装备，也成为日常通勤潮流穿搭。一件合格的冲锋衣包含面料、压胶、防水透湿、耐磨环保等多项指标，市场上品牌繁多、价格差距大，不少消费者看不懂参数容易买错。近期上海市消保委开展30款硬壳冲锋衣比较试验，从怎么选、如何养护两个维度给大家实用参考。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717582.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718243.shtml"
         },
         {
-          "date": "2026-10-19",
-          "title": "减脂餐的“洋食材”成土特产",
-          "summary": "减脂餐的“洋食材”成土特产(财米油盐)",
+          "date": "2026-10-20",
+          "title": "“产品溯源”不能沦为坑老营销的“新马甲”",
+          "summary": "近日，央视曝光一些机构打着“产品溯源”旗号组织老年游客低价出游：80元团费含中晚餐，却只收50岁以上人群。所谓参观生产车间，往往十余分钟便草草收场，随后老人被请进会议室、拉入饭局，普通饮料或保健食品被包装成能治多种慢性病的“神药”。调查发现，同类产品进货价仅五六十元，现场售价高达七八百元，价差达14倍。节目播出后，涉事",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717566.shtml"
-        },
-        {
-          "date": "2026-10-19",
-          "title": "“双11”购物节上新 服务消费成亮点",
-          "summary": "“双11”购物节是观察消费市场变化的重要窗口。十月中旬以来，多家电商平台启动“双11”购物节的相关活动。中青报·中青网记者注意到，今年多家电商平台在规则上做减法，取消跨店满减和凑单机制，扩容服务消费品类、提升购物体验成为购物节亮点。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717561.shtml"
-        },
-        {
-          "date": "2026-10-19",
-          "title": "“浙里出海”报告会开讲 专家为浙企解析全球经贸变局",
-          "summary": "中新网杭州10月19日电(蓝伊旎)10月19日，第三期“浙里出海”宏观形势报告会在杭州举办，来自浙江外向型企业、相关机构的代表共320余人参会。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717528.shtml"
-        },
-        {
-          "date": "2026-10-19",
-          "title": "全国统一大市场下的郑州经开区以何招商？",
-          "summary": "中新网郑州10月19日电 (张楠)在全国统一大市场建设背景下，地方招商引资的税费、土地等优惠空间明显压缩，招商需要靠什么？河南郑州经济技术开发区(下称“郑州经开区”)经济发展部部长张广明19日在郑州市“开局起步‘十五五’”系列新闻发布会经开区专场上表示，项目落地看“有什么”，不看“给多少”。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717526.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718238.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-20",
-          "title": "安理会全票通过防范数字技术侵害冲突中儿童的决议",
-          "summary": "中新社联合国10月19日电 (记者 王帆)当地时间19日，联合国安理会以15票赞成的表决结果一致通过一项旨在防范数字技术侵害冲突中儿童的决议。",
+          "date": "2026-10-21",
+          "title": "美国联邦航空管理局：波音737 MAX 10机型获得适航认证",
+          "summary": "中新社华盛顿10月20日电(记者 沙晗汀)美国联邦航空管理局(FAA)当地时间20日表示，波音公司737 MAX 10机型已获得适航认证。该机型是波音737 MAX系列最后获得适航认证的机型。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717560.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718241.shtml"
         },
         {
           "date": "2026-10-20",
-          "title": "美国战略石油储备原油库存降至1982年以来最低",
-          "summary": "中新网10月20日电 据路透社19日报道，美国能源部公布的数据显示，截至上周，美国战略石油储备中的原油库存降至2.827亿桶，创1982年10月以来最低水平。",
+          "title": "威胁刺杀特朗普 美国一男子遭逮捕",
+          "summary": "中新网10月21日电 综合报道，美国司法部堪萨斯州联邦检察官办公室说，一名威胁要在该州19日举行的共和党集会上刺杀美国总统特朗普的男子已经被捕。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717571.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718244.shtml"
         },
         {
           "date": "2026-10-20",
-          "title": "泽连斯基：美国推迟对乌武器交付等决定“难以解释”",
-          "summary": "中新网10月20日电 据路透社报道，乌克兰总统泽连斯基19日在与美国国会代表团会晤时表示，美国就俄乌战事做出的决定——包括推迟武器交付和限制情报共享——都“难以解释”。",
+          "title": "泽连斯基：讨论了美俄乌三方领导人会晤可能性",
+          "summary": "中新网10月21日电 乌克兰总统泽连斯基20日在社交媒体发文称，当天他与美国总统特朗普的特使威特科夫和欧洲伙伴在挪威首都奥斯陆举行会谈，讨论了美俄乌三方领导人会晤可能性。特朗普的女婿库什纳也通过视频连线参加了会谈。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717569.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718232.shtml"
         },
         {
-          "date": "2026-10-19",
-          "title": "以场带产 产城融合 商业航天发展持续提速",
-          "summary": "活力中国调研行丨以场带产 产城融合 商业航天发展持续提速",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717567.shtml"
+          "date": "2026-10-20",
+          "title": "以军宣布：打死哈马斯安全机构高级成员",
+          "summary": "中新网10月21日电 据《以色列时报》20日报道，以色列国防军与以色列国家安全局(辛贝特)发表联合声明称，当天早些时候对加沙城地区发动空袭，打死了哈马斯安全机构高级成员亚辛。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718228.shtml"
         },
         {
-          "date": "2026-10-19",
-          "title": "突发：哥伦比亚一架“黑鹰”坠机 机上15人全部幸存",
-          "summary": "中新网10月20日电 综合外媒报道，哥伦比亚军方19日证实，一架载有15名军人的UH-60型黑鹰直升机当天在该国西南部考卡省发生坠机事故，机上人员全部幸存。根据初步报告，其中4人受伤，其余人员未受伤。",
+          "date": "2026-10-20",
+          "title": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
+          "summary": "当地时间20日，两艘油轮在霍尔木兹海峡触雷，美国能源部的数据显示，美国战略石油储备计划中的原油储量已降至44年来的最低水平。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-20/10717559.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718226.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-10-20",
-          "title": "US church on frontline of battle against drug known as 'tranq'",
-          "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+          "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+          "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-19",
-          "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-          "summary": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+          "date": "2026-10-20",
+          "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+          "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-19",
-          "title": "Five ways El Niño is affecting the weather around the world",
-          "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at ",
+          "date": "2026-10-20",
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-19",
-          "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
-          "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
+          "date": "2026-10-20",
+          "title": "Is Donald Trump ready to do business with Myanmar?",
+          "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-19",
-          "title": "Clean up begins after French riots but police remain",
-          "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+          "date": "2026-10-20",
+          "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+          "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Gathin23/cleanyourtv（⭐ 5411）",
+          "title": "deepseek-ai/DeepInfer（⭐ 12494）",
+          "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+          "source": "GitHub",
+          "url": "https://github.com/deepseek-ai/DeepInfer"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Gathin23/cleanyourtv（⭐ 11935）",
           "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
           "source": "GitHub",
           "url": "https://github.com/Gathin23/cleanyourtv"
         },
         {
           "date": "GitHub Trending",
-          "title": "feder-cr/git-ai（⭐ 2456）",
-          "summary": "Git designed for AI agents.",
-          "source": "GitHub",
-          "url": "https://github.com/feder-cr/git-ai"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "ahwootech/BRUTAL（⭐ 1993）",
-          "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-          "source": "GitHub",
-          "url": "https://github.com/ahwootech/BRUTAL"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "chenglou/handwired（⭐ 1813）",
-          "summary": "Turn your regular JavaScript code into a neural net.",
-          "source": "GitHub",
-          "url": "https://github.com/chenglou/handwired"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "ly05010419/MacNativeGames（⭐ 1764）",
+          "title": "ly05010419/MacNativeGames（⭐ 2841）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/ly05010419/MacNativeGames"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Leonxlnx/earshot（⭐ 1954）",
+          "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+          "source": "GitHub",
+          "url": "https://github.com/Leonxlnx/earshot"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "chenglou/handwired（⭐ 1853）",
+          "summary": "Turn your regular JavaScript code into a neural net.",
+          "source": "GitHub",
+          "url": "https://github.com/chenglou/handwired"
         }
       ]
     }
