@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-22",
-  "generatedAt": "2026-10-22T01:06:04.155Z",
+  "issueDate": "2026-10-23",
+  "generatedAt": "2026-10-23T01:06:36.759Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown\n【金融新闻】AI制药能改变创新药“三个十定律”吗\n【中国新闻】国家防总、应急管理部针对上海浙江福建 启动防汛防台风四级应急响应 派出工作组赴浙江协助指导防汛防台风工作\n【世界新闻】The real reasons US politicians are getting older"
+    "body": "【AI 最新信息】Left alone with nothing to do, AI agents started playing\n【金融新闻】全国蛋价跌回“4元时代” 未来还会降吗？走势预测→\n【中国新闻】西藏那曲发生7.0级地震，自然资源部启动地质灾害防御Ⅲ&#8204;级响应\n【世界新闻】Trump ordered to answer questions under oath in BBC lawsuit"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-10-21",
-          "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
-          "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+          "date": "2026-10-23",
+          "title": "Left alone with nothing to do, AI agents started playing",
+          "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
         },
         {
-          "date": "2026-10-21",
-          "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-          "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to",
+          "date": "2026-10-22",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
         },
         {
-          "date": "2026-10-21",
-          "title": "Meta says Muse has over 10M users, with shopping a top activity",
-          "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+          "date": "2026-10-22",
+          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
         },
         {
-          "date": "2026-10-21",
-          "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-          "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself",
+          "date": "2026-10-22",
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
         },
         {
-          "date": "2026-10-21",
-          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-          "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on ",
+          "date": "2026-10-22",
+          "title": "Canva releases its first image generation model",
+          "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-21",
-          "title": "AI制药能改变创新药“三个十定律”吗",
-          "summary": "AI制药正在成为当前医药研发领域的热点。",
+          "date": "2026-10-22",
+          "title": "全国蛋价跌回“4元时代” 未来还会降吗？走势预测→",
+          "summary": "鸡蛋是老百姓菜篮子里的刚需品，国庆节前还挺贵的鸡蛋，现在价格明显回落，不少市民买鸡蛋都感受到了实惠。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-22/10718827.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719473.shtml"
         },
         {
-          "date": "2026-10-21",
-          "title": "2026金融街论坛年会金融科技大会在京举办",
-          "summary": "中新网北京10月21日电 2026金融街论坛年会正在北京举行。20日，以“智能驱动 融合共生——智能经济新形态下的金融科技”为主题的2026金融街论坛年会金融科技大会在京开幕。",
+          "date": "2026-10-22",
+          "title": "网红钛制品真能抑菌保鲜吗？先认准钛的“身份证”",
+          "summary": "真相来了丨网红钛制品真能抑菌保鲜吗？先认准钛的“身份证”",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718797.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719472.shtml"
         },
         {
-          "date": "2026-10-21",
-          "title": "四川搭建欧资企业政企沟通平台 以对话回应关切",
-          "summary": "中新网成都10月21日电 (单鹏)四川省服务外资企业政企对话会(欧盟专场)21日在成都举行。",
+          "date": "2026-10-22",
+          "title": "全球超八成新船订单涌向中国",
+          "summary": "今天(23日)，工业和信息化部发布2026年1—9月全国船舶工业统计数据，造船业三大指标持续全球领跑，中国造船继续占据全球市场主导地位。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718798.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-23/10719464.shtml"
         },
         {
-          "date": "2026-10-21",
-          "title": "桂台经贸融合发展与玉林产业发展对接会在广西玉林举行",
-          "summary": "中新网玉林10月21日电(翟李强 曾玉红)10月21日，桂台经贸融合发展与玉林产业发展对接会在广西玉林举行，大陆各省份台协和台商台企代表齐聚一堂，叙亲情、谈发展。",
+          "date": "2026-10-22",
+          "title": "2026中国·安平国际丝网博览会开幕 海外客商点赞“数字智造”",
+          "summary": "中新网衡水10月22日电 (赵丹媚 孟宪峰)2026中国·安平国际丝网博览会22日在河北衡水安平启幕，吸引了来自俄罗斯、白俄罗斯、巴基斯坦、埃及、意大利等60多个国家的300余名境外采购商现场洽谈贸易与合作。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718800.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719427.shtml"
         },
         {
-          "date": "2026-10-21",
-          "title": "首届湖南安全应急装备产业博览会开幕 全链条装备亮相",
-          "summary": "中新网长沙10月21日电(刘国永)21日，首届湖南安全应急装备产业博览会(简称“湖南安博会”)在湘潭开幕，奏响湖南应急装备产业高质量发展乐章。",
+          "date": "2026-10-22",
+          "title": "2026中国海洋经济博览会开幕",
+          "summary": "中新社深圳10月22日电 (记者 阮煜琳 索有为)2026中国海洋经济博览会(下称“海博会”)22日在深圳启幕。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718785.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719422.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-22",
-          "title": "国家防总、应急管理部针对上海浙江福建 启动防汛防台风四级应急响应 派出工作组赴浙江协助指导防汛防台风工作",
-          "summary": "今年第30号台风“蔷琵”(超强台风级)中心10月22日5时距离台湾台北市东南方向约750公里，中心附近最大风力16级(55米每秒)。据中央气象台预报，“蔷琵”将于23日夜间进入东海南部海域后转为偏北方向移动，24日夜间在浙江东部近海转向东北方向移动，也不排除在台湾东北部沿海擦过的可能性。受其影响，23日至26日，上海、",
+          "date": "2026-10-23",
+          "title": "西藏那曲发生7.0级地震，自然资源部启动地质灾害防御Ⅲ&#8204;级响应",
+          "summary": "据中国地震台网测定，10月22日22时33分，西藏那曲市巴青县(北纬32.4度，东经93.79度)发生7.0级地震，震源深度10公里。为做好地震可能引发次生地质灾害防范工作，自然资源部于10月23日6时对西藏启动地质灾害防御Ⅲ#8204;级响应，在前期驻守基础上，加派司局级领导带队的专家工作组前往震区，协助指导地方做好",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718858.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719497.shtml"
         },
         {
-          "date": "2026-10-22",
-          "title": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
-          "summary": "中新网10月22日电 综合外媒20日报道，美国副总统万斯表示，美国与乌克兰没有正式结盟，乌克兰不是北约成员，也不应加入北约，但他同时表示，美国会在某些方面继续与乌克兰合作。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718847.shtml"
-        },
-        {
-          "date": "2026-10-22",
-          "title": "90年了，这群拼命赶路的人，不能忘！",
-          "summary": "1934年",
+          "date": "2026-10-23",
+          "title": "西藏巴青县发生7.0级地震 国家地震灾害应急响应提升至三级",
+          "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震，已造成16人遇难，54人受伤。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-22/10718843.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719494.shtml"
         },
         {
-          "date": "2026-10-22",
-          "title": "中方主张不在外空搞“大国竞争”和阵营对抗",
-          "summary": "中新社联合国10月21日电 中国裁军事务大使李驰江21日在联大第一委员会作关于外空问题的专题发言时表示，中方主张不在外空搞“大国竞争”和阵营对抗。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718840.shtml"
+          "date": "2026-10-23",
+          "title": "中国红十字会总会紧急向西藏地震灾区调拨救灾物资",
+          "summary": "中新网10月23日电 据中国红十字会微信公众号消息，2026年10月22日22时33分，在西藏那曲市巴青县发生7.0级地震，震源深度10公里。针对西藏自治区等地地震灾害和救灾需求，中国红十字会总会启动应急响应，紧急向受灾地区调拨赈济家庭包、卫生包、取暖炉、棉帐篷、冲锋衣、折叠床、棉被等救灾物资3800件(套)，并派出工",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719490.shtml"
         },
         {
-          "date": "2026-10-22",
-          "title": "俄罗斯一架苏-30战斗机坠毁 飞行员弹射逃生",
-          "summary": "中新网10月22日电 据俄罗斯媒体报道，俄罗斯国防部21日通报说，一架苏-30战斗机当天在加里宁格勒地区执行例行飞行训练任务时坠毁，机上飞行员弹射逃生。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718841.shtml"
+          "date": "2026-10-23",
+          "title": "西藏巴青发生7.0级地震 两部门启动国家地震灾害四级应急响应",
+          "summary": "中新社北京10月23日电 (记者 郭超凯)记者23日从中国应急管理部获悉，西藏那曲市巴青县发生7.0级地震后，国务院抗震救灾指挥部办公室、应急管理部启动国家地震灾害四级应急响应。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719484.shtml"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "西藏那曲发生7.0级地震，自然资源部启动地质灾害防御Ⅲ级响应",
+          "summary": "中新网10月23日电 据自然资源部微信公众号消息，据中国地震台网测定，10月22日22时33分，西藏那曲市巴青县(北纬32.4度，东经93.79度)发生7.0级地震，震源深度10公里。为做好地震可能引发次生地质灾害防范工作，自然资源部于10月23日6时对西藏启动地质灾害防御Ⅲ#8204;级响应，在前期驻守基础上，加派司",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719482.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-21",
-          "title": "The real reasons US politicians are getting older",
-          "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+          "date": "2026-10-23",
+          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+          "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-21",
-          "title": "Trump's green card curbs test Indian tech workers' American dream",
-          "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+          "date": "2026-10-22",
+          "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+          "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-21",
-          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-          "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+          "date": "2026-10-22",
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+          "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-21",
-          "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
-          "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual ab",
+          "date": "2026-10-22",
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-21",
-          "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-          "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
+          "date": "2026-10-22",
+          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Gathin23/cleanyourtv（⭐ 19269）",
+          "title": "Gathin23/cleanyourtv（⭐ 24121）",
           "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
           "source": "GitHub",
           "url": "https://github.com/Gathin23/cleanyourtv"
         },
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/DeepInfer（⭐ 17906）",
-          "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-          "source": "GitHub",
-          "url": "https://github.com/deepseek-ai/DeepInfer"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "ly05010419/MacNativeGames（⭐ 3875）",
+          "title": "ly05010419/MacNativeGames（⭐ 4482）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/ly05010419/MacNativeGames"
         },
         {
           "date": "GitHub Trending",
-          "title": "simbasjungles/free-my-tv（⭐ 2741）",
+          "title": "simbasjungles/free-my-tv（⭐ 3443）",
           "summary": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
           "source": "GitHub",
           "url": "https://github.com/simbasjungles/free-my-tv"
         },
         {
           "date": "GitHub Trending",
-          "title": "pengchujin/aerial-tv（⭐ 2103）",
+          "title": "pengchujin/aerial-tv（⭐ 3106）",
           "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
           "source": "GitHub",
           "url": "https://github.com/pengchujin/aerial-tv"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "xiaoyang111222/cn-math-taxonomy（⭐ 2200）",
+          "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+          "source": "GitHub",
+          "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
         }
       ]
     }
@@ -215,17 +215,17 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "华为百万豪车尊界V800，在懂车帝测试中竟然连续三次出现刹车踏板断裂！比刹车断裂更荒诞的，是测评视频全网下架、专家出面洗地、华为粉丝围攻测试员，最后竟然还要消费",
-      "video": "华为百万豪车刹车断裂：封嘴禁言、专家洗地，一场极具中国特色的荒诞剧！ | 尊界V800 | 懂车帝 | 刹车踏板 | 鸿蒙智行 | 民族企业 | 江淮汽车 | 中国新能源车 | 老周横眉",
-      "date": "2026-10-15",
-      "url": "https://www.youtube.com/watch?v=eeiR8qPpAvk"
+      "desc": "“失业三年无人问，社保征缴找上门。”人社部说要把未参保的人找出来，可连生活都难以维持的人，拿什么交社保？穷人贷款交社保，老干部北欧去养老，从花呗缴费到贷款续保，",
+      "video": "没钱交社保？政府让你去贷款！从全民追缴到养老金特权，吃相为何如此难看？ | 贷款交社保 | 全民强制社保 | 灵活就业 | 养老金 | 退休金 | 延迟退休 | 青年失业 | 老周横眉",
+      "date": "2026-10-22",
+      "url": "https://www.youtube.com/watch?v=0X3hDytcrIk"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "習近平訪美行程為何突然留下5小時空檔？深圳APEC議程又為何傳出大幅縮減？從歷年健康傳聞，到中國缺乏明確接班人的權力難題，再對比美國第25修正案，一起追查哪些是",
-      "video": "主席之病：習近平究竟怎麼了？十多年的健康疑雲，為何這次外交行程接連改動？【文昭思緒飛揚584】",
-      "date": "2026-10-18",
-      "url": "https://www.youtube.com/watch?v=v7ogIW-1JOM"
+      "desc": "曾經紅遍全中國的央視女主播王小丫，為何突然淡出螢幕？十年後再度現身，意外牽出央視名主播與中南海高官之間錯綜複雜的往事。從沈冰、李東生到周永康，一個神秘的交際圈，",
+      "video": "從副國級到正國級：央視女主播們嫁給高官，命運大起大落！聚光燈外，比台前更有戲【文昭思緒飛揚585】",
+      "date": "2026-10-23",
+      "url": "https://www.youtube.com/watch?v=I0bWddW3Upw"
     },
     {
       "channel": "夸克说",
