@@ -1,15 +1,36 @@
 {
-  "issueDate": "2026-10-25",
-  "generatedAt": "2026-10-25T00:42:03.320Z",
+  "issueDate": "2026-10-26",
+  "generatedAt": "2026-10-26T00:52:30.604Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】The AI graveyard: a running list of projects and startups that didn&#8217;t make it\n【金融新闻】竹产业创新联盟大会在南平举行 两岸院校共谋竹产业创新发展\n【中国新闻】全球媒体聚焦｜长征精神为中国式现代化注入动力 为全球繁荣发展注入强大精神动能\n【世界新闻】Palestinian families displaced as Israeli forces demolish Hebron homes"
+    "body": "【AI 最新信息】Grok releases the first seven minutes of its AI-generated ‘Odyssey’\n【金融新闻】不靠海的内陆城市，如何把锂电池卖向全球？\n【中国新闻】外媒：巴西总统卢拉赢得连任\n【世界新闻】Venezuelan opposition leader María Machado returns after months in exile"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-10-25",
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+        },
+        {
+          "date": "2026-10-25",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+        },
+        {
+          "date": "2026-10-25",
+          "title": "The hottest AI wearables and gadgets you should know about",
+          "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+        },
         {
           "date": "2026-10-24",
           "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
@@ -23,27 +44,6 @@
           "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-        },
-        {
-          "date": "2026-10-24",
-          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-          "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
-        },
-        {
-          "date": "2026-10-24",
-          "title": "Here are the top AI agents that can live in your text messages",
-          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
-        },
-        {
-          "date": "2026-10-23",
-          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-24",
-          "title": "竹产业创新联盟大会在南平举行 两岸院校共谋竹产业创新发展",
-          "summary": "中新网南平10月24日电 (雷雨晨 鄢传奇 柯奕鑫)竹产业创新联盟大会24日在福建南平邵武市“武夷竹立方”生态科创馆举行。来自全国设计类高等院校代表、当地相关部门代表以及企业代表共百余人齐聚一堂，共谋竹产业创新发展。",
+          "date": "2026-10-25",
+          "title": "不靠海的内陆城市，如何把锂电池卖向全球？",
+          "summary": "央视网消息：数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，电动汽车、锂电池、风力发电机组及其零件等绿色产品出口分别增长72.3%、36.4%和22.4%。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720500.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720886.shtml"
         },
         {
-          "date": "2026-10-24",
-          "title": "豪华智造，礼遇世界！第二代腾势D9首发车队浩荡启程服务APEC",
-          "summary": "10月22日，深圳腾势总部礼宾楼外场，一场象征着中国豪华新能源品牌迈向世界舞台的盛典——“深圳腾飞中国腾势”APEC官方指定用车首批发车仪式隆重举行。",
+          "date": "2026-10-25",
+          "title": "占比超50% 年轻人正成为红色旅游主力军",
+          "summary": "今年7月，《旅游强国建设“十五五”规划》发布，对红色旅游提质升级行动作出部署。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720493.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720885.shtml"
         },
         {
-          "date": "2026-10-24",
-          "title": "APEC官方指定用车首批正式启程 “中国腾势”惊艳全球",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "date": "2026-10-25",
+          "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
+          "summary": "2026年被业界称为人形机器人“量产元年”，但很多企业发现，从实验室里的“手搓样机”，到工厂里的批量下线，中间还有一定难度。供应链如何扩容？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720488.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml"
         },
         {
-          "date": "2026-10-24",
-          "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
-          "summary": "中新网北京10月24日电 (尹倩芸 陶思阅)10月24日，第33届中国国际广告节期间，《AIGC时代互联网广告治理蓝皮书》正式发布。",
+          "date": "2026-10-25",
+          "title": "护航对外投资高质量发展，新办法12月1日起施行",
+          "summary": "国家发展改革委日前公布《对外投资管理办法》(以下简称“新办法”)，自2026年12月1日起施行，届时2017年出台的《企业境外投资管理办法》(以下称《办法(2017)》同步废止。新办法保持了政策的稳定性和连续性，又通过一系列修订为对外投资高质量发展提供了更加清晰的制度指引。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720487.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml"
         },
         {
-          "date": "2026-10-24",
-          "title": "拥抱AI时代，企业如何探索AI转型之道？",
-          "summary": "中新网北京10月24日电 (记者 刘亮)在人工智能(AI)驱动下，企业管理正在经历深刻重构。如何拥抱AI时代企业管理变革，实现管理突破与业务创新，已经成为企业高质量发展的核心命题。日前在北京举行的2026全球创见者大会上，与会人士对此话题展开探讨。",
+          "date": "2026-10-25",
+          "title": "湖北宜昌：长江之畔“长”出绿色算力科创高地",
+          "summary": "中新网宜昌10月25日电 题：湖北宜昌：长江之畔“长”出绿色算力科创高地",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720475.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720841.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-25",
-          "title": "全球媒体聚焦｜长征精神为中国式现代化注入动力 为全球繁荣发展注入强大精神动能",
-          "summary": "巴基斯坦主流英文媒体《巴基斯坦观察家报》(Pakistan Observer)10月24日刊发该国地缘政治专家、知识与公共政策中心主席穆罕默德·乌尔·哈桑·汗(Dr. Mehmood Ul Hassan Khan)的署名评论文章《长征精神延续：90年奋斗与77年梦想》。文章高度评价伟大长征精神，并系统梳理了新中国成立7",
+          "date": "2026-10-26",
+          "title": "外媒：巴西总统卢拉赢得连任",
+          "summary": "中新网10月26日电 据法新社最新报道，根据巴西高等选举法院公布的计票结果，劳工党总统候选人、现任总统卢拉在2026年巴西总统选举第二轮投票中获胜，赢得连任。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720546.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml"
         },
         {
-          "date": "2026-10-25",
-          "title": "中国记协第十届理事会第八次常务理事会议在京召开",
-          "summary": "10月24日，中华全国新闻工作者协会(简称“中国记协”)第十届理事会第八次常务理事会议在京召开。中国记协主席何平主持并讲话，中国记协副主席、常务理事参加，省级记协主席、副主席、秘书长列席会议，中央组织部干部三局、中央宣传部干部局、财政部行政政法司负责同志到会指导。",
+          "date": "2026-10-26",
+          "title": "国家数据集团成立 如何加快释放数据要素价值",
+          "summary": "国家数据集团成立，聚焦数据资源开发利用",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-25/10720545.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml"
         },
         {
-          "date": "2026-10-24",
-          "title": "俄乌将为阿列什基人道主义行动同步停火",
-          "summary": "当地时间24日，俄罗斯人权事务专员兰特拉托娃表示，她与乌克兰最高拉达(议会)人权事务专员卢比涅茨就阿列什基的人道主义任务举行了在线会议。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720543.shtml"
+          "date": "2026-10-26",
+          "title": "西湖申遗成功十五年，交出保护发展的独特答卷",
+          "summary": "西湖申遗成功十五年，交出保护发展的独特答卷——",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720899.shtml"
         },
         {
-          "date": "2026-10-24",
-          "title": "也门胡塞武装称沙特一天内发动百次空袭",
-          "summary": "当地时间24日晚，也门胡塞武装发表声明称，过去24小时，沙特方面发动100次空袭，袭击了也门首都萨那及其他地区的民用目标，造成数十人死伤。声明称，自局势升级以来，沙特方面发动的空袭和导弹袭击总数已达3123次。",
+          "date": "2026-10-26",
+          "title": "直击巴西大选：选情胶着 投票有序",
+          "summary": "中新社圣保罗10月25日电 题：直击巴西大选：选情胶着 投票有序",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720542.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720889.shtml"
         },
         {
-          "date": "2026-10-24",
-          "title": "泽连斯基：不会为结束冲突放弃更多领土",
-          "summary": "据乌克兰方面24日消息，乌总统泽连斯基23日接受采访时称，乌克兰准备尽快结束同俄罗斯的军事冲突，但不会为了结束冲突而放弃更多领土。",
+          "date": "2026-10-26",
+          "title": "巴西总统卢拉赢得连任",
+          "summary": "新华社快讯：据巴西高等选举法院25日晚公布的计票结果，劳工党总统候选人、现任总统卢拉在2026年巴西总统选举第二轮投票中获胜，赢得连任。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720896.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-24",
-          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-          "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+          "date": "2026-10-25",
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-24",
-          "title": "Who are the candidates in Brazil's presidential election?",
-          "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+          "date": "2026-10-25",
+          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-24",
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-          "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+          "date": "2026-10-25",
+          "title": "Deeply divided Israel braces for pivotal election",
+          "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-24",
-          "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-          "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+          "date": "2026-10-25",
+          "title": "Why Israel's election is one of the most important in its history",
+          "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-24",
-          "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-          "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+          "date": "2026-10-25",
+          "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+          "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "pengchujin/aerial-tv（⭐ 4368）",
+          "title": "pengchujin/aerial-tv（⭐ 5000）",
           "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
           "source": "GitHub",
           "url": "https://github.com/pengchujin/aerial-tv"
         },
         {
           "date": "GitHub Trending",
-          "title": "simbasjungles/free-my-tv（⭐ 4294）",
-          "summary": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+          "title": "JustAResearcher/gpu-unlock-ada（⭐ 2621）",
+          "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
           "source": "GitHub",
-          "url": "https://github.com/simbasjungles/free-my-tv"
+          "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
         },
         {
           "date": "GitHub Trending",
-          "title": "JoasASantos/REA-Prompts（⭐ 2090）",
-          "summary": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+          "title": "xevrion/hatchzip（⭐ 1937）",
+          "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
           "source": "GitHub",
-          "url": "https://github.com/JoasASantos/REA-Prompts"
+          "url": "https://github.com/xevrion/hatchzip"
         },
         {
           "date": "GitHub Trending",
-          "title": "EthanArbuckle/fairplay-decrypt（⭐ 1959）",
-          "summary": "Offline FairPlay App Store IPA decryption with independent key derivation",
+          "title": "wesbos/3d-model-anything（⭐ 1918）",
+          "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
           "source": "GitHub",
-          "url": "https://github.com/EthanArbuckle/fairplay-decrypt"
+          "url": "https://github.com/wesbos/3d-model-anything"
         },
         {
           "date": "GitHub Trending",
-          "title": "ikow/php2shell-poc（⭐ 1754）",
+          "title": "ikow/php2shell-poc（⭐ 1790）",
           "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
           "source": "GitHub",
           "url": "https://github.com/ikow/php2shell-poc"
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "中国制造的成本优势，能挡住美国制造业回流吗？台湾规划赴美建设供应链产业园，让这个老问题有了新的看点。美国人工贵、配套少、审批慢，为什么还有企业愿意过去？从东莞的",
-      "video": "美国制造能反超中国吗？中国制造的护城河挡得住AI机器人吗？美國製造能反超中國嗎？中國製造的護城河擋得住AI機器人嗎？夸克说|誇克说",
-      "date": "2026-10-23",
-      "url": "https://www.youtube.com/watch?v=csD296Q6ou4"
+      "desc": "金正恩死亡传闻又在社交媒体疯传，韩国情报部门则判断传闻不实。但比真假更值得追问的是：即使独裁者真的离场，一个国家就会随之改变吗？从朝鲜的接班悬念，到苏联与东欧的",
+      "video": "就算金正恩死了，朝鲜就会变天吗？为什么独裁政权越来越难垮台就算金正恩死了，朝鮮就會變天嗎？為什麼獨裁政權越來越難垮台夸克说|誇克说",
+      "date": "2026-10-25",
+      "url": "https://www.youtube.com/watch?v=G4dXKImY8jM"
     },
     {
       "channel": "May Fit",
