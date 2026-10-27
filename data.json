@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-26",
-  "generatedAt": "2026-10-26T00:52:30.604Z",
+  "issueDate": "2026-10-27",
+  "generatedAt": "2026-10-27T01:44:19.617Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Grok releases the first seven minutes of its AI-generated ‘Odyssey’\n【金融新闻】不靠海的内陆城市，如何把锂电池卖向全球？\n【中国新闻】外媒：巴西总统卢拉赢得连任\n【世界新闻】Venezuelan opposition leader María Machado returns after months in exile"
+    "body": "【AI 最新信息】Cohere says Alibaba’s Qwen model tried to send a file to Beijing\n【金融新闻】2026年1—9月份全国规模以上工业企业利润增长15.5%\n【中国新闻】以色列议会选举，内塔尼亚胡能否挺过命运“大考”？\n【世界新闻】'Maxxing' selected as Dictionary.com word of the year"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-10-27",
+          "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+          "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+          "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+          "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "Anthropic officially files for its public debut",
+          "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed t",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+        },
+        {
           "date": "2026-10-25",
           "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
           "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
-        },
-        {
-          "date": "2026-10-25",
-          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-          "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-        },
-        {
-          "date": "2026-10-25",
-          "title": "The hottest AI wearables and gadgets you should know about",
-          "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-        },
-        {
-          "date": "2026-10-24",
-          "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-        },
-        {
-          "date": "2026-10-24",
-          "title": "Block&#8217;s new voice model sounds eerily human",
-          "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-25",
-          "title": "不靠海的内陆城市，如何把锂电池卖向全球？",
-          "summary": "央视网消息：数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，电动汽车、锂电池、风力发电机组及其零件等绿色产品出口分别增长72.3%、36.4%和22.4%。",
+          "date": "2026-10-27",
+          "title": "2026年1—9月份全国规模以上工业企业利润增长15.5%",
+          "summary": "1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720886.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721476.shtml"
         },
         {
-          "date": "2026-10-25",
-          "title": "占比超50% 年轻人正成为红色旅游主力军",
-          "summary": "今年7月，《旅游强国建设“十五五”规划》发布，对红色旅游提质升级行动作出部署。",
+          "date": "2026-10-27",
+          "title": "机构：运营力正成为衡量住房租赁资产长期价值新尺度",
+          "summary": "中新网北京10月27日电(记者 谢艺观)“当规模红利逐渐退去，运营力正在成为衡量住房租赁资产长期价值的新尺度。”ICCRA住房租赁产业研究院院长赵然在第八届领航·住房租赁产业国际论坛上如是表示。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720885.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721454.shtml"
         },
         {
-          "date": "2026-10-25",
-          "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
-          "summary": "2026年被业界称为人形机器人“量产元年”，但很多企业发现，从实验室里的“手搓样机”，到工厂里的批量下线，中间还有一定难度。供应链如何扩容？",
+          "date": "2026-10-27",
+          "title": "前三季度广州地区生产总值同比增长5.7% 增速创五年来同期新高",
+          "summary": "中新网广州10月27日电(王华 张松乐)广州市人民政府新闻办公室26日举办新闻发布会，公布2026年前三季度广州市经济运行情况。数据显示，前三季度，广州实现地区生产总值24851亿元(人民币，下同)，按不变价格计算，同比(下同)增长5.7%，增速创近五年来同期新高。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721466.shtml"
         },
         {
-          "date": "2026-10-25",
-          "title": "护航对外投资高质量发展，新办法12月1日起施行",
-          "summary": "国家发展改革委日前公布《对外投资管理办法》(以下简称“新办法”)，自2026年12月1日起施行，届时2017年出台的《企业境外投资管理办法》(以下称《办法(2017)》同步废止。新办法保持了政策的稳定性和连续性，又通过一系列修订为对外投资高质量发展提供了更加清晰的制度指引。",
+          "date": "2026-10-27",
+          "title": "2027年AI值得关注的五大趋势",
+          "summary": "《福布斯》双周刊网站报道：",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721464.shtml"
         },
         {
-          "date": "2026-10-25",
-          "title": "湖北宜昌：长江之畔“长”出绿色算力科创高地",
-          "summary": "中新网宜昌10月25日电 题：湖北宜昌：长江之畔“长”出绿色算力科创高地",
+          "date": "2026-10-27",
+          "title": "量质齐升，中国外贸何以表现强劲？",
+          "summary": "量质齐升，中国外贸何以表现强劲？(开放谈)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720841.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721461.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-26",
-          "title": "外媒：巴西总统卢拉赢得连任",
-          "summary": "中新网10月26日电 据法新社最新报道，根据巴西高等选举法院公布的计票结果，劳工党总统候选人、现任总统卢拉在2026年巴西总统选举第二轮投票中获胜，赢得连任。",
+          "date": "2026-10-27",
+          "title": "以色列议会选举，内塔尼亚胡能否挺过命运“大考”？",
+          "summary": "中新网10月27日电 10月27日，以色列举行议会选举。这是以色列近40年来，首次按计划而非提前举行议会选举。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721459.shtml"
         },
         {
           "date": "2026-10-26",
-          "title": "国家数据集团成立 如何加快释放数据要素价值",
-          "summary": "国家数据集团成立，聚焦数据资源开发利用",
+          "title": "中期选举倒计时 特朗普称举报选举舞弊可获100万美元",
+          "summary": "中新网10月27日电 综合外媒报道，中期选举即将来临之际，美国总统特朗普当地时间26日表示，凡是提供选举舞弊线索，并最终促成相关人员被捕并定罪的人，将获得100万美元的奖励。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721441.shtml"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
+          "summary": "图1：全国纪检监察机关处分人员按职级划分图 图2：全国纪检监察机关运用“四种形态”占比图 本报讯 2026年1至9月，全国纪检监察机关共接收信访举报350.6万件次，其中检举控告类信访举报84.7万件次。处置问题线索214.9万件。立案80万件，其中立案省部级及以上干部73人、厅局级干部4203人、县处级干部3.4万人",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721440.shtml"
         },
         {
           "date": "2026-10-26",
-          "title": "西湖申遗成功十五年，交出保护发展的独特答卷",
-          "summary": "西湖申遗成功十五年，交出保护发展的独特答卷——",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720899.shtml"
-        },
-        {
-          "date": "2026-10-26",
-          "title": "直击巴西大选：选情胶着 投票有序",
-          "summary": "中新社圣保罗10月25日电 题：直击巴西大选：选情胶着 投票有序",
+          "title": "泽连斯基签署法案 延长国家战时状态和总动员令90天",
+          "summary": "中新网10月27日电 据乌通社报道，当地时间10月26日，乌克兰总统泽连斯基签署相关法案，将战时状态和总动员令再延长90天至2027年1月29日。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720889.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721438.shtml"
         },
         {
           "date": "2026-10-26",
-          "title": "巴西总统卢拉赢得连任",
-          "summary": "新华社快讯：据巴西高等选举法院25日晚公布的计票结果，劳工党总统候选人、现任总统卢拉在2026年巴西总统选举第二轮投票中获胜，赢得连任。",
+          "title": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
+          "summary": "总台记者当地时间10月26日获悉，古巴常驻联合国代表埃内斯托·索韦龙·古斯曼接受拉美通讯社采访时表示，联合国大会将于27日至28日审议“必须终止美国对古巴的经济、商业和金融封锁”决议草案。古方将通过具体事例说明美国封锁对古巴民众造成的损害。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-26/10720896.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721437.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-25",
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+          "date": "2026-10-26",
+          "title": "'Maxxing' selected as Dictionary.com word of the year",
+          "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-25",
-          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-          "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+          "date": "2026-10-26",
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-25",
-          "title": "Deeply divided Israel braces for pivotal election",
-          "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+          "date": "2026-10-26",
+          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-25",
-          "title": "Why Israel's election is one of the most important in its history",
-          "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+          "date": "2026-10-26",
+          "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+          "summary": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-25",
-          "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-          "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+          "date": "2026-10-26",
+          "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+          "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "pengchujin/aerial-tv（⭐ 5000）",
-          "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-          "source": "GitHub",
-          "url": "https://github.com/pengchujin/aerial-tv"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "JustAResearcher/gpu-unlock-ada（⭐ 2621）",
+          "title": "JustAResearcher/gpu-unlock-ada（⭐ 3860）",
           "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
           "source": "GitHub",
           "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
         },
         {
           "date": "GitHub Trending",
-          "title": "xevrion/hatchzip（⭐ 1937）",
-          "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
-          "source": "GitHub",
-          "url": "https://github.com/xevrion/hatchzip"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "wesbos/3d-model-anything（⭐ 1918）",
+          "title": "wesbos/3d-model-anything（⭐ 2078）",
           "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
           "source": "GitHub",
           "url": "https://github.com/wesbos/3d-model-anything"
         },
         {
           "date": "GitHub Trending",
-          "title": "ikow/php2shell-poc（⭐ 1790）",
+          "title": "xevrion/hatchzip（⭐ 2060）",
+          "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+          "source": "GitHub",
+          "url": "https://github.com/xevrion/hatchzip"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "rddmwmddr/android-ad-cleaner（⭐ 1968）",
+          "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+          "source": "GitHub",
+          "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "ikow/php2shell-poc（⭐ 1833）",
           "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
           "source": "GitHub",
           "url": "https://github.com/ikow/php2shell-poc"
