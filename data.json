@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-28",
-  "generatedAt": "2026-10-28T01:55:31.125Z",
+  "issueDate": "2026-10-29",
+  "generatedAt": "2026-10-29T02:00:27.567Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more\n【金融新闻】10月28日央行开展1510亿元7天期逆回购操作\n【中国新闻】关注中国，就是关注未来\n【世界新闻】Watch: What happens now after close vote in Israeli election?"
+    "body": "【AI 最新信息】Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion\n【金融新闻】全球经济版图下的中国角色之变\n【中国新闻】中国红十字基金会雪域健康基金携手爱心企业向西藏驻京办捐赠100台口袋充氧宝\n【世界新闻】Flávio Bolsonaro denies fleeing Brazil after landing in Miami"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-10-28",
-          "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-          "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+          "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
+          "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest compe",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
         },
         {
-          "date": "2026-10-27",
-          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-          "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in Febr",
+          "date": "2026-10-28",
+          "title": "Google expands AI Search ads globally as core ad growth slows",
+          "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
         },
         {
-          "date": "2026-10-27",
-          "title": "The data center boom has an upside: innovation for the US grid",
-          "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+          "date": "2026-10-28",
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+          "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
         },
         {
-          "date": "2026-10-27",
-          "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-          "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+          "date": "2026-10-28",
+          "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+          "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+          "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
         },
         {
-          "date": "2026-10-27",
-          "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
-          "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+          "date": "2026-10-28",
+          "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+          "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-28",
-          "title": "10月28日央行开展1510亿元7天期逆回购操作",
-          "summary": "中新网10月28日电 据中国人民银行网站消息，2026年10月28日中国人民银行以固定利率、数量招标方式开展了1510亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+          "date": "2026-10-29",
+          "title": "全球经济版图下的中国角色之变",
+          "summary": "国际随笔丨全球经济版图下的中国角色之变",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722012.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722558.shtml"
         },
         {
-          "date": "2026-10-28",
-          "title": "第四届可持续植物油大会在上海举办",
-          "summary": "中新网上海10月28日电 (记者 姜煜)第四届可持续植物油大会(SVOC)27日在上海举办。大会由棕榈油生产国理事会(CPOPC)主办，印度尼西亚驻华大使馆和马来西亚驻华大使馆联合主办，这也是 SVOC首次走进中国。此前，大会在印度尼西亚、印度和荷兰相继举办。",
+          "date": "2026-10-29",
+          "title": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
+          "summary": "深圳前海，德国西门子医疗器械保税维修中心支持磁共振设备全球售后；芬兰通力电梯的数字化新设备快速发往大湾区市场；来自英国、新加坡等地的外资银行、金融机构纷纷入驻深港国际金融城……开放程度高、经济活力强，深圳作为全球投资热土的吸引力与竞争力不断提升。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722004.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722557.shtml"
         },
         {
-          "date": "2026-10-28",
-          "title": "来中国“取经”后，他们交出这样的兴乡答卷",
-          "summary": "“全球南方青年兴乡培育计划”2025级5国48名学员顺利结业",
+          "date": "2026-10-29",
+          "title": "10月29日央行开展1150亿元7天期逆回购操作",
+          "summary": "中新网10月29日电 据中国人民银行网站消息，2026年10月29日中国人民银行以固定利率、数量招标方式开展了1150亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722000.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722540.shtml"
         },
         {
-          "date": "2026-10-28",
-          "title": "第140届广交会到会境外采购商已达27.8万名",
-          "summary": "中新网广州10月28日电 (记者 程景伟)第140届广交会第二期27日在广州闭幕。据广交会新闻中心通报，本届广交会10月15日开幕以来，截至10月27日17时，共有来自218个国家和地区的27.8万名境外采购商到会，比上届同期增长13.4%；152家境外工商机构、384家头部采购企业组团参会。",
+          "date": "2026-10-29",
+          "title": "10月29日人民币对美元中间价报6.7147 上调18个基点",
+          "summary": "中新网10月29日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月29日银行间外汇市场人民币汇率中间价为1美元对人民币6.7147元，上调18个基点。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721988.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722541.shtml"
         },
         {
-          "date": "2026-10-28",
-          "title": "核心部件本地配套率100%，芜湖航空小镇“坐地起飞”",
-          "summary": "不出园区即可生产一架国产通航飞机",
+          "date": "2026-10-29",
+          "title": "前三季度我国海洋生产总值8.5万亿元 同比增4.9%",
+          "summary": "自然资源部昨晚(28日)发布消息，前三季度，我国海洋经济总体保持平稳，发展态势向新向优，发展韧性持续彰显。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721983.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722525.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-28",
-          "title": "关注中国，就是关注未来",
-          "summary": "关注中国，就是关注未来(国际论坛·读懂中国·读懂中国式现代化)",
+          "date": "2026-10-29",
+          "title": "中国红十字基金会雪域健康基金携手爱心企业向西藏驻京办捐赠100台口袋充氧宝",
+          "summary": "中新网北京10月29日电 (记者 赵朗)28日，中国红十字基金会雪域健康基金联合爱心企业，向西藏自治区人民政府驻北京办事处(以下简称“西藏驻京办”)捐赠100台口袋充氧宝，用于保障在藏、往返西藏工作人员的高海拔通勤健康防护。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722021.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722542.shtml"
         },
         {
-          "date": "2026-10-28",
-          "title": "全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫",
-          "summary": "新华社莫斯科10月27日电#8195;专访｜全面从严治党是中国共产党永葆生机活力的关键——访俄罗斯共产党中央委员会副主席诺维科夫",
+          "date": "2026-10-29",
+          "title": "AI与数学相遇，将把彼此带向何方？",
+          "summary": "【向科学家提问】",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722019.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722556.shtml"
         },
         {
-          "date": "2026-10-28",
-          "title": "中期选举在即 特朗普支持率从历史低点回升",
-          "summary": "中新网10月28日电 据路透社27日报道，据最新完成的路透社/益普索民调显示，在11月3日美国国会中期选举前夕，美国总统特朗普的公众支持率微升至32%，较上周创下的历史最低点上升了一个百分点。",
+          "date": "2026-10-29",
+          "title": "司徒美堂孙女的“口头禅”",
+          "summary": "“咚咚咚”，秋日的午后，一阵敲门声在北京市大兴区观音寺街道的一栋居民楼中响起。开门的是一位满头银发的老人。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722538.shtml"
+        },
+        {
+          "date": "2026-10-29",
+          "title": "风云卫星中试平台发布 打通科技成果转化“最后一公里”",
+          "summary": "实验室里的数据算法怎么更好应用在实际气象业务中？10月29日，风云精工·风云卫星科技成果中试平台在2026年风云卫星用户大会上正式发布。这个平台要干的，就是打通气象卫星科技成果从实验室走向业务应用的“最后一公里”。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/10-29/10722530.shtml"
+        },
+        {
+          "date": "2026-10-29",
+          "title": "西班牙高铁事故调度录音曝光：后车获准正常速度行驶，前车仍滞留轨道",
+          "summary": "中新网10月29日电 据西班牙《国家报》、SER电台当地时间28日报道，西班牙高速铁路列车相撞事故发生前的三段调度通话录音曝光，显示在有前车停在轨道的情况下，铁路调度中心曾指示后方西班牙国家铁路公司列车按正常速度向前行驶。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-28/10721995.shtml"
-        },
-        {
-          "date": "2026-10-28",
-          "title": "受冷空气影响 泉金客运航线临时停航",
-          "summary": "中新网泉州10月28日电 (记者 孙虹)泉(州)金(门)客运交流平台28日发布通知称，受冷空气影响，目前气候风力不满足客船通航条件，为保障旅客和船舶安全，泉金客运航线当天临时停航。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721991.shtml"
-        },
-        {
-          "date": "2026-10-28",
-          "title": "超市生鲜一夜之间全都变质？国安部：警惕网络攻击",
-          "summary": "夜深人静，万籁俱寂，突然，超市里的冰柜“自己”开启了除霜功能。经过一晚的加热，等到早上工作人员发现时，冰柜里的生鲜、冷冻产品已经变质。这不是科幻故事的开篇，而是近日发生在法国的真实事件。黑客利用远程管理接口，对法国境内的数百家大型连锁超市的制冷系统实施网络攻击，远程启动了制冷设备的强制除霜功能，并将温度设定为50℃，造",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-28/10721978.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/10-29/10722517.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
+          "date": "2026-10-29",
+          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+          "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "date": "2026-10-28",
-          "title": "Watch: What happens now after close vote in Israeli election?",
-          "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+          "title": "Girl seriously injured in wolf attack at German wildlife park",
+          "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-27",
-          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-          "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+          "date": "2026-10-28",
+          "title": "High-speed train crash kills at least 68 people in Spain",
+          "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-27",
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+          "date": "2026-10-28",
+          "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+          "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-27",
-          "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-          "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+          "date": "2026-10-28",
+          "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+          "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-27",
-          "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-          "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "JustAResearcher/gpu-unlock-ada（⭐ 4284）",
+          "title": "JustAResearcher/gpu-unlock-ada（⭐ 4423）",
           "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
           "source": "GitHub",
           "url": "https://github.com/JustAResearcher/gpu-unlock-ada"
         },
         {
           "date": "GitHub Trending",
-          "title": "rddmwmddr/android-ad-cleaner（⭐ 3396）",
+          "title": "rddmwmddr/android-ad-cleaner（⭐ 4346）",
           "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
           "source": "GitHub",
           "url": "https://github.com/rddmwmddr/android-ad-cleaner"
         },
         {
           "date": "GitHub Trending",
-          "title": "designfuchen/word-atlas（⭐ 2554）",
-          "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-          "source": "GitHub",
-          "url": "https://github.com/designfuchen/word-atlas"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "unclebob/ub-mode（⭐ 2393）",
+          "title": "unclebob/ub-mode（⭐ 3811）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/unclebob/ub-mode"
         },
         {
           "date": "GitHub Trending",
-          "title": "t3dotgg/tstack（⭐ 2016）",
-          "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+          "title": "designfuchen/word-atlas（⭐ 3060）",
+          "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
           "source": "GitHub",
-          "url": "https://github.com/t3dotgg/tstack"
+          "url": "https://github.com/designfuchen/word-atlas"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "interplains/Zero-Breach-Toolkit（⭐ 2804）",
+          "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+          "source": "GitHub",
+          "url": "https://github.com/interplains/Zero-Breach-Toolkit"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "金正恩死亡传闻又在社交媒体疯传，韩国情报部门则判断传闻不实。但比真假更值得追问的是：即使独裁者真的离场，一个国家就会随之改变吗？从朝鲜的接班悬念，到苏联与东欧的",
-      "video": "就算金正恩死了，朝鲜就会变天吗？为什么独裁政权越来越难垮台就算金正恩死了，朝鮮就會變天嗎？為什麼獨裁政權越來越難垮台夸克说|誇克说",
-      "date": "2026-10-25",
-      "url": "https://www.youtube.com/watch?v=G4dXKImY8jM"
+      "desc": "刘德华主演的《白衣逆行者》尚未上映，为什么先让不少观众想起了不愿重温的三年？从1989年的声援学运，到今天的主旋律电影，同一代香港明星经历了什么？王晶把港片的没",
+      "video": "从刘德华到成龙，港星们为何集体堕落成这样？香港电影是怎么没落的？從劉德華到成龍，港星們爲何集體墮落成這樣？香港電影是怎麼沒落的？夸克说|誇克説",
+      "date": "2026-10-28",
+      "url": "https://www.youtube.com/watch?v=rSp0Cp0N5mQ"
     },
     {
       "channel": "May Fit",
