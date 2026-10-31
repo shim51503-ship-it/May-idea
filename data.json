@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-30",
-  "generatedAt": "2026-10-30T02:16:47.835Z",
+  "issueDate": "2026-10-31",
+  "generatedAt": "2026-10-31T01:55:49.976Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】You don&#8217;t need to believe in a god to get a religious exemption from using AI at work\n【金融新闻】国家统计局：前三季度文化企业营业收入稳步增长\n【中国新闻】中共中央就党的二十届五中全会精神举行新闻发布会\n【世界新闻】Young athlete and former minister among victims of Spain train crash"
+    "body": "【AI 最新信息】Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia\n【金融新闻】2026中国（大营）国际皮草博览会开幕\n【中国新闻】山西：推动营商环境年年有变化、年年有提升\n【世界新闻】Responsible or panicked? Meet the people around the world already preparing for crisis"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-10-31",
+          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+        },
+        {
           "date": "2026-10-30",
-          "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-          "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+          "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down i",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
         },
         {
-          "date": "2026-10-29",
-          "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spendi",
+          "date": "2026-10-30",
+          "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
+          "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
         },
         {
-          "date": "2026-10-29",
-          "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
-          "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+          "date": "2026-10-30",
+          "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
+          "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
         },
         {
-          "date": "2026-10-29",
-          "title": "Rivian expands joint venture with VW to include AI assistant",
-          "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+          "date": "2026-10-30",
+          "title": "Last-minute Halloween costumes for tech nerds",
+          "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
-        },
-        {
-          "date": "2026-10-29",
-          "title": "OpenAI-backed Thrive Holdings acquires ADT",
-          "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+          "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-30",
-          "title": "国家统计局：前三季度文化企业营业收入稳步增长",
-          "summary": "中新网10月30日电 据国家统计局网站消息，10月30日，国家统计局社科文司统计师潘旭华解读2026年前三季度全国规模以上文化及相关产业企业数据。",
+          "date": "2026-10-31",
+          "title": "2026中国（大营）国际皮草博览会开幕",
+          "summary": "中新网衡水10月31日电 (李玉素 贾献义 张晓迈)10月30日，2026中国(大营)国际皮草博览会暨秋冬订货会(中国·大营第三十五届国际皮草交易会暨第十四届营皮文化节)在河北省衡水市枣强县开幕。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723127.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723776.shtml"
         },
         {
-          "date": "2026-10-30",
-          "title": "一条爆款视频带来的订单，师傅们足足做了3年",
-          "summary": "在四川省成都市青城山麓，芒城村马家林盘里，烘烤斑竹的火盆烧得正旺，热浪扑面。青城马椅子市级代表性传承人马娇凑近火口，鼓起腮帮子使劲吹气，脸庞被火光映得通红。这叫“烤包口”，需要用正脸贴着炭火，火力全凭嘴吹，大脑缺氧是常事。一把马椅子不用一颗铁钉、一滴胶，全靠榫卯连接，常规使用寿命可达三十年以上。",
+          "date": "2026-10-31",
+          "title": "报告称长三角形成从底层算力、核心算法到终端应用的完整产业生态",
+          "summary": "中新网北京10月31日电 (记者 张素)30日发布的一份报告认为，数据、算力、算法是智能经济的三个核心驱动要素，而长三角地区已经形成从底层算力、核心算法到终端应用、高端装备的完整产业生态。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723144.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723757.shtml"
         },
         {
-          "date": "2026-10-30",
-          "title": "A股开盘：超4900只个股飘绿，三大指数集体低开",
-          "summary": "A股开盘：超4900只个股飘绿，三大指数集体低开；通信设备重挫，半导体大跌；白酒、银行飘红",
+          "date": "2026-10-31",
+          "title": "2026亚洲箱包皮具交易会启幕",
+          "summary": "中新网广州10月31日电 (记者 程景伟)由广东鸿威国际会展集团联合广州市皮具行业协会主办的2026亚洲箱包皮具交易会(秋季展)30日在广州琶洲灵感创新展馆启幕。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723142.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723756.shtml"
         },
         {
-          "date": "2026-10-30",
-          "title": "海南自贸港再迎政策支持 16条举措助力发展→",
-          "summary": "东西坏了要修，这是生活里再平常不过的事。可飞机发动机、汽车变速箱这些“大家伙”出了故障，过去往往要远渡重洋送回原厂，费时又费钱。",
+          "date": "2026-10-31",
+          "title": "杭州“好苗保”首期出单 15.85亿风险保额进场",
+          "summary": "中新网杭州10月31日电(鲍梦妮)据杭州市科技局10月30日消息，全国首个由地方政府深度参与定制，以科技型中小企业为保障对象的专业科技保险杭州“好苗保”，首期集中投保工作已于9月底完成出单。杭州市科技局作为投保人，统一为首批1051家“好苗子”企业投保，最终991家企业顺利参保，参保率94.29%。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723135.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723755.shtml"
         },
         {
-          "date": "2026-10-30",
-          "title": "10月30日央行开展150亿元7天期逆回购操作",
-          "summary": "中新网10月30日电 据中国人民银行网站消息，2026年10月30日中国人民银行以固定利率、数量招标方式开展了150亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+          "date": "2026-10-31",
+          "title": "今年前三季度广西金融运行平稳 总量稳健增长",
+          "summary": "中新网南宁10月31日电(黄艳梅 何甜甜 刘维杰)中国人民银行广西壮族自治区分行30日举行新闻发布会介绍，今年前三季度，广西金融运行平稳，总量稳健增长，信贷结构优化，为“十五五”广西经济稳开局营造了适宜的货币金融环境。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723126.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723753.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-30",
-          "title": "中共中央就党的二十届五中全会精神举行新闻发布会",
-          "summary": "新华社快讯：10月30日上午10时，中共中央举行新闻发布会，中央纪委副书记、国家监委副主任张福海，中央组织部分管日常工作的副部长黄建发，中央宣传部分管日常工作的副部长胡和平，中央政策研究室主任唐方裕，中央党校(国家行政学院)分管日常工作的副校长(副院长)谢春涛介绍和解读党的二十届五中全会精神，并答记者问。发布会由中央宣",
+          "date": "2026-10-31",
+          "title": "山西：推动营商环境年年有变化、年年有提升",
+          "summary": "中新网太原10月31日电 (记者 李庭耀)10月30日，中共山西省委宣传部、山西省人民政府新闻办公室举办开局起步“十五五”系列主题新闻发布会。山西省审批服务管理局党组书记、局长樊伟强表示，将迭代实施营商环境综合改革，围绕经营主体反映最集中、发展最紧迫的问题，坚持“年度见成效”与“长远打基础”并重，从明年开始，每年发布针",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723151.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723762.shtml"
         },
         {
-          "date": "2026-10-30",
-          "title": "人民日报社论：把我们党建设得更好、更强",
-          "summary": "新华社北京10月29日电 人民日报10月30日社论：把我们党建设得更好、更强",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723125.shtml"
+          "date": "2026-10-31",
+          "title": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
+          "summary": "中新网10月31日电 据路透社报道，当地时间10月30日，美国驻沙特大使馆表示，出于安全风险，美国方面已下令非紧急岗位工作人员及其家属离开沙特阿拉伯，该命令自10月23日起生效。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723786.shtml"
         },
         {
-          "date": "2026-10-30",
-          "title": "中国海警在仁爱礁仙宾礁海域开展海上综合执法训练",
-          "summary": "近日，中国海警东安舰编队在我仁爱礁、仙宾礁海域开展海上综合执法训练，巩固提高现场执法管控能力。",
+          "date": "2026-10-31",
+          "title": "国家税务总局吉林省税务局党委委员于洋接受审查调查",
+          "summary": "中新网10月31日电 据中央纪委国家监委驻国家税务总局纪检监察组、吉林省纪委监委消息：国家税务总局吉林省税务局党委委员、副局长于洋涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家税务总局纪检监察组纪律审查和吉林省监察委员会监察调查。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723130.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723780.shtml"
         },
         {
-          "date": "2026-10-30",
-          "title": "党的二十届五中全会公报一图速览",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723115.shtml"
+          "date": "2026-10-31",
+          "title": "伊朗：4艘油轮在霍尔木兹海峡爆炸起火",
+          "summary": "中新网10月31日电 据伊朗媒体报道，当地时间10月30日，伊朗伊斯兰革命卫队表示，在霍尔木兹海峡，当天有四艘“违规”油轮爆炸起火。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723785.shtml"
         },
         {
-          "date": "2026-10-30",
-          "title": "“翰墨生香·丹青焕彩” 2026年中华优秀传统文化走基层书画作品展开展",
-          "summary": "中新网贵阳10月30日电 (记者 张伟)“翰墨生香·丹青焕彩”2026年中华优秀传统文化走基层书画作品展29日在贵州美术馆开展。贵州省政协副主席、民盟贵州省委主委冉霞宣布活动开幕。中共贵州省委统战部常务副部长、省侨务办主任孙拥辉出席开幕式并致辞。",
+          "date": "2026-10-31",
+          "title": "辽宁省抚顺市人民检察院原党组书记徐志飞接受审查调查",
+          "summary": "中新网10月31日电 据辽宁省纪委监委消息：辽宁省抚顺市人民检察院原党组书记、检察长徐志飞涉嫌严重违纪违法，目前正接受辽宁省纪委监委纪律审查和监察调查。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723121.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723779.shtml"
         }
       ]
     },
@@ -134,82 +134,46 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-29",
-          "title": "Young athlete and former minister among victims of Spain train crash",
-          "summary": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
+          "date": "2026-10-31",
+          "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+          "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-29",
-          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-          "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+          "date": "2026-10-31",
+          "title": "Global nature talks reach deal but money remains an issue",
+          "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-29",
-          "title": "Watch: What leaked audio reveals about Spain train crash",
-          "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the trac",
+          "date": "2026-10-31",
+          "title": "Police deployed during stand-off over control of top Poland court",
+          "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-29",
-          "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-          "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+          "date": "2026-10-31",
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-10-29",
-          "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-          "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+          "date": "2026-10-31",
+          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also s",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "github",
       "name": "GitHub / 开源项目",
-      "items": [
-        {
-          "date": "GitHub Trending",
-          "title": "rddmwmddr/android-ad-cleaner（⭐ 4757）",
-          "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-          "source": "GitHub",
-          "url": "https://github.com/rddmwmddr/android-ad-cleaner"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "unclebob/ub-mode（⭐ 4755）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/unclebob/ub-mode"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "interplains/Zero-Breach-Toolkit（⭐ 3628）",
-          "summary": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-          "source": "GitHub",
-          "url": "https://github.com/interplains/Zero-Breach-Toolkit"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "designfuchen/word-atlas（⭐ 3247）",
-          "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-          "source": "GitHub",
-          "url": "https://github.com/designfuchen/word-atlas"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "anhao/ai-pose-gallery-zh（⭐ 3230）",
-          "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-          "source": "GitHub",
-          "url": "https://github.com/anhao/ai-pose-gallery-zh"
-        }
-      ]
+      "items": []
     }
   ],
   "youtube": [
@@ -229,10 +193,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "刘德华主演的《白衣逆行者》尚未上映，为什么先让不少观众想起了不愿重温的三年？从1989年的声援学运，到今天的主旋律电影，同一代香港明星经历了什么？王晶把港片的没",
-      "video": "从刘德华到成龙，港星们为何集体堕落成这样？香港电影是怎么没落的？從劉德華到成龍，港星們爲何集體墮落成這樣？香港電影是怎麼沒落的？夸克说|誇克説",
-      "date": "2026-10-28",
-      "url": "https://www.youtube.com/watch?v=rSp0Cp0N5mQ"
+      "desc": "姆巴佩谈到一张表情包，却引发品牌解约和一场围绕毛泽东的争论。他到底说了什么？我们从小听说的“世界人民爱毛主席”，在国外究竟是什么样子？从欧美民调、历史报纸到萨特",
+      "video": "从姆巴佩“辱华”谈起：外国人眼里的毛泽东，到底是独裁者，还是伟大领袖？從姆巴佩“辱華”談起：外國人眼裡的毛澤東，到底是獨裁者，還是偉大領袖？夸克说|誇克説",
+      "date": "2026-10-30",
+      "url": "https://www.youtube.com/watch?v=JiPlQHYIW6U"
     },
     {
       "channel": "May Fit",
