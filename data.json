@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-10-31",
-  "generatedAt": "2026-10-31T01:55:49.976Z",
+  "issueDate": "2026-11-01",
+  "generatedAt": "2026-11-01T01:41:43.247Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia\n【金融新闻】2026中国（大营）国际皮草博览会开幕\n【中国新闻】山西：推动营商环境年年有变化、年年有提升\n【世界新闻】Responsible or panicked? Meet the people around the world already preparing for crisis"
+    "body": "【AI 最新信息】Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’\n【金融新闻】老裘都遇见新科技 AI赋能衡水大营裘皮产业拓时尚新局\n【中国新闻】载人月球探测工程采用“两次发射、环月对接”方案\n【世界新闻】How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-10-31",
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+        },
+        {
+          "date": "2026-10-31",
+          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+          "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections tha",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+        },
+        {
+          "date": "2026-10-31",
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+          "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+        },
+        {
+          "date": "2026-10-31",
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+        },
+        {
+          "date": "2026-10-31",
           "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
           "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-          "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down i",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
-          "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
-          "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Last-minute Halloween costumes for tech nerds",
-          "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-10-31",
-          "title": "2026中国（大营）国际皮草博览会开幕",
-          "summary": "中新网衡水10月31日电 (李玉素 贾献义 张晓迈)10月30日，2026中国(大营)国际皮草博览会暨秋冬订货会(中国·大营第三十五届国际皮草交易会暨第十四届营皮文化节)在河北省衡水市枣强县开幕。",
+          "date": "2026-11-01",
+          "title": "老裘都遇见新科技 AI赋能衡水大营裘皮产业拓时尚新局",
+          "summary": "中新网衡水11月1日电 题：老裘都遇见新科技 AI赋能衡水大营裘皮产业拓时尚新局",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723776.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724161.shtml"
+        },
+        {
+          "date": "2026-11-01",
+          "title": "中瑞自贸协定升级 瑞士商会人士看好合作新机遇",
+          "summary": "中新网海口11月1日电 (记者 王子谦)“对于瑞士而言，最有价值的不仅是降低关税，更重要的在于拓展服务贸易和准入、生产性服务的相互认可及合格评定、人工智能和可持续发展等，这是向前迈进的重要一步。”中国瑞士商会名誉主席、瑞士华南商会会长马丁·穆勒10月31日在海口说。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724153.shtml"
+        },
+        {
+          "date": "2026-11-01",
+          "title": "三大创新特征显现！2027年度中国汽车十大技术趋势发布",
+          "summary": "记者日前从中国汽车工程学会了解到，2027年度中国汽车十大技术趋势正式发布，以行业前瞻视角勾勒出我国汽车产业新一年度的技术创新脉络。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724134.shtml"
         },
         {
           "date": "2026-10-31",
-          "title": "报告称长三角形成从底层算力、核心算法到终端应用的完整产业生态",
-          "summary": "中新网北京10月31日电 (记者 张素)30日发布的一份报告认为，数据、算力、算法是智能经济的三个核心驱动要素，而长三角地区已经形成从底层算力、核心算法到终端应用、高端装备的完整产业生态。",
+          "title": "广交会观察：彰显时尚价值 中国非遗潮品走俏海外市场",
+          "summary": "中新社广州10月31日电 (记者 程景伟)“批量采购一个多少钱？能单买吗？”10月31日在广州举行的第140届广交会第三期上，乌兹别克斯坦采购商蒂娜看中一款造型精美的“中国风”女包，当场询问价格。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723757.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724109.shtml"
         },
         {
           "date": "2026-10-31",
-          "title": "2026亚洲箱包皮具交易会启幕",
-          "summary": "中新网广州10月31日电 (记者 程景伟)由广东鸿威国际会展集团联合广州市皮具行业协会主办的2026亚洲箱包皮具交易会(秋季展)30日在广州琶洲灵感创新展馆启幕。",
+          "title": "国际金价跌回一年前，发生了什么？",
+          "summary": "中新网北京10月31日电(左雨晴 李雅祺) 国际金价、银价遭遇重挫。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723756.shtml"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "杭州“好苗保”首期出单 15.85亿风险保额进场",
-          "summary": "中新网杭州10月31日电(鲍梦妮)据杭州市科技局10月30日消息，全国首个由地方政府深度参与定制，以科技型中小企业为保障对象的专业科技保险杭州“好苗保”，首期集中投保工作已于9月底完成出单。杭州市科技局作为投保人，统一为首批1051家“好苗子”企业投保，最终991家企业顺利参保，参保率94.29%。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723755.shtml"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "今年前三季度广西金融运行平稳 总量稳健增长",
-          "summary": "中新网南宁10月31日电(黄艳梅 何甜甜 刘维杰)中国人民银行广西壮族自治区分行30日举行新闻发布会介绍，今年前三季度，广西金融运行平稳，总量稳健增长，信贷结构优化，为“十五五”广西经济稳开局营造了适宜的货币金融环境。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723753.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-10-31",
-          "title": "山西：推动营商环境年年有变化、年年有提升",
-          "summary": "中新网太原10月31日电 (记者 李庭耀)10月30日，中共山西省委宣传部、山西省人民政府新闻办公室举办开局起步“十五五”系列主题新闻发布会。山西省审批服务管理局党组书记、局长樊伟强表示，将迭代实施营商环境综合改革，围绕经营主体反映最集中、发展最紧迫的问题，坚持“年度见成效”与“长远打基础”并重，从明年开始，每年发布针",
+          "date": "2026-11-01",
+          "title": "载人月球探测工程采用“两次发射、环月对接”方案",
+          "summary": "记者从10月31日开幕的第七届载人航天学术大会了解到，我国载人月球探测工程采用“两次发射、环月对接”方案，工程登月阶段任务各项研制建设工作正在扎实稳步推进。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723762.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724130.shtml"
         },
         {
-          "date": "2026-10-31",
-          "title": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
-          "summary": "中新网10月31日电 据路透社报道，当地时间10月30日，美国驻沙特大使馆表示，出于安全风险，美国方面已下令非紧急岗位工作人员及其家属离开沙特阿拉伯，该命令自10月23日起生效。",
+          "date": "2026-11-01",
+          "title": "俄联邦安全局：从美方获得策划恐袭情报 相关部门正在处置",
+          "summary": "中新社莫斯科10月31日电 俄罗斯联邦安全局10月31日通过官网发布消息表示，该局通过合作渠道收到美方提供的情报，称有人策划在莫斯科发动恐怖袭击。目前，相关部门正在开展应对处置工作。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723786.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724128.shtml"
         },
         {
-          "date": "2026-10-31",
-          "title": "国家税务总局吉林省税务局党委委员于洋接受审查调查",
-          "summary": "中新网10月31日电 据中央纪委国家监委驻国家税务总局纪检监察组、吉林省纪委监委消息：国家税务总局吉林省税务局党委委员、副局长于洋涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家税务总局纪检监察组纪律审查和吉林省监察委员会监察调查。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723780.shtml"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "伊朗：4艘油轮在霍尔木兹海峡爆炸起火",
-          "summary": "中新网10月31日电 据伊朗媒体报道，当地时间10月30日，伊朗伊斯兰革命卫队表示，在霍尔木兹海峡，当天有四艘“违规”油轮爆炸起火。",
+          "date": "2026-11-01",
+          "title": "在纽伦堡国际发明展感受中国创新活力",
+          "summary": "中新社德国纽伦堡10月31日电 (记者 马秀秀)2026年德国纽伦堡国际发明展10月31日开幕，来自20多个国家和地区的发明人和机构携近600项发明参展。记者当天走进中国展区，感受中国发明创造的多元活力。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-31/10723785.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724129.shtml"
         },
         {
           "date": "2026-10-31",
-          "title": "辽宁省抚顺市人民检察院原党组书记徐志飞接受审查调查",
-          "summary": "中新网10月31日电 据辽宁省纪委监委消息：辽宁省抚顺市人民检察院原党组书记、检察长徐志飞涉嫌严重违纪违法，目前正接受辽宁省纪委监委纪律审查和监察调查。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/10-31/10723779.shtml"
+          "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+          "summary": "为期两天的二十国集团(G20)外长会10月31日在美国南部佐治亚州首府亚特兰大结束。会议笼罩在乌克兰危机和美伊冲突的阴影下，未能就重要全球地缘和经济安全问题达成共识。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml"
+        },
+        {
+          "date": "2026-10-31",
+          "title": "泰国着手制定第四个国家旅游发展计划",
+          "summary": "中新社曼谷10月31日电 (王茜 李映民)泰国总理府副发言人拉丽达31日表示，泰国政府着手制定第四个国家旅游发展计划(2028—2032年)，目标是将旅游业总收入提高至至少4万亿泰铢。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml"
         }
       ]
     },
@@ -134,46 +134,82 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-10-31",
-          "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-          "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+          "date": "2026-11-01",
+          "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+          "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-01",
+          "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+          "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-31",
-          "title": "Global nature talks reach deal but money remains an issue",
-          "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+          "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+          "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-31",
-          "title": "Police deployed during stand-off over control of top Poland court",
-          "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-10-31",
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
+          "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-          "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also s",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "github",
       "name": "GitHub / 开源项目",
-      "items": []
+      "items": [
+        {
+          "date": "GitHub Trending",
+          "title": "anhao/ai-pose-gallery-zh（⭐ 4700）",
+          "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+          "source": "GitHub",
+          "url": "https://github.com/anhao/ai-pose-gallery-zh"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "heydamir/unslop（⭐ 3537）",
+          "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+          "source": "GitHub",
+          "url": "https://github.com/heydamir/unslop"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "wangzan101/Mika（⭐ 2770）",
+          "summary": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+          "source": "GitHub",
+          "url": "https://github.com/wangzan101/Mika"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 2646）",
+          "summary": "Towards a More Autonomous Agent System",
+          "source": "GitHub",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "valentderah/totk-pc-recomp（⭐ 2637）",
+          "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+          "source": "GitHub",
+          "url": "https://github.com/valentderah/totk-pc-recomp"
+        }
+      ]
     }
   ],
   "youtube": [
@@ -186,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "1981年，中國女排首奪世界冠軍，開創震撼全國的五連冠傳奇！郎平、周曉蘭等人成為億萬中國人心中的民族英雄。然而，這些曾經風光無限的女排功臣，為何後來紛紛選擇移居",
-      "video": "為國爭光，卻紛紛出走？10億人心中的女神，光環背後究竟經歷了什麼？【文昭思緒飛揚587】",
-      "date": "2026-10-30",
-      "url": "https://www.youtube.com/watch?v=98u4v0aHgIQ"
+      "desc": "中國農村光棍有多慘？網傳3000萬男人娶不到老婆，真相究竟是什麼？從清代彩禮與嫁妝的歷史，到現代農村的婚姻競爭，透過真實人物與學者調查，揭開中國農村光棍現象背後",
+      "video": "拼搏半生，只想有個家，怎麼就這麼難？中國光棍的真實處境，最可怕的，還不是娶不到老婆！【文昭思緒飛揚588】",
+      "date": "2026-11-01",
+      "url": "https://www.youtube.com/watch?v=4V-uMD4q8Hc"
     },
     {
       "channel": "夸克说",
@@ -214,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "📩 免费订阅《李厂长AI周报》：https://join.lichangzhang.ai/ 每周帮你筛掉AI噪音，只留下真正值得关注的新闻、工具和工作流，几分",
-      "video": "13分鐘搞懂全網爆火的循環工程 Loop Engineering！",
-      "date": "2026-10-24",
-      "url": "https://www.youtube.com/watch?v=2tg451W2yZo"
+      "desc": "🔥 ChatGPT Sites 真的被严重低估了。它不只是帮你做网页，而是能把聊天记录、文件、数据和工作流，直接变成一个真正可以长期使用的工具。更关键的是，S",
+      "video": "12分鐘搞懂ChatGPT Sites: 10個真實案例！",
+      "date": "2026-10-31",
+      "url": "https://www.youtube.com/watch?v=roHGbU1rMwE"
     }
   ]
 }
