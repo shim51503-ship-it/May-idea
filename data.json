@@ -1,15 +1,29 @@
 {
-  "issueDate": "2026-11-01",
-  "generatedAt": "2026-11-01T01:41:43.247Z",
+  "issueDate": "2026-11-02",
+  "generatedAt": "2026-11-02T01:58:45.243Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’\n【金融新闻】老裘都遇见新科技 AI赋能衡水大营裘皮产业拓时尚新局\n【中国新闻】载人月球探测工程采用“两次发射、环月对接”方案\n【世界新闻】How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán"
+    "body": "【AI 最新信息】OpenAI might rebrand its data centers as ‘AI compute campuses’\n【金融新闻】开“新”进博会丨首发、首秀、首展！九年进博何以常新？一组数据解码\n【中国新闻】反跨境腐败法草案二审：推动构建公正合理的反腐败全球治理体系\n【世界新闻】Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-11-01",
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+        },
+        {
+          "date": "2026-11-01",
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+        },
         {
           "date": "2026-10-31",
           "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -30,20 +44,6 @@
           "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "OpenAI reportedly lowers funding target for new round",
-          "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-01",
-          "title": "老裘都遇见新科技 AI赋能衡水大营裘皮产业拓时尚新局",
-          "summary": "中新网衡水11月1日电 题：老裘都遇见新科技 AI赋能衡水大营裘皮产业拓时尚新局",
+          "date": "2026-11-02",
+          "title": "开“新”进博会丨首发、首秀、首展！九年进博何以常新？一组数据解码",
+          "summary": "第九届中国国际进口博览会",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724161.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724584.shtml"
         },
         {
-          "date": "2026-11-01",
-          "title": "中瑞自贸协定升级 瑞士商会人士看好合作新机遇",
-          "summary": "中新网海口11月1日电 (记者 王子谦)“对于瑞士而言，最有价值的不仅是降低关税，更重要的在于拓展服务贸易和准入、生产性服务的相互认可及合格评定、人工智能和可持续发展等，这是向前迈进的重要一步。”中国瑞士商会名誉主席、瑞士华南商会会长马丁·穆勒10月31日在海口说。",
+          "date": "2026-11-02",
+          "title": "11月2日人民币对美元中间价报6.7146 下调8个基点",
+          "summary": "中新网11月2日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月2日银行间外汇市场人民币汇率中间价为1美元对人民币6.7146元，下调8个基点。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724153.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724566.shtml"
         },
         {
-          "date": "2026-11-01",
-          "title": "三大创新特征显现！2027年度中国汽车十大技术趋势发布",
-          "summary": "记者日前从中国汽车工程学会了解到，2027年度中国汽车十大技术趋势正式发布，以行业前瞻视角勾勒出我国汽车产业新一年度的技术创新脉络。",
+          "date": "2026-11-02",
+          "title": "11月2日央行开展5410亿元隔夜逆回购操作",
+          "summary": "中新网11月2日电 据中国人民银行网站消息，2026年11月2日中国人民银行以固定利率、数量招标方式开展了5410亿元隔夜期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724134.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724557.shtml"
         },
         {
-          "date": "2026-10-31",
-          "title": "广交会观察：彰显时尚价值 中国非遗潮品走俏海外市场",
-          "summary": "中新社广州10月31日电 (记者 程景伟)“批量采购一个多少钱？能单买吗？”10月31日在广州举行的第140届广交会第三期上，乌兹别克斯坦采购商蒂娜看中一款造型精美的“中国风”女包，当场询问价格。",
+          "date": "2026-11-02",
+          "title": "人工智能“闯祸”，保险赔吗",
+          "summary": "本报记者 武亚东",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724109.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724550.shtml"
         },
         {
-          "date": "2026-10-31",
-          "title": "国际金价跌回一年前，发生了什么？",
-          "summary": "中新网北京10月31日电(左雨晴 李雅祺) 国际金价、银价遭遇重挫。",
+          "date": "2026-11-02",
+          "title": "“金九银十”收官 二手房市场成交韧性延续",
+          "summary": "本报记者 张芗逸",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724549.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-01",
-          "title": "载人月球探测工程采用“两次发射、环月对接”方案",
-          "summary": "记者从10月31日开幕的第七届载人航天学术大会了解到，我国载人月球探测工程采用“两次发射、环月对接”方案，工程登月阶段任务各项研制建设工作正在扎实稳步推进。",
+          "date": "2026-11-02",
+          "title": "反跨境腐败法草案二审：推动构建公正合理的反腐败全球治理体系",
+          "summary": "中新网北京11月2日电 (记者 谢雁冰)反跨境腐败法草案11月2日提请十四届全国人大常委会第二十五次会议二次审议。草案二审稿增加规定，推动构建公正合理的反腐败全球治理体系。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724130.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724588.shtml"
         },
         {
-          "date": "2026-11-01",
-          "title": "俄联邦安全局：从美方获得策划恐袭情报 相关部门正在处置",
-          "summary": "中新社莫斯科10月31日电 俄罗斯联邦安全局10月31日通过官网发布消息表示，该局通过合作渠道收到美方提供的情报，称有人策划在莫斯科发动恐怖袭击。目前，相关部门正在开展应对处置工作。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724128.shtml"
+          "date": "2026-11-02",
+          "title": "可再生能源法修订草案提请审议",
+          "summary": "新华社权威快报｜可再生能源法修订草案提请审议",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724583.shtml"
         },
         {
-          "date": "2026-11-01",
-          "title": "在纽伦堡国际发明展感受中国创新活力",
-          "summary": "中新社德国纽伦堡10月31日电 (记者 马秀秀)2026年德国纽伦堡国际发明展10月31日开幕，来自20多个国家和地区的发明人和机构携近600项发明参展。记者当天走进中国展区，感受中国发明创造的多元活力。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724129.shtml"
+          "date": "2026-11-02",
+          "title": "我国拟修改刑事诉讼法更好促进司法公正",
+          "summary": "原标题：新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724563.shtml"
         },
         {
-          "date": "2026-10-31",
-          "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
-          "summary": "为期两天的二十国集团(G20)外长会10月31日在美国南部佐治亚州首府亚特兰大结束。会议笼罩在乌克兰危机和美伊冲突的阴影下，未能就重要全球地缘和经济安全问题达成共识。",
+          "date": "2026-11-02",
+          "title": "“高度警惕日本借助文化产品篡改和歪曲历史”",
+          "summary": "日方通过影视剧、动画、漫画、游戏、小说等传播错误史观、误导年轻一代，多方人士呼吁——",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724559.shtml"
         },
         {
-          "date": "2026-10-31",
-          "title": "泰国着手制定第四个国家旅游发展计划",
-          "summary": "中新社曼谷10月31日电 (王茜 李映民)泰国总理府副发言人拉丽达31日表示，泰国政府着手制定第四个国家旅游发展计划(2028—2032年)，目标是将旅游业总收入提高至至少4万亿泰铢。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml"
+          "date": "2026-11-02",
+          "title": "教育部教师工作司原副司长韩劲红接受审查调查",
+          "summary": "中新网11月2日电 据中央纪委国家监委驻教育部纪检监察组、浙江省纪委监委消息：教育部教师工作司原副司长韩劲红涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委驻教育部纪检监察组纪律审查和浙江省衢州市监委监察调查。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724554.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-01",
-          "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-          "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+          "date": "2026-11-02",
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "Democrats have high hopes for midterms, but polls have let them down before",
+          "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-01",
-          "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-          "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-          "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-10-31",
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "anhao/ai-pose-gallery-zh（⭐ 4700）",
-          "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-          "source": "GitHub",
-          "url": "https://github.com/anhao/ai-pose-gallery-zh"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "heydamir/unslop（⭐ 3537）",
-          "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-          "source": "GitHub",
-          "url": "https://github.com/heydamir/unslop"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "wangzan101/Mika（⭐ 2770）",
-          "summary": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-          "source": "GitHub",
-          "url": "https://github.com/wangzan101/Mika"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 2646）",
+          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 7882）",
           "summary": "Towards a More Autonomous Agent System",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
         },
         {
           "date": "GitHub Trending",
-          "title": "valentderah/totk-pc-recomp（⭐ 2637）",
+          "title": "anhao/ai-pose-gallery-zh（⭐ 5159）",
+          "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+          "source": "GitHub",
+          "url": "https://github.com/anhao/ai-pose-gallery-zh"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "heydamir/unslop（⭐ 4920）",
+          "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+          "source": "GitHub",
+          "url": "https://github.com/heydamir/unslop"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "wangzan101/Mika（⭐ 3933）",
+          "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+          "source": "GitHub",
+          "url": "https://github.com/wangzan101/Mika"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "valentderah/totk-pc-recomp（⭐ 3235）",
           "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
           "source": "GitHub",
           "url": "https://github.com/valentderah/totk-pc-recomp"
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "姆巴佩谈到一张表情包，却引发品牌解约和一场围绕毛泽东的争论。他到底说了什么？我们从小听说的“世界人民爱毛主席”，在国外究竟是什么样子？从欧美民调、历史报纸到萨特",
-      "video": "从姆巴佩“辱华”谈起：外国人眼里的毛泽东，到底是独裁者，还是伟大领袖？從姆巴佩“辱華”談起：外國人眼裡的毛澤東，到底是獨裁者，還是偉大領袖？夸克说|誇克説",
-      "date": "2026-10-30",
-      "url": "https://www.youtube.com/watch?v=JiPlQHYIW6U"
+      "desc": "万圣节一到，西方家庭把骷髅摆到门口，孩子扮鬼讨糖；同样谈到鬼，中元节却常常伴着烧纸和忌讳。但翻开宋明笔记，古人的鬼节竟然热闹得像一场大戏，连鲁迅都上台扮过鬼。这",
+      "video": "为什么西方的万圣节玩得这么嗨，中国的鬼节却这么冷清？為什麼西方的萬聖節玩得這麼嗨，中國的鬼節卻這麼冷清？夸克说|誇克说",
+      "date": "2026-11-01",
+      "url": "https://www.youtube.com/watch?v=UkpY_p-iVSE"
     },
     {
       "channel": "May Fit",
