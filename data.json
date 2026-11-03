@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-02",
-  "generatedAt": "2026-11-02T01:58:45.243Z",
+  "issueDate": "2026-11-03",
+  "generatedAt": "2026-11-03T03:46:45.628Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】OpenAI might rebrand its data centers as ‘AI compute campuses’\n【金融新闻】开“新”进博会丨首发、首秀、首展！九年进博何以常新？一组数据解码\n【中国新闻】反跨境腐败法草案二审：推动构建公正合理的反腐败全球治理体系\n【世界新闻】Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts"
+    "body": "【AI 最新信息】Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses\n【金融新闻】我国人工智能发展速度及应用规模全球领先\n【中国新闻】国务院免去何永贤香港特别行政区政府房屋局局长职务\n【世界新闻】US strikes Iran ahead of midterm elections"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-11-01",
-          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-          "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+          "date": "2026-11-03",
+          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+          "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
         },
         {
-          "date": "2026-11-01",
-          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-          "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+          "date": "2026-11-03",
+          "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+          "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+          "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
         },
         {
-          "date": "2026-10-31",
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "date": "2026-11-03",
+          "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with hi",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
         },
         {
-          "date": "2026-10-31",
-          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-          "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections tha",
+          "date": "2026-11-02",
+          "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+          "summary": "The one-year-old startup is now valued at $300 million.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+          "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
         },
         {
-          "date": "2026-10-31",
-          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-          "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "date": "2026-11-02",
+          "title": "Anthropic warns that it&#8217;s very close to RSI capability, aka self-building AI",
+          "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the c",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-02",
-          "title": "开“新”进博会丨首发、首秀、首展！九年进博何以常新？一组数据解码",
-          "summary": "第九届中国国际进口博览会",
+          "date": "2026-11-03",
+          "title": "我国人工智能发展速度及应用规模全球领先",
+          "summary": "记者从国家发展改革委今天(3日)举行的“奋进‘十五五’”系列新闻发布会上了解到，当前，我国人工智能发展速度、应用规模全球领先，在塑造经济发展新动能、增进民生福祉、提升政府治理水平方面取得积极成效。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724584.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725213.shtml"
         },
         {
-          "date": "2026-11-02",
-          "title": "11月2日人民币对美元中间价报6.7146 下调8个基点",
-          "summary": "中新网11月2日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月2日银行间外汇市场人民币汇率中间价为1美元对人民币6.7146元，下调8个基点。",
+          "date": "2026-11-03",
+          "title": "以赛促研，以研促产：拼多多“千亿扶持”助力青年科学家在夏秋“断档期”种出国产草莓",
+          "summary": "草莓挂满枝头，科创结出硕果。10月30日，第五届“多多农研科技大赛”在上海农业科创谷顺利收官。综合植物工厂设计与建造、种植成果、成本与能耗等表现，中国农业大学组建的赛博农人团队蝉联赛事一等奖，浙江企业塔金麦牵头的拟生态团队斩获二等奖，上海交通大学领衔的莓立方团队摘得三等奖，上海企业欧普照明主导的欧普智莓团队收获优胜奖。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724566.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725158.shtml"
         },
         {
-          "date": "2026-11-02",
-          "title": "11月2日央行开展5410亿元隔夜逆回购操作",
-          "summary": "中新网11月2日电 据中国人民银行网站消息，2026年11月2日中国人民银行以固定利率、数量招标方式开展了5410亿元隔夜期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+          "date": "2026-11-03",
+          "title": "放心消费点亮工程启动 首批四家平台同步点亮",
+          "summary": "中新网11月3日电 据国家市场监督管理总局网站消息，11月3日，市场监管总局建设的全国放心消费平台(小程序“消费查”)上线，已有超万家放心消费商家入驻。为了更好地给经营者提供赋能、给消费者提供决策参考，市场监管总局正在实施“放心消费点亮工程”。百度地图、京东、淘宝闪购、美团4家平台企业首批加入，与全国放心消费平台实时对",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724557.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725197.shtml"
         },
         {
-          "date": "2026-11-02",
-          "title": "人工智能“闯祸”，保险赔吗",
-          "summary": "本报记者 武亚东",
+          "date": "2026-11-03",
+          "title": "2026年全国“优化消费环境月”启动",
+          "summary": "中新网11月3日电 据“市说新语”微信公众号消息，11月3日，2026年全国“优化消费环境月”启动仪式在福建省泉州市举行。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724550.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725194.shtml"
         },
         {
-          "date": "2026-11-02",
-          "title": "“金九银十”收官 二手房市场成交韧性延续",
-          "summary": "本报记者 张芗逸",
+          "date": "2026-11-03",
+          "title": "全国放心消费平台正式上线",
+          "summary": "中新网11月3日电 据国家市场监督管理总局网站消息，按照《优化消费环境三年行动方案(2025—2027年)》《扩大消费“十五五”规划》等明确部署，市场监管总局正在全面推进放心消费单元和集聚区培育，在全国打造一批放心消费新场景、新地标、新品牌，改善消费体验、提振消费信心。为了全面支撑和规范全国放心消费主体培育工作，为广大",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724549.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725189.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-02",
-          "title": "反跨境腐败法草案二审：推动构建公正合理的反腐败全球治理体系",
-          "summary": "中新网北京11月2日电 (记者 谢雁冰)反跨境腐败法草案11月2日提请十四届全国人大常委会第二十五次会议二次审议。草案二审稿增加规定，推动构建公正合理的反腐败全球治理体系。",
+          "date": "2026-11-03",
+          "title": "国务院免去何永贤香港特别行政区政府房屋局局长职务",
+          "summary": "新华社北京11月3日电 依照《中华人民共和国香港特别行政区基本法》的有关规定，根据香港特别行政区行政长官李家超的建议，国务院2026年11月3日决定：免去何永贤的房屋局局长职务。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724588.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725235.shtml"
         },
         {
-          "date": "2026-11-02",
-          "title": "可再生能源法修订草案提请审议",
-          "summary": "新华社权威快报｜可再生能源法修订草案提请审议",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724583.shtml"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "我国拟修改刑事诉讼法更好促进司法公正",
-          "summary": "原标题：新华社权威快报｜我国拟修改刑事诉讼法更好促进司法公正",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724563.shtml"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "“高度警惕日本借助文化产品篡改和歪曲历史”",
-          "summary": "日方通过影视剧、动画、漫画、游戏、小说等传播错误史观、误导年轻一代，多方人士呼吁——",
+          "date": "2026-11-03",
+          "title": "FBI声称朝鲜支援黑客盗窃加密货币 金与正：这是美国对朝严重政治挑衅",
+          "summary": "中新网11月3日电 据朝中社3日报道，朝鲜劳动党中央委员会部长金与正2日发表谈话。谈话称，美国联邦调查局声称所谓朝鲜“支援”的黑客组织参与加密货币交易平台“币安”数十亿美元加密货币盗窃事件，企图诋毁朝鲜为“网络犯罪国家”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-02/10724559.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725227.shtml"
         },
         {
-          "date": "2026-11-02",
-          "title": "教育部教师工作司原副司长韩劲红接受审查调查",
-          "summary": "中新网11月2日电 据中央纪委国家监委驻教育部纪检监察组、浙江省纪委监委消息：教育部教师工作司原副司长韩劲红涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委驻教育部纪检监察组纪律审查和浙江省衢州市监委监察调查。",
+          "date": "2026-11-03",
+          "title": "贵州省贵阳市政府原党组成员、副市长高杨被“双开”",
+          "summary": "中新网11月3日电 据贵州省纪委监委消息，经贵州省委批准，贵州省纪委监委对贵州省贵阳市政府原党组成员、副市长高杨严重违纪违法问题进行了立案审查调查。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-02/10724554.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725218.shtml"
+        },
+        {
+          "date": "2026-11-03",
+          "title": "力箭二号运载火箭首次执行卫星互联网大规模组网任务",
+          "summary": "中新社北京11月3日电 (记者 马帅莎)据中国民营火箭公司中科宇航消息，11月3日8时15分，力箭二号遥二运载火箭在东风商业航天创新试验区点火升空，将搭载的千帆极轨21组共18颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。这是力箭二号运载火箭首次执行卫星互联网大规模组网任务。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725208.shtml"
+        },
+        {
+          "date": "2026-11-03",
+          "title": "俄军轰炸乌克兰扎波罗热一人道援助点 致26人遇难",
+          "summary": "中新社北京11月3日电 基辅消息：当地时间11月2日晚间，乌克兰方面证实，俄罗斯军队当日多次轰炸了位于乌克兰扎波罗热州科米舒瓦哈的一所用于分发人道主义援助物资的学校及其避难场所，包括警察和救援人员在内的26人死亡，5人受伤，另有27人失踪。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725209.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-02",
-          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-          "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+          "date": "2026-11-03",
+          "title": "US strikes Iran ahead of midterm elections",
+          "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-02",
-          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-          "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+          "date": "2026-11-03",
+          "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+          "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-02",
-          "title": "Democrats have high hopes for midterms, but polls have let them down before",
-          "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+          "date": "2026-11-03",
+          "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+          "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-02",
-          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-          "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+          "date": "2026-11-03",
+          "title": "Trump to remove Rwanda and South Africa from US trade deal",
+          "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-01",
-          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-          "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+          "date": "2026-11-03",
+          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+          "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,36 +176,36 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 7882）",
+          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 13923）",
           "summary": "Towards a More Autonomous Agent System",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
         },
         {
           "date": "GitHub Trending",
-          "title": "anhao/ai-pose-gallery-zh（⭐ 5159）",
-          "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-          "source": "GitHub",
-          "url": "https://github.com/anhao/ai-pose-gallery-zh"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "heydamir/unslop（⭐ 4920）",
+          "title": "heydamir/unslop（⭐ 6425）",
           "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
           "source": "GitHub",
           "url": "https://github.com/heydamir/unslop"
         },
         {
           "date": "GitHub Trending",
-          "title": "wangzan101/Mika（⭐ 3933）",
+          "title": "wangzan101/Mika（⭐ 5505）",
           "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
           "source": "GitHub",
           "url": "https://github.com/wangzan101/Mika"
         },
         {
           "date": "GitHub Trending",
-          "title": "valentderah/totk-pc-recomp（⭐ 3235）",
-          "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+          "title": "storytold/craft-anything（⭐ 4809）",
+          "summary": "Craft Anything: understand how any software works, and craft your own.",
+          "source": "GitHub",
+          "url": "https://github.com/storytold/craft-anything"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "valentderah/totk-pc-recomp（⭐ 4089）",
+          "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
           "source": "GitHub",
           "url": "https://github.com/valentderah/totk-pc-recomp"
         }
@@ -243,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "OiiOii 官方入口：https://oiioii.ai/?via=ZI0IbFRl-Nj8D0gl 对AI短剧感兴趣一定要试试！  哈喽大家好，我是盈夏，专",
-      "video": "AI短剧普通人暴赚百万？竟然这么简单！ OiiOii AI短剧全流程实操 Kling 4.0在OiiOii首发上线 AI工具 AI赚钱 AI副业 AI视频 AI搞钱 AI商业 小白零基础 AI实操",
-      "date": "2026-10-29",
-      "url": "https://www.youtube.com/watch?v=i8je3M7Hmvo"
+      "desc": "【Higgsfield 官方体验入口】：https://higgsfield.ai/s/higgsfield-general-campaign-yt-yingx",
+      "video": "我让2个AI替我做YouTube 10分钟复刻百万粉丝频道？Higgsfield + Claude 全自动创作 太离谱了！AI赚钱 AI工具 AI副业 AI做YouTube AI教程 AI搞钱",
+      "date": "2026-11-02",
+      "url": "https://www.youtube.com/watch?v=f44HyjdLmEg"
     },
     {
       "channel": "李厂长来了",
