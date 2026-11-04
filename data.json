@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-03",
-  "generatedAt": "2026-11-03T03:46:45.628Z",
+  "issueDate": "2026-11-04",
+  "generatedAt": "2026-11-04T02:49:35.033Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses\n【金融新闻】我国人工智能发展速度及应用规模全球领先\n【中国新闻】国务院免去何永贤香港特别行政区政府房屋局局长职务\n【世界新闻】US strikes Iran ahead of midterm elections"
+    "body": "【AI 最新信息】Anthropic is working on a system to prove AI models&#8217; identity\n【金融新闻】“十五五”末我国社零总额预计达到60万亿元左右\n【中国新闻】陆委会称现在没有“台独”问题 国台办回应\n【世界新闻】ANC under pressure to reverse South Africa decline"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-11-03",
-          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-          "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+          "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+          "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
         },
         {
           "date": "2026-11-03",
-          "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-          "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+          "title": "Data centers are turning to old jet engines as the wait for power grows",
+          "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally frien",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
         },
         {
           "date": "2026-11-03",
-          "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with hi",
+          "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+          "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
         },
         {
-          "date": "2026-11-02",
-          "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-          "summary": "The one-year-old startup is now valued at $300 million.",
+          "date": "2026-11-03",
+          "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
+          "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
         },
         {
-          "date": "2026-11-02",
-          "title": "Anthropic warns that it&#8217;s very close to RSI capability, aka self-building AI",
-          "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the c",
+          "date": "2026-11-03",
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+          "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-03",
-          "title": "我国人工智能发展速度及应用规模全球领先",
-          "summary": "记者从国家发展改革委今天(3日)举行的“奋进‘十五五’”系列新闻发布会上了解到，当前，我国人工智能发展速度、应用规模全球领先，在塑造经济发展新动能、增进民生福祉、提升政府治理水平方面取得积极成效。",
+          "date": "2026-11-04",
+          "title": "“十五五”末我国社零总额预计达到60万亿元左右",
+          "summary": "记者11月4日从国家发展改革委获悉，预计到“十五五”末，我国流通业整体规模将持续扩大，社会消费品零售总额达到60万亿元左右；流通网络将更加健全，102个现代流通战略支点城市辐射带动能力进一步增强，将有6条国家级重要商品骨干流通走廊落地建设。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725213.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725825.shtml"
         },
         {
-          "date": "2026-11-03",
-          "title": "以赛促研，以研促产：拼多多“千亿扶持”助力青年科学家在夏秋“断档期”种出国产草莓",
-          "summary": "草莓挂满枝头，科创结出硕果。10月30日，第五届“多多农研科技大赛”在上海农业科创谷顺利收官。综合植物工厂设计与建造、种植成果、成本与能耗等表现，中国农业大学组建的赛博农人团队蝉联赛事一等奖，浙江企业塔金麦牵头的拟生态团队斩获二等奖，上海交通大学领衔的莓立方团队摘得三等奖，上海企业欧普照明主导的欧普智莓团队收获优胜奖。",
+          "date": "2026-11-04",
+          "title": "西藏自治区首个万兆光网社区AI治理实践入选中国优秀案例",
+          "summary": "中新网拉萨11月4日电 (记者 贡桑拉姆)拉萨市城关区娘热街道慈松塘智慧社区是西藏自治区首个万兆光网智慧社区。该社区智慧治理实践11月3日在上海获评中国“人工智能+城市治理”优秀实践案例。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725158.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725812.shtml"
         },
         {
-          "date": "2026-11-03",
-          "title": "放心消费点亮工程启动 首批四家平台同步点亮",
-          "summary": "中新网11月3日电 据国家市场监督管理总局网站消息，11月3日，市场监管总局建设的全国放心消费平台(小程序“消费查”)上线，已有超万家放心消费商家入驻。为了更好地给经营者提供赋能、给消费者提供决策参考，市场监管总局正在实施“放心消费点亮工程”。百度地图、京东、淘宝闪购、美团4家平台企业首批加入，与全国放心消费平台实时对",
+          "date": "2026-11-04",
+          "title": "新阶层·新经济｜“80后”干品钦：用新思维把老手艺做活",
+          "summary": "中新网11月4日电(项菁)“酒香也怕巷子深，好工艺、好皮料，必须借助互联网讲好背后的故事，用新思维把老手艺做活。”在中国水貂皮服装产业基地——浙江余姚，“80后”干品钦接受中新网专访时如是说。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725197.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725801.shtml"
         },
         {
-          "date": "2026-11-03",
-          "title": "2026年全国“优化消费环境月”启动",
-          "summary": "中新网11月3日电 据“市说新语”微信公众号消息，11月3日，2026年全国“优化消费环境月”启动仪式在福建省泉州市举行。",
+          "date": "2026-11-04",
+          "title": "AI、商业航天等近300个科创项目广州同台PK",
+          "summary": "中新网广州11月4日电 (记者 王坚)2026中国创交会、中国海交会第四届创新创业大赛广州城市赛2日在广州开赛，赛程持续4天。赛场上，近300个科创项目集中亮相，覆盖人工智能、智能装备与机器人、生物医药、新材料、新能源、低空经济、商业航天等方向。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725194.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725807.shtml"
         },
         {
-          "date": "2026-11-03",
-          "title": "全国放心消费平台正式上线",
-          "summary": "中新网11月3日电 据国家市场监督管理总局网站消息，按照《优化消费环境三年行动方案(2025—2027年)》《扩大消费“十五五”规划》等明确部署，市场监管总局正在全面推进放心消费单元和集聚区培育，在全国打造一批放心消费新场景、新地标、新品牌，改善消费体验、提振消费信心。为了全面支撑和规范全国放心消费主体培育工作，为广大",
+          "date": "2026-11-04",
+          "title": "政策标准加速完善 华为乾崑助推自动驾驶商业化稳步驶入“快车道”",
+          "summary": "智能网联汽车产业的发展，正在迈入规模化新周期。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725189.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725800.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-03",
-          "title": "国务院免去何永贤香港特别行政区政府房屋局局长职务",
-          "summary": "新华社北京11月3日电 依照《中华人民共和国香港特别行政区基本法》的有关规定，根据香港特别行政区行政长官李家超的建议，国务院2026年11月3日决定：免去何永贤的房屋局局长职务。",
+          "date": "2026-11-04",
+          "title": "陆委会称现在没有“台独”问题 国台办回应",
+          "summary": "11月4日，国务院台办举行例行新闻发布会。有记者问，近日，陆委会称，现在没有“台独”问题，只有要不要被强迫统一的问题，台方的两岸政策目标为“维持和平现状、捍卫民主自由”。请问对此有何评论？",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725235.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725828.shtml"
         },
         {
-          "date": "2026-11-03",
-          "title": "FBI声称朝鲜支援黑客盗窃加密货币 金与正：这是美国对朝严重政治挑衅",
-          "summary": "中新网11月3日电 据朝中社3日报道，朝鲜劳动党中央委员会部长金与正2日发表谈话。谈话称，美国联邦调查局声称所谓朝鲜“支援”的黑客组织参与加密货币交易平台“币安”数十亿美元加密货币盗窃事件，企图诋毁朝鲜为“网络犯罪国家”。",
+          "date": "2026-11-04",
+          "title": "西班牙交通大臣因列车相撞事故宣布辞职",
+          "summary": "中新网11月4日电 据路透社报道，西班牙交通大臣奥斯卡·普恩特3日表示，将辞去现任职务，但未说明具体离职时间。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725227.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725826.shtml"
         },
         {
-          "date": "2026-11-03",
-          "title": "贵州省贵阳市政府原党组成员、副市长高杨被“双开”",
-          "summary": "中新网11月3日电 据贵州省纪委监委消息，经贵州省委批准，贵州省纪委监委对贵州省贵阳市政府原党组成员、副市长高杨严重违纪违法问题进行了立案审查调查。",
+          "date": "2026-11-04",
+          "title": "国台办评“吉林一号”公布多张台湾高清卫星影像",
+          "summary": "11月4日，国务院台办举行例行新闻发布会。有记者问，近期，大陆商用卫星“吉林一号”公布多张台湾高清卫星影像，引发两岸网友关注和热议。请问对此有何评论？",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725218.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725823.shtml"
         },
         {
-          "date": "2026-11-03",
-          "title": "力箭二号运载火箭首次执行卫星互联网大规模组网任务",
-          "summary": "中新社北京11月3日电 (记者 马帅莎)据中国民营火箭公司中科宇航消息，11月3日8时15分，力箭二号遥二运载火箭在东风商业航天创新试验区点火升空，将搭载的千帆极轨21组共18颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。这是力箭二号运载火箭首次执行卫星互联网大规模组网任务。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-03/10725208.shtml"
-        },
-        {
-          "date": "2026-11-03",
-          "title": "俄军轰炸乌克兰扎波罗热一人道援助点 致26人遇难",
-          "summary": "中新社北京11月3日电 基辅消息：当地时间11月2日晚间，乌克兰方面证实，俄罗斯军队当日多次轰炸了位于乌克兰扎波罗热州科米舒瓦哈的一所用于分发人道主义援助物资的学校及其避难场所，包括警察和救援人员在内的26人死亡，5人受伤，另有27人失踪。",
+          "date": "2026-11-04",
+          "title": "2026伦敦世界旅游交易会中国展区开幕",
+          "summary": "中新网伦敦11月4日电(记者 欧阳开宇)当地时间11月3日，2026伦敦世界旅游交易会(World Travel Market，WTM)在伦敦埃克赛尔(ExCeL)国际会展中心拉开帷幕。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725209.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725802.shtml"
+        },
+        {
+          "date": "2026-11-04",
+          "title": "巴基斯坦成功试射首枚国产空对空导弹",
+          "summary": "中新社北京11月4日电 伊斯兰堡消息：巴基斯坦三军新闻局当地时间3日发表声明说，巴基斯坦当天成功试射首枚国产空对空导弹。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725798.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-03",
-          "title": "US strikes Iran ahead of midterm elections",
-          "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+          "date": "2026-11-04",
+          "title": "ANC under pressure to reverse South Africa decline",
+          "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-03",
-          "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-          "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+          "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+          "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-03",
-          "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
-          "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+          "title": "Spanish transport minister resigns days after deadly train crash",
+          "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-03",
-          "title": "Trump to remove Rwanda and South Africa from US trade deal",
-          "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+          "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+          "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-03",
-          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-          "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
+          "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 13923）",
+          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 17070）",
           "summary": "Towards a More Autonomous Agent System",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
         },
         {
           "date": "GitHub Trending",
-          "title": "heydamir/unslop（⭐ 6425）",
-          "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-          "source": "GitHub",
-          "url": "https://github.com/heydamir/unslop"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "wangzan101/Mika（⭐ 5505）",
-          "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-          "source": "GitHub",
-          "url": "https://github.com/wangzan101/Mika"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "storytold/craft-anything（⭐ 4809）",
+          "title": "storytold/craft-anything（⭐ 8689）",
           "summary": "Craft Anything: understand how any software works, and craft your own.",
           "source": "GitHub",
           "url": "https://github.com/storytold/craft-anything"
         },
         {
           "date": "GitHub Trending",
-          "title": "valentderah/totk-pc-recomp（⭐ 4089）",
+          "title": "heydamir/unslop（⭐ 7615）",
+          "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+          "source": "GitHub",
+          "url": "https://github.com/heydamir/unslop"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "wangzan101/Mika（⭐ 6127）",
+          "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+          "source": "GitHub",
+          "url": "https://github.com/wangzan101/Mika"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "valentderah/totk-pc-recomp（⭐ 4548）",
           "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
           "source": "GitHub",
           "url": "https://github.com/valentderah/totk-pc-recomp"
