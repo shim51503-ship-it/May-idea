@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-04",
-  "generatedAt": "2026-11-04T02:49:35.033Z",
+  "issueDate": "2026-11-05",
+  "generatedAt": "2026-11-05T02:58:07.209Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Anthropic is working on a system to prove AI models&#8217; identity\n【金融新闻】“十五五”末我国社零总额预计达到60万亿元左右\n【中国新闻】陆委会称现在没有“台独”问题 国台办回应\n【世界新闻】ANC under pressure to reverse South Africa decline"
+    "body": "【AI 最新信息】Apple is reportedly cutting budgets for its internal AI usage\n【金融新闻】10月物流业景气指数处于扩张区间 预期向好\n【中国新闻】以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识\n【世界新闻】Ukraine says bodycam video shows deadly Russian double-tap bombing"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-11-03",
-          "title": "Anthropic is working on a system to prove AI models&#8217; identity",
-          "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+          "date": "2026-11-05",
+          "title": "Apple is reportedly cutting budgets for its internal AI usage",
+          "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
         },
         {
-          "date": "2026-11-03",
-          "title": "Data centers are turning to old jet engines as the wait for power grows",
-          "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally frien",
+          "date": "2026-11-05",
+          "title": "After the midterms, a bigger clash over data centers could be coming",
+          "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+          "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
         },
         {
-          "date": "2026-11-03",
-          "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-          "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+          "date": "2026-11-04",
+          "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
+          "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+          "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
         },
         {
-          "date": "2026-11-03",
-          "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
-          "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+          "date": "2026-11-04",
+          "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
+          "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity g",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
         },
         {
-          "date": "2026-11-03",
-          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-          "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+          "date": "2026-11-04",
+          "title": "Almost no one uses AI agents to book their Uber, company says",
+          "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-04",
-          "title": "“十五五”末我国社零总额预计达到60万亿元左右",
-          "summary": "记者11月4日从国家发展改革委获悉，预计到“十五五”末，我国流通业整体规模将持续扩大，社会消费品零售总额达到60万亿元左右；流通网络将更加健全，102个现代流通战略支点城市辐射带动能力进一步增强，将有6条国家级重要商品骨干流通走廊落地建设。",
+          "date": "2026-11-05",
+          "title": "10月物流业景气指数处于扩张区间 预期向好",
+          "summary": "央视网消息(新闻联播)：中国物流与采购联合会发布，10月份中国物流业景气指数为51.2%，保持扩张。其中，七个分项指数处于扩张区间。需求方面，新订单指数为51.5%，环比回升0.3个百分点，区域分化明显，中、西部回升，东部回落。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725825.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726458.shtml"
         },
         {
-          "date": "2026-11-04",
-          "title": "西藏自治区首个万兆光网社区AI治理实践入选中国优秀案例",
-          "summary": "中新网拉萨11月4日电 (记者 贡桑拉姆)拉萨市城关区娘热街道慈松塘智慧社区是西藏自治区首个万兆光网智慧社区。该社区智慧治理实践11月3日在上海获评中国“人工智能+城市治理”优秀实践案例。",
+          "date": "2026-11-05",
+          "title": "市场监管总局依法废止《绵羊绒交易技术规范》团体标准",
+          "summary": "中新网11月5日电 据国家市场监督管理总局网站消息，近日，市场监管总局依法向中国畜产品流通协会下达废止团体标准决定书，自即日起废止该协会制定发布的《绵羊绒交易技术规范》(T/CAPMA 9—2025)团体标准，并在标准信息公共服务平台上公示。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725812.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726452.shtml"
         },
         {
-          "date": "2026-11-04",
-          "title": "新阶层·新经济｜“80后”干品钦：用新思维把老手艺做活",
-          "summary": "中新网11月4日电(项菁)“酒香也怕巷子深，好工艺、好皮料，必须借助互联网讲好背后的故事，用新思维把老手艺做活。”在中国水貂皮服装产业基地——浙江余姚，“80后”干品钦接受中新网专访时如是说。",
+          "date": "2026-11-05",
+          "title": "第一批新车次列车本月开行 车票将陆续发售、兑现",
+          "summary": "中新网11月5日电 据“中国铁路”微信公众号消息，全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式启用新车次，按照2026版《列车车次编排规定》，普速旅客列车使用Z、N、V字头字母，普速旅游列车使用Y字头字母，货运班列使用B",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725801.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726447.shtml"
         },
         {
-          "date": "2026-11-04",
-          "title": "AI、商业航天等近300个科创项目广州同台PK",
-          "summary": "中新网广州11月4日电 (记者 王坚)2026中国创交会、中国海交会第四届创新创业大赛广州城市赛2日在广州开赛，赛程持续4天。赛场上，近300个科创项目集中亮相，覆盖人工智能、智能装备与机器人、生物医药、新材料、新能源、低空经济、商业航天等方向。",
+          "date": "2026-11-05",
+          "title": "广交会采购商创新高 中国制造为全球产供链稳定注入确定性",
+          "summary": "11月3日，境外采购商在广交会童车玩具展区洽谈。新华社记者 邓华 摄 新华社广州11月4日电(记者詹奕嘉、丁乐)第140届中国进出口商品交易会(广交会)4日闭幕。截至3日，来自219个国家和地区的35.2万名境外采购商到会，较上届增长12.2%，规模再创新高。已有70年历史的“中国第一展”魅力不减，彰显中国坚定不移扩大",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725807.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726443.shtml"
         },
         {
-          "date": "2026-11-04",
-          "title": "政策标准加速完善 华为乾崑助推自动驾驶商业化稳步驶入“快车道”",
-          "summary": "智能网联汽车产业的发展，正在迈入规模化新周期。",
+          "date": "2026-11-05",
+          "title": "“China Haul”背后，藏着怎样的中国？",
+          "summary": "零时差丨“China Haul”背后，藏着怎样的中国？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725800.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726442.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-04",
-          "title": "陆委会称现在没有“台独”问题 国台办回应",
-          "summary": "11月4日，国务院台办举行例行新闻发布会。有记者问，近日，陆委会称，现在没有“台独”问题，只有要不要被强迫统一的问题，台方的两岸政策目标为“维持和平现状、捍卫民主自由”。请问对此有何评论？",
+          "date": "2026-11-05",
+          "title": "以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识",
+          "summary": "新华社杭州11月4日电 题：以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725828.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726445.shtml"
         },
         {
-          "date": "2026-11-04",
-          "title": "西班牙交通大臣因列车相撞事故宣布辞职",
-          "summary": "中新网11月4日电 据路透社报道，西班牙交通大臣奥斯卡·普恩特3日表示，将辞去现任职务，但未说明具体离职时间。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725826.shtml"
-        },
-        {
-          "date": "2026-11-04",
-          "title": "国台办评“吉林一号”公布多张台湾高清卫星影像",
-          "summary": "11月4日，国务院台办举行例行新闻发布会。有记者问，近期，大陆商用卫星“吉林一号”公布多张台湾高清卫星影像，引发两岸网友关注和热议。请问对此有何评论？",
+          "date": "2026-11-05",
+          "title": "贵州银行股份有限公司原监事长肖慈发接受审查调查",
+          "summary": "中新网11月5日电 据贵州省纪委监委消息：贵州银行股份有限公司原党委委员、监事长肖慈发涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725823.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726435.shtml"
         },
         {
-          "date": "2026-11-04",
-          "title": "2026伦敦世界旅游交易会中国展区开幕",
-          "summary": "中新网伦敦11月4日电(记者 欧阳开宇)当地时间11月3日，2026伦敦世界旅游交易会(World Travel Market，WTM)在伦敦埃克赛尔(ExCeL)国际会展中心拉开帷幕。",
+          "date": "2026-11-05",
+          "title": "朝鲜试射新型防空导弹",
+          "summary": "中新网11月5日电 据朝中社5日报道，朝鲜导弹总局4日试射新型先进防空导弹系统。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725802.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726441.shtml"
         },
         {
-          "date": "2026-11-04",
-          "title": "巴基斯坦成功试射首枚国产空对空导弹",
-          "summary": "中新社北京11月4日电 伊斯兰堡消息：巴基斯坦三军新闻局当地时间3日发表声明说，巴基斯坦当天成功试射首枚国产空对空导弹。",
+          "date": "2026-11-05",
+          "title": "报告：中国和美海岛建设取得阶段性成效",
+          "summary": "中新网北京11月5日电 (记者 阮煜琳)记者从自然资源部获悉，11月3日至4日，以“建设和美海岛共享蓝色繁荣”为主题的中国—岛屿国家海洋合作论坛在福建平潭举行。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726439.shtml"
+        },
+        {
+          "date": "2026-11-05",
+          "title": "全球媒体聚焦｜西班牙智库：深圳APEC会议为全球合作提供新契机",
+          "summary": "亚太经合组织(APEC)第三十三次领导人非正式会议即将在深圳举行。11月3日，西班牙中国政策观察网刊发智库加利西亚国际研究所创始人、亚洲问题专家胡利奥·里奥斯的署名评论文章《深圳与全球化未来之争》，详细分析了此次会议在全球经济面临地缘政治紧张和保护主义抬头背景下的重要意义，并指出，中国作为东道主，为各方讨论合作、推动开",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725798.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726438.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-11-04",
-          "title": "ANC under pressure to reverse South Africa decline",
-          "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+          "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-03",
-          "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
-          "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+          "date": "2026-11-04",
+          "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+          "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-03",
-          "title": "Spanish transport minister resigns days after deadly train crash",
-          "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+          "date": "2026-11-04",
+          "title": "Iran's chief negotiator says Americans voted 'no to war'",
+          "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-03",
-          "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-          "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+          "date": "2026-11-04",
+          "title": "'Most difficult days of my life' for keeper Owono",
+          "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-03",
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+          "date": "2026-11-04",
+          "title": "The young politicians with African roots making history in the US midterms",
+          "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 17070）",
+          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 18698）",
           "summary": "Towards a More Autonomous Agent System",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
         },
         {
           "date": "GitHub Trending",
-          "title": "storytold/craft-anything（⭐ 8689）",
+          "title": "storytold/craft-anything（⭐ 12223）",
           "summary": "Craft Anything: understand how any software works, and craft your own.",
           "source": "GitHub",
           "url": "https://github.com/storytold/craft-anything"
         },
         {
           "date": "GitHub Trending",
-          "title": "heydamir/unslop（⭐ 7615）",
-          "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+          "title": "patch-gg/pixelfx（⭐ 4786）",
+          "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
           "source": "GitHub",
-          "url": "https://github.com/heydamir/unslop"
+          "url": "https://github.com/patch-gg/pixelfx"
         },
         {
           "date": "GitHub Trending",
-          "title": "wangzan101/Mika（⭐ 6127）",
-          "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+          "title": "KKKKhazix/agent-autoloop（⭐ 2666）",
+          "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
           "source": "GitHub",
-          "url": "https://github.com/wangzan101/Mika"
+          "url": "https://github.com/KKKKhazix/agent-autoloop"
         },
         {
           "date": "GitHub Trending",
-          "title": "valentderah/totk-pc-recomp（⭐ 4548）",
-          "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+          "title": "Verlintas/NOIR（⭐ 2082）",
+          "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
           "source": "GitHub",
-          "url": "https://github.com/valentderah/totk-pc-recomp"
+          "url": "https://github.com/Verlintas/NOIR"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "万圣节一到，西方家庭把骷髅摆到门口，孩子扮鬼讨糖；同样谈到鬼，中元节却常常伴着烧纸和忌讳。但翻开宋明笔记，古人的鬼节竟然热闹得像一场大戏，连鲁迅都上台扮过鬼。这",
-      "video": "为什么西方的万圣节玩得这么嗨，中国的鬼节却这么冷清？為什麼西方的萬聖節玩得這麼嗨，中國的鬼節卻這麼冷清？夸克说|誇克说",
-      "date": "2026-11-01",
-      "url": "https://www.youtube.com/watch?v=UkpY_p-iVSE"
+      "desc": "中国女间谍的话题，为什么会与黄仁勋联系在一起？一组公开合影引发情报疑云，英伟达则强调只是正常客户往来。合影之外，我们究竟知道多少？从《蝴蝶君》背后的真实案件，到",
+      "video": "黄仁勋真的被攻陷了吗？历史上的中国女间谍究竟有多厉害？ 黃仁勳真的被攻陷了嗎？曆史上的中共女間諜究竟有多厲害？ 夸克说|誇克说",
+      "date": "2026-11-04",
+      "url": "https://www.youtube.com/watch?v=C1nz-gMq27s"
     },
     {
       "channel": "May Fit",
