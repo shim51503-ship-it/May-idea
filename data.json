@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-05",
-  "generatedAt": "2026-11-05T02:58:07.209Z",
+  "issueDate": "2026-11-06",
+  "generatedAt": "2026-11-06T02:57:56.059Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Apple is reportedly cutting budgets for its internal AI usage\n【金融新闻】10月物流业景气指数处于扩张区间 预期向好\n【中国新闻】以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识\n【世界新闻】Ukraine says bodycam video shows deadly Russian double-tap bombing"
+    "body": "【AI 最新信息】Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027\n【金融新闻】人造黄金来了？\n【中国新闻】《世界开放报告2026》发布，这些看点值得关注\n【世界新闻】Global tech stocks plunge as US midterms add to AI slowdown fears"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-11-05",
-          "title": "Apple is reportedly cutting budgets for its internal AI usage",
-          "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+          "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+          "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
         },
         {
           "date": "2026-11-05",
-          "title": "After the midterms, a bigger clash over data centers could be coming",
-          "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+          "title": "Meta says US users can now video chat with their Muse AI avatar",
+          "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
         },
         {
-          "date": "2026-11-04",
-          "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
-          "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+          "date": "2026-11-05",
+          "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure proje",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
         },
         {
-          "date": "2026-11-04",
-          "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
-          "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity g",
+          "date": "2026-11-05",
+          "title": "OpenAI released a new cybersecurity model. Is that enough?",
+          "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
         },
         {
-          "date": "2026-11-04",
-          "title": "Almost no one uses AI agents to book their Uber, company says",
-          "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+          "date": "2026-11-05",
+          "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+          "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where riv",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-05",
-          "title": "10月物流业景气指数处于扩张区间 预期向好",
-          "summary": "央视网消息(新闻联播)：中国物流与采购联合会发布，10月份中国物流业景气指数为51.2%，保持扩张。其中，七个分项指数处于扩张区间。需求方面，新订单指数为51.5%，环比回升0.3个百分点，区域分化明显，中、西部回升，东部回落。",
+          "date": "2026-11-06",
+          "title": "人造黄金来了？",
+          "summary": "中国新闻周刊记者：胡可欣",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726458.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727117.shtml"
         },
         {
-          "date": "2026-11-05",
-          "title": "市场监管总局依法废止《绵羊绒交易技术规范》团体标准",
-          "summary": "中新网11月5日电 据国家市场监督管理总局网站消息，近日，市场监管总局依法向中国畜产品流通协会下达废止团体标准决定书，自即日起废止该协会制定发布的《绵羊绒交易技术规范》(T/CAPMA 9—2025)团体标准，并在标准信息公共服务平台上公示。",
+          "date": "2026-11-06",
+          "title": "全国已累计收购秋粮1亿吨",
+          "summary": "记者11月6日从国家发展改革委新闻发布会上获悉，秋粮收购开局平稳，东北地区陆续上量，全国已累计收购秋粮1亿吨，进度与上年基本持平。综合研判，随着我国粮食产能稳步提升，“十五五”时期，每年粮食收购量将继续保持在4亿吨以上。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726452.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727112.shtml"
         },
         {
-          "date": "2026-11-05",
-          "title": "第一批新车次列车本月开行 车票将陆续发售、兑现",
-          "summary": "中新网11月5日电 据“中国铁路”微信公众号消息，全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式启用新车次，按照2026版《列车车次编排规定》，普速旅客列车使用Z、N、V字头字母，普速旅游列车使用Y字头字母，货运班列使用B",
+          "date": "2026-11-06",
+          "title": "进博手记｜在全球创新中看见中国印记",
+          "summary": "新华社上海11月5日电(记者宿亮#8195;曹筱凡#8195;周蕊)全球品牌的创新灵感，正在从中国消费者的日常生活中生长出来。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726447.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727092.shtml"
         },
         {
-          "date": "2026-11-05",
-          "title": "广交会采购商创新高 中国制造为全球产供链稳定注入确定性",
-          "summary": "11月3日，境外采购商在广交会童车玩具展区洽谈。新华社记者 邓华 摄 新华社广州11月4日电(记者詹奕嘉、丁乐)第140届中国进出口商品交易会(广交会)4日闭幕。截至3日，来自219个国家和地区的35.2万名境外采购商到会，较上届增长12.2%，规模再创新高。已有70年历史的“中国第一展”魅力不减，彰显中国坚定不移扩大",
+          "date": "2026-11-06",
+          "title": "中国副财长：愿坚持经济全球化、贸易多元化的正确方向",
+          "summary": "中新网上海11月6日电 (邸子瀛)2026年中国国际公共采购论坛5日在上海开幕。论坛以“共享公共采购市场的未来——制度创新、合作共赢”为主题，开展政策对话，交流公共采购经验。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726443.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727075.shtml"
         },
         {
-          "date": "2026-11-05",
-          "title": "“China Haul”背后，藏着怎样的中国？",
-          "summary": "零时差丨“China Haul”背后，藏着怎样的中国？",
+          "date": "2026-11-06",
+          "title": "互联网的“中国时间”，你追我赶已是常态故事",
+          "summary": "中国互联网的竞争格局，正在迎来一个值得关注的新变化。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726442.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727070.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-05",
-          "title": "以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识",
-          "summary": "新华社杭州11月4日电 题：以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识",
+          "date": "2026-11-06",
+          "title": "《世界开放报告2026》发布，这些看点值得关注",
+          "summary": "第九届进博会｜《世界开放报告2026》发布，这些看点值得关注",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726445.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727104.shtml"
         },
         {
-          "date": "2026-11-05",
-          "title": "贵州银行股份有限公司原监事长肖慈发接受审查调查",
-          "summary": "中新网11月5日电 据贵州省纪委监委消息：贵州银行股份有限公司原党委委员、监事长肖慈发涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。",
+          "date": "2026-11-06",
+          "title": "吉前总理：全面从严治党是中国高水平治理的关键",
+          "summary": "吉尔吉斯斯坦前总理卓奥玛尔特·奥托尔巴耶夫11月3日在《中国日报》撰文称，中国的实力不仅体现在经济增长、产业转型或科技成就上，还体现在应对任何薄弱环节的能力上。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726435.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727099.shtml"
         },
         {
-          "date": "2026-11-05",
-          "title": "朝鲜试射新型防空导弹",
-          "summary": "中新网11月5日电 据朝中社5日报道，朝鲜导弹总局4日试射新型先进防空导弹系统。",
+          "date": "2026-11-06",
+          "title": "特朗普回应美股大跌：是民主党人造成的",
+          "summary": "中新网11月6日电 综合报道，美国总统特朗普当地时间5日在社交媒体发布多条帖文回应美股大跌。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726441.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727100.shtml"
         },
         {
-          "date": "2026-11-05",
-          "title": "报告：中国和美海岛建设取得阶段性成效",
-          "summary": "中新网北京11月5日电 (记者 阮煜琳)记者从自然资源部获悉，11月3日至4日，以“建设和美海岛共享蓝色繁荣”为主题的中国—岛屿国家海洋合作论坛在福建平潭举行。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726439.shtml"
-        },
-        {
-          "date": "2026-11-05",
-          "title": "全球媒体聚焦｜西班牙智库：深圳APEC会议为全球合作提供新契机",
-          "summary": "亚太经合组织(APEC)第三十三次领导人非正式会议即将在深圳举行。11月3日，西班牙中国政策观察网刊发智库加利西亚国际研究所创始人、亚洲问题专家胡利奥·里奥斯的署名评论文章《深圳与全球化未来之争》，详细分析了此次会议在全球经济面临地缘政治紧张和保护主义抬头背景下的重要意义，并指出，中国作为东道主，为各方讨论合作、推动开",
+          "date": "2026-11-06",
+          "title": "日本学者：日本应坚守“无核三原则”",
+          "summary": "日本防卫大臣小泉进次郎3日在东京举行的一场研讨会上再次呼吁讨论调整“无核三原则”。此外，小泉当天还对有关日本引进核潜艇的讨论表现出积极态度，声称希望各方就今后如何推进相关工作展开广泛讨论。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-05/10726438.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727097.shtml"
+        },
+        {
+          "date": "2026-11-06",
+          "title": "中国国家医保局：推动中国数智医保经验“走出去”",
+          "summary": "中新网南宁11月6日电(黄艳梅 黄越 俞靖)中国国家医疗保障局局长章轲5日在广西南宁表示，国家医保局将坚持开放共赢，推动中国数智医保经验“走出去”，促进更多医疗AI(人工智能)创新成果惠及各国民众。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727078.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-04",
-          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+          "date": "2026-11-06",
+          "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+          "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-04",
-          "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-          "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+          "date": "2026-11-06",
+          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+          "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-04",
-          "title": "Iran's chief negotiator says Americans voted 'no to war'",
-          "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+          "date": "2026-11-06",
+          "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+          "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-04",
-          "title": "'Most difficult days of my life' for keeper Owono",
-          "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+          "date": "2026-11-06",
+          "title": "Trump signs order preventing future presidents from changing Oval Office",
+          "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-04",
-          "title": "The young politicians with African roots making history in the US midterms",
-          "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
+          "date": "2026-11-06",
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 18698）",
+          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 19608）",
           "summary": "Towards a More Autonomous Agent System",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
         },
         {
           "date": "GitHub Trending",
-          "title": "storytold/craft-anything（⭐ 12223）",
+          "title": "storytold/craft-anything（⭐ 15368）",
           "summary": "Craft Anything: understand how any software works, and craft your own.",
           "source": "GitHub",
           "url": "https://github.com/storytold/craft-anything"
         },
         {
           "date": "GitHub Trending",
-          "title": "patch-gg/pixelfx（⭐ 4786）",
-          "summary": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-          "source": "GitHub",
-          "url": "https://github.com/patch-gg/pixelfx"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "KKKKhazix/agent-autoloop（⭐ 2666）",
+          "title": "KKKKhazix/agent-autoloop（⭐ 3302）",
           "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
           "source": "GitHub",
           "url": "https://github.com/KKKKhazix/agent-autoloop"
         },
         {
           "date": "GitHub Trending",
-          "title": "Verlintas/NOIR（⭐ 2082）",
+          "title": "Verlintas/NOIR（⭐ 2528）",
           "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
           "source": "GitHub",
           "url": "https://github.com/Verlintas/NOIR"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto（⭐ 2461）",
+          "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
+          "source": "GitHub",
+          "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
         }
       ]
     }
@@ -215,17 +215,17 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "无数中国人义愤填膺，却连姆巴佩究竟说了什么都不敢提。为什么一个简单的历史问题，会成为中国最不可触碰的禁忌？从毛泽东的历史罪行，到改革开放的真正成就，再到姆巴佩与",
-      "video": "姆巴佩辱华：一个表情包让全中国破防！毛泽东究竟是不是独裁者？ | 姆巴佩道歉 | 西甲联赛 | 言论自由 | 大跃进 | 文化大革命 | 老周横眉",
-      "date": "2026-10-29",
-      "url": "https://www.youtube.com/watch?v=Ja50LAEw3QY"
+      "desc": "操作指南：中美科技股同时暴跌，普通人应该怎么办？为什么绝大多数散户总在牛市赚钱、熊市亏光？本期节目，我将分享普通人最值得掌握的投资策略、心态和方式方法。最后我也",
+      "video": "中美科技股暴跌！为什么美股越跌越要淡定，A股却绝不能抄底？普通人该如何投资？ | 纳斯达克 | AI股 | 美股 | 标普500 | 指数基金 | 价值投资 | 中国股市 | 老周横眉",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=l7YOTaKV8gc"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "中國農村光棍有多慘？網傳3000萬男人娶不到老婆，真相究竟是什麼？從清代彩禮與嫁妝的歷史，到現代農村的婚姻競爭，透過真實人物與學者調查，揭開中國農村光棍現象背後",
-      "video": "拼搏半生，只想有個家，怎麼就這麼難？中國光棍的真實處境，最可怕的，還不是娶不到老婆！【文昭思緒飛揚588】",
-      "date": "2026-11-01",
-      "url": "https://www.youtube.com/watch?v=4V-uMD4q8Hc"
+      "desc": "日本最神秘的開國女王，名字竟然只出現在中國史書中！三國時代，曹魏皇帝冊封了一位統治日本的女王——卑彌呼。她究竟是誰？邪馬台國在哪裡？日本考古發現的神秘銅鏡與巨大",
+      "video": "日本開國女王卑彌呼，唯一的記錄竟來自中國！一面銅鏡牽出千年謎團，她究竟是誰？【文昭思緒飛揚589】",
+      "date": "2026-11-06",
+      "url": "https://www.youtube.com/watch?v=U8fJ4I-rrSE"
     },
     {
       "channel": "夸克说",
