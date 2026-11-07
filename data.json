@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-06",
-  "generatedAt": "2026-11-06T02:57:56.059Z",
+  "issueDate": "2026-11-07",
+  "generatedAt": "2026-11-07T02:28:01.571Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027\n【金融新闻】人造黄金来了？\n【中国新闻】《世界开放报告2026》发布，这些看点值得关注\n【世界新闻】Global tech stocks plunge as US midterms add to AI slowdown fears"
+    "body": "【AI 最新信息】Crusoe sells troubled Wyoming data center project to Google\n【金融新闻】五支毛笔四支来自这里，千年小镇“写”出百亿元产业\n【中国新闻】开源开放 共建共享——2026年世界互联网大会乌镇峰会综述\n【世界新闻】Elon Musk appears to signal the end of the road for Cybertruck"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-11-05",
-          "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
-          "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+          "date": "2026-11-07",
+          "title": "Crusoe sells troubled Wyoming data center project to Google",
+          "summary": "The deal highlights the challenges of developing massive AI data centers.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
         },
         {
-          "date": "2026-11-05",
-          "title": "Meta says US users can now video chat with their Muse AI avatar",
-          "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+          "date": "2026-11-06",
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
         },
         {
-          "date": "2026-11-05",
-          "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-          "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure proje",
+          "date": "2026-11-06",
+          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+          "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
         },
         {
-          "date": "2026-11-05",
-          "title": "OpenAI released a new cybersecurity model. Is that enough?",
-          "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+          "date": "2026-11-06",
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
         },
         {
-          "date": "2026-11-05",
-          "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-          "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where riv",
+          "date": "2026-11-06",
+          "title": "How a Blue Wave midterm might reshape the AI industry",
+          "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot me",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-06",
-          "title": "人造黄金来了？",
-          "summary": "中国新闻周刊记者：胡可欣",
+          "date": "2026-11-07",
+          "title": "五支毛笔四支来自这里，千年小镇“写”出百亿元产业",
+          "summary": "中国经济样本观察·“镇”了不起丨五支毛笔四支来自这里，千年小镇“写”出百亿元产业",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727117.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727788.shtml"
         },
         {
-          "date": "2026-11-06",
-          "title": "全国已累计收购秋粮1亿吨",
-          "summary": "记者11月6日从国家发展改革委新闻发布会上获悉，秋粮收购开局平稳，东北地区陆续上量，全国已累计收购秋粮1亿吨，进度与上年基本持平。综合研判，随着我国粮食产能稳步提升，“十五五”时期，每年粮食收购量将继续保持在4亿吨以上。",
+          "date": "2026-11-07",
+          "title": "从“十五五”专项规划看以金融服务发展大局",
+          "summary": "新华社北京11月6日电 题：不断提升服务实体经济质效——从“十五五”专项规划看以金融服务发展大局",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727112.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727779.shtml"
         },
         {
-          "date": "2026-11-06",
-          "title": "进博手记｜在全球创新中看见中国印记",
-          "summary": "新华社上海11月5日电(记者宿亮#8195;曹筱凡#8195;周蕊)全球品牌的创新灵感，正在从中国消费者的日常生活中生长出来。",
+          "date": "2026-11-07",
+          "title": "历史新高！翻番增长！一组数据感受中国经济强劲脉动",
+          "summary": "本周",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727092.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727777.shtml"
         },
         {
-          "date": "2026-11-06",
-          "title": "中国副财长：愿坚持经济全球化、贸易多元化的正确方向",
-          "summary": "中新网上海11月6日电 (邸子瀛)2026年中国国际公共采购论坛5日在上海开幕。论坛以“共享公共采购市场的未来——制度创新、合作共赢”为主题，开展政策对话，交流公共采购经验。",
+          "date": "2026-11-07",
+          "title": "“粮安天下 智链未来” 中国国际粮油博览会在厦门开幕",
+          "summary": "中新网厦门11月7日电 (记者 林永传)第二十二届中国国际粮油产品及设备技术展示交易会(中国国际粮油博览会)6日在厦门国际会展中心开幕。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727075.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727771.shtml"
         },
         {
-          "date": "2026-11-06",
-          "title": "互联网的“中国时间”，你追我赶已是常态故事",
-          "summary": "中国互联网的竞争格局，正在迎来一个值得关注的新变化。",
+          "date": "2026-11-07",
+          "title": "商务部新闻发言人就美制裁中国企业答记者问",
+          "summary": "中新网11月7日电 据商务部网站7日消息，商务部新闻发言人就美制裁中国企业答记者问。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727070.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727763.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-06",
-          "title": "《世界开放报告2026》发布，这些看点值得关注",
-          "summary": "第九届进博会｜《世界开放报告2026》发布，这些看点值得关注",
+          "date": "2026-11-07",
+          "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述",
+          "summary": "江南水乡，秋日细雨，风光旖旎。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727104.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727786.shtml"
         },
         {
-          "date": "2026-11-06",
-          "title": "吉前总理：全面从严治党是中国高水平治理的关键",
-          "summary": "吉尔吉斯斯坦前总理卓奥玛尔特·奥托尔巴耶夫11月3日在《中国日报》撰文称，中国的实力不仅体现在经济增长、产业转型或科技成就上，还体现在应对任何薄弱环节的能力上。",
+          "date": "2026-11-07",
+          "title": "中共中央发出通知 部署党的二十一大代表选举工作",
+          "summary": "新华社北京11月7日电#8195;党的二十届五中全会决定，党的二十一大于2027年下半年在北京召开。最近，中共中央印发了《关于党的二十一大代表选举工作的通知》，对二十一大代表选举工作作出全面部署。中央组织部近日召开会议，对这项工作作出具体安排。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727099.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727781.shtml"
         },
         {
-          "date": "2026-11-06",
-          "title": "特朗普回应美股大跌：是民主党人造成的",
-          "summary": "中新网11月6日电 综合报道，美国总统特朗普当地时间5日在社交媒体发布多条帖文回应美股大跌。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727100.shtml"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "日本学者：日本应坚守“无核三原则”",
-          "summary": "日本防卫大臣小泉进次郎3日在东京举行的一场研讨会上再次呼吁讨论调整“无核三原则”。此外，小泉当天还对有关日本引进核潜艇的讨论表现出积极态度，声称希望各方就今后如何推进相关工作展开广泛讨论。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727097.shtml"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "中国国家医保局：推动中国数智医保经验“走出去”",
-          "summary": "中新网南宁11月6日电(黄艳梅 黄越 俞靖)中国国家医疗保障局局长章轲5日在广西南宁表示，国家医保局将坚持开放共赢，推动中国数智医保经验“走出去”，促进更多医疗AI(人工智能)创新成果惠及各国民众。",
+          "date": "2026-11-07",
+          "title": "神舟二十四号载人飞行任务标识发布",
+          "summary": "今天，神舟二十四号载人飞行任务标识正式发布。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727078.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727784.shtml"
+        },
+        {
+          "date": "2026-11-07",
+          "title": "中国空间站将迎来首位外籍航天员",
+          "summary": "中新网北京11月7日电 (记者 马帅莎)据中国载人航天工程办公室7日消息，神舟二十四号载人飞行任务将有1名巴基斯坦航天员以载荷专家身份参加，在完成短期在轨飞行后，随神舟二十三号载人飞船返回。这是中国载人航天工程历史上首次中外航天员联合飞行，中国空间站将迎来首位外籍航天员到访。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727783.shtml"
+        },
+        {
+          "date": "2026-11-07",
+          "title": "中国第43次南极考察队出征",
+          "summary": "新华社权威快报|中国第43次南极考察队出征",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727767.shtml"
         }
       ]
     },
@@ -135,38 +135,38 @@
       "items": [
         {
           "date": "2026-11-06",
-          "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-          "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-06",
-          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-          "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
+          "title": "AI stocks climb after trillions wiped from market values",
+          "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-06",
-          "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-          "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+          "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+          "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-06",
-          "title": "Trump signs order preventing future presidents from changing Oval Office",
-          "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
+          "title": "Nigerian court rules opposition candidate cannot stand in elections",
+          "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-06",
-          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-          "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+          "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+          "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/dsh-superagent-prototype（⭐ 19608）",
-          "summary": "Towards a More Autonomous Agent System",
-          "source": "GitHub",
-          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "storytold/craft-anything（⭐ 15368）",
-          "summary": "Craft Anything: understand how any software works, and craft your own.",
-          "source": "GitHub",
-          "url": "https://github.com/storytold/craft-anything"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "KKKKhazix/agent-autoloop（⭐ 3302）",
+          "title": "KKKKhazix/agent-autoloop（⭐ 3707）",
           "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
           "source": "GitHub",
           "url": "https://github.com/KKKKhazix/agent-autoloop"
         },
         {
           "date": "GitHub Trending",
-          "title": "Verlintas/NOIR（⭐ 2528）",
-          "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-          "source": "GitHub",
-          "url": "https://github.com/Verlintas/NOIR"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto（⭐ 2461）",
+          "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto（⭐ 2901）",
           "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
           "source": "GitHub",
           "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "govijr/terminal-mac（⭐ 2158）",
+          "summary": "Entire MacOS running in your terminal.",
+          "source": "GitHub",
+          "url": "https://github.com/govijr/terminal-mac"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "mromidev/claude-animated-shorts（⭐ 2037）",
+          "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+          "source": "GitHub",
+          "url": "https://github.com/mromidev/claude-animated-shorts"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "caru-ini/stack-diagram（⭐ 1971）",
+          "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+          "source": "GitHub",
+          "url": "https://github.com/caru-ini/stack-diagram"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "中国女间谍的话题，为什么会与黄仁勋联系在一起？一组公开合影引发情报疑云，英伟达则强调只是正常客户往来。合影之外，我们究竟知道多少？从《蝴蝶君》背后的真实案件，到",
-      "video": "黄仁勋真的被攻陷了吗？历史上的中国女间谍究竟有多厉害？ 黃仁勳真的被攻陷了嗎？曆史上的中共女間諜究竟有多厲害？ 夸克说|誇克说",
-      "date": "2026-11-04",
-      "url": "https://www.youtube.com/watch?v=C1nz-gMq27s"
+      "desc": "习近平反腐十几年，贪官为什么还是抓不完？二十届五中全会之后，这道老问题又摆到了眼前。一边强调控制规模，一边是不断增加的人数和财政负担，究竟该怎么看？本期从道光皇",
+      "video": "习近平反腐，是在给中共裁员吗？为什么越控制，人越多？習近平反腐，是在給中共裁員嗎？為什麼越控制，人越多？夸克说|誇克说",
+      "date": "2026-11-06",
+      "url": "https://www.youtube.com/watch?v=k2n43cIyrnc"
     },
     {
       "channel": "May Fit",
