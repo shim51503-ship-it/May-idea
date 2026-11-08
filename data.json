@@ -1,15 +1,29 @@
 {
-  "issueDate": "2026-11-07",
-  "generatedAt": "2026-11-07T02:28:01.571Z",
+  "issueDate": "2026-11-08",
+  "generatedAt": "2026-11-08T01:56:45.388Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Crusoe sells troubled Wyoming data center project to Google\n【金融新闻】五支毛笔四支来自这里，千年小镇“写”出百亿元产业\n【中国新闻】开源开放 共建共享——2026年世界互联网大会乌镇峰会综述\n【世界新闻】Elon Musk appears to signal the end of the road for Cybertruck"
+    "body": "【AI 最新信息】After the midterms, things are looking rocky for Elon Musk and data centers\n【金融新闻】（第九届进博会）汽车技术跨界出圈 赋能具身智能新赛道\n【中国新闻】第九届虹桥国际经济论坛举行，与会人士呼吁——坚守多边主义，推进普惠包容的经济全球化\n【世界新闻】What we know so far after Krakow gun attack"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-11-07",
+          "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+          "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+        },
+        {
+          "date": "2026-11-07",
+          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+          "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+        },
         {
           "date": "2026-11-07",
           "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -30,20 +44,6 @@
           "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-          "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "How a Blue Wave midterm might reshape the AI industry",
-          "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot me",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-07",
-          "title": "五支毛笔四支来自这里，千年小镇“写”出百亿元产业",
-          "summary": "中国经济样本观察·“镇”了不起丨五支毛笔四支来自这里，千年小镇“写”出百亿元产业",
+          "date": "2026-11-08",
+          "title": "（第九届进博会）汽车技术跨界出圈 赋能具身智能新赛道",
+          "summary": "中新网上海11月8日电 (杨硕)7日，第九届中国国际进口博览会正在上海举行。记者在汽车及智慧出行展区采访发现，汽车工业沉淀的成熟技术正加速跨界复用。安波福、博世等多家深耕工业领域的企业，将经规模化验证的技术与量产能力拓展至具身智能等新赛道，以技术复用打开增长新空间。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727788.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728211.shtml"
+        },
+        {
+          "date": "2026-11-08",
+          "title": "2026中欧非·绿色能源发展论坛在浙江温州举行",
+          "summary": "中新网温州11月8日电(胡丰盛)11月7日，2026中欧非·绿色能源发展论坛在浙江温州举行。来自中国、欧盟及非洲国家的政界人士、驻华使节、行业机构和企业代表等齐聚共商中欧非绿色能源合作与发展，共议零碳新生态建设之道。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728210.shtml"
+        },
+        {
+          "date": "2026-11-08",
+          "title": "（第九届进博会）上海杨浦与老挝携手推进贸易往来",
+          "summary": "中新网上海11月8日电 (记者 陈静)作为第九届中国国际进口博览会杨浦区重点活动之一，上海杨浦区人民政府与老挝工贸部外贸司合作备忘录签约仪式暨第二届“聚焦长三角·投资新老挝”推介会7日在沪举行。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728207.shtml"
+        },
+        {
+          "date": "2026-11-08",
+          "title": "（第九届进博会）中欧商界寻找合作共振点",
+          "summary": "中新网上海11月8日电 (陶思阅)第九届中国国际进口博览会正在上海举行。作为进博会和虹桥国际经济论坛的延伸和补充，2026进博会上海会议活动于6日至9日在上海举办。在“中欧合作发展交流会——高水平开放下的中欧投资与贸易新机遇”分论坛中，跨国公司、多国商会代表齐聚交流合作机遇。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728205.shtml"
         },
         {
           "date": "2026-11-07",
-          "title": "从“十五五”专项规划看以金融服务发展大局",
-          "summary": "新华社北京11月6日电 题：不断提升服务实体经济质效——从“十五五”专项规划看以金融服务发展大局",
+          "title": "（第九届进博会）多国风物初登进博 借开放中国链接世界",
+          "summary": "中新社上海11月7日电 题：多国风物初登进博 借开放中国链接世界",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727779.shtml"
-        },
-        {
-          "date": "2026-11-07",
-          "title": "历史新高！翻番增长！一组数据感受中国经济强劲脉动",
-          "summary": "本周",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727777.shtml"
-        },
-        {
-          "date": "2026-11-07",
-          "title": "“粮安天下 智链未来” 中国国际粮油博览会在厦门开幕",
-          "summary": "中新网厦门11月7日电 (记者 林永传)第二十二届中国国际粮油产品及设备技术展示交易会(中国国际粮油博览会)6日在厦门国际会展中心开幕。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727771.shtml"
-        },
-        {
-          "date": "2026-11-07",
-          "title": "商务部新闻发言人就美制裁中国企业答记者问",
-          "summary": "中新网11月7日电 据商务部网站7日消息，商务部新闻发言人就美制裁中国企业答记者问。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727763.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728169.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-07",
-          "title": "开源开放 共建共享——2026年世界互联网大会乌镇峰会综述",
-          "summary": "江南水乡，秋日细雨，风光旖旎。",
+          "date": "2026-11-08",
+          "title": "第九届虹桥国际经济论坛举行，与会人士呼吁——坚守多边主义，推进普惠包容的经济全球化",
+          "summary": "11月5日至6日，以“稳定合作 共建开放型世界经济”为主题的第九届虹桥国际经济论坛在上海举行。论坛围绕“开放合作”“开放创新”“开放发展”“开放共享”四个板块设置23场分论坛及7场闭门会等活动。与会人士就维护开放合作、完善全球经济治理等议题深入研讨，为推动构建开放型世界经济、推进普惠包容的经济全球化贡献智慧和力量。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727786.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728239.shtml"
         },
         {
-          "date": "2026-11-07",
-          "title": "中共中央发出通知 部署党的二十一大代表选举工作",
-          "summary": "新华社北京11月7日电#8195;党的二十届五中全会决定，党的二十一大于2027年下半年在北京召开。最近，中共中央印发了《关于党的二十一大代表选举工作的通知》，对二十一大代表选举工作作出全面部署。中央组织部近日召开会议，对这项工作作出具体安排。",
+          "date": "2026-11-08",
+          "title": "“航母五件套”未来还可能升级！专家解读“5+X”新模式",
+          "summary": "10月下旬，我军首型舰载察打一体隐身无人机“攻击-21”首次在076型两栖攻击舰四川舰上成功起降。这是我国两栖攻击舰发展历程上取得的又一次突破，标志着人民海军具备固定翼隐身无人机在大型海上作战平台起降能力。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727781.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728237.shtml"
         },
         {
-          "date": "2026-11-07",
-          "title": "神舟二十四号载人飞行任务标识发布",
-          "summary": "今天，神舟二十四号载人飞行任务标识正式发布。",
+          "date": "2026-11-08",
+          "title": "光“星巴扎”就破防？那我告诉你，国际酒店也成群去新疆了",
+          "summary": "如果你只听到某些西方政客和媒体所谓#8204;“强迫劳动”“人权迫害”的说法，那么新疆大概是一个不适合正常商业活动的地方。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727784.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728236.shtml"
         },
         {
-          "date": "2026-11-07",
-          "title": "中国空间站将迎来首位外籍航天员",
-          "summary": "中新网北京11月7日电 (记者 马帅莎)据中国载人航天工程办公室7日消息，神舟二十四号载人飞行任务将有1名巴基斯坦航天员以载荷专家身份参加，在完成短期在轨飞行后，随神舟二十三号载人飞船返回。这是中国载人航天工程历史上首次中外航天员联合飞行，中国空间站将迎来首位外籍航天员到访。",
+          "date": "2026-11-08",
+          "title": "第二十三届北京论坛开幕",
+          "summary": "中新网北京11月8日电 (记者 周昕)11月6日，第二十三届北京论坛在北京开幕。本届论坛以“科技变革与多元文明”为主题，来自29个国家和地区的近400位嘉宾学者参加论坛，共话科技变革时代多元文明的交流互鉴之道。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727783.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728220.shtml"
         },
         {
-          "date": "2026-11-07",
-          "title": "中国第43次南极考察队出征",
-          "summary": "新华社权威快报|中国第43次南极考察队出征",
+          "date": "2026-11-08",
+          "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
+          "summary": "新华社权威快报｜第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727767.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728204.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-06",
-          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+          "date": "2026-11-08",
+          "title": "What we know so far after Krakow gun attack",
+          "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-06",
-          "title": "AI stocks climb after trillions wiped from market values",
-          "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+          "date": "2026-11-07",
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-06",
-          "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-          "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+          "date": "2026-11-07",
+          "title": "Paraguay's former president charged after bank collapse",
+          "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-06",
-          "title": "Nigerian court rules opposition candidate cannot stand in elections",
-          "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+          "date": "2026-11-07",
+          "title": "US offers $20m reward for information about Iran's nuclear programme",
+          "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-06",
-          "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-          "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+          "date": "2026-11-07",
+          "title": "Gaza wedding festival sees 250 couples married at the same time",
+          "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "KKKKhazix/agent-autoloop（⭐ 3707）",
+          "title": "KKKKhazix/agent-autoloop（⭐ 3968）",
           "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
           "source": "GitHub",
           "url": "https://github.com/KKKKhazix/agent-autoloop"
         },
         {
           "date": "GitHub Trending",
-          "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto（⭐ 2901）",
+          "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto（⭐ 3062）",
           "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
           "source": "GitHub",
           "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
         },
         {
           "date": "GitHub Trending",
-          "title": "govijr/terminal-mac（⭐ 2158）",
+          "title": "Minireel/HGhub（⭐ 2333）",
+          "summary": "YellowFruit third-party client",
+          "source": "GitHub",
+          "url": "https://github.com/Minireel/HGhub"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "govijr/terminal-mac（⭐ 2247）",
           "summary": "Entire MacOS running in your terminal.",
           "source": "GitHub",
           "url": "https://github.com/govijr/terminal-mac"
         },
         {
           "date": "GitHub Trending",
-          "title": "mromidev/claude-animated-shorts（⭐ 2037）",
-          "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+          "title": "NotRexed/Hookshot（⭐ 1879）",
+          "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
           "source": "GitHub",
-          "url": "https://github.com/mromidev/claude-animated-shorts"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "caru-ini/stack-diagram（⭐ 1971）",
-          "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-          "source": "GitHub",
-          "url": "https://github.com/caru-ini/stack-diagram"
+          "url": "https://github.com/NotRexed/Hookshot"
         }
       ]
     }
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "日本最神秘的開國女王，名字竟然只出現在中國史書中！三國時代，曹魏皇帝冊封了一位統治日本的女王——卑彌呼。她究竟是誰？邪馬台國在哪裡？日本考古發現的神秘銅鏡與巨大",
-      "video": "日本開國女王卑彌呼，唯一的記錄竟來自中國！一面銅鏡牽出千年謎團，她究竟是誰？【文昭思緒飛揚589】",
-      "date": "2026-11-06",
-      "url": "https://www.youtube.com/watch?v=U8fJ4I-rrSE"
+      "desc": "1996年，《古惑仔》讓陳浩南成為江湖偶像，但真實的香港黑社會，結局遠比電影離奇！  同樣面對地下世界，中國大陸和港英政府，采用了完全不同的治理策略，爲什麽？",
+      "video": "《古惑仔》把混混拍成英雄，香港地下世界那些呼風喚雨的大哥，後來都怎樣了？【文昭思緒飛揚590】",
+      "date": "2026-11-08",
+      "url": "https://www.youtube.com/watch?v=hZJBJEVIp9Q"
     },
     {
       "channel": "夸克说",
@@ -250,10 +250,10 @@
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔥 ChatGPT Sites 真的被严重低估了。它不只是帮你做网页，而是能把聊天记录、文件、数据和工作流，直接变成一个真正可以长期使用的工具。更关键的是，S",
-      "video": "12分鐘搞懂ChatGPT Sites: 10個真實案例！",
-      "date": "2026-10-31",
-      "url": "https://www.youtube.com/watch?v=roHGbU1rMwE"
+      "desc": "🔥 開源模型正在爆發，而且很可能會成為下一波 AI Agent 的核心。  這支影片我用13分鐘，帶你一次搞懂開源模型到底是什麼、為什麼越來越重要，以及普通人",
+      "video": "13分鐘學會開源模型｜完整講解",
+      "date": "2026-11-07",
+      "url": "https://www.youtube.com/watch?v=V813OCL7IMA"
     }
   ]
 }
