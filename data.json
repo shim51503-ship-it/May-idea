@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-09",
-  "generatedAt": "2026-11-09T02:14:05.431Z",
+  "issueDate": "2026-11-10",
+  "generatedAt": "2026-11-10T04:25:21.416Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy\n【金融新闻】进博会让海外中小微企业“被看见”\n【中国新闻】福建检察机关依法对尹建业涉嫌受贿案提起公诉\n【世界新闻】Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says"
+    "body": "【AI 最新信息】Anthropic reportedly plans to move forward with IPO plans\n【金融新闻】（第九届进博会）从进博会看亚太经贸合作“你中有我”\n【中国新闻】英国大雾侵袭多地扰乱交通\n【世界新闻】Trump says more US attacks on Iran 'highly unlikely'"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-11-08",
-          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-          "summary": "In a memo to the company, Huang admitted that he had an affair.",
+          "date": "2026-11-10",
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
+          "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
         },
         {
-          "date": "2026-11-07",
-          "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-          "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+          "date": "2026-11-09",
+          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+          "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
         },
         {
-          "date": "2026-11-07",
-          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-          "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+          "date": "2026-11-09",
+          "title": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six months before the scandal",
+          "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
         },
         {
-          "date": "2026-11-07",
-          "title": "Crusoe sells troubled Wyoming data center project to Google",
-          "summary": "The deal highlights the challenges of developing massive AI data centers.",
+          "date": "2026-11-09",
+          "title": "The race is on to sue Nvidia",
+          "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law e",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
         },
         {
-          "date": "2026-11-06",
-          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-          "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+          "date": "2026-11-09",
+          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+          "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-09",
-          "title": "进博会让海外中小微企业“被看见”",
-          "summary": "新华社上海11月8日电 题：进博会让海外中小微企业“被看见”",
+          "date": "2026-11-10",
+          "title": "（第九届进博会）从进博会看亚太经贸合作“你中有我”",
+          "summary": "中新社上海11月10日电 (邸子瀛)“亚太经贸合作你中有我”，第九届中国国际进口博览会上，多家亚太经合组织(APEC)经济体参展企业分享的发展故事，折射出这一日益紧密的联系。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728641.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729338.shtml"
         },
         {
-          "date": "2026-11-09",
-          "title": "巴西携56家企业亮相进博会 释放深耕中国市场的积极信号",
-          "summary": "人民网上海11月8日电 (记者张荣、张文捷)第九届中国国际进口博览会于11月5日在上海开幕。巴西此次组织56家企业参展，带来种类丰富的产品，旨在进一步拓展中国市场，挖掘新的合作机遇。",
+          "date": "2026-11-10",
+          "title": "北京城市副中心首届OPC嘉年华·宋庄季落幕 聚焦AIGC创作和转化",
+          "summary": "中新网北京11月10日电 (记者 应妮)北京城市副中心首届OPC(One Person Company，即“一人公司”缩写)嘉年华·宋庄季日前在京落下帷幕。活动以“一人成军·艺起筑巢”为主题，聚焦社群集结、行业对接和成果转化。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728640.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729327.shtml"
         },
         {
-          "date": "2026-11-09",
-          "title": "10月份工业生产者出厂价格同比上涨5.7%，环比上涨0.7%",
-          "summary": "中新网11月9日电 据国家统计局网站消息，2026年10月份，全国工业生产者出厂价格同比上涨5.7%，环比上涨0.7%。工业生产者购进价格同比上涨7.9%，环比上涨1.1%。1—10月平均，工业生产者出厂价格比上年同期上涨2.7%，工业生产者购进价格上涨4.0%。",
+          "date": "2026-11-10",
+          "title": "（第九届进博会）全球灵感在此交汇 进博会见证创新要素双向流动",
+          "summary": "中新网上海11月10日电 (记者 许婧 郑莹莹)进博会的各展台是观察全球产业合作变化的窗口。正在上海举办的第九届进博会上，参展商不再局限于单向商品输入，而是依托中国市场，对接本土需求、联动全球资源，把在中国形成的创意、技术、运营经验向外输出，形成双向互动、互利共赢的合作模式。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728637.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729330.shtml"
         },
         {
-          "date": "2026-11-09",
-          "title": "绿色低碳、医疗健康 外国参展商眼中的“十五五”新机遇",
-          "summary": "第九届中国国际进口博览会正在上海举行。今天是展会的第四天，也是首个公众开放日。今年是“十五五”开局之年，绿色低碳、医疗健康成为各国参展商的关注重点。不少跨国企业抢抓机遇，加大投资、落地新项目。",
+          "date": "2026-11-10",
+          "title": "（第九届进博会）进博会加速AI从“炫技”走向“生产力”",
+          "summary": "中新网上海11月10日电 (李秋莹 李佳佳 杨海燕)近日，第九届中国国际进口博览会在国家会展中心(上海)举行。今年展馆里AI已从个别展台的炫技，变成各大展商共同的生产力叙事。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728636.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729318.shtml"
         },
         {
-          "date": "2026-11-09",
-          "title": "全球媒体聚焦 |“进博会展现中国开放合作的强劲吸引力”",
-          "summary": "11月5日至10日，第九届中国国际进口博览会(进博会)在上海举行。步入第九个年头的进博会在展览规模、展品质量、展商参与度等多项指标中创出历史新高。",
+          "date": "2026-11-10",
+          "title": "A股午评：超3800只个股飘红，三大指数集体收涨",
+          "summary": "A股午评：超3800只个股飘红，三大指数集体收涨；通信设备、传媒、半导体上涨；CPO、人形机器人、光通信走高；煤炭、保险、酒类下跌",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728633.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-10/10729332.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-09",
-          "title": "福建检察机关依法对尹建业涉嫌受贿案提起公诉",
-          "summary": "江西省政协原党组成员、副主席尹建业涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对尹建业作出逮捕决定，并指定由福建省漳州市人民检察院审查起诉。近日，漳州市人民检察院已向漳州市中级人民法院提起公诉。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728638.shtml"
-        },
-        {
-          "date": "2026-11-09",
-          "title": "强化地方党委功能（学习贯彻党的二十届五中全会精神）",
-          "summary": "尹力",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728613.shtml"
-        },
-        {
-          "date": "2026-11-09",
-          "title": "王小洪在云南调研时强调 提高政策措施的针对性有效性 因地制宜推动高质量发展",
-          "summary": "新华社昆明11月8日电 中共中央书记处书记、国务委员王小洪7日至8日到云南调研。他强调，要认真学习贯彻党的二十届五中全会精神，深入贯彻习近平总书记考察云南重要讲话精神，落实党中央、国务院决策部署，完整准确全面贯彻新发展理念，统筹发展和安全，立足自身条件，提高政策措施的针对性有效性，因地制宜推动高质量发展。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728609.shtml"
-        },
-        {
-          "date": "2026-11-09",
-          "title": "特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
-          "summary": "当地时间11月8日，美总统特朗普表示，此前提出任命美国终极格斗冠军赛(UFC)总裁达纳·怀特担任白宫新闻秘书“只是开玩笑”。",
+          "date": "2026-11-10",
+          "title": "英国大雾侵袭多地扰乱交通",
+          "summary": "中新网伦敦11月10日电 (记者 欧阳开宇)近日大范围浓雾笼罩英格兰、威尔士多地，引发多起交通事故并造成交通延误。英国气象局9日发布新一轮黄色大雾预警。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728607.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729277.shtml"
         },
         {
-          "date": "2026-11-09",
-          "title": "南非公布地方选举结果 过半数市镇现“悬峙议会”",
-          "summary": "中新社约翰内斯堡11月8日电 (记者 孙翔)南非独立选举委员会8日晚公布2026年地方政府选举结果，执政党非洲人国民大会(简称非国大)得票率由2021年的45.59%降至30.76%，但仍位居首位。南非全国超过半数市镇议会出现“悬峙议会”，即没有任何政党获得绝对多数席位，地方政府组建面临多党谈判。",
+          "date": "2026-11-10",
+          "title": "国际最新研究：预计2026年全球二氧化碳排放量将暂时性下降0.4%",
+          "summary": "中新网北京11月10日电 (记者 孙自法)施普林格·自然旗下专业学术期刊《自然-气候变化》11月10日在线发表一篇论文称，一项研究显示，在全球化石燃料二氧化碳排放量于2019年至2025年间以年均0.8%的速度增长后，预计2026年将暂时下降，降幅预计为0.4%。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728586.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729301.shtml"
+        },
+        {
+          "date": "2026-11-10",
+          "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
+          "summary": "中新社北京11月10日电 据中国国防部网站消息，11月10日，中美两军在四川成都举行美军遗骸移交仪式，中方向美方移交一批在“驼峰航线”沿线区域发掘的美军援华抗日飞行员遗骸。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729337.shtml"
+        },
+        {
+          "date": "2026-11-10",
+          "title": "今年前十月两岸进出口贸易额同比增长32%",
+          "summary": "中新社北京11月10日电 海关总署10日公布的最新统计数据显示，今年前10个月，大陆与台湾进出口贸易额同比增长32%，内地与香港进出口贸易额同比增长55.3%。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-10/10729335.shtml"
+        },
+        {
+          "date": "2026-11-10",
+          "title": "圭亚那“放射日”：两国三地“云”聚 中国文化亮眼",
+          "summary": "中新网圭亚那乔治敦11月9日电 (周树林 洪顾麒 徐斌)第15个国际放射日来临之际，中国(江苏)第22批援圭亚那医疗队与中国(江苏)第36批援桑给巴尔医疗队，于8日在圭亚那乔治敦与坦桑尼亚桑给巴尔温古贾岛、奔巴岛“云端”开展放射影像专题培训。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-10/10729324.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-08",
-          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-          "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+          "date": "2026-11-10",
+          "title": "Trump says more US attacks on Iran 'highly unlikely'",
+          "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-08",
-          "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-          "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+          "date": "2026-11-10",
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-08",
-          "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-          "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+          "date": "2026-11-10",
+          "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+          "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-08",
-          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-          "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+          "date": "2026-11-10",
+          "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+          "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-08",
-          "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-          "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+          "date": "2026-11-10",
+          "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+          "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "KKKKhazix/agent-autoloop（⭐ 4123）",
-          "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-          "source": "GitHub",
-          "url": "https://github.com/KKKKhazix/agent-autoloop"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Minireel/HGhub（⭐ 3431）",
-          "summary": "YellowFruit third-party client",
-          "source": "GitHub",
-          "url": "https://github.com/Minireel/HGhub"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto（⭐ 3269）",
-          "summary": "Google_AI_Pro_2Year_ZeroCost_Auto",
-          "source": "GitHub",
-          "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "NotRexed/Hookshot（⭐ 3186）",
+          "title": "NotRexed/Hookshot（⭐ 5296）",
           "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
           "source": "GitHub",
           "url": "https://github.com/NotRexed/Hookshot"
         },
         {
           "date": "GitHub Trending",
-          "title": "govijr/terminal-mac（⭐ 2393）",
-          "summary": "Entire MacOS running in your terminal.",
+          "title": "tangerineturtle1/NX2navi（⭐ 2488）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/govijr/terminal-mac"
+          "url": "https://github.com/tangerineturtle1/NX2navi"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "huamidev/GestaltX（⭐ 2472）",
+          "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+          "source": "GitHub",
+          "url": "https://github.com/huamidev/GestaltX"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "jhaizhou-ops/S2Arm（⭐ 1999）",
+          "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+          "source": "GitHub",
+          "url": "https://github.com/jhaizhou-ops/S2Arm"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "JenkinWoo/sheeridVerify（⭐ 1952）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/JenkinWoo/sheeridVerify"
         }
       ]
     }
