@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-11",
-  "generatedAt": "2026-11-11T02:24:49.911Z",
+  "issueDate": "2026-11-12",
+  "generatedAt": "2026-11-12T03:29:50.198Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】OpenAI acquires Odessia, travel startup created by Sonder founder\n【金融新闻】“效率提升达百倍” 一种“新型基础设施”来了\n【中国新闻】日本推动修订“安保三文件” 威胁地区和平稳定\n【世界新闻】US House blocks bid to impeach Defence Secretary Pete Hegseth, for now"
+    "body": "【AI 最新信息】Who could replace Jensen Huang? A highly unscientific list of possible successors\n【金融新闻】中国海油在渤海中部海域取得超深层油气勘探重大突破\n【中国新闻】中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工\n【世界新闻】Australian teen missing in bush for six days rescued alive"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-11-10",
-          "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-          "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+          "date": "2026-11-12",
+          "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+          "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
         },
         {
-          "date": "2026-11-10",
-          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-          "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and re",
+          "date": "2026-11-11",
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+          "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
         },
         {
-          "date": "2026-11-10",
-          "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-          "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpo",
+          "date": "2026-11-11",
+          "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+          "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
         },
         {
-          "date": "2026-11-10",
-          "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-          "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+          "date": "2026-11-11",
+          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+          "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separa",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
         },
         {
-          "date": "2026-11-10",
-          "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-          "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+          "date": "2026-11-11",
+          "title": "Why the data center you dread might never even be built",
+          "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Be",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+          "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-11",
-          "title": "“效率提升达百倍” 一种“新型基础设施”来了",
-          "summary": "随着人工智能技术的快速迭代，这两年，AI黑灯实验室正在加快落地，开辟智能科研服务新赛道。",
+          "date": "2026-11-12",
+          "title": "中国海油在渤海中部海域取得超深层油气勘探重大突破",
+          "summary": "中新社北京11月12日电 (记者 王恩博)中国海洋石油有限公司12日宣布，在渤海超5000米的超深层地层钻探发现一口火山岩高产油气井，标志着中国在海上超深层天然气勘探领域取得重大突破。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729933.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730704.shtml"
         },
         {
-          "date": "2026-11-11",
-          "title": "开放朋友圈越扩越大 一组数据看进博 “成绩单”",
-          "summary": "11月10日，第九届中国国际进口博览会在上海闭幕。六天的展期，交出了一份怎样的进博“成绩单”？下面就通过一组数据来盘点一下。",
+          "date": "2026-11-12",
+          "title": "上海气质 国际风范——在进博会感受有序与活力",
+          "summary": "新华社北京11月11日电 11月11日,《新华每日电讯》发表题为《上海气质 国际风范——在进博会感受有序与活力》的报道。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729932.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730706.shtml"
         },
         {
-          "date": "2026-11-11",
-          "title": "雄忻高铁山西段全线接触网送电完成",
-          "summary": "记者从国铁太原局获悉，11月11日凌晨，雄忻高铁山西段全线接触网完成一次性送电，为即将开展的热滑试验和联调联试奠定基础。",
+          "date": "2026-11-12",
+          "title": "中消协：网购“AB货”同价不同质 公平交易不容“欺生凌弱”",
+          "summary": "中新网11月12日电 12日，中国消费者协会在其官方网站发布《中消协观点：网购“AB货”同价不同质公平交易不容“欺生凌弱”》，文章称，近期，网购“AB货”争议持续升温，成为消费领域热门话题。网购“AB货”是指部分电商经营者以同一链接、同一价格销售同一商品时，针对不同消费者区别发送品质明显不同的商品。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729923.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730683.shtml"
         },
         {
-          "date": "2026-11-11",
-          "title": "11月11日央行开展1870亿元隔夜逆回购操作",
-          "summary": "中新网11月11日电 据中国人民银行网站消息，2026年11月11日中国人民银行以固定利率、数量招标方式开展了1870亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+          "date": "2026-11-12",
+          "title": "让贸易成为促进全球发展繁荣的普惠引擎",
+          "summary": "让贸易成为促进全球发展繁荣的普惠引擎(国际论坛)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729915.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730684.shtml"
         },
         {
-          "date": "2026-11-11",
-          "title": "11月11日人民币对美元中间价报6.7191 下调24个基点",
-          "summary": "中新网11月11日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月11日银行间外汇市场人民币汇率中间价为1美元对人民币6.7191元，下调24个基点。",
+          "date": "2026-11-12",
+          "title": "“区域经济一体化至关重要”——访联合国亚太经社会贸易、投资和创新司司长钱达",
+          "summary": "“区域经济一体化至关重要”(APEC中国年：开放 创新 合作)",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729912.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730682.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-11",
-          "title": "日本推动修订“安保三文件” 威胁地区和平稳定",
-          "summary": "日本政府“再军事化”动作不断。据日本方面消息，针对修订“安保三文件”，日本执政党自民党及其执政伙伴日本维新会10日举行首次工作层磋商。据悉，双方围绕当前安全保障形势，讨论了加强防卫和外交力量的方向。",
+          "date": "2026-11-12",
+          "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
+          "summary": "新华社墨西哥城11月9日电(记者吴昊)中国-墨西哥亚克斯科波伊尔联合考古项目发布会暨开工仪式近日在墨西哥尤卡坦州亚克斯科波伊尔举行。该项目旨在深化中墨文物考古合作，促进文明交流互鉴。中国驻墨西哥大使馆、山东大学、墨西哥国家文物局、中国-墨西哥文化发展基金会等机构代表及两国各界人士百余人出席仪式。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729949.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml"
         },
         {
-          "date": "2026-11-11",
-          "title": "贵州省信访局原局长马磊被“双开”",
-          "summary": "中新网11月11日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对贵州省信访局原局长、省委社会工作部原副部长(兼)马磊严重违纪违法问题进行了立案审查调查。",
+          "date": "2026-11-12",
+          "title": "国际人士热切期待APEC“深圳时间”",
+          "summary": "今年是中国加入APEC的第35个年头，35年来，中国既是APEC合作的受益者，更是重要的推动者和贡献者。国际人士是如何看待亚太合作共赢？对APEC“中国年”，又有哪些期待呢？",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729941.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730703.shtml"
         },
         {
-          "date": "2026-11-11",
-          "title": "贵州省黔南州人大常委会原副主任朱奉余被“双开”",
-          "summary": "中新网11月11日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对贵州省黔南州人大常委会原党组成员、副主任朱奉余严重违纪违法问题进行了立案审查调查。",
+          "date": "2026-11-12",
+          "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+          "summary": "纪念孙中山先生诞辰160周年大会12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729939.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730688.shtml"
         },
         {
-          "date": "2026-11-11",
-          "title": "保加利亚连环车祸致12死50伤 11日为全国哀悼日",
-          "summary": "中新社北京11月11日电 索非亚消息：保加利亚当地时间10日发生两起严重连环车祸，造成12人死亡、50人受伤。该国政府当天宣布11月11日为全国哀悼日，以悼念遇难者。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-11/10729928.shtml"
-        },
-        {
-          "date": "2026-11-11",
-          "title": "陈永奇任江西省人民政府副省长、代理省长职务",
-          "summary": "快讯！陈永奇任江西省人民政府副省长、代理省长职务",
+          "date": "2026-11-12",
+          "title": "一批侵华日军细菌战化学战新罪证集中发布",
+          "summary": "新华社哈尔滨11月11日电(记者杨思琪、何山)今年是东京审判开庭80周年。11月9日至11日，“铭记历史·守护正义——侵华日军细菌战化学战罪行研究学术研讨会”在黑龙江举行。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-11/10729943.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730697.shtml"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在北京举行",
+          "summary": "11月12日上午，纪念孙中山先生诞辰160周年大会在北京人民大会堂隆重举行。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730681.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-11",
-          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-          "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+          "date": "2026-11-12",
+          "title": "Australian teen missing in bush for six days rescued alive",
+          "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "New York building collapse kills one person and injures 12",
+          "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+          "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-11",
-          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-          "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+          "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-11",
-          "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-          "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-11",
-          "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-          "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-11",
-          "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-          "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "NotRexed/Hookshot（⭐ 6637）",
-          "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-          "source": "GitHub",
-          "url": "https://github.com/NotRexed/Hookshot"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "huamidev/GestaltX（⭐ 4973）",
+          "title": "huamidev/GestaltX（⭐ 6390）",
           "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
           "source": "GitHub",
           "url": "https://github.com/huamidev/GestaltX"
         },
         {
           "date": "GitHub Trending",
-          "title": "tangerineturtle1/NX2navi（⭐ 2911）",
+          "title": "tangerineturtle1/NX2navi（⭐ 3301）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/tangerineturtle1/NX2navi"
         },
         {
           "date": "GitHub Trending",
-          "title": "jhaizhou-ops/S2Arm（⭐ 2406）",
+          "title": "jhaizhou-ops/S2Arm（⭐ 2622）",
           "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
           "source": "GitHub",
           "url": "https://github.com/jhaizhou-ops/S2Arm"
         },
         {
           "date": "GitHub Trending",
-          "title": "JenkinWoo/sheeridVerify（⭐ 2009）",
+          "title": "JenkinWoo/sheeridVerify（⭐ 2041）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/JenkinWoo/sheeridVerify"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "DIYgod/pinky（⭐ 1893）",
+          "summary": "Let AI agents use your phone, with you in the loop.",
+          "source": "GitHub",
+          "url": "https://github.com/DIYgod/pinky"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "美国中期选举到底是怎么回事？总统明明有四年任期，为什么当到一半，美国人又要投票？这次究竟在选谁，选完以后又能改变什么？众议员两年一届，参议员却能干六年，为什么还",
-      "video": "美国中期选举到底选什么？总统干到一半为何又要投票，败选会让川普失势吗？夸克说|誇克说",
-      "date": "2026-11-08",
-      "url": "https://www.youtube.com/watch?v=P2R_Lc9zWKw"
+      "desc": "黄仁勋承认婚外情后，围绕黄乐的疑问并没有结束。一份旧履历，把媒体、私人银行和私募串在一起；后来，她又出现在数十亿美元的AI设备生意中。从上海到新加坡，这些公司、",
+      "video": "黄仁勋的情人黄乐到底是何方神圣，她到底是不是间谍？ 夸克说",
+      "date": "2026-11-11",
+      "url": "https://www.youtube.com/watch?v=mBGKU4_kBrE"
     },
     {
       "channel": "May Fit",
