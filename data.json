@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-14",
-  "generatedAt": "2026-11-14T02:48:31.606Z",
+  "issueDate": "2026-11-15",
+  "generatedAt": "2026-11-15T02:17:29.547Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say\n【金融新闻】国家统计局：11月上旬16种产品价格上涨，生猪价格环比下降6.5%\n【中国新闻】再创新高 51个一类新药进入新版国家医保药品目录\n【世界新闻】Jojo the gorilla has spent his life alone. Can he finally find a companion?"
+    "body": "【AI 最新信息】Where was Nvidia&#8217;s security team?\n【金融新闻】一老一小社区发展支持计划研讨会举行 专家建言优先培养综合人才\n【中国新闻】（寻味中华｜风俗）蟳埔女习俗：从渔村日常到花漾美学\n【世界新闻】My mother told me I would die if I sought treatment for Ebola - I am proof you can survive"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-11-15",
+          "title": "Where was Nvidia&#8217;s security team?",
+          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a comp",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+        },
+        {
+          "date": "2026-11-14",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+        },
+        {
+          "date": "2026-11-14",
+          "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+        },
+        {
+          "date": "2026-11-14",
+          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+        },
+        {
           "date": "2026-11-13",
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
           "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "AI agent startup LangChain hits $3B valuation",
-          "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
-          "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
-          "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most a",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-14",
-          "title": "国家统计局：11月上旬16种产品价格上涨，生猪价格环比下降6.5%",
-          "summary": "中新网11月14日电 国家统计局11月14日在其官网发布2026年11月上旬流通领域重要生产资料市场价格变动情况。据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年11月上旬与10月下旬相比，16种产品价格上涨，32种下降，2种持平。",
+          "date": "2026-11-15",
+          "title": "一老一小社区发展支持计划研讨会举行 专家建言优先培养综合人才",
+          "summary": "中新网北京11月15日电 (张素 马广志)“设施条件可较快改善，运行机制调整难度更高，长期持续运行更具挑战。”近日举行的一场研讨会上，专家建言优先培养“一老一小”社区工作综合人才。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731905.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732232.shtml"
         },
         {
-          "date": "2026-11-14",
-          "title": "聚焦APEC｜APEC深圳会议各项筹备工作已经就绪",
-          "summary": "新华社深圳11月14日电(记者王丰、杨深深)广东省委常委、APEC会议广东省筹备工作领导小组副组长王曦14日在2026年APEC领导人会议周新闻中心首场吹风会上表示，目前，各项筹备工作已经就绪，我们满怀热忱，静候八方宾客到来。(完)",
+          "date": "2026-11-15",
+          "title": "金融机构外汇存款准备金率今起提高至6%",
+          "summary": "今天，中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731906.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml"
         },
         {
-          "date": "2026-11-14",
-          "title": "预计到2030年 我国新增清洁能源电量将覆盖新增用电量",
-          "summary": "中国宏观经济研究院昨天(13日)发布《中国能源转型展望2026》。报告显示，目前，我国风电、光伏等清洁能源发电已成为新增装机的主体，并正在逐步成为发电主力。",
+          "date": "2026-11-15",
+          "title": "1至10月份国家铁路发送货物34.2亿吨",
+          "summary": "中新网11月15日电 据“中国铁路”微信公众号消息，今年1至10月份，国家铁路累计发送货物34.2亿吨，日均装车18.92万车，同比分别增长1.1%、1.8%，为降低全社会物流成本、保障国民经济平稳运行提供了可靠运输支撑，“中国铁路物流”的品牌影响力、市场竞争力和客户满意度持续提升。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731902.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732221.shtml"
         },
         {
-          "date": "2026-11-14",
-          "title": "从汽车大国到汽车强国 底气藏在超级工厂看不见的硬功夫里",
-          "summary": "在重庆两江新区的一座超级工厂里，如果一颗螺丝没拧到位，整条产线就会立刻“刹车”，保障生产过程中汽车质量过关。",
+          "date": "2026-11-15",
+          "title": "北交所开市五周年 总市值约8000亿元",
+          "summary": "今天(15日)，北京证券交易所迎来开市五周年。截至目前，北交所有上市公司355家，总市值约8000亿元。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731884.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732225.shtml"
         },
         {
-          "date": "2026-11-14",
-          "title": "今年1至10月全国铁路发送旅客41.3亿人次 创历史同期新高",
-          "summary": "中新网11月14日电 据“中国铁路”微信公众号消息，今年以来，中国国家铁路集团有限公司坚持以人民为中心的发展思想，精心组织旅客运输，统筹安排运力资源，优化客运产品供给，提升旅客服务品质，1至10月全国铁路累计发送旅客41.3亿人次，同比增长4.7%，创历史同期新高，全国铁路运输安全平稳有序。",
+          "date": "2026-11-15",
+          "title": "新增107种药品 如何进一步提升临床用药可及性，减轻患者负担？",
+          "summary": "新版国家基本医保药品目录发布，新增107种药品。如何进一步提升临床用药可及性，减轻患者负担？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731881.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732222.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-14",
-          "title": "再创新高 51个一类新药进入新版国家医保药品目录",
-          "summary": "原标题：新华社权威快报｜再创新高 51个一类新药进入新版国家医保药品目录",
+          "date": "2026-11-15",
+          "title": "（寻味中华｜风俗）蟳埔女习俗：从渔村日常到花漾美学",
+          "summary": "中新社福建泉州11月15日电 题：蟳埔女习俗：从渔村日常到花漾美学",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731912.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732241.shtml"
         },
         {
-          "date": "2026-11-14",
-          "title": "韩国政府连续三年单独举办佐渡金山劳工受害者悼念仪式",
-          "summary": "中新网首尔11月14日电 (金旭 林珺)当地时间13日，韩国政府在日本新潟县佐渡市举办佐渡金山劳工受害者悼念仪式。这是韩国连续第三年单独举行悼念仪式。",
+          "date": "2026-11-15",
+          "title": "一道寿州城墙守护一城烟火",
+          "summary": "中新网淮南11月15日电 题：一道寿州城墙守护一城烟火",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732234.shtml"
+        },
+        {
+          "date": "2026-11-15",
+          "title": "秦海翔当选福州市委书记",
+          "summary": "中新网福州11月15日电 (记者 龙敏)11月14日，中国共产党福州市第十三届委员会第一次全体会议召开。经无记名投票选举，秦海翔、吴贤德、兰文、张定锋、黄建雄、朱训志、陈丽英、杨洪毅、郑鸿、赵明正、崔建林当选为中国共产党福州市第十三届委员会常务委员会委员。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732223.shtml"
+        },
+        {
+          "date": "2026-11-15",
+          "title": "亚洲备灾中心执行主任：中国助力各国建设与未来发展",
+          "summary": "中新网安塔利亚11月15日电(记者 陈溯 魏园)11月9日至20日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)在土耳其安塔利亚举行。亚洲备灾中心(ADPC)执行主任阿斯拉姆·佩尔韦兹(Aslam Perwaiz)在COP31期间表示，中国是亚洲备灾中心创始成员国之一，长期投入资源支持中心开展能力建设，",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731894.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732236.shtml"
         },
         {
-          "date": "2026-11-14",
-          "title": "11.68天！我国深层页岩油钻井速度刷新纪录",
-          "summary": "今天(14日)，记者从中国石化获悉，胜利油田丰页B13HF井以11.68天的钻井周期，刷新国内6000米井深陆相页岩油井最短钻井周期纪录，为深层页岩油规模化、效益化开发提供了提速降本的新路径。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731910.shtml"
-        },
-        {
-          "date": "2026-11-14",
-          "title": "微视频｜亚太共潮生",
-          "summary": "亚太经合组织第三十三次领导人非正式会议将于11月18日至19日在深圳举行。国家主席习近平将出席会议及相关活动。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731900.shtml"
-        },
-        {
-          "date": "2026-11-14",
-          "title": "日本政府拟大幅增加防卫费引批评：扩军备武换不来安全",
-          "summary": "中新网11月14日电 据日本共同社13日报道，日本政府拟在未来五年大幅增加防卫费，考虑在2026年底修订“安保三文件”时将2027至2031财年防卫费总额提高至60万亿日元。对此，日本民众表示强烈反对和担忧。",
+          "date": "2026-11-15",
+          "title": "南非夸纳省一华人超市遭遇持枪抢劫 中国驻德班总领馆发布安全提醒",
+          "summary": "中新网约翰内斯堡11月15日电 中国驻德班总领馆14日发布公告，提醒中国公民、企业机构加强年末安全防范。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731909.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732229.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-14",
-          "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-          "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+          "date": "2026-11-15",
+          "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+          "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-15",
+          "title": "Judo champion shakes up French presidential race with surprise candidacy",
+          "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-14",
-          "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-          "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+          "title": "How telecoms upgrade work sparked US flight chaos",
+          "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-14",
-          "title": "Setback for SpaceX Starship rocket's double-catch test",
-          "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-13",
-          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-          "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+          "date": "2026-11-14",
+          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-          "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "huamidev/GestaltX（⭐ 7348）",
+          "title": "huamidev/GestaltX（⭐ 7579）",
           "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
           "source": "GitHub",
           "url": "https://github.com/huamidev/GestaltX"
         },
         {
           "date": "GitHub Trending",
-          "title": "jhaizhou-ops/S2Arm（⭐ 2878）",
-          "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
-          "source": "GitHub",
-          "url": "https://github.com/jhaizhou-ops/S2Arm"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Kianuni/Erosion-CN（⭐ 1936）",
+          "title": "Kianuni/Erosion-CN（⭐ 2063）",
           "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
           "source": "GitHub",
           "url": "https://github.com/Kianuni/Erosion-CN"
         },
         {
           "date": "GitHub Trending",
-          "title": "apex-compute/ANR（⭐ 1505）",
+          "title": "apex-compute/ANR（⭐ 1847）",
           "summary": "Apex Neural Rendering (ANR) by Apex Compute",
           "source": "GitHub",
           "url": "https://github.com/apex-compute/ANR"
         },
         {
           "date": "GitHub Trending",
-          "title": "HybridRobotics/supermimic（⭐ 1441）",
+          "title": "deepseek-ai/chat-demo（⭐ 1791）",
+          "summary": "Chat Demo",
+          "source": "GitHub",
+          "url": "https://github.com/deepseek-ai/chat-demo"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "HybridRobotics/supermimic（⭐ 1502）",
           "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
           "source": "GitHub",
           "url": "https://github.com/HybridRobotics/supermimic"
@@ -222,17 +222,17 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "2027年，世界將發生什麼大事？英國「末日先知」帕克，和泰國靈媒普萊在2025年已經做出關於2026的預言，本集將調查他們的預言命中情況，再講述他們對2027年",
-      "video": "2027大預言：兩大靈媒已說中多件大事；跨年之際，他們又發出什麼警告？【文昭思緒飛揚591】",
-      "date": "2026-11-13",
-      "url": "https://www.youtube.com/watch?v=qRPMyr-IQX8"
+      "desc": "一場巴黎豪華酒店的秘密安排，竟牽出震驚中國的上海社保大案！從神秘富豪張榮坤，到上海市委書記陳良宇、心腹秘書秦裕，數十億養老資金如何捲入權錢交易？20年後，全國社",
+      "video": "一段秘密錄像，牽出社保大案！你的養老錢，誰拿去揮霍了？跨越20年的追問【文昭思緒飛揚592】",
+      "date": "2026-11-15",
+      "url": "https://www.youtube.com/watch?v=bjZC5unfzgQ"
     },
     {
       "channel": "夸克说",
-      "desc": "捷豹路虎为何盯上比亚迪方程豹钛7？把钛7和路虎卫士摆在一起，外形一眼就能比，但官司还牵涉一个更难回答的问题：买来一台车，拆开研究，再把学到的东西用到自己车上，界",
-      "video": "路虎状告比亚迪：为什么一场普通的商业纠纷，会被看成是打压民族企业？夸克说|誇克说",
-      "date": "2026-11-13",
-      "url": "https://www.youtube.com/watch?v=dMro13TzvVk"
+      "desc": "黄仁勋辞职，交出了英伟达总裁、CEO和董事三个职务。四天前，董事会还公开表示支持他的管理团队。短短几天，事情怎么走到这一步？围绕黄乐的报道里，哪些有公开材料可查",
+      "video": "黄仁勋辞职疑团大盘点：马斯克、贝索斯都有婚外情，为什么只有老黄栽了？英伟达会凉凉吗？FBI查了一年，为什么不抓黄乐？夸克说",
+      "date": "2026-11-14",
+      "url": "https://www.youtube.com/watch?v=LRfTkNCInGo"
     },
     {
       "channel": "May Fit",
@@ -244,16 +244,16 @@
     {
       "channel": "盈夏AI轻创业",
       "desc": "🚀 体验 Higgsfield MCP，30秒连接 Claude，开启AI视频自动化创作！ 👉 https://higgsfield.ai/s/higgsf",
-      "video": "一条指令拿到整条视频？AI故事频道全自动做纪录片 不露脸做Youtube原来这么简单？！Higgsfield+Claude 这效率太夸张了...A赚钱 AI视频 AI教学 AI搞钱 AI副业",
+      "video": "一条指令拿到Youtube视频？AI故事频道全自动做纪录片 不露脸做Youtube原来这么简单？！Higgsfield+Claude 这效率太夸张了...A赚钱 AI视频 AI搞钱 AI副业",
       "date": "2026-11-13",
       "url": "https://www.youtube.com/watch?v=tAncIi0fkVM"
     },
     {
       "channel": "李厂长来了",
-      "desc": "🔥 開源模型正在爆發，而且很可能會成為下一波 AI Agent 的核心。  這支影片我用13分鐘，帶你一次搞懂開源模型到底是什麼、為什麼越來越重要，以及普通人",
-      "video": "13分鐘學會開源模型｜完整講解",
-      "date": "2026-11-07",
-      "url": "https://www.youtube.com/watch?v=V813OCL7IMA"
+      "desc": "📩 免费订阅《李厂长AI周报》：https://join.lichangzhang.ai/ 每周帮你筛掉AI噪音，只留下真正值得关注的新闻、工具和工作流，几分",
+      "video": "Anthropic 發布了有史以來最強的AI模型: Claude Fable 5.2！",
+      "date": "2026-11-14",
+      "url": "https://www.youtube.com/watch?v=QTawe_f0FV4"
     }
   ]
 }
