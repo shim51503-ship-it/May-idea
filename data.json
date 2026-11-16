@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-15",
-  "generatedAt": "2026-11-15T02:17:29.547Z",
+  "issueDate": "2026-11-16",
+  "generatedAt": "2026-11-16T02:29:33.076Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Where was Nvidia&#8217;s security team?\n【金融新闻】一老一小社区发展支持计划研讨会举行 专家建言优先培养综合人才\n【中国新闻】（寻味中华｜风俗）蟳埔女习俗：从渔村日常到花漾美学\n【世界新闻】My mother told me I would die if I sought treatment for Ebola - I am proof you can survive"
+    "body": "【AI 最新信息】Apple launches new app to study how people use AI for health\n【金融新闻】国家统计局：10月份国民经济运行总体平稳、向新向优\n【中国新闻】习近平致信祝贺暨南大学建校120周年\n【世界新闻】Australian MP who lost both legs in alleged car attack discharged from hospital"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-11-16",
+          "title": "Apple launches new app to study how people use AI for health",
+          "summary": "Apple's new app for a study will answer everyday medical questions",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+        },
+        {
+          "date": "2026-11-15",
+          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+        },
+        {
+          "date": "2026-11-15",
+          "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+          "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+        },
+        {
+          "date": "2026-11-15",
+          "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+          "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their imp",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
+        },
+        {
           "date": "2026-11-15",
           "title": "Where was Nvidia&#8217;s security team?",
           "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a comp",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
-        },
-        {
-          "date": "2026-11-14",
-          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-        },
-        {
-          "date": "2026-11-14",
-          "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-        },
-        {
-          "date": "2026-11-14",
-          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-          "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-15",
-          "title": "一老一小社区发展支持计划研讨会举行 专家建言优先培养综合人才",
-          "summary": "中新网北京11月15日电 (张素 马广志)“设施条件可较快改善，运行机制调整难度更高，长期持续运行更具挑战。”近日举行的一场研讨会上，专家建言优先培养“一老一小”社区工作综合人才。",
+          "date": "2026-11-16",
+          "title": "国家统计局：10月份国民经济运行总体平稳、向新向优",
+          "summary": "中新网11月16日电 据国家统计局网站消息，10月份，各地区各部门认真贯彻落实党中央和国务院决策部署，坚持稳中求进工作总基调，强化存量政策和增量政策协同，扎实推进高质量发展，生产供给平稳增长，市场销售规模扩大，对外贸易快速增长，就业物价总体稳定，新质生产力茁壮成长，国民经济运行延续总体平稳、向新向优发展态势。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732232.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732626.shtml"
         },
         {
-          "date": "2026-11-15",
-          "title": "金融机构外汇存款准备金率今起提高至6%",
-          "summary": "今天，中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。",
+          "date": "2026-11-16",
+          "title": "10月国民经济运行总体平稳、向新向优",
+          "summary": "原标题：新华社权威快报|10月国民经济运行总体平稳、向新向优",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732619.shtml"
         },
         {
-          "date": "2026-11-15",
-          "title": "1至10月份国家铁路发送货物34.2亿吨",
-          "summary": "中新网11月15日电 据“中国铁路”微信公众号消息，今年1至10月份，国家铁路累计发送货物34.2亿吨，日均装车18.92万车，同比分别增长1.1%、1.8%，为降低全社会物流成本、保障国民经济平稳运行提供了可靠运输支撑，“中国铁路物流”的品牌影响力、市场竞争力和客户满意度持续提升。",
+          "date": "2026-11-16",
+          "title": "2022年以来云南累计完成绿电交易超40亿千瓦时",
+          "summary": "中新网昆明11月16日电 (记者 韩帅南)记者15日从南方电网云南电网公司获悉，2022年以来，云南省累计完成绿电交易超过40亿千瓦时。其中，2026年1至10月绿电交易电量达到14.85亿千瓦时，占累计绿电交易电量近四成。目前，云南全省绿色能源交易电量占市场化交易电量比重已经超过90%。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732221.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732608.shtml"
         },
         {
-          "date": "2026-11-15",
-          "title": "北交所开市五周年 总市值约8000亿元",
-          "summary": "今天(15日)，北京证券交易所迎来开市五周年。截至目前，北交所有上市公司355家，总市值约8000亿元。",
+          "date": "2026-11-16",
+          "title": "农银债市宝 让投资债券触手可及",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732225.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732598.shtml"
         },
         {
-          "date": "2026-11-15",
-          "title": "新增107种药品 如何进一步提升临床用药可及性，减轻患者负担？",
-          "summary": "新版国家基本医保药品目录发布，新增107种药品。如何进一步提升临床用药可及性，减轻患者负担？",
+          "date": "2026-11-16",
+          "title": "AI时代的饭碗要怎么端",
+          "summary": "近日，腾讯“裁员50%”的传言和随之而来的紧急辟谣，在舆论场激起巨大波澜。裁员传言是对腾讯管理层讲话中“50%像陆军、50%像海军”比喻的误读。但谣言之所以能引发广泛焦虑，恰恰因为它戳中了当下最敏感的神经：AI正在重塑组织结构，每个人都在问自己，我的饭碗还端得稳吗？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732222.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732595.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-15",
-          "title": "（寻味中华｜风俗）蟳埔女习俗：从渔村日常到花漾美学",
-          "summary": "中新社福建泉州11月15日电 题：蟳埔女习俗：从渔村日常到花漾美学",
+          "date": "2026-11-16",
+          "title": "习近平致信祝贺暨南大学建校120周年",
+          "summary": "新华社北京11月16日电#8195;中共中央总书记、国家主席、中央军委主席习近平16日致信祝贺暨南大学建校120周年，向全体师生员工和广大校友致以祝贺。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732241.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732633.shtml"
         },
         {
-          "date": "2026-11-15",
-          "title": "一道寿州城墙守护一城烟火",
-          "summary": "中新网淮南11月15日电 题：一道寿州城墙守护一城烟火",
+          "date": "2026-11-16",
+          "title": "【光明论坛】增强党在新兴领域号召力凝聚力影响力",
+          "summary": "【光明论坛】",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732234.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732636.shtml"
         },
         {
-          "date": "2026-11-15",
-          "title": "秦海翔当选福州市委书记",
-          "summary": "中新网福州11月15日电 (记者 龙敏)11月14日，中国共产党福州市第十三届委员会第一次全体会议召开。经无记名投票选举，秦海翔、吴贤德、兰文、张定锋、黄建雄、朱训志、陈丽英、杨洪毅、郑鸿、赵明正、崔建林当选为中国共产党福州市第十三届委员会常务委员会委员。",
+          "date": "2026-11-16",
+          "title": "河北检察机关依法对王峻涉嫌受贿案提起公诉",
+          "summary": "中新网11月16日电 据最高人民检察院微博消息，西藏自治区人大常委会原党组副书记、副主任王峻涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对王峻作出逮捕决定，并指定由河北省张家口市人民检察院审查起诉。近日，张家口市人民检察院已向张家口市中级人民法院提起公诉。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732223.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732617.shtml"
         },
         {
-          "date": "2026-11-15",
-          "title": "亚洲备灾中心执行主任：中国助力各国建设与未来发展",
-          "summary": "中新网安塔利亚11月15日电(记者 陈溯 魏园)11月9日至20日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)在土耳其安塔利亚举行。亚洲备灾中心(ADPC)执行主任阿斯拉姆·佩尔韦兹(Aslam Perwaiz)在COP31期间表示，中国是亚洲备灾中心创始成员国之一，长期投入资源支持中心开展能力建设，",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732236.shtml"
+          "date": "2026-11-16",
+          "title": "孔泉阐述帮助理解中国对外政策的“四个关键词”",
+          "summary": "中新网巴黎11月16日电 (记者 李洋)第九届巴黎和平论坛当地时间11日举办“解读中国的全球角色和影响力”专题研讨会。第六届中国经济社会理事会常务理事、原中央外办副主任、前驻法国大使孔泉作为嘉宾出席研讨会，重点阐述帮助理解中国对外政策的“四个关键词”。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732609.shtml"
         },
         {
-          "date": "2026-11-15",
-          "title": "南非夸纳省一华人超市遭遇持枪抢劫 中国驻德班总领馆发布安全提醒",
-          "summary": "中新网约翰内斯堡11月15日电 中国驻德班总领馆14日发布公告，提醒中国公民、企业机构加强年末安全防范。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732229.shtml"
+          "date": "2026-11-16",
+          "title": "（深圳APEC）习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+          "summary": "中新社北京11月16日电 中国外交部发言人16日宣布，11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。(完)",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732602.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-15",
-          "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-          "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+          "date": "2026-11-16",
+          "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+          "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+          "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Russia's mega-rich are already imagining a future after Putin",
+          "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-15",
-          "title": "Judo champion shakes up French presidential race with surprise candidacy",
-          "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-14",
-          "title": "How telecoms upgrade work sparked US flight chaos",
-          "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-14",
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-14",
-          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-          "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "huamidev/GestaltX（⭐ 7579）",
-          "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-          "source": "GitHub",
-          "url": "https://github.com/huamidev/GestaltX"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Kianuni/Erosion-CN（⭐ 2063）",
-          "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-          "source": "GitHub",
-          "url": "https://github.com/Kianuni/Erosion-CN"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "apex-compute/ANR（⭐ 1847）",
-          "summary": "Apex Neural Rendering (ANR) by Apex Compute",
-          "source": "GitHub",
-          "url": "https://github.com/apex-compute/ANR"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "deepseek-ai/chat-demo（⭐ 1791）",
+          "title": "deepseek-ai/chat-demo（⭐ 3158）",
           "summary": "Chat Demo",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/chat-demo"
         },
         {
           "date": "GitHub Trending",
-          "title": "HybridRobotics/supermimic（⭐ 1502）",
+          "title": "apex-compute/ANR（⭐ 2228）",
+          "summary": "Apex Neural Rendering (ANR) by Apex Compute",
+          "source": "GitHub",
+          "url": "https://github.com/apex-compute/ANR"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Kianuni/Erosion-CN（⭐ 2136）",
+          "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+          "source": "GitHub",
+          "url": "https://github.com/Kianuni/Erosion-CN"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "FrigadeHQ/yogurt（⭐ 1664）",
+          "summary": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+          "source": "GitHub",
+          "url": "https://github.com/FrigadeHQ/yogurt"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "HybridRobotics/supermimic（⭐ 1570）",
           "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
           "source": "GitHub",
           "url": "https://github.com/HybridRobotics/supermimic"
