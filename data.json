@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-17",
-  "generatedAt": "2026-11-17T04:53:30.548Z",
+  "issueDate": "2026-11-18",
+  "generatedAt": "2026-11-18T03:57:46.481Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Cybersecurity AI startup Corma reaches $1B valuation in about 3 months\n【金融新闻】APEC让数字红利惠及亚太\n【中国新闻】法医专家：爱泼斯坦可能在狱中遭谋杀，而非自杀\n【世界新闻】Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO"
+    "body": "【AI 最新信息】Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt\n【金融新闻】三地青年齐聚天津 产学研银企联动赋能京津冀协同发展\n【中国新闻】“投资中国 对话山西”中法产业合作圆桌会议在太原举办\n【世界新闻】Nvidia says it won't reinstate Huang as firm reports bumper results"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-11-16",
-          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+          "date": "2026-11-18",
+          "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+          "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of ",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+          "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
         },
         {
-          "date": "2026-11-16",
-          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-          "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter r",
+          "date": "2026-11-18",
+          "title": "Nvidia promises that revenue will keep soaring — for now",
+          "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking rev",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+          "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
         },
         {
-          "date": "2026-11-16",
-          "title": "California state AG sues OpenAI over rogue agent incidents",
-          "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+          "date": "2026-11-17",
+          "title": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster",
+          "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
         },
         {
-          "date": "2026-11-16",
-          "title": "Trump says ex-Nvidia CEO Jensen Huang&#8217;s affair with an alleged Chinese spy did not threaten national security",
-          "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+          "date": "2026-11-17",
+          "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang&#8217;s exit",
+          "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
         },
         {
-          "date": "2026-11-16",
-          "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be &#8216;fine’",
-          "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without",
+          "date": "2026-11-17",
+          "title": "Nvidia says it doesn&#8217;t plan to reappoint Jensen Huang as CEO",
+          "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-17",
-          "title": "APEC让数字红利惠及亚太",
-          "summary": "凌晨四点半，印度尼西亚泗水晨光熹微。24小时营业的便民小店内，店主莉娜·萨丽正低头翻看手机上的线上订单。“这个时间网络一定不能卡，很多客人一早就下单，如果支付失败，一天的生意都会受影响。”莉娜感慨道。",
+          "date": "2026-11-18",
+          "title": "三地青年齐聚天津 产学研银企联动赋能京津冀协同发展",
+          "summary": "中新网天津11月18日电 (记者 江莹)16日至17日，“挺膺担当新时代携手并进创未来”京津冀青年企业家天津行活动在蓟州区举办。来自京津冀三地青年企业家、青联委员代表以及高校团委负责人等120余人齐聚天津，共商合作机遇，为京津冀协同发展积蓄青春力量。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733326.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733915.shtml"
         },
         {
-          "date": "2026-11-17",
-          "title": "商务部等9部门深入推进再生资源回收体系建设",
-          "summary": "中新网11月17日电 据商务部网站消息，商务部等9部门发布《关于深入推进再生资源回收体系建设 促进回收行业高质量发展的意见》。",
+          "date": "2026-11-18",
+          "title": "二手房交易活跃带动市场趋稳",
+          "summary": "各地不断调整优化房地产政策，我国房地产市场出现了一定的积极变化。当前二手住房成交量回升、一些城市商品住宅价格的趋稳和去库存取得积极成效，表明市场供需正逐步构建新的平衡。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733330.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733916.shtml"
         },
         {
-          "date": "2026-11-17",
-          "title": "连续6年稳步上行 海关总署发布西部陆海新通道对外贸易指数",
-          "summary": "11月17日，海关总署发布了西部陆海新通道对外贸易指数。该指数是中国海关编制发布的首个聚焦国家战略通道能级的指数产品，围绕通道规模、物流集聚、市场联通、开放效益、发展潜力五大维度，以《西部陆海新通道总体规划》印发实施的2019年为基期100点，综合反映西部陆海新通道建设成效。",
+          "date": "2026-11-18",
+          "title": "汇聚工商力量培育持续动能",
+          "summary": "11月17日至18日，2026年亚太经合组织(APEC)工商领导人峰会在深圳举行，2000余位政商领袖参会，共谋区域合作大计，共绘亚太发展蓝图。这是一次凝聚共识的盛会，也是推动工商界携手应对挑战、开拓发展空间的重要契机。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733329.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733913.shtml"
         },
         {
-          "date": "2026-11-17",
-          "title": "商务部等9部门深入推进再生资源回收体系建设",
-          "summary": "原标题：新华社权威快报|商务部等9部门深入推进再生资源回收体系建设",
+          "date": "2026-11-18",
+          "title": "（深圳APEC）中欧基金国际CEO：冀APEC推进亚太自贸区建设和数字经济发展",
+          "summary": "中新网深圳11月18日电(记者 国璇) 2026年亚太经合组织(APEC)工商领导人峰会于11月17日至18日在深圳前海国际会议中心举行。中欧基金国际CEO何一伟日前在受访时表示，期待会议推进亚太自贸区建设和数字经济、人工智能的发展，营造良好的跨境资产管理制度环境。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733324.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733872.shtml"
         },
         {
-          "date": "2026-11-17",
-          "title": "爱尔眼科何勇川：做孩子身边的追光人，以医术守护成长之路",
-          "summary": "近日，14岁的西西坐在裂隙灯前，顺着重庆爱尔儿童眼科医院院长何勇川的指引缓缓转动眼球，一旁的家长紧张地等待着检查结果。“恢复不错，定期复查就好。”何勇川说完，西西和家人都露出了笑容。至此，西西历经三次手术都未痊愈的复杂斜视问题，经何勇川主刀，已矫治并稳定保持整整一年。",
+          "date": "2026-11-18",
+          "title": "11月18日央行开展7002亿元隔夜逆回购操作",
+          "summary": "中新网11月18日电 据中国人民银行网站消息，2026年11月18日中国人民银行以固定利率、数量招标方式开展了7002亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733318.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733885.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-17",
-          "title": "法医专家：爱泼斯坦可能在狱中遭谋杀，而非自杀",
-          "summary": "中新网11月17日电 据美国有线电视新闻网(CNN)报道，当地时间16日，一名法医专家公布其研究结论，称种种迹象表明美国富商爱泼斯坦在羁押期间可能遭谋杀。这一结论与纽约市首席法医办公室此前认定爱泼斯坦死于自杀的结论相矛盾。",
+          "date": "2026-11-18",
+          "title": "“投资中国 对话山西”中法产业合作圆桌会议在太原举办",
+          "summary": "中新网太原11月18日电 (记者 李庭耀)“投资中国 对话山西”中法产业合作圆桌会议17日在太原举办。中法政企研代表聚焦绿色能源转型国际合作，探讨能源绿色低碳发展路径和前景，推动中法生态低碳城项目合作落地山西。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733927.shtml"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "国台办：台湾岛内议统望统热度不断升高",
+          "summary": "中新网11月18日电 11月18日，国务院台办举行例行新闻发布会。有记者问，民进党当局称，大陆宣传统一利好及形塑“议统”氛围，面对大陆加大“对台施压及促统力度”，将捍卫所谓“国家主权安全”。请问对此有何评论？",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733977.shtml"
+        },
+        {
+          "date": "2026-11-18",
+          "title": "数千海地居民声援萨尔瓦多部队打击黑帮",
+          "summary": "中新社北京11月18日电 太子港消息：当地时间11月17日，海地首都太子港及热雷米、雅克梅勒、圣马克等地的数千名民众走上街头，公开声援萨尔瓦多总统布克尔及其部队打击海地黑帮。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733336.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733942.shtml"
         },
         {
-          "date": "2026-11-17",
-          "title": "联合国前副秘书长索尔海姆：别只听传言，亲眼看看中国的绿色蜕变 | 新闻会客厅",
-          "summary": "中新网11月17日电 (记者 林卓玮)第31届联合国气候变化大会(COP31)正在土耳其安塔利亚召开，联合国前副秘书长、联合国环境规划署前执行主任，现任欧盟亚洲中心联合主席的埃里克·索尔海姆(Erik Solheim)日前接受中新社“新闻会客厅”专访，结合多次在中国实地走访的所见所闻，分享他对中国生态治理、全球气候合作",
+          "date": "2026-11-18",
+          "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
+          "summary": "中新社北京11月18日电 一名美国军方官员当地时间17日表示，美军当日对位于伊朗格什姆岛的一处导弹发射场实施精确打击，以进行“自卫”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733325.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733941.shtml"
         },
         {
-          "date": "2026-11-17",
-          "title": "习近平对人民法院工作作出重要指示",
-          "summary": "习近平对人民法院工作作出重要指示强调",
+          "date": "2026-11-18",
+          "title": "现场直击：多国领导人抵达深圳（视频+高清大图）",
+          "summary": "11月18日至19日，亚太经合组织第三十三次领导人非正式会议将在深圳举行，这是中国第三次，也是时隔12年再次担任APEC东道主。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733327.shtml"
-        },
-        {
-          "date": "2026-11-17",
-          "title": "国家药监局：北京同仁堂等17家药企27批次药品不符合规定",
-          "summary": "记者从国家药监局获悉，最新发布的药品抽检通告显示，经过天津市药品检验研究院等7家药品检验机构检验，标示为北京同仁堂股份有限公司同仁堂制药厂等17家药企生产的27批次药品不符合规定，这27批次药品的含水量、药品中存在可见异物，以及活性药物的溶出速度和程度等指标，达不到我国药品的规定要求。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733328.shtml"
-        },
-        {
-          "date": "2026-11-17",
-          "title": "习近平会见越共中央总书记、国家主席苏林",
-          "summary": "新华社快讯：11月17日，中共中央总书记、国家主席习近平在深圳会见越共中央总书记、国家主席苏林。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733316.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733966.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
+          "date": "2026-11-18",
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "date": "2026-11-17",
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-16",
-          "title": "Five EU countries announce migrant deportation centre in Rwanda",
-          "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+          "date": "2026-11-17",
+          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+          "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-16",
-          "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-          "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+          "date": "2026-11-17",
+          "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+          "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-16",
-          "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-          "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+          "date": "2026-11-17",
+          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-16",
-          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-          "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "deepseek-ai/chat-demo（⭐ 4207）",
+          "title": "deepseek-ai/chat-demo（⭐ 4587）",
           "summary": "Chat Demo",
           "source": "GitHub",
           "url": "https://github.com/deepseek-ai/chat-demo"
         },
         {
           "date": "GitHub Trending",
-          "title": "apex-compute/ANR（⭐ 2494）",
-          "summary": "Apex Neural Rendering (ANR) by Apex Compute",
+          "title": "krisgfx9/Wireless-Device-Battery-Monitor（⭐ 2904）",
+          "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
           "source": "GitHub",
-          "url": "https://github.com/apex-compute/ANR"
+          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
         },
         {
           "date": "GitHub Trending",
-          "title": "hitkeeen/blender-ai-mcp-addon（⭐ 2279）",
-          "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-          "source": "GitHub",
-          "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Noniv/abyssal-garden（⭐ 1794）",
+          "title": "Noniv/abyssal-garden（⭐ 2199）",
           "summary": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
           "source": "GitHub",
           "url": "https://github.com/Noniv/abyssal-garden"
         },
         {
           "date": "GitHub Trending",
-          "title": "duwqijlk/muse-protocol（⭐ 1492）",
-          "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+          "title": "gylive/google-ultra（⭐ 1884）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/duwqijlk/muse-protocol"
+          "url": "https://github.com/gylive/google-ultra"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Immortal-Protocols/lastbook（⭐ 1843）",
+          "summary": "Offline knowledge AI, maps and videos for survival and rebuilding",
+          "source": "GitHub",
+          "url": "https://github.com/Immortal-Protocols/lastbook"
         }
       ]
     }
