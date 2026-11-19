@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-18",
-  "generatedAt": "2026-11-18T03:57:46.481Z",
+  "issueDate": "2026-11-19",
+  "generatedAt": "2026-11-19T03:54:54.042Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt\n【金融新闻】三地青年齐聚天津 产学研银企联动赋能京津冀协同发展\n【中国新闻】“投资中国 对话山西”中法产业合作圆桌会议在太原举办\n【世界新闻】Nvidia says it won't reinstate Huang as firm reports bumper results"
+    "body": "【AI 最新信息】Microsoft CEO Satya Nadella explains why he asked 60K employees to quit\n【金融新闻】A股午评：三大指数收跌，超4500只个股飘绿\n【中国新闻】（深圳APEC）习近平：携手搭建亚太共同体的“四梁八柱”\n【世界新闻】Elon Musk says record spending on US midterms was 'pretty foolish'"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
-          "date": "2026-11-18",
-          "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-          "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of ",
+          "date": "2026-11-19",
+          "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+          "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than red",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
         },
         {
           "date": "2026-11-18",
-          "title": "Nvidia promises that revenue will keep soaring — for now",
-          "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking rev",
+          "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+          "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+          "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
         },
         {
-          "date": "2026-11-17",
-          "title": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster",
-          "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+          "date": "2026-11-18",
+          "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
+          "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+          "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
         },
         {
-          "date": "2026-11-17",
-          "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang&#8217;s exit",
-          "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+          "date": "2026-11-18",
+          "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+          "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
         },
         {
-          "date": "2026-11-17",
-          "title": "Nvidia says it doesn&#8217;t plan to reappoint Jensen Huang as CEO",
-          "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+          "date": "2026-11-18",
+          "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+          "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+          "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-18",
-          "title": "三地青年齐聚天津 产学研银企联动赋能京津冀协同发展",
-          "summary": "中新网天津11月18日电 (记者 江莹)16日至17日，“挺膺担当新时代携手并进创未来”京津冀青年企业家天津行活动在蓟州区举办。来自京津冀三地青年企业家、青联委员代表以及高校团委负责人等120余人齐聚天津，共商合作机遇，为京津冀协同发展积蓄青春力量。",
+          "date": "2026-11-19",
+          "title": "A股午评：三大指数收跌，超4500只个股飘绿",
+          "summary": "A股午评：三大指数收跌，超4500只个股飘绿；黄金股重挫；传媒、能源设备、教育跌幅居前；冰雪旅游、培育钻石走低；摩托车、酒类上涨",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733915.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734560.shtml"
         },
         {
-          "date": "2026-11-18",
-          "title": "二手房交易活跃带动市场趋稳",
-          "summary": "各地不断调整优化房地产政策，我国房地产市场出现了一定的积极变化。当前二手住房成交量回升、一些城市商品住宅价格的趋稳和去库存取得积极成效，表明市场供需正逐步构建新的平衡。",
+          "date": "2026-11-19",
+          "title": "辽宁省算力券政策正式落地实施",
+          "summary": "中新网沈阳11月19日电 (记者 李晛)记者19日自辽宁省财政厅获悉，为深入落实省委、省政府“人工智能+”行动部署，降低市场主体算力使用成本，激活省内算力市场，助力人工智能赋能实体经济，辽宁省财政厅会同辽宁省数据和政务服务局联合印发了《辽宁省算力券政策实施细则》，依托省级数字经济专项资金，正式启动算力券补贴政策实施工作",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733916.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734549.shtml"
         },
         {
-          "date": "2026-11-18",
-          "title": "汇聚工商力量培育持续动能",
-          "summary": "11月17日至18日，2026年亚太经合组织(APEC)工商领导人峰会在深圳举行，2000余位政商领袖参会，共谋区域合作大计，共绘亚太发展蓝图。这是一次凝聚共识的盛会，也是推动工商界携手应对挑战、开拓发展空间的重要契机。",
+          "date": "2026-11-19",
+          "title": "江苏扬州发布涉企网络服务清单 五类16项举措护航企业“网事”",
+          "summary": "中新网扬州11月19日电 (徐珊珊 崔佳明)11月19日，扬州市举行“扬州市优化营商网络环境涉企服务清单”新闻发布会。扬州市委网信办副主任沈娟娟解读《扬州市优化营商网络环境涉企服务清单》核心内容，并宣布配套H5页面同步上线。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733913.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734550.shtml"
         },
         {
-          "date": "2026-11-18",
-          "title": "（深圳APEC）中欧基金国际CEO：冀APEC推进亚太自贸区建设和数字经济发展",
-          "summary": "中新网深圳11月18日电(记者 国璇) 2026年亚太经合组织(APEC)工商领导人峰会于11月17日至18日在深圳前海国际会议中心举行。中欧基金国际CEO何一伟日前在受访时表示，期待会议推进亚太自贸区建设和数字经济、人工智能的发展，营造良好的跨境资产管理制度环境。",
+          "date": "2026-11-19",
+          "title": "云南西双版纳举办边境贸易旅游交易会 架起澜湄经贸桥",
+          "summary": "中新网昆明11月19日电 (记者 缪超)记者19日从云南省西双版纳傣族自治州政府新闻办公室获悉，第27届西双版纳边境贸易旅游交易会18日晚在告庄西双景开幕。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733872.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734551.shtml"
         },
         {
-          "date": "2026-11-18",
-          "title": "11月18日央行开展7002亿元隔夜逆回购操作",
-          "summary": "中新网11月18日电 据中国人民银行网站消息，2026年11月18日中国人民银行以固定利率、数量招标方式开展了7002亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+          "date": "2026-11-19",
+          "title": "三峡枢纽新通道首条500千伏线路完成迁改",
+          "summary": "中新网宜昌11月19日电 (郭晓莹 孙钰芳 孙小敏)据三峡集团19日消息，首条穿越三峡枢纽新通道上方的三江Ⅱ/Ⅲ回500千伏输电线路完成迁改，为后续航道开挖施工腾出了空间。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733885.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734552.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-18",
-          "title": "“投资中国 对话山西”中法产业合作圆桌会议在太原举办",
-          "summary": "中新网太原11月18日电 (记者 李庭耀)“投资中国 对话山西”中法产业合作圆桌会议17日在太原举办。中法政企研代表聚焦绿色能源转型国际合作，探讨能源绿色低碳发展路径和前景，推动中法生态低碳城项目合作落地山西。",
+          "date": "2026-11-19",
+          "title": "（深圳APEC）习近平：携手搭建亚太共同体的“四梁八柱”",
+          "summary": "中新社深圳11月19日电 (记者 谢雁冰)11月19日上午，中国国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话，强调亚太各方要携手搭建亚太共同体的“四梁八柱”。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733927.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734544.shtml"
         },
         {
-          "date": "2026-11-18",
-          "title": "国台办：台湾岛内议统望统热度不断升高",
-          "summary": "中新网11月18日电 11月18日，国务院台办举行例行新闻发布会。有记者问，民进党当局称，大陆宣传统一利好及形塑“议统”氛围，面对大陆加大“对台施压及促统力度”，将捍卫所谓“国家主权安全”。请问对此有何评论？",
+          "date": "2026-11-19",
+          "title": "（深圳APEC）习近平谈建设亚太共同体",
+          "summary": "中新社深圳11月19日电 (记者 谢雁冰)11月19日上午，中国国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733977.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734542.shtml"
         },
         {
-          "date": "2026-11-18",
-          "title": "数千海地居民声援萨尔瓦多部队打击黑帮",
-          "summary": "中新社北京11月18日电 太子港消息：当地时间11月17日，海地首都太子港及热雷米、雅克梅勒、圣马克等地的数千名民众走上街头，公开声援萨尔瓦多总统布克尔及其部队打击海地黑帮。",
+          "date": "2026-11-19",
+          "title": "日本多个民间团体要求政府坚持“无核三原则”",
+          "summary": "新华社东京11月18日电(记者李子越#8195;杨智翔)日本多个民间团体18日共同向日本外务省提交诉求书，要求政府坚持“无核三原则”。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733942.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734532.shtml"
         },
         {
-          "date": "2026-11-18",
-          "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
-          "summary": "中新社北京11月18日电 一名美国军方官员当地时间17日表示，美军当日对位于伊朗格什姆岛的一处导弹发射场实施精确打击，以进行“自卫”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-18/10733941.shtml"
-        },
-        {
-          "date": "2026-11-18",
-          "title": "现场直击：多国领导人抵达深圳（视频+高清大图）",
-          "summary": "11月18日至19日，亚太经合组织第三十三次领导人非正式会议将在深圳举行，这是中国第三次，也是时隔12年再次担任APEC东道主。",
+          "date": "2026-11-19",
+          "title": "“来了就是深圳人！”美国网红博主晨跑深圳街头点赞城市魅力",
+          "summary": "“来了就是深圳人！”",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-18/10733966.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734529.shtml"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "苏黔中华职教社及职业院校东西部协作共建签约仪式在贵阳举行",
+          "summary": "中新网贵阳11月19日电 (记者 杨茜)苏黔中华职业教育社和职业院校东西部协作共建签约仪式18日在贵州省贵阳市举行。苏黔两地职教社、职业院校共达成六组结对合作，以职业教育为纽带深化山海协作，落实东西部协作部署，携手共育高素质技术技能人才。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734526.shtml"
         }
       ]
     },
@@ -134,82 +134,46 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-18",
-          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-          "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "date": "2026-11-19",
+          "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+          "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-17",
-          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-          "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+          "date": "2026-11-19",
+          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+          "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-17",
-          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-          "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+          "date": "2026-11-19",
+          "title": "Crimean Bridge attacked again, Russian official says",
+          "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-17",
-          "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-          "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+          "date": "2026-11-19",
+          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+          "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-17",
-          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+          "date": "2026-11-19",
+          "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+          "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "github",
       "name": "GitHub / 开源项目",
-      "items": [
-        {
-          "date": "GitHub Trending",
-          "title": "deepseek-ai/chat-demo（⭐ 4587）",
-          "summary": "Chat Demo",
-          "source": "GitHub",
-          "url": "https://github.com/deepseek-ai/chat-demo"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "krisgfx9/Wireless-Device-Battery-Monitor（⭐ 2904）",
-          "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-          "source": "GitHub",
-          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Noniv/abyssal-garden（⭐ 2199）",
-          "summary": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
-          "source": "GitHub",
-          "url": "https://github.com/Noniv/abyssal-garden"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "gylive/google-ultra（⭐ 1884）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/gylive/google-ultra"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Immortal-Protocols/lastbook（⭐ 1843）",
-          "summary": "Offline knowledge AI, maps and videos for survival and rebuilding",
-          "source": "GitHub",
-          "url": "https://github.com/Immortal-Protocols/lastbook"
-        }
-      ]
+      "items": []
     }
   ],
   "youtube": [
@@ -229,10 +193,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "黄仁勋辞职，交出了英伟达总裁、CEO和董事三个职务。四天前，董事会还公开表示支持他的管理团队。短短几天，事情怎么走到这一步？围绕黄乐的报道里，哪些有公开材料可查",
-      "video": "黄仁勋辞职疑团大盘点：马斯克、贝索斯都有婚外情，为什么只有老黄栽了？英伟达会凉凉吗？FBI查了一年，为什么不抓黄乐？夸克说",
-      "date": "2026-11-14",
-      "url": "https://www.youtube.com/watch?v=LRfTkNCInGo"
+      "desc": "罗大佑痛骂赖清德、点名马世芳，为什么引发这么大的争议？曾经用歌曲批评国民党的人，为什么如今对民进党如此愤怒？这期从一场广播访谈说起，回看美丽岛事件、几首熟悉的歌",
+      "video": "罗大佑为何痛骂赖清德？从《之乎者也》到今天，他究竟在反对什么？夸克说",
+      "date": "2026-11-18",
+      "url": "https://www.youtube.com/watch?v=Wz8wck2M9K4"
     },
     {
       "channel": "May Fit",
