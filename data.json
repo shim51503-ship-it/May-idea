@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-19",
-  "generatedAt": "2026-11-19T03:54:54.042Z",
+  "issueDate": "2026-11-20",
+  "generatedAt": "2026-11-20T03:47:48.198Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Microsoft CEO Satya Nadella explains why he asked 60K employees to quit\n【金融新闻】A股午评：三大指数收跌，超4500只个股飘绿\n【中国新闻】（深圳APEC）习近平：携手搭建亚太共同体的“四梁八柱”\n【世界新闻】Elon Musk says record spending on US midterms was 'pretty foolish'"
+    "body": "【AI 最新信息】Apple may be developing its own AI agent that runs your Mac\n【金融新闻】五部门印发2026版海洋产业投融资指导目录\n【中国新闻】中韩青年江西行，看见了什么？\n【世界新闻】More climate money for Africa? Europe says use what's already pledged"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-11-20",
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+        },
+        {
           "date": "2026-11-19",
-          "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-          "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than red",
+          "title": "Meta&#8217;s new Muse Charm device may cost $300",
+          "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
         },
         {
-          "date": "2026-11-18",
-          "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
-          "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected",
+          "date": "2026-11-19",
+          "title": "These tech outages are giving Y2K, AI agent style",
+          "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something dee",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+          "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
         },
         {
-          "date": "2026-11-18",
-          "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
-          "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+          "date": "2026-11-19",
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most a",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
-        },
-        {
-          "date": "2026-11-18",
-          "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-          "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
-        },
-        {
-          "date": "2026-11-18",
-          "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-          "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+          "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-19",
-          "title": "A股午评：三大指数收跌，超4500只个股飘绿",
-          "summary": "A股午评：三大指数收跌，超4500只个股飘绿；黄金股重挫；传媒、能源设备、教育跌幅居前；冰雪旅游、培育钻石走低；摩托车、酒类上涨",
+          "date": "2026-11-20",
+          "title": "五部门印发2026版海洋产业投融资指导目录",
+          "summary": "今天(11月20日)，自然资源部联合国家发展改革委、中国人民银行等五部门，印发《海洋产业投融资指导目录(2026版)》(以下简称《目录》)，精准引导社会资本赋能海洋产业升级，助力我国海洋经济高质量发展。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734560.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735127.shtml"
         },
         {
-          "date": "2026-11-19",
-          "title": "辽宁省算力券政策正式落地实施",
-          "summary": "中新网沈阳11月19日电 (记者 李晛)记者19日自辽宁省财政厅获悉，为深入落实省委、省政府“人工智能+”行动部署，降低市场主体算力使用成本，激活省内算力市场，助力人工智能赋能实体经济，辽宁省财政厅会同辽宁省数据和政务服务局联合印发了《辽宁省算力券政策实施细则》，依托省级数字经济专项资金，正式启动算力券补贴政策实施工作",
+          "date": "2026-11-20",
+          "title": "一卡玩转长三角！来文博会解锁展内展外多元新体验",
+          "summary": "11月19日，第七届长三角国际文化产业博览会在国家会展中心(上海)开幕。本届文博会以“促进文商旅体展融合发展、激发文化消费新活力”为主题，展期持续至11月22日。开幕式上，“长三角文化消费季”同步启动，“长三角随心游权益卡”正式发布。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734549.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735115.shtml"
         },
         {
-          "date": "2026-11-19",
-          "title": "江苏扬州发布涉企网络服务清单 五类16项举措护航企业“网事”",
-          "summary": "中新网扬州11月19日电 (徐珊珊 崔佳明)11月19日，扬州市举行“扬州市优化营商网络环境涉企服务清单”新闻发布会。扬州市委网信办副主任沈娟娟解读《扬州市优化营商网络环境涉企服务清单》核心内容，并宣布配套H5页面同步上线。",
+          "date": "2026-11-20",
+          "title": "（投资中国）DHL高管：对中国市场长期增长前景保持信心",
+          "summary": "中新社上海11月20日电 (高志苗)总部位于德国的国际物流企业DHL全球货运(DGF)大中华区总部办公室近日在上海启用。DHL全球货运大中华区首席执行官艾若馨(Aditi Rasquinha)接受中新社采访时表示，新办公室的启用是DGF在中国发展的重要里程碑，体现了DHL对中国市场的长期承诺和持续投资中国市场的决心。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734550.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735111.shtml"
         },
         {
-          "date": "2026-11-19",
-          "title": "云南西双版纳举办边境贸易旅游交易会 架起澜湄经贸桥",
-          "summary": "中新网昆明11月19日电 (记者 缪超)记者19日从云南省西双版纳傣族自治州政府新闻办公室获悉，第27届西双版纳边境贸易旅游交易会18日晚在告庄西双景开幕。",
+          "date": "2026-11-20",
+          "title": "11月20日央行开展3795亿元隔夜逆回购操作",
+          "summary": "中新网11月20日电 据中国人民银行网站消息，2026年11月20日中国人民银行以固定利率、数量招标方式开展了3795亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734551.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735064.shtml"
         },
         {
-          "date": "2026-11-19",
-          "title": "三峡枢纽新通道首条500千伏线路完成迁改",
-          "summary": "中新网宜昌11月19日电 (郭晓莹 孙钰芳 孙小敏)据三峡集团19日消息，首条穿越三峡枢纽新通道上方的三江Ⅱ/Ⅲ回500千伏输电线路完成迁改，为后续航道开挖施工腾出了空间。",
+          "date": "2026-11-20",
+          "title": "11月20日人民币对美元中间价报6.7131 下调3个基点",
+          "summary": "中新网11月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月20日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7131元，下调3个基点。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734552.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735059.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-19",
-          "title": "（深圳APEC）习近平：携手搭建亚太共同体的“四梁八柱”",
-          "summary": "中新社深圳11月19日电 (记者 谢雁冰)11月19日上午，中国国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话，强调亚太各方要携手搭建亚太共同体的“四梁八柱”。",
+          "date": "2026-11-20",
+          "title": "中韩青年江西行，看见了什么？",
+          "summary": "中新网南昌11月20日电 (朱莹)以“科技赋能、青春添彩”为主题的2026年阳光青年发展行动江西分团活动近日落下帷幕，中韩青年走进江西赣州、南昌等地，在田间、车间、校园完成了一周的参访、研讨与实践。这趟行程里，他们看到了怎样的江西？",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734544.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735128.shtml"
         },
         {
-          "date": "2026-11-19",
-          "title": "（深圳APEC）习近平谈建设亚太共同体",
-          "summary": "中新社深圳11月19日电 (记者 谢雁冰)11月19日上午，中国国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话。",
+          "date": "2026-11-20",
+          "title": "习近平会见泰国总理阿努廷",
+          "summary": "新华社快讯：11月20日，国家主席习近平在深圳会见泰国总理阿努廷。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734542.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735126.shtml"
         },
         {
-          "date": "2026-11-19",
-          "title": "日本多个民间团体要求政府坚持“无核三原则”",
-          "summary": "新华社东京11月18日电(记者李子越#8195;杨智翔)日本多个民间团体18日共同向日本外务省提交诉求书，要求政府坚持“无核三原则”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-19/10734532.shtml"
+          "date": "2026-11-20",
+          "title": "当AI“得知”自己将被关闭，它竟然干了这种事……",
+          "summary": "距离被关闭还有七分钟时，亚历克斯打开新邮件窗口，开始写勒索信。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735123.shtml"
         },
         {
-          "date": "2026-11-19",
-          "title": "“来了就是深圳人！”美国网红博主晨跑深圳街头点赞城市魅力",
-          "summary": "“来了就是深圳人！”",
+          "date": "2026-11-20",
+          "title": "62.8%！中国超六成可持续发展指标接近或实现2030年目标",
+          "summary": "今天(20日)，由可持续发展大数据国际研究中心牵头撰写的《地球大数据支撑可持续发展目标报告(2026)》在联合国网站发布。这是自2019年起，我国第八次发布该报告。《报告》梳理了2025年全球在可持续发展领域的最新进展，为各国理解人类社会发展进程、资源环境变化规律等提供了重要科学数据参考。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734529.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735116.shtml"
         },
         {
-          "date": "2026-11-19",
-          "title": "苏黔中华职教社及职业院校东西部协作共建签约仪式在贵阳举行",
-          "summary": "中新网贵阳11月19日电 (记者 杨茜)苏黔中华职业教育社和职业院校东西部协作共建签约仪式18日在贵州省贵阳市举行。苏黔两地职教社、职业院校共达成六组结对合作，以职业教育为纽带深化山海协作，落实东西部协作部署，携手共育高素质技术技能人才。",
+          "date": "2026-11-20",
+          "title": "习近平会见新加坡总理黄循财",
+          "summary": "新华社快讯：11月20日，国家主席习近平在深圳会见新加坡总理黄循财。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734526.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735114.shtml"
         }
       ]
     },
@@ -134,62 +134,98 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-19",
-          "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-          "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+          "date": "2026-11-20",
+          "title": "More climate money for Africa? Europe says use what's already pledged",
+          "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Why Canada is embracing AI data centres while the US pushes back",
+          "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+          "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-19",
-          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-          "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+          "title": "How did Anthropic's stock market debut unfold?",
+          "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-19",
-          "title": "Crimean Bridge attacked again, Russian official says",
-          "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-19",
-          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-          "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-19",
-          "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-          "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "github",
       "name": "GitHub / 开源项目",
-      "items": []
+      "items": [
+        {
+          "date": "GitHub Trending",
+          "title": "erkamyaman/rust-anything（⭐ 5369）",
+          "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+          "source": "GitHub",
+          "url": "https://github.com/erkamyaman/rust-anything"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "krisgfx9/Wireless-Device-Battery-Monitor（⭐ 4716）",
+          "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+          "source": "GitHub",
+          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "gylive/google-ultra（⭐ 2466）",
+          "summary": "（该仓库未填写描述）",
+          "source": "GitHub",
+          "url": "https://github.com/gylive/google-ultra"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "Hut-hzf/ung220z-tool（⭐ 1790）",
+          "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+          "source": "GitHub",
+          "url": "https://github.com/Hut-hzf/ung220z-tool"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "duwqijlk/muse-protocol（⭐ 1659）",
+          "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+          "source": "GitHub",
+          "url": "https://github.com/duwqijlk/muse-protocol"
+        }
+      ]
     }
   ],
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "黄仁勋出轨事件背后，是一条价值数百亿美元的神秘芯片产业链。一家名不见经传的新加坡公司，如何在短短几年内成为英伟达在东南亚最大的买家？13万颗高端GPU究竟去了哪",
-      "video": "黄仁勋出轨女间谍，牵出300亿芯片迷局！揭秘中国如何绕开美国封锁 | 英伟达 | 黄乐 | Alice Huang | Megaspeed | 黄仁勋婚外情 | 罢免 | 芯片封锁 | 老周横眉",
-      "date": "2026-11-12",
-      "url": "https://www.youtube.com/watch?v=9pVXYxWrXwE"
+      "desc": "Claude背后的这家公司，营收增长速度令人震惊，连华尔街都认为它的发行价可能被低估了。但我仔细研究了招股书，却发现了一张高达9009亿美元的巨额账单，以及几个",
+      "video": "Anthropic上市！我将招股书翻了个底朝天，告诉你值不值得买 | Claude | IPO | 达里奥 | ant 上市 | AI股 | AI泡沫 | 科技股 | 纳斯达克 | 老周横眉",
+      "date": "2026-11-19",
+      "url": "https://www.youtube.com/watch?v=TVrzVLW5GbQ"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "一場巴黎豪華酒店的秘密安排，竟牽出震驚中國的上海社保大案！從神秘富豪張榮坤，到上海市委書記陳良宇、心腹秘書秦裕，數十億養老資金如何捲入權錢交易？20年後，全國社",
-      "video": "一段官員最怕的錄像，牽出社保大案！你的養老錢，誰拿去揮霍了？跨越20年的追問【文昭思緒飛揚592】",
-      "date": "2026-11-15",
-      "url": "https://www.youtube.com/watch?v=bjZC5unfzgQ"
+      "desc": "2000年，一名自稱來自2036年的美國士兵，突然出現在網路論壇。他不僅公開時間機器照片，還聲稱奉命返回1975年，尋找一台神秘的IBM 5100電腦。令人驚訝",
+      "video": "他自稱來自2036年，拿出了「時間機器」的照片！10年後世界發生了什麼巨變，他又為什麼回來？【文昭思緒飛揚593】",
+      "date": "2026-11-20",
+      "url": "https://www.youtube.com/watch?v=K6M610XC-IM"
     },
     {
       "channel": "夸克说",
@@ -207,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "🚀 体验 Higgsfield MCP，30秒连接 Claude，开启AI视频自动化创作！ 👉 https://higgsfield.ai/s/higgsf",
-      "video": "一条指令拿到Youtube视频？AI故事频道全自动做纪录片 不露脸做Youtube原来这么简单？！Higgsfield+Claude 这效率太夸张了...A赚钱 AI视频 AI搞钱 AI副业",
-      "date": "2026-11-13",
-      "url": "https://www.youtube.com/watch?v=tAncIi0fkVM"
+      "desc": "【Atoms 官方入口：https://tinyurl.com/7z6r3db5】 哈喽大家好，我是盈夏，专注研究如何用AI让普通人也能轻松搞钱。  如果我告诉",
+      "video": "我让8个AI员工帮我开营销公司，第一单就接黑五广告？一人公司全流程实操 从报价、交付到收款，Atoms 实测 AI赚钱 AI一人公司 AI副业 AI工具 AI教学 AI实战 AI创业",
+      "date": "2026-11-19",
+      "url": "https://www.youtube.com/watch?v=gmD8SCPxoXU"
     },
     {
       "channel": "李厂长来了",
