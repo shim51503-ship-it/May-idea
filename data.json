@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-21",
-  "generatedAt": "2026-11-21T03:38:43.646Z",
+  "issueDate": "2026-11-22",
+  "generatedAt": "2026-11-22T02:45:07.103Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.\n【金融新闻】产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温\n【中国新闻】沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死\n【世界新闻】Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk"
+    "body": "【AI 最新信息】Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance\n【金融新闻】2026“世界电视日”大视听产业系列活动武汉启幕\n【中国新闻】聚齐21个经济体 APEC“中国年”留下这些珍贵瞬间\n【世界新闻】Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out"
   },
   "categories": [
     {
@@ -11,39 +11,39 @@
       "name": "AI 最新信息",
       "items": [
         {
+          "date": "2026-11-21",
+          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+        },
+        {
+          "date": "2026-11-21",
+          "title": "A tale of two Nvidias",
+          "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+        },
+        {
+          "date": "2026-11-21",
+          "title": "Here are the top AI agents that can live in your text messages",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        },
+        {
+          "date": "2026-11-21",
+          "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+          "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+        },
+        {
           "date": "2026-11-20",
           "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
           "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
-        },
-        {
-          "date": "2026-11-20",
-          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-          "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
-        },
-        {
-          "date": "2026-11-20",
-          "title": "Chips can survive the space environment — can their financing?",
-          "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
-        },
-        {
-          "date": "2026-11-20",
-          "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-          "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and pro",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
-        },
-        {
-          "date": "2026-11-20",
-          "title": "Six AI-powered gadgets that could make your home office smarter",
-          "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-21",
-          "title": "产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温",
-          "summary": "新一轮冰雪季开启，我国冰雪消费呈现出不少新变化：秋假带动亲子冰雪游提前升温，南方游客持续涌入北方雪场，冰雪产业规模突破万亿元。冰雪游正从季节性运动体验，向亲子研学、休闲度假和综合消费延伸，为冬季文旅市场注入新活力。",
+          "date": "2026-11-22",
+          "title": "2026“世界电视日”大视听产业系列活动武汉启幕",
+          "summary": "中新网武汉11月22日电 (蒋秋雨 高玲玲 王梦媛)2026“世界电视日”大视听产业系列活动21日在武汉经开区启幕，行业领军人物、知名学者齐聚一堂，聚焦行业前沿技术趋势与产业机遇，打造立足华中、面向全国、链接海外的视听文化盛会，为大视听产业发展锚定方向。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735677.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-22/10735963.shtml"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问",
+          "summary": "中新网11月22日电 据商务部网站消息，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。",
+          "source": "中国新闻网·财经",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-22/10735951.shtml"
         },
         {
           "date": "2026-11-21",
-          "title": "“三医”协同持续发力 天津北辰探索公立医院改革新路径",
-          "summary": "中新网天津11月21日电 (记者 江莹)20日，天津市北辰区举办“卫健护航见行见效”专题新闻发布会，介绍该区深化医疗、医保、医药“三医”协同发展治理、优化高水平诊疗供给、提升医院精细化管理相关进展。作为国家第二批公立医院综合改革示范区，北辰区持续系统推进医改探索，多措并举夯实群众健康保障。",
+          "title": "“拖堂”的气候大会给全世界算了笔账",
+          "summary": "气候大会又“拖堂”了。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735666.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735906.shtml"
         },
         {
           "date": "2026-11-21",
-          "title": "（经济观察）重庆构建NCD综合服务体系 激活西部陆海新通道贸易动能",
-          "summary": "中新网重庆11月21日电 题：重庆构建NCD综合服务体系 激活西部陆海新通道贸易动能",
+          "title": "结构向优、动能向新 我国消费市场潜能不断释放",
+          "summary": "“经”彩新图景丨结构向优、动能向新 我国消费市场潜能不断释放",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735667.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735914.shtml"
         },
         {
           "date": "2026-11-21",
-          "title": "稳中有进有底气！10月我国经济向新向优发展",
-          "summary": "“经”彩新图景丨稳中有进有底气！10月我国经济向新向优发展",
+          "title": "数万家智能工厂背后，AI到底改变了什么？",
+          "summary": "新华社南京11月20日电(记者沈汝发)“过去靠看风口亮度、听异响、摸水温来判断炉况，现在，我们给高炉装上了‘透视眼’。”南钢人工智能研究院院长李瑾彦说，高炉周边布设了上千个传感器，实时采集温度、压力、图像等多维数据，铁水一级品率提升了10个百分点，217个产品和技术达到国际领先水平。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735656.shtml"
-        },
-        {
-          "date": "2026-11-21",
-          "title": "前10个月邮政行业寄递量稳步增长 “小包裹”激活消费“新引擎”",
-          "summary": "央视网消息：记者从国家邮政局了解到，今年以来，我国邮政行业寄递量稳步增长，数据显示，前10个月，邮政行业寄递业务量累计完成1830.3亿件，同比增长3.3%。快递服务加快拓展文旅消费服务场景，智能设备等新品类寄递需求明显上升，为消费潜力释放提供流通保障。",
-          "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735644.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735913.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-21",
-          "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死",
-          "summary": "中新社北京11月21日电 据沙特《利雅得报》当地时间21日凌晨报道，沙特阿拉伯主导的多国联军称摧毁了也门胡塞武装向沙特首都利雅得发射的三枚弹道导弹。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735663.shtml"
-        },
-        {
-          "date": "2026-11-21",
-          "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
-          "summary": "中新社秘鲁钱凯11月20日电 题：探访秘鲁钱凯港：跨越太平洋的发展新机遇",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735662.shtml"
-        },
-        {
-          "date": "2026-11-21",
-          "title": "2026年“数据要素×”大赛新疆分赛正式闭幕",
-          "summary": "中新网新疆昌吉11月21日电 (袁鹏冲)2026年“数据要素×”大赛新疆分赛闭幕式20日在新疆昌吉市举办，本届赛事作为“数据要素×”三年行动收官重要实践，以赛聚智、以赛促用，一批扎根新疆产业民生的数据创新成果集中揭晓。",
+          "date": "2026-11-22",
+          "title": "聚齐21个经济体 APEC“中国年”留下这些珍贵瞬间",
+          "summary": "新闻周刊丨聚齐21个经济体 APEC“中国年”留下这些珍贵瞬间",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735671.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735989.shtml"
         },
         {
-          "date": "2026-11-21",
-          "title": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
-          "summary": "中新网11月21日电 综合外媒报道，当地时间20日，丹麦外交大臣拉斯穆森宣布，丹麦决定驱逐俄罗斯驻丹麦国防武官，要求其在7日内离境。俄外交部表示，将对丹麦驱逐其武官一事“作出适当回应”。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735674.shtml"
-        },
-        {
-          "date": "2026-11-21",
-          "title": "单霁翔：让灿烂文化有尊严地传给子孙后代",
-          "summary": "中新网杭州11月21日电 (王潇婧)11月20日，浙江省社会主义学院(浙江中华文化学院)第9期“共识讲堂”开讲。故宫博物院第六任院长单霁翔受邀作专题报告，以“讲好中国故事，传播中华传统文化”为主题，带来一场兼具深度与温度的文明对话。各民主党派浙江省委会、浙江省侨联、有关统战团体成员，“文化出海”企业代表以及浙江全省社会",
+          "date": "2026-11-22",
+          "title": "全国政协召开双周协商座谈会 围绕构建以先进制造业为骨干的现代化产业体系协商议政 王沪宁主持",
+          "summary": "（该来源未提供摘要，请点击查看原文）",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735668.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735953.shtml"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "神舟二十四号展开全系统合练 备份应急体系如何护航发射？",
+          "summary": "神舟二十四号载人飞行任务各系统昨天(21日)在酒泉卫星发射中心进行发射场区合练。此次合练覆盖火箭、飞船、发射场、测控通信等全要素，标志着任务各系统已完全具备发射条件，发射进入倒计时阶段。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735952.shtml"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "特朗普：将寻求与伊朗达成一项“永久性”协议",
+          "summary": "中新网11月22日电 综合美媒21日报道，美国总统特朗普在采访节目中表示，将寻求与伊朗达成一项“永久性”协议。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735946.shtml"
+        },
+        {
+          "date": "2026-11-21",
+          "title": "英国国防大臣访基辅重申长期援乌承诺",
+          "summary": "中新社伦敦11月21日电 (记者 欧阳开宇)当地时间11月21日，英国国防大臣斯特里廷到访乌克兰首都基辅，先后会见乌总统泽连斯基、国防部长赫马拉，围绕防务工业协作、冬季防务支持等议题磋商，推进乌方自研攻击无人机在英国投产相关安排，进一步夯实双方战时装备供应链。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735938.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-21",
-          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+          "date": "2026-11-22",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+          "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "How a teen gamer and his mother helped rescue a missing girl",
+          "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-21",
-          "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-          "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-21",
-          "title": "ANC fights to keep control of South Africa's key cities after election setback",
-          "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-21",
-          "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-          "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-20",
-          "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
-          "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,35 +176,35 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "erkamyaman/rust-anything（⭐ 6745）",
+          "title": "erkamyaman/rust-anything（⭐ 7477）",
           "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
           "source": "GitHub",
           "url": "https://github.com/erkamyaman/rust-anything"
         },
         {
           "date": "GitHub Trending",
-          "title": "krisgfx9/Wireless-Device-Battery-Monitor（⭐ 5371）",
+          "title": "ItsNotRexed/Leonida（⭐ 6297）",
+          "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+          "source": "GitHub",
+          "url": "https://github.com/ItsNotRexed/Leonida"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "krisgfx9/Wireless-Device-Battery-Monitor（⭐ 5837）",
           "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
           "source": "GitHub",
           "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
         },
         {
           "date": "GitHub Trending",
-          "title": "gylive/google-ultra（⭐ 2540）",
+          "title": "gylive/google-ultra（⭐ 2602）",
           "summary": "（该仓库未填写描述）",
           "source": "GitHub",
           "url": "https://github.com/gylive/google-ultra"
         },
         {
           "date": "GitHub Trending",
-          "title": "Hut-hzf/ung220z-tool（⭐ 2041）",
-          "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-          "source": "GitHub",
-          "url": "https://github.com/Hut-hzf/ung220z-tool"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "bookwjitchieni1986/blender-ai-mcp-addon（⭐ 1810）",
+          "title": "bookwjitchieni1986/blender-ai-mcp-addon（⭐ 2514）",
           "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
           "source": "GitHub",
           "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
@@ -222,10 +222,10 @@
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "2000年，一名自稱來自2036年的美國士兵，突然出現在網路論壇。他不僅公開時間機器照片，還聲稱奉命返回1975年，尋找一台神秘的IBM 5100電腦。令人驚訝",
-      "video": "他自稱來自2036年，拿出了「時間機器」的照片！10年後世界發生了什麼巨變，他又為什麼回來？【文昭思緒飛揚593】",
-      "date": "2026-11-20",
-      "url": "https://www.youtube.com/watch?v=K6M610XC-IM"
+      "desc": "63億美元一夜蒸發！全球最大加密貨幣交易所幣安，竟因一場精心策劃的招聘而遭攻破。FBI指這是北韓駭客軍團所爲，但是平壤卻矢口否認。金正恩如何選拔頂級駭客？朝鮮駭",
+      "video": "史上最大加密貨幣劫案：一場面試，讓幣安被盜63億美元！朝鮮駭客怎樣練成？【文昭思緒飛揚594】",
+      "date": "2026-11-22",
+      "url": "https://www.youtube.com/watch?v=zHNYPH6E5TU"
     },
     {
       "channel": "夸克说",
