@@ -1,15 +1,36 @@
 {
-  "issueDate": "2026-11-22",
-  "generatedAt": "2026-11-22T02:45:07.103Z",
+  "issueDate": "2026-11-23",
+  "generatedAt": "2026-11-23T03:22:53.217Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance\n【金融新闻】2026“世界电视日”大视听产业系列活动武汉启幕\n【中国新闻】聚齐21个经济体 APEC“中国年”留下这些珍贵瞬间\n【世界新闻】Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out"
+    "body": "【AI 最新信息】How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO\n【金融新闻】加快“补课”，谁是中部大省“第二枢纽”？\n【中国新闻】内蒙古“法治乌兰牧骑”，让草原深处开出法治之花\n【世界新闻】Explosion on Russian ship at Libya port caused by suspected drone attack, officials say"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-11-23",
+          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+          "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+        },
         {
           "date": "2026-11-21",
           "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -23,27 +44,6 @@
           "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
-        },
-        {
-          "date": "2026-11-21",
-          "title": "Here are the top AI agents that can live in your text messages",
-          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
-        },
-        {
-          "date": "2026-11-21",
-          "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-          "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
-        },
-        {
-          "date": "2026-11-20",
-          "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
-          "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-22",
-          "title": "2026“世界电视日”大视听产业系列活动武汉启幕",
-          "summary": "中新网武汉11月22日电 (蒋秋雨 高玲玲 王梦媛)2026“世界电视日”大视听产业系列活动21日在武汉经开区启幕，行业领军人物、知名学者齐聚一堂，聚焦行业前沿技术趋势与产业机遇，打造立足华中、面向全国、链接海外的视听文化盛会，为大视听产业发展锚定方向。",
+          "date": "2026-11-23",
+          "title": "加快“补课”，谁是中部大省“第二枢纽”？",
+          "summary": "每经记者｜程晓玲",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-22/10735963.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736345.shtml"
         },
         {
-          "date": "2026-11-22",
-          "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问",
-          "summary": "中新网11月22日电 据商务部网站消息，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。",
+          "date": "2026-11-23",
+          "title": "断航近半个世纪，湖南这条“黄金水道”为何重启？",
+          "summary": "每经记者｜刘旭强",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-22/10735951.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736344.shtml"
         },
         {
-          "date": "2026-11-21",
-          "title": "“拖堂”的气候大会给全世界算了笔账",
-          "summary": "气候大会又“拖堂”了。",
+          "date": "2026-11-23",
+          "title": "解码先进制造：一枚CT部件如何打破国外垄断？",
+          "summary": "未来产业是先进制造业的战略储备，也是培育新质生产力的重要方向。可是再前沿的产业也要靠一枚枚过硬的底层零件撑住。有一枚橡皮大小的零件，全球曾经只有一家企业能批量生产。在安徽安庆，这枚零件到底是怎么被啃下来的？",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735906.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736341.shtml"
         },
         {
-          "date": "2026-11-21",
-          "title": "结构向优、动能向新 我国消费市场潜能不断释放",
-          "summary": "“经”彩新图景丨结构向优、动能向新 我国消费市场潜能不断释放",
+          "date": "2026-11-23",
+          "title": "小手套做成大产业 滑雪装备如何释放冰雪经济乘数效应",
+          "summary": "近一个月以来，崇礼、阿勒泰、北大湖等地雪场陆续开板，“开板即火”，商旅平台上，“滑雪”搜索量同比增长125%；崇礼一家雪场开板首个周末，客流比上一雪季同期增长近两成。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735914.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736340.shtml"
         },
         {
-          "date": "2026-11-21",
-          "title": "数万家智能工厂背后，AI到底改变了什么？",
-          "summary": "新华社南京11月20日电(记者沈汝发)“过去靠看风口亮度、听异响、摸水温来判断炉况，现在，我们给高炉装上了‘透视眼’。”南钢人工智能研究院院长李瑾彦说，高炉周边布设了上千个传感器，实时采集温度、压力、图像等多维数据，铁水一级品率提升了10个百分点，217个产品和技术达到国际领先水平。",
+          "date": "2026-11-23",
+          "title": "首批主动ETF在沪深交易所上市",
+          "summary": "11月23日，18只主动ETF在沪深交易所上市，沪市、深市各9只，合计募集360亿元。这批产品全部触及20亿元募集规模上限并提前结束募集，其中17只因超募启动比例配售，有效认购户数超过30万户。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735913.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736338.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-22",
-          "title": "聚齐21个经济体 APEC“中国年”留下这些珍贵瞬间",
-          "summary": "新闻周刊丨聚齐21个经济体 APEC“中国年”留下这些珍贵瞬间",
+          "date": "2026-11-23",
+          "title": "内蒙古“法治乌兰牧骑”，让草原深处开出法治之花",
+          "summary": "中新网北京11月23日电 (记者 谢雁冰)内蒙古自治区地处祖国正北方，东西长约2400公里，南北最大跨度1700多公里。面对点多、线长、面广、人口居住分散的特点，如何满足广大农牧民群众对法律服务的需求？如何消除普法“盲区”和“堵点”？这成为普法工作必须要考虑的问题。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735989.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736307.shtml"
         },
         {
-          "date": "2026-11-22",
-          "title": "全国政协召开双周协商座谈会 围绕构建以先进制造业为骨干的现代化产业体系协商议政 王沪宁主持",
-          "summary": "（该来源未提供摘要，请点击查看原文）",
+          "date": "2026-11-23",
+          "title": "好吃又好玩！台青在深圳体验“未来生活”",
+          "summary": "机器人送早餐、机械臂掌勺炒菜",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735953.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736302.shtml"
         },
         {
-          "date": "2026-11-22",
-          "title": "神舟二十四号展开全系统合练 备份应急体系如何护航发射？",
-          "summary": "神舟二十四号载人飞行任务各系统昨天(21日)在酒泉卫星发射中心进行发射场区合练。此次合练覆盖火箭、飞船、发射场、测控通信等全要素，标志着任务各系统已完全具备发射条件，发射进入倒计时阶段。",
+          "date": "2026-11-23",
+          "title": "《“一老一小”服务体系建设实施方案》发布",
+          "summary": "今天，由国家发展改革委等四部门联合印发的《“一老一小”服务体系建设实施方案》对外公布。《实施方案》围绕“一老一小”服务体系建设提出了哪些目标？",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-22/10735952.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736289.shtml"
         },
         {
-          "date": "2026-11-22",
-          "title": "特朗普：将寻求与伊朗达成一项“永久性”协议",
-          "summary": "中新网11月22日电 综合美媒21日报道，美国总统特朗普在采访节目中表示，将寻求与伊朗达成一项“永久性”协议。",
+          "date": "2026-11-23",
+          "title": "海军多型舰机将亮相第十六届中国航展",
+          "summary": "中新网11月23日电 据“人民海军”微信公众号消息，12月7日至13日，海军将实装参加在广东珠海举行的第十六届中国国际航空航天博览会，并首次拓展海上维度，增加高栏海上装备展示区，实现海军主战舰艇、新锐舰载机、陆战和无人智能装备陆海空联动、全景式亮相，多型现役装备将首次公开，全方位展示新时代人民海军转型建设成就。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736287.shtml"
+        },
+        {
+          "date": "2026-11-23",
+          "title": "美伊谈判僵持冲突外溢 内塔尼亚胡被曝欲单独对伊动武",
+          "summary": "当地时间22日，美国与伊朗之间军事冲突不断。伊朗宣布24小时内击落4架美军无人机，当天霍尔木兹海峡又有油轮触雷起火。与此同时，美伊冲突外溢持续，巴林称伊朗对该国的袭击造成人员受伤。美国提醒在巴林公民提高警惕，称敌对行动可能升级。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735946.shtml"
-        },
-        {
-          "date": "2026-11-21",
-          "title": "英国国防大臣访基辅重申长期援乌承诺",
-          "summary": "中新社伦敦11月21日电 (记者 欧阳开宇)当地时间11月21日，英国国防大臣斯特里廷到访乌克兰首都基辅，先后会见乌总统泽连斯基、国防部长赫马拉，围绕防务工业协作、冬季防务支持等议题磋商，推进乌方自研攻击无人机在英国投产相关安排，进一步夯实双方战时装备供应链。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-22/10735938.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736273.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-22",
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+          "date": "2026-11-23",
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-22",
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+          "date": "2026-11-23",
+          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-22",
-          "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-          "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+          "date": "2026-11-23",
+          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-22",
-          "title": "How a teen gamer and his mother helped rescue a missing girl",
-          "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+          "date": "2026-11-23",
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-21",
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+          "date": "2026-11-23",
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "erkamyaman/rust-anything（⭐ 7477）",
-          "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-          "source": "GitHub",
-          "url": "https://github.com/erkamyaman/rust-anything"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "ItsNotRexed/Leonida（⭐ 6297）",
+          "title": "ItsNotRexed/Leonida（⭐ 15965）",
           "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
           "source": "GitHub",
           "url": "https://github.com/ItsNotRexed/Leonida"
         },
         {
           "date": "GitHub Trending",
-          "title": "krisgfx9/Wireless-Device-Battery-Monitor（⭐ 5837）",
-          "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-          "source": "GitHub",
-          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "gylive/google-ultra（⭐ 2602）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/gylive/google-ultra"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "bookwjitchieni1986/blender-ai-mcp-addon（⭐ 2514）",
+          "title": "bookwjitchieni1986/blender-ai-mcp-addon（⭐ 2751）",
           "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
           "source": "GitHub",
           "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "iamajmeena/neonclipping（⭐ 2111）",
+          "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+          "source": "GitHub",
+          "url": "https://github.com/iamajmeena/neonclipping"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "EL4CTEO/fast-anything（⭐ 2045）",
+          "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+          "source": "GitHub",
+          "url": "https://github.com/EL4CTEO/fast-anything"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "omonkeyz/xbox-emulator（⭐ 1354）",
+          "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+          "source": "GitHub",
+          "url": "https://github.com/omonkeyz/xbox-emulator"
         }
       ]
     }
@@ -223,16 +223,16 @@
     {
       "channel": "文昭思绪飞扬",
       "desc": "63億美元一夜蒸發！全球最大加密貨幣交易所幣安，竟因一場精心策劃的招聘而遭攻破。FBI指這是北韓駭客軍團所爲，但是平壤卻矢口否認。金正恩如何選拔頂級駭客？朝鮮駭",
-      "video": "史上最大加密貨幣劫案：一場面試，讓幣安被盜63億美元！朝鮮駭客怎樣練成？【文昭思緒飛揚594】",
+      "video": "史上最大金融竊案：一場假面試卷走幣安63億美元！金正恩如何把11歲的數學天才培養成頂級黑客？【文昭思緒飛揚594】",
       "date": "2026-11-22",
       "url": "https://www.youtube.com/watch?v=zHNYPH6E5TU"
     },
     {
       "channel": "夸克说",
-      "desc": "赵本山翻唱《慌啥子嘛》，有人听见安慰，也有人越听越堵。一句“不慌”，为什么会惹出这么大的反弹？从范伟饰演的退休工人，到帮人转发讨薪帖的景树仁，再到被拖欠工资的教",
-      "video": "赵本山新歌遭群嘲：中国人到底在慌什么？夸克说|誇克说",
-      "date": "2026-11-20",
-      "url": "https://www.youtube.com/watch?v=Tf3xWDckz2U"
+      "desc": "Claude账号为什么会成为一门下乡收号的生意？从印尼、越南的地推视频，到国产大模型的低价竞争，这期聊一个反差：中国AI号称便宜又好用，为什么仍有人想尽办法获取",
+      "video": "印尼大妈助力中国AI：下乡收Claude账号，国产大模型真能靠性价比反超美国吗？夸克说|誇克说",
+      "date": "2026-11-22",
+      "url": "https://www.youtube.com/watch?v=av3oi6AbHkc"
     },
     {
       "channel": "May Fit",
