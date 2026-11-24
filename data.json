@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-23",
-  "generatedAt": "2026-11-23T03:22:53.217Z",
+  "issueDate": "2026-11-24",
+  "generatedAt": "2026-11-24T06:35:50.076Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO\n【金融新闻】加快“补课”，谁是中部大省“第二枢纽”？\n【中国新闻】内蒙古“法治乌兰牧骑”，让草原深处开出法治之花\n【世界新闻】Explosion on Russian ship at Libya port caused by suspected drone attack, officials say"
+    "body": "【AI 最新信息】Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes\n【金融新闻】民企联东：做中小企业“成长合伙人”\n【中国新闻】（乡村行·看振兴）毛豆结出富民果 江西玉山统战铺就共富路\n【世界新闻】India's 'cockroach' party leader says he was stopped from flying to UK"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-11-23",
-          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-          "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
         },
         {
-          "date": "2026-11-22",
-          "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-          "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+          "date": "2026-11-23",
+          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
         },
         {
-          "date": "2026-11-22",
-          "title": "Why data centers are at the center of the Big Tech backlash",
-          "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+          "date": "2026-11-23",
+          "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+          "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
         },
         {
-          "date": "2026-11-21",
-          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-          "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+          "date": "2026-11-23",
+          "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+          "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license fr",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
         },
         {
-          "date": "2026-11-21",
-          "title": "A tale of two Nvidias",
-          "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+          "date": "2026-11-23",
+          "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s HQ",
+          "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-23",
-          "title": "加快“补课”，谁是中部大省“第二枢纽”？",
-          "summary": "每经记者｜程晓玲",
+          "date": "2026-11-24",
+          "title": "民企联东：做中小企业“成长合伙人”",
+          "summary": "中新网北京11月24日电 题：民企联东：做中小企业“成长合伙人”",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736345.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736914.shtml"
         },
         {
-          "date": "2026-11-23",
-          "title": "断航近半个世纪，湖南这条“黄金水道”为何重启？",
-          "summary": "每经记者｜刘旭强",
+          "date": "2026-11-24",
+          "title": "专家：中国企业“走出去”要用对税收协定",
+          "summary": "中新社北京11月24日电 (记者 赵建华)亚太经合组织(APEC)第三十三次领导人非正式会议近日在华举行，亚太区域投资合作迎来新的发展契机。不少中国企业积极布局亚太市场，但在跨境经营中，容易忽视税收协定这一重要政策工具。深圳大学经济学院副教授陈志刚提醒，用对税收协定，能避免双重征税、降低投资税负、化解跨境争议；用错或根",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736344.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736912.shtml"
         },
         {
-          "date": "2026-11-23",
-          "title": "解码先进制造：一枚CT部件如何打破国外垄断？",
-          "summary": "未来产业是先进制造业的战略储备，也是培育新质生产力的重要方向。可是再前沿的产业也要靠一枚枚过硬的底层零件撑住。有一枚橡皮大小的零件，全球曾经只有一家企业能批量生产。在安徽安庆，这枚零件到底是怎么被啃下来的？",
+          "date": "2026-11-24",
+          "title": "迈向“万物智联” 6G发展大会在沪举办",
+          "summary": "中新网上海11月24日电 (记者 郑莹莹 许婧)由中国信息通信研究院、IMT-2030(6G)推进组主办的6G发展大会24日在上海开幕，大会以“智启星程，携手全球协同创新”为主题，聚焦6G全球统一标准制定与产业生态建设。会上集中研讨数十Gbps通智基站原型样机、智能体核心网样机、NTN通信载荷、千级大规模天线阵列、U6",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736341.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736910.shtml"
         },
         {
-          "date": "2026-11-23",
-          "title": "小手套做成大产业 滑雪装备如何释放冰雪经济乘数效应",
-          "summary": "近一个月以来，崇礼、阿勒泰、北大湖等地雪场陆续开板，“开板即火”，商旅平台上，“滑雪”搜索量同比增长125%；崇礼一家雪场开板首个周末，客流比上一雪季同期增长近两成。",
+          "date": "2026-11-24",
+          "title": "全国“优化消费环境月”启动来 北京推出50余项特色活动",
+          "summary": "中新网北京11月24日电 （记者 吕少威 杜燕）记者24日从北京市市场监管局获悉，11月初全国“优化消费环境月”启动以来，作为全国首批9个“放心消费点亮城市”之一，北京集中推出了50余项特色活动，培育认定1200余家放心消费单元、5个放心消费集聚区并入驻全国放心消费平台（微信搜索“消费查”小程序即可登录），致力于建设诚",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736340.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736904.shtml"
         },
         {
-          "date": "2026-11-23",
-          "title": "首批主动ETF在沪深交易所上市",
-          "summary": "11月23日，18只主动ETF在沪深交易所上市，沪市、深市各9只，合计募集360亿元。这批产品全部触及20亿元募集规模上限并提前结束募集，其中17只因超募启动比例配售，有效认购户数超过30万户。",
+          "date": "2026-11-24",
+          "title": "福州机场边检站今年已保障120艘次铁矿石船舶入出境",
+          "summary": "中新网福州11月24日电 (记者 闫旭 通讯员 林云珍)记者24日从福州机场边检站获悉，今年以来截至目前，该站已验放铁矿石船舶120艘次、铁矿石货量超350万吨。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736338.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736906.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-23",
-          "title": "内蒙古“法治乌兰牧骑”，让草原深处开出法治之花",
-          "summary": "中新网北京11月23日电 (记者 谢雁冰)内蒙古自治区地处祖国正北方，东西长约2400公里，南北最大跨度1700多公里。面对点多、线长、面广、人口居住分散的特点，如何满足广大农牧民群众对法律服务的需求？如何消除普法“盲区”和“堵点”？这成为普法工作必须要考虑的问题。",
+          "date": "2026-11-24",
+          "title": "（乡村行·看振兴）毛豆结出富民果 江西玉山统战铺就共富路",
+          "summary": "中新网上饶11月24日电 (熊锦阳)11月24日，江西省玉山县下镇镇毛豆产业基地内一派忙碌景象。当前，基地进入年末加工外销、仓储保供的关键阶段，田间收尾、鲜豆分拣、封装预冷等环节有序衔接，持续稳定对外售卖。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736307.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736928.shtml"
         },
         {
-          "date": "2026-11-23",
-          "title": "好吃又好玩！台青在深圳体验“未来生活”",
-          "summary": "机器人送早餐、机械臂掌勺炒菜",
+          "date": "2026-11-24",
+          "title": "民进中央2026年参政党理论研究年会在哈尔滨开幕",
+          "summary": "中新网哈尔滨11月24日电 (记者 史轶夫)24日上午，民进中央2026年参政党理论研究年会在哈尔滨开幕，交流工作经验，分享研究成果，开展学习研讨，促进能力提升，助力民进更好地坚持以党为师，全面从严加强自身建设。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736302.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736916.shtml"
         },
         {
-          "date": "2026-11-23",
-          "title": "《“一老一小”服务体系建设实施方案》发布",
-          "summary": "今天，由国家发展改革委等四部门联合印发的《“一老一小”服务体系建设实施方案》对外公布。《实施方案》围绕“一老一小”服务体系建设提出了哪些目标？",
+          "date": "2026-11-24",
+          "title": "中国空间站首迎外籍航天员 将开展4个中巴合作科学项目",
+          "summary": "中新社甘肃酒泉11月24日电 (记者 马帅莎)11月24日，神舟二十四号载人飞行任务新闻发布会在酒泉卫星发射中心举行。记者从会上获悉，神舟二十四号飞行乘组由汤洪波、武毅和巴基斯坦航天员穆罕默德·齐尚·阿里组成，中国空间站首次迎来外籍航天员到访，此次任务将开展面向生物技术和材料领域的4个中巴合作科学项目。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736289.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736915.shtml"
         },
         {
-          "date": "2026-11-23",
-          "title": "海军多型舰机将亮相第十六届中国航展",
-          "summary": "中新网11月23日电 据“人民海军”微信公众号消息，12月7日至13日，海军将实装参加在广东珠海举行的第十六届中国国际航空航天博览会，并首次拓展海上维度，增加高栏海上装备展示区，实现海军主战舰艇、新锐舰载机、陆战和无人智能装备陆海空联动、全景式亮相，多型现役装备将首次公开，全方位展示新时代人民海军转型建设成就。",
+          "date": "2026-11-24",
+          "title": "社保基金监管迎新规 守好每一分“养老钱”“保命钱”",
+          "summary": "社会保险基金是咱老百姓的“养老钱”“保命钱”。近年来，随着社会保险统筹层次提高、社会保险制度改革加快推进，欺诈骗保的方式手段也在不断翻新，社保基金安全面临新挑战。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736287.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736913.shtml"
         },
         {
-          "date": "2026-11-23",
-          "title": "美伊谈判僵持冲突外溢 内塔尼亚胡被曝欲单独对伊动武",
-          "summary": "当地时间22日，美国与伊朗之间军事冲突不断。伊朗宣布24小时内击落4架美军无人机，当天霍尔木兹海峡又有油轮触雷起火。与此同时，美伊冲突外溢持续，巴林称伊朗对该国的袭击造成人员受伤。美国提醒在巴林公民提高警惕，称敌对行动可能升级。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736273.shtml"
+          "date": "2026-11-24",
+          "title": "第二十三次中国岩石力学与工程学术年会在成都举行",
+          "summary": "中新网成都11月24日电(王利文)CHINA ROCK 2026第二十三次中国岩石力学与工程学术年会20日至23日在四川成都举行。本届年会以“极端环境重大岩石工程韧性提升”为主题，由中国岩石力学与工程学会、国际地质灾害与减灾协会联合主办，吸引12个国家和地区的专家线上线下参会。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736903.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-23",
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+          "date": "2026-11-24",
+          "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+          "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-23",
-          "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-          "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+          "date": "2026-11-24",
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-23",
-          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-          "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+          "date": "2026-11-24",
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-23",
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+          "date": "2026-11-24",
+          "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+          "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-23",
-          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-          "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+          "date": "2026-11-24",
+          "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+          "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "ItsNotRexed/Leonida（⭐ 15965）",
-          "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+          "title": "Marvisak/VIctory（⭐ 5352）",
+          "summary": "An attempt at running GTA VI on PC",
           "source": "GitHub",
-          "url": "https://github.com/ItsNotRexed/Leonida"
+          "url": "https://github.com/Marvisak/VIctory"
         },
         {
           "date": "GitHub Trending",
-          "title": "bookwjitchieni1986/blender-ai-mcp-addon（⭐ 2751）",
-          "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+          "title": "ivall/xcl（⭐ 4559）",
+          "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
           "source": "GitHub",
-          "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+          "url": "https://github.com/ivall/xcl"
         },
         {
           "date": "GitHub Trending",
-          "title": "iamajmeena/neonclipping（⭐ 2111）",
-          "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-          "source": "GitHub",
-          "url": "https://github.com/iamajmeena/neonclipping"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "EL4CTEO/fast-anything（⭐ 2045）",
+          "title": "EL4CTEO/fast-anything（⭐ 3284）",
           "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
           "source": "GitHub",
           "url": "https://github.com/EL4CTEO/fast-anything"
         },
         {
           "date": "GitHub Trending",
-          "title": "omonkeyz/xbox-emulator（⭐ 1354）",
-          "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+          "title": "AFK-surf/xnulinux（⭐ 2485）",
+          "summary": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
           "source": "GitHub",
-          "url": "https://github.com/omonkeyz/xbox-emulator"
+          "url": "https://github.com/AFK-surf/xnulinux"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "iamajmeena/neonclipping（⭐ 2334）",
+          "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+          "source": "GitHub",
+          "url": "https://github.com/iamajmeena/neonclipping"
         }
       ]
     }
@@ -243,10 +243,10 @@
     },
     {
       "channel": "盈夏AI轻创业",
-      "desc": "🔥 Higgsfield 黑五限时优惠！AI视频和图片套餐最高65% OFF！ 👉 https://higgsfield.ai/s/higgsfield-s",
-      "video": "别再浪费AI积分了！低成本做电影级4K商业广告 省钱又出片 Higgsfield AI赚钱 AI副业 AI创业 AI视频 AI广告 Seedance 2.5 原生4K 零基础小白 AI工具",
-      "date": "2026-11-20",
-      "url": "https://www.youtube.com/watch?v=1BtyJwsPm5M"
+      "desc": "🔥 Black Friday Sale！Higgsfield 黑五限时优惠，AI视频和图片套餐最高65% OFF！ 👉 https://higgsfield",
+      "video": "我让2个AI替我做短剧，一集就赚$1万？！太离谱了... Higgsfield + Claude 全新赚钱模式 AI赚钱 AI副业 AI创业 AI视频 AI短剧 AI自动化工作流",
+      "date": "2026-11-23",
+      "url": "https://www.youtube.com/watch?v=jiFZsG6XfpA"
     },
     {
       "channel": "李厂长来了",
