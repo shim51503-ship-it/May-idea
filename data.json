@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-25",
-  "generatedAt": "2026-11-25T05:09:25.183Z",
+  "issueDate": "2026-11-26",
+  "generatedAt": "2026-11-26T04:36:45.006Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion\n【金融新闻】第八届“滴滴司机节”举办 超4200名司机获表彰\n【中国新闻】台媒关注张凌赫田曦薇网络直播 国台办回应\n【世界新闻】Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle"
+    "body": "【AI 最新信息】S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks\n【金融新闻】中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考\n【中国新闻】也门胡塞武装称袭击沙特两个港口\n【世界新闻】US announces new tariffs on host of countries including China"
   },
   "categories": [
     {
@@ -12,38 +12,38 @@
       "items": [
         {
           "date": "2026-11-25",
-          "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
-          "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a gi",
+          "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
+          "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
         },
         {
-          "date": "2026-11-24",
-          "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-          "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+          "date": "2026-11-25",
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
         },
         {
-          "date": "2026-11-24",
-          "title": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
-          "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+          "date": "2026-11-25",
+          "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
+          "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
         },
         {
-          "date": "2026-11-24",
-          "title": "Even the best AI agents struggle with everyday life",
-          "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safel",
+          "date": "2026-11-25",
+          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+          "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly aut",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
         },
         {
-          "date": "2026-11-24",
-          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-          "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+          "date": "2026-11-25",
+          "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+          "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriat",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-25",
-          "title": "第八届“滴滴司机节”举办 超4200名司机获表彰",
-          "summary": "11月24日起，第八届“滴滴司机节”在宁波、北京、兰州等14个城市举办，超4200名司机获“全国优秀司机”“城市荣誉司机”表彰。期间，滴滴在10个城市地标建筑为司机点亮大屏，展示优秀司机风采。同时，为司机发放超45万份节日礼品，在端内为司机提供福利抽奖，感谢全国司机师傅的陪伴和信任。",
+          "date": "2026-11-26",
+          "title": "中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考",
+          "summary": "记者今天从国家数据局了解到，由我国专家牵头制定的人工智能训练数据质量国际标准(ISO/IEC 5259-4:2024)已被欧洲相关机构采纳，成为30余个欧洲国家人工智能合规评估的重要技术参考，将应用于人工智能训练数据采集、标注、质量判断等环节。我国在人工智能国际规则制定中持续发挥重要作用。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737373.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml"
         },
         {
-          "date": "2026-11-25",
-          "title": "亚太空间合作组织秘书长江辉：以中国空间发展机遇，赋能成员国",
-          "summary": "中新网重庆11月25日电(程春雨 肖江川 宋宇晟)“高科技有时候看起来很高冷，但能不能真正落地，才是最重要的。”",
+          "date": "2026-11-26",
+          "title": "中国提出到2030年建成覆盖完善、性能领先的新一代通信网",
+          "summary": "中新社北京11月26日电 (记者 刘亮)中国工信部26日公布，经国务院同意，工信部联合国家网信办、国家发改委近日印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737424.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml"
         },
         {
-          "date": "2026-11-25",
-          "title": "布局海南自贸港 台商：从“可选项”变成“必选项”",
-          "summary": "中新网海南东方11月25日电 题：布局海南自贸港 台商：从“可选项”变成“必选项”",
+          "date": "2026-11-26",
+          "title": "个人养老金四周年交出怎样的成绩单？还有哪些难题需破解？",
+          "summary": "2022年11月25日，个人养老金制度正式启动实施，至今已满四年。截至2025年底，我国个人养老金累计缴存金额已达1452亿元。个人养老金正在为更多人提供养老保障。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737386.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738004.shtml"
         },
         {
-          "date": "2026-11-25",
-          "title": "（神州写真）东北传统“冻货”迭代出新 哈尔滨冰雪游热销“冷滋味”",
-          "summary": "中新社哈尔滨11月25日电 题：东北传统“冻货”迭代出新 哈尔滨冰雪游热销“冷滋味”",
+          "date": "2026-11-26",
+          "title": "重庆长寿：荒废闲置地变民生宜居地",
+          "summary": "中新网重庆11月26日电 (闫沁波 殷缘)城市荒地变身便民健身公园、闲置地块蜕变为消费新场景，昔日沉寂的闲置土地正焕发全新生机......“产城融合宜居宜业地、自然长寿美丽生态城”的发展愿景正一步步照进现实。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737414.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738001.shtml"
         },
         {
-          "date": "2026-11-25",
-          "title": "截至10月底全国累计发电装机容量同比增长10.9%",
-          "summary": "中新网11月25日电 据国家能源局微信公众号消息，11月25日，国家能源局发布1-10月份全国电力统计数据。",
+          "date": "2026-11-26",
+          "title": "河北滦南：打造京津冀优质“菜篮子”",
+          "summary": "中新网唐山11月26日电(王夏菲 邢璐)初冬时节，走进河北省唐山市滦南县姚王庄镇的蔬菜批发市场，菜农正忙着将新鲜的蔬菜清理、分拣、打包。这些经过初步加工的净菜，将搭乘冷链运输车直供北京市场。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737413.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737997.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-25",
-          "title": "台媒关注张凌赫田曦薇网络直播 国台办回应",
-          "summary": "中新网11月25日电 11月25日，国务院台办举行例行新闻发布会。有记者问，关于大陆演员张凌赫和田曦薇线上网络直播粉丝见面会。请问发言人，大陆方面是否计划推出更积极的措施，推动两岸文化交流常态化？",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737469.shtml"
-        },
-        {
-          "date": "2026-11-25",
-          "title": "朝中社：朝鲜驱逐瑞士外交办事处代表 限其48小时内离境",
-          "summary": "中新网11月25日电 据朝中社报道，当地时间25日，朝鲜外务省宣布瑞士驻朝鲜外交办事处代表为“不受欢迎的人”，限其在48小时内离境。",
+          "date": "2026-11-26",
+          "title": "也门胡塞武装称袭击沙特两个港口",
+          "summary": "中新网11月26日电 据法新社报道，也门胡塞武装25日称，已对沙特阿拉伯吉达港和吉赞港发动袭击，以回应沙特主导的多国联军此前对也门红海沿岸荷台达港发动的袭击。",
           "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737460.shtml"
+          "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737995.shtml"
         },
         {
-          "date": "2026-11-25",
-          "title": "国台办回应特朗普表示美国不支持“台独”",
-          "summary": "中新网11月25日电 11月25日，国务院台办举行例行新闻发布会。有记者问，中美元首深圳会晤后，中方发布消息提到美国总统特朗普表示“美国不支持‘台独’”。对此，台湾方面表示这是大陆媒体的“话术”。请问国台办如何评价此事？",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737459.shtml"
+          "date": "2026-11-26",
+          "title": "阿富汗警方称击毙6名武装分子",
+          "summary": "中新网11月26日电 据阿富汗帕杰瓦克通讯社报道，阿富汗喀布尔警方25日表示，安全部队24日深夜在首都喀布尔与6名武装分子交火，并将其击毙。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737988.shtml"
         },
         {
-          "date": "2026-11-25",
-          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
-          "summary": "中新网酒泉11月25日电 (记者 马帅莎)据中国载人航天工程办公室消息，神舟二十四号载人飞船入轨后，于北京时间11月25日11时56分，成功对接于空间站天和核心舱前向端口，整个对接过程历时约3.5小时。",
+          "date": "2026-11-26",
+          "title": "贵州长征文化旅游（集团）有限公司董事、副总经理赖基勇被查",
+          "summary": "中新网11月26日电 据遵义市纪委监委派驻市国资委纪检监察组、播州区纪委监委消息：贵州长征文化旅游(集团)有限公司董事、副总经理赖基勇涉嫌严重违纪违法，目前正接受遵义市纪委监委派驻市国资委纪检监察组纪律审查和播州区监委监察调查。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737456.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737985.shtml"
         },
         {
-          "date": "2026-11-25",
-          "title": "神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口",
-          "summary": "新华社快讯：神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口。",
+          "date": "2026-11-26",
+          "title": "巴西决定驻阿根廷大使不再返任",
+          "summary": "中新网11月26日电 据巴西通讯社25日报道，巴西政府决定，驻阿根廷大使儒利奥·比特利不再返回阿根廷履行外交职务。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737984.shtml"
+        },
+        {
+          "date": "2026-11-26",
+          "title": "山东省聊城市政府党组成员、副市长孙荣军被查",
+          "summary": "中新网11月26日电 据山东省纪委监委消息：山东省聊城市政府党组成员、副市长孙荣军涉嫌严重违纪违法，目前正接受山东省纪委监委纪律审查和监察调查。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737454.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737977.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-25",
-          "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-          "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+          "date": "2026-11-26",
+          "title": "US announces new tariffs on host of countries including China",
+          "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-25",
-          "title": "US attorney general dodges questions about Nvidia investigation",
-          "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+          "date": "2026-11-26",
+          "title": "Macy's postpones Thanksgiving parade due to severe weather",
+          "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving ",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-25",
-          "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-          "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+          "date": "2026-11-26",
+          "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+          "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-25",
-          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-          "summary": "The verdict follows a months-long trial in New York.",
+          "date": "2026-11-26",
+          "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+          "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-25",
-          "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
-          "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+          "date": "2026-11-26",
+          "title": "California warns of flooding as King Tides peak over Thanksgiving",
+          "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Marvisak/VIctory（⭐ 11606）",
+          "title": "Marvisak/VIctory（⭐ 12704）",
           "summary": "An attempt at running GTA VI on PC",
           "source": "GitHub",
           "url": "https://github.com/Marvisak/VIctory"
         },
         {
           "date": "GitHub Trending",
-          "title": "xcl-dev/xcl（⭐ 7947）",
+          "title": "xcl-dev/xcl（⭐ 8349）",
           "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
           "source": "GitHub",
           "url": "https://github.com/xcl-dev/xcl"
         },
         {
           "date": "GitHub Trending",
-          "title": "EL4CTEO/fast-anything（⭐ 3682）",
+          "title": "4lwayz/portwatch-vi（⭐ 4383）",
+          "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+          "source": "GitHub",
+          "url": "https://github.com/4lwayz/portwatch-vi"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "EL4CTEO/fast-anything（⭐ 4033）",
           "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
           "source": "GitHub",
           "url": "https://github.com/EL4CTEO/fast-anything"
         },
         {
           "date": "GitHub Trending",
-          "title": "AFK-surf/xnulinux（⭐ 3496）",
+          "title": "AFK-surf/xnulinux（⭐ 3996）",
           "summary": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
           "source": "GitHub",
           "url": "https://github.com/AFK-surf/xnulinux"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "4lwayz/portwatch-vi（⭐ 3051）",
-          "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-          "source": "GitHub",
-          "url": "https://github.com/4lwayz/portwatch-vi"
         }
       ]
     }
@@ -229,10 +229,10 @@
     },
     {
       "channel": "夸克说",
-      "desc": "Claude账号为什么会成为一门下乡收号的生意？从印尼、越南的地推视频，到国产大模型的低价竞争，这期聊一个反差：中国AI号称便宜又好用，为什么仍有人想尽办法获取",
-      "video": "印尼大妈助力中国AI：下乡收Claude账号，国产大模型真能靠性价比反超美国吗？夸克说|誇克说",
-      "date": "2026-11-22",
-      "url": "https://www.youtube.com/watch?v=av3oi6AbHkc"
+      "desc": "穆斯林是左派还是右派？为什么一些欧美左派支持穆斯林，却又与伊斯兰教某些教义在女权、同性恋等问题上明显冲突？若只靠平等、福利和个人奋斗分左右，很快就会遇上马列主义",
+      "video": "穆斯林是左派还是右派？为什么伊斯兰教的宗教改革如此艰难？夸克说|誇克说",
+      "date": "2026-11-25",
+      "url": "https://www.youtube.com/watch?v=JCEWmeBbLFE"
     },
     {
       "channel": "May Fit",
