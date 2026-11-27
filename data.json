@@ -1,15 +1,29 @@
 {
-  "issueDate": "2026-11-26",
-  "generatedAt": "2026-11-26T04:36:45.006Z",
+  "issueDate": "2026-11-27",
+  "generatedAt": "2026-11-27T04:39:27.419Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks\n【金融新闻】中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考\n【中国新闻】也门胡塞武装称袭击沙特两个港口\n【世界新闻】US announces new tariffs on host of countries including China"
+    "body": "【AI 最新信息】Nvidia hits pause on chip shipments to Southeast Asia\n【金融新闻】黑龙江哈尔滨：寒地算力蓄势腾飞 东北智算新引擎\n【中国新闻】李强主持召开国务院常务会议\n【世界新闻】New Zealand's ruling coalition falls short of parliamentary majority by one seat"
   },
   "categories": [
     {
       "id": "ai",
       "name": "AI 最新信息",
       "items": [
+        {
+          "date": "2026-11-26",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips o",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "date": "2026-11-26",
+          "title": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
+          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+        },
         {
           "date": "2026-11-25",
           "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
@@ -30,20 +44,6 @@
           "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
-        },
-        {
-          "date": "2026-11-25",
-          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-          "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly aut",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
-        },
-        {
-          "date": "2026-11-25",
-          "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-          "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriat",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
         }
       ]
     },
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-26",
-          "title": "中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考",
-          "summary": "记者今天从国家数据局了解到，由我国专家牵头制定的人工智能训练数据质量国际标准(ISO/IEC 5259-4:2024)已被欧洲相关机构采纳，成为30余个欧洲国家人工智能合规评估的重要技术参考，将应用于人工智能训练数据采集、标注、质量判断等环节。我国在人工智能国际规则制定中持续发挥重要作用。",
+          "date": "2026-11-27",
+          "title": "黑龙江哈尔滨：寒地算力蓄势腾飞 东北智算新引擎",
+          "summary": "中新网哈尔滨11月27日电 (记者 田德雨)11月25日，黑龙江省“给力！新引擎”数字经济篇主题采访活动走进哈尔滨算力中心。展示厅内，智慧农业、智慧工业、智慧教育、算力中心等沙盘模型，直观呈现算力赋能各行业数字化应用图景。不远处的机房内，一组组机柜整齐排列，服务器稳定运转。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738635.shtml"
         },
         {
-          "date": "2026-11-26",
-          "title": "中国提出到2030年建成覆盖完善、性能领先的新一代通信网",
-          "summary": "中新社北京11月26日电 (记者 刘亮)中国工信部26日公布，经国务院同意，工信部联合国家网信办、国家发改委近日印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网。",
+          "date": "2026-11-27",
+          "title": "陕西谋划“十五五”县域发展 2030年培育30个县域特色产业集群",
+          "summary": "中新网西安11月27日电 (记者 杨英琦)记者27日从陕西省发展改革委获悉，“十五五”时期，陕西将持续延链补链强链，到2030年形成苹果种植及深加工、整车及零部件制造、文化旅游等30个左右县域特色产业集群，支撑县域地区生产总值突破2.2万亿元(人民币，下同)。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738633.shtml"
         },
         {
-          "date": "2026-11-26",
-          "title": "个人养老金四周年交出怎样的成绩单？还有哪些难题需破解？",
-          "summary": "2022年11月25日，个人养老金制度正式启动实施，至今已满四年。截至2025年底，我国个人养老金累计缴存金额已达1452亿元。个人养老金正在为更多人提供养老保障。",
+          "date": "2026-11-27",
+          "title": "A股午评：大科技“奇迹日”，超4600只个股上涨",
+          "summary": "A股午评：大科技“奇迹日”，超4600只个股上涨，三大指数集体收涨，科创综指涨超4%；半导体、通信设备、软件爆发，煤炭、电信、银行下跌",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738004.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738642.shtml"
         },
         {
-          "date": "2026-11-26",
-          "title": "重庆长寿：荒废闲置地变民生宜居地",
-          "summary": "中新网重庆11月26日电 (闫沁波 殷缘)城市荒地变身便民健身公园、闲置地块蜕变为消费新场景，昔日沉寂的闲置土地正焕发全新生机......“产城融合宜居宜业地、自然长寿美丽生态城”的发展愿景正一步步照进现实。",
+          "date": "2026-11-27",
+          "title": "两项自行车国家标准将实施",
+          "summary": "中新网11月27日电 据“市说新语”微信公众号消息，自12月1日起，市场监管总局修订发布的《自行车装配要求》(GB/T 3566—2026)、《自行车通用技术要求》(GB/T 19994—2026)国家标准将正式实施。两项标准紧扣自行车产品特性和民众骑行消费需求，分别从整车技术性能、装配工艺层面搭建规范体系，为产品设计",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738001.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738620.shtml"
         },
         {
-          "date": "2026-11-26",
-          "title": "河北滦南：打造京津冀优质“菜篮子”",
-          "summary": "中新网唐山11月26日电(王夏菲 邢璐)初冬时节，走进河北省唐山市滦南县姚王庄镇的蔬菜批发市场，菜农正忙着将新鲜的蔬菜清理、分拣、打包。这些经过初步加工的净菜，将搭乘冷链运输车直供北京市场。",
+          "date": "2026-11-27",
+          "title": "从囤商品到囤服务 购物车之变折射高质量发展脉动",
+          "summary": "购物车之变折射高质量发展脉动",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737997.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738610.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-26",
-          "title": "也门胡塞武装称袭击沙特两个港口",
-          "summary": "中新网11月26日电 据法新社报道，也门胡塞武装25日称，已对沙特阿拉伯吉达港和吉赞港发动袭击，以回应沙特主导的多国联军此前对也门红海沿岸荷台达港发动的袭击。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737995.shtml"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "阿富汗警方称击毙6名武装分子",
-          "summary": "中新网11月26日电 据阿富汗帕杰瓦克通讯社报道，阿富汗喀布尔警方25日表示，安全部队24日深夜在首都喀布尔与6名武装分子交火，并将其击毙。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737988.shtml"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "贵州长征文化旅游（集团）有限公司董事、副总经理赖基勇被查",
-          "summary": "中新网11月26日电 据遵义市纪委监委派驻市国资委纪检监察组、播州区纪委监委消息：贵州长征文化旅游(集团)有限公司董事、副总经理赖基勇涉嫌严重违纪违法，目前正接受遵义市纪委监委派驻市国资委纪检监察组纪律审查和播州区监委监察调查。",
+          "date": "2026-11-27",
+          "title": "李强主持召开国务院常务会议",
+          "summary": "李强主持召开国务院常务会议",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737985.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738652.shtml"
         },
         {
-          "date": "2026-11-26",
-          "title": "巴西决定驻阿根廷大使不再返任",
-          "summary": "中新网11月26日电 据巴西通讯社25日报道，巴西政府决定，驻阿根廷大使儒利奥·比特利不再返回阿根廷履行外交职务。",
-          "source": "中国新闻网·国际",
-          "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737984.shtml"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "山东省聊城市政府党组成员、副市长孙荣军被查",
-          "summary": "中新网11月26日电 据山东省纪委监委消息：山东省聊城市政府党组成员、副市长孙荣军涉嫌严重违纪违法，目前正接受山东省纪委监委纪律审查和监察调查。",
+          "date": "2026-11-27",
+          "title": "专访前联合国官员：中国能源转型经验可为发展中国家提供借鉴，南南合作潜力巨大｜新闻会客厅",
+          "summary": "中新网北京11月27日电(记者 王高飞 魏园)“南南合作在推动全球气候治理和可持续能源利用方面潜力巨大，中国能源转型经验可为发展中国家提供借鉴。”在《联合国气候变化框架公约》第三十一届缔约方大会(COP31)期间，全球人居环境论坛可持续发展政策高级顾问、前联合国官员拉尔夫·万查福特(Ralph Wahnschafft)",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737977.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738608.shtml"
+        },
+        {
+          "date": "2026-11-27",
+          "title": "世界首台380吨级高速动平衡试验系统完成交付",
+          "summary": "中新网哈尔滨11月27日电 记者27日从国机集团(中国机械工业集团有限公司)获悉，世界首台380吨级高速动平衡试验系统日前在哈尔滨汽轮机厂有限责任公司完成交付。该系统由国机工程集团旗下中机国际工程设计研究院有限责任公司承建，是目前世界承载能力最大的高速动平衡试验设备。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738639.shtml"
+        },
+        {
+          "date": "2026-11-27",
+          "title": "COP31观察员、挪威国际核查公司负责人：别忘记中国在环保领域做了很多，期待学习更多｜新闻会客厅",
+          "summary": "中新网北京11月27日电(记者 王高飞 魏园)在《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间，来自挪威的国际核查公司参会代表埃德温·阿尔德斯接受中新社“新闻会客厅”采访时表示，中国长期以来在再造林、林业和应对气候变化等领域开展了大量工作，“但人们往往忘记中国做了很多工作”；“中国在发展过程中能够拿出",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738609.shtml"
+        },
+        {
+          "date": "2026-11-27",
+          "title": "国务院任免国家工作人员",
+          "summary": "中新网11月27日电 据人力资源和社会保障部网站消息，国务院任免国家工作人员。",
+          "source": "中国新闻网·时政",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738648.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-26",
-          "title": "US announces new tariffs on host of countries including China",
-          "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+          "date": "2026-11-27",
+          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+          "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-26",
-          "title": "Macy's postpones Thanksgiving parade due to severe weather",
-          "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving ",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
-          "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+          "date": "2026-11-27",
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "date": "2026-11-26",
-          "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
-          "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
+          "date": "2026-11-27",
+          "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+          "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-27",
+          "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+          "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-26",
-          "title": "California warns of flooding as King Tides peak over Thanksgiving",
-          "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+          "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+          "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Marvisak/VIctory（⭐ 12704）",
+          "title": "Marvisak/VIctory（⭐ 13460）",
           "summary": "An attempt at running GTA VI on PC",
           "source": "GitHub",
           "url": "https://github.com/Marvisak/VIctory"
         },
         {
           "date": "GitHub Trending",
-          "title": "xcl-dev/xcl（⭐ 8349）",
-          "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-          "source": "GitHub",
-          "url": "https://github.com/xcl-dev/xcl"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "4lwayz/portwatch-vi（⭐ 4383）",
+          "title": "4lwayz/portwatch-vi（⭐ 5978）",
           "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
           "source": "GitHub",
           "url": "https://github.com/4lwayz/portwatch-vi"
         },
         {
           "date": "GitHub Trending",
-          "title": "EL4CTEO/fast-anything（⭐ 4033）",
+          "title": "EL4CTEO/fast-anything（⭐ 4280）",
           "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
           "source": "GitHub",
           "url": "https://github.com/EL4CTEO/fast-anything"
         },
         {
           "date": "GitHub Trending",
-          "title": "AFK-surf/xnulinux（⭐ 3996）",
-          "summary": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+          "title": "Belobug/VIctory-Belobug-AMD（⭐ 3291）",
+          "summary": "（该仓库未填写描述）",
           "source": "GitHub",
-          "url": "https://github.com/AFK-surf/xnulinux"
+          "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "fxceless/victory-fork（⭐ 3288）",
+          "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+          "source": "GitHub",
+          "url": "https://github.com/fxceless/victory-fork"
         }
       ]
     }
@@ -215,17 +215,17 @@
   "youtube": [
     {
       "channel": "老周横眉",
-      "desc": "Claude背后的这家公司，营收增长速度令人震惊，连华尔街都认为它的发行价可能被低估了。但我仔细研究了招股书，却发现了一张高达9009亿美元的巨额账单，以及几个",
-      "video": "Anthropic上市！我将招股书翻了个底朝天，告诉你值不值得买 | Claude | IPO | 达里奥 | ant 上市 | AI股 | AI泡沫 | 科技股 | 纳斯达克 | 老周横眉",
-      "date": "2026-11-19",
-      "url": "https://www.youtube.com/watch?v=TVrzVLW5GbQ"
+      "desc": "当AI给出了正确的答案，全世界却没有人看得懂。人类文明是否已经走到了一个历史性的转折点？你的工作还能保住吗？孩子未来该学什么？在一个连未来五年都无法预测的时代，",
+      "video": "AI破解黎曼猜想：一个无法预测未来的时代，读书还有意义吗？我们该如何应对？ | 学历贬值 | AI取代工作 | AI时代教育 | 孩子未来学什么 | Claude | 老周横眉",
+      "date": "2026-11-26",
+      "url": "https://www.youtube.com/watch?v=jKpwmBlrVkM"
     },
     {
       "channel": "文昭思绪飞扬",
-      "desc": "63億美元一夜蒸發！全球最大加密貨幣交易所幣安，竟因一場精心策劃的招聘而遭攻破。FBI指這是北韓駭客軍團所爲，但是平壤卻矢口否認。金正恩如何選拔頂級駭客？朝鮮駭",
-      "video": "史上最大金融竊案：一場假面試卷走幣安63億美元！金正恩如何把11歲的數學天才培養成頂級黑客？【文昭思緒飛揚594】",
-      "date": "2026-11-22",
-      "url": "https://www.youtube.com/watch?v=zHNYPH6E5TU"
+      "desc": "一種人類尚未創造出來的生命，竟然讓38位頂尖科學家聯名示警，要求阻止它的誕生！它就是「鏡像生命」。更令人意外的是，發出警告的人當中，竟然包括曾經夢想創造鏡像生命",
+      "video": "現身即是末日！「鏡像生命」離我們僅一步之遙，38位頂尖科學家聯名阻止！【文昭思緒飛揚595】",
+      "date": "2026-11-27",
+      "url": "https://www.youtube.com/watch?v=INwm5pYk5aU"
     },
     {
       "channel": "夸克说",
