@@ -1,9 +1,9 @@
 {
-  "issueDate": "2026-11-27",
-  "generatedAt": "2026-11-27T04:39:27.419Z",
+  "issueDate": "2026-11-28",
+  "generatedAt": "2026-11-28T04:25:08.683Z",
   "focus": {
     "title": "今日要览：4 个类目共 20 条更新",
-    "body": "【AI 最新信息】Nvidia hits pause on chip shipments to Southeast Asia\n【金融新闻】黑龙江哈尔滨：寒地算力蓄势腾飞 东北智算新引擎\n【中国新闻】李强主持召开国务院常务会议\n【世界新闻】New Zealand's ruling coalition falls short of parliamentary majority by one seat"
+    "body": "【AI 最新信息】Nvidia hits pause on chip shipments to Southeast Asia\n【金融新闻】推动温室气体回收再利用 “河南方案”登上国际舞台\n【中国新闻】菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰\n【世界新闻】Nigeria's 'ultimate hard man' who become an online meme"
   },
   "categories": [
     {
@@ -52,39 +52,39 @@
       "name": "金融新闻",
       "items": [
         {
-          "date": "2026-11-27",
-          "title": "黑龙江哈尔滨：寒地算力蓄势腾飞 东北智算新引擎",
-          "summary": "中新网哈尔滨11月27日电 (记者 田德雨)11月25日，黑龙江省“给力！新引擎”数字经济篇主题采访活动走进哈尔滨算力中心。展示厅内，智慧农业、智慧工业、智慧教育、算力中心等沙盘模型，直观呈现算力赋能各行业数字化应用图景。不远处的机房内，一组组机柜整齐排列，服务器稳定运转。",
+          "date": "2026-11-28",
+          "title": "推动温室气体回收再利用 “河南方案”登上国际舞台",
+          "summary": "中新网郑州11月28日电 (记者 韩章云)“这台大型气务工作站承载的就是不久前我们在《联合国气候变化框架公约》第三十一次缔约方大会(COP31)上分享的核心技术——六氟化硫现场回收净化。”11月27日，在郑州市高新区一处厂区，日立信股份科学技术研究院副院长孙明向记者介绍一台露天停放的气务作业领域的“航空母舰”。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738635.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739174.shtml"
         },
         {
-          "date": "2026-11-27",
-          "title": "陕西谋划“十五五”县域发展 2030年培育30个县域特色产业集群",
-          "summary": "中新网西安11月27日电 (记者 杨英琦)记者27日从陕西省发展改革委获悉，“十五五”时期，陕西将持续延链补链强链，到2030年形成苹果种植及深加工、整车及零部件制造、文化旅游等30个左右县域特色产业集群，支撑县域地区生产总值突破2.2万亿元(人民币，下同)。",
+          "date": "2026-11-28",
+          "title": "黄金配置为何仍要看“周期”？",
+          "summary": "中新网上海11月28日电 (高志苗)当地时间11月27日，COMEX黄金期货涨2.44%，报3681.1美元/盎司；现货黄金涨2.45%，报3653.50美元/盎司。尽管短线出现反弹，2026年以来黄金市场仍经历剧烈调整，短期价格波动与长期配置逻辑之间的张力进一步凸显。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738633.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739170.shtml"
         },
         {
-          "date": "2026-11-27",
-          "title": "A股午评：大科技“奇迹日”，超4600只个股上涨",
-          "summary": "A股午评：大科技“奇迹日”，超4600只个股上涨，三大指数集体收涨，科创综指涨超4%；半导体、通信设备、软件爆发，煤炭、电信、银行下跌",
+          "date": "2026-11-28",
+          "title": "2026“创业之星”Next Star总决赛收官 国际项目占比超四成",
+          "summary": "中新网深圳11月28日电 (记者 索有为)2026“创业之星”Next Star百万奖金全球悬赏赛(深圳南山)颁奖典礼27日晚在深圳西丽湖畔举行，从全球2733个项目中突围的12个项目分获一、二、三等奖，斩获百万奖金。",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738642.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739172.shtml"
         },
         {
-          "date": "2026-11-27",
-          "title": "两项自行车国家标准将实施",
-          "summary": "中新网11月27日电 据“市说新语”微信公众号消息，自12月1日起，市场监管总局修订发布的《自行车装配要求》(GB/T 3566—2026)、《自行车通用技术要求》(GB/T 19994—2026)国家标准将正式实施。两项标准紧扣自行车产品特性和民众骑行消费需求，分别从整车技术性能、装配工艺层面搭建规范体系，为产品设计",
+          "date": "2026-11-28",
+          "title": "理响津门 城暖万家｜一辆汽车背后的天津答卷",
+          "summary": "视频：理响津门 城暖万家｜一辆汽车背后的天津答卷来源：央视网",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738620.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739168.shtml"
         },
         {
-          "date": "2026-11-27",
-          "title": "从囤商品到囤服务 购物车之变折射高质量发展脉动",
-          "summary": "购物车之变折射高质量发展脉动",
+          "date": "2026-11-28",
+          "title": "社科大刘晓春：未成年用网精细化治理应分阶段实施，强化用户提示和引导",
+          "summary": "原标题：未成年人社交媒体保护精细化治理的实施路径",
           "source": "中国新闻网·财经",
-          "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738610.shtml"
+          "url": "https://www.chinanews.com.cn/cj/2026/11-28/10739142.shtml"
         }
       ]
     },
@@ -93,39 +93,39 @@
       "name": "中国新闻",
       "items": [
         {
-          "date": "2026-11-27",
-          "title": "李强主持召开国务院常务会议",
-          "summary": "李强主持召开国务院常务会议",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738652.shtml"
+          "date": "2026-11-28",
+          "title": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰",
+          "summary": "中新网马尼拉11月28日电 菲律宾大气地球物理天文局27日表示，超强厄尔尼诺现象的影响可能存在滞后，预计2027年2月至3月菲律宾大部分地区降雨量远低于正常水平，干旱及水资源短缺风险或进一步加剧。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739149.shtml"
         },
         {
-          "date": "2026-11-27",
-          "title": "专访前联合国官员：中国能源转型经验可为发展中国家提供借鉴，南南合作潜力巨大｜新闻会客厅",
-          "summary": "中新网北京11月27日电(记者 王高飞 魏园)“南南合作在推动全球气候治理和可持续能源利用方面潜力巨大，中国能源转型经验可为发展中国家提供借鉴。”在《联合国气候变化框架公约》第三十一届缔约方大会(COP31)期间，全球人居环境论坛可持续发展政策高级顾问、前联合国官员拉尔夫·万查福特(Ralph Wahnschafft)",
+          "date": "2026-11-28",
+          "title": "歼-35A飞抵珠海 将首次真机进馆展出",
+          "summary": "今天(28日)上午，歼-35A飞抵珠海，它将在第十六届中国国际航空航天博览会上，首次以真机形式亮相1号馆，面向全球观众近距离静态展示。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738608.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml"
         },
         {
-          "date": "2026-11-27",
-          "title": "世界首台380吨级高速动平衡试验系统完成交付",
-          "summary": "中新网哈尔滨11月27日电 记者27日从国机集团(中国机械工业集团有限公司)获悉，世界首台380吨级高速动平衡试验系统日前在哈尔滨汽轮机厂有限责任公司完成交付。该系统由国机工程集团旗下中机国际工程设计研究院有限责任公司承建，是目前世界承载能力最大的高速动平衡试验设备。",
-          "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738639.shtml"
+          "date": "2026-11-28",
+          "title": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+          "summary": "中新网11月28日电 据日本共同社报道，当地时间27日下午，日本静冈县发生一起野猪伤人事件，共造成7人受伤。",
+          "source": "中国新闻网·国际",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml"
         },
         {
-          "date": "2026-11-27",
-          "title": "COP31观察员、挪威国际核查公司负责人：别忘记中国在环保领域做了很多，期待学习更多｜新闻会客厅",
-          "summary": "中新网北京11月27日电(记者 王高飞 魏园)在《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间，来自挪威的国际核查公司参会代表埃德温·阿尔德斯接受中新社“新闻会客厅”采访时表示，中国长期以来在再造林、林业和应对气候变化等领域开展了大量工作，“但人们往往忘记中国做了很多工作”；“中国在发展过程中能够拿出",
+          "date": "2026-11-28",
+          "title": "亚太数智赋能创新发展合作平台启动建设",
+          "summary": "11月28日，作为中国担任2026年亚太经合组织东道主的75项成果之一，亚太数智赋能创新发展合作平台在四川成都揭牌并启动建设。",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738609.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739151.shtml"
         },
         {
-          "date": "2026-11-27",
-          "title": "国务院任免国家工作人员",
-          "summary": "中新网11月27日电 据人力资源和社会保障部网站消息，国务院任免国家工作人员。",
+          "date": "2026-11-28",
+          "title": "神二十四成功发射、能源技术攻关突破 本周我国多领域捷报频传",
+          "summary": "本周",
           "source": "中国新闻网·时政",
-          "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738648.shtml"
+          "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739134.shtml"
         }
       ]
     },
@@ -134,39 +134,39 @@
       "name": "世界新闻",
       "items": [
         {
-          "date": "2026-11-27",
-          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-          "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+          "date": "2026-11-28",
+          "title": "Nigeria's 'ultimate hard man' who become an online meme",
+          "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-28",
+          "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+          "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-28",
+          "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+          "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "date": "2026-11-28",
+          "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+          "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss"
         },
         {
           "date": "2026-11-27",
-          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-          "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+          "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+          "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-27",
-          "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
-          "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-27",
-          "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-          "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "date": "2026-11-26",
-          "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-          "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -176,38 +176,38 @@
       "items": [
         {
           "date": "GitHub Trending",
-          "title": "Marvisak/VIctory（⭐ 13460）",
+          "title": "Marvisak/VIctory（⭐ 13855）",
           "summary": "An attempt at running GTA VI on PC",
           "source": "GitHub",
           "url": "https://github.com/Marvisak/VIctory"
         },
         {
           "date": "GitHub Trending",
-          "title": "4lwayz/portwatch-vi（⭐ 5978）",
-          "summary": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+          "title": "trustno1-coder/VIctory-NVIDIA（⭐ 3873）",
+          "summary": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
           "source": "GitHub",
-          "url": "https://github.com/4lwayz/portwatch-vi"
+          "url": "https://github.com/trustno1-coder/VIctory-NVIDIA"
         },
         {
           "date": "GitHub Trending",
-          "title": "EL4CTEO/fast-anything（⭐ 4280）",
-          "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-          "source": "GitHub",
-          "url": "https://github.com/EL4CTEO/fast-anything"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "Belobug/VIctory-Belobug-AMD（⭐ 3291）",
-          "summary": "（该仓库未填写描述）",
-          "source": "GitHub",
-          "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
-        },
-        {
-          "date": "GitHub Trending",
-          "title": "fxceless/victory-fork（⭐ 3288）",
+          "title": "fxceless/victory-fork（⭐ 3364）",
           "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
           "source": "GitHub",
           "url": "https://github.com/fxceless/victory-fork"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "ProjectLeonida/mandy（⭐ 2968）",
+          "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+          "source": "GitHub",
+          "url": "https://github.com/ProjectLeonida/mandy"
+        },
+        {
+          "date": "GitHub Trending",
+          "title": "nexu-io/opengame（⭐ 2390）",
+          "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+          "source": "GitHub",
+          "url": "https://github.com/nexu-io/opengame"
         }
       ]
     }
@@ -223,16 +223,16 @@
     {
       "channel": "文昭思绪飞扬",
       "desc": "一種人類尚未創造出來的生命，竟然讓38位頂尖科學家聯名示警，要求阻止它的誕生！它就是「鏡像生命」。更令人意外的是，發出警告的人當中，竟然包括曾經夢想創造鏡像生命",
-      "video": "現身即是末日！「鏡像生命」離我們僅一步之遙，38位頂尖科學家聯名阻止！【文昭思緒飛揚595】",
+      "video": "「鏡像生命」一旦問世，會發生什麼？38位頂尖科學家為何聯名阻止？【文昭思緒飛揚595】",
       "date": "2026-11-27",
       "url": "https://www.youtube.com/watch?v=INwm5pYk5aU"
     },
     {
       "channel": "夸克说",
-      "desc": "穆斯林是左派还是右派？为什么一些欧美左派支持穆斯林，却又与伊斯兰教某些教义在女权、同性恋等问题上明显冲突？若只靠平等、福利和个人奋斗分左右，很快就会遇上马列主义",
-      "video": "穆斯林是左派还是右派？为什么伊斯兰教的宗教改革如此艰难？夸克说|誇克说",
-      "date": "2026-11-25",
-      "url": "https://www.youtube.com/watch?v=JCEWmeBbLFE"
+      "desc": "陈吉宁落马后，围绕习近平接班人、习家军和清华帮的猜测接连出现。一个被重用的人，为什么也会突然出局？同乡、同学和旧部，究竟算不算可靠的政治盟友？这期从几位高官的遭",
+      "video": "陈吉宁落马：他真是习近平的「自己人」吗？习近平到底想不想要接班人？夸克说|誇克说",
+      "date": "2026-11-27",
+      "url": "https://www.youtube.com/watch?v=XHfhJ5Efw7k"
     },
     {
       "channel": "May Fit",
